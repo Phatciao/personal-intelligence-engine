@@ -6,13 +6,17 @@ on:
     - cron: "15 0 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: collect-free-intelligence-feeds
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
@@ -26,14 +30,33 @@ jobs:
       - name: Collect feeds
         run: python collector.py
 
-      - name: Save latest data
+      - name: Save latest data safely
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/latest.json
-          if git diff --cached --quiet; then
-            echo "No changes to save."
-          else
+
+          for attempt in 1 2 3; do
+            echo "Save attempt $attempt"
+
+            git fetch origin main
+            git reset --mixed origin/main
+            git add data/latest.json
+
+            if git diff --cached --quiet; then
+              echo "No changes to save."
+              exit 0
+            fi
+
             git commit -m "chore: refresh intelligence data"
-            git push
-          fi
+
+            if git push origin HEAD:main; then
+              echo "Data saved successfully."
+              exit 0
+            fi
+
+            echo "Push failed; will retry with latest main."
+          done
+
+          echo "Could not save data after 3 attempts."
+          exit 1
+

@@ -1,198 +1,416 @@
 
+#!/usr/bin/env python3
+# Personal Intelligence Engine
+# Free RSS collector — no paid API, no third-party Python packages.
 
-"""Free-first Personal Intelligence Engine collector. No paid API keys."""
 import json
+import re
 import time
-import urllib.parse
+import hashlib
 import urllib.request
+import urllib.error
 import xml.etree.ElementTree as ET
+
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
+from html import unescape
 
-def gnews(query, hl="en-US", gl="US", ceid="US:en"):
-    return (
-        "https://news.google.com/rss/search?q="
-        + urllib.parse.quote(query)
-        + f"&hl={hl}&gl={gl}&ceid={ceid}"
-    )
 
-FEEDS = [
+ROOT = Path(__file__).resolve().parent
+OUTPUT_FILE = ROOT / "data" / "latest.json"
+
+USER_AGENT = (
+    "Mozilla/5.0 (compatible; PersonalIntelligenceEngine/2.0; "
+    "+https://github.com/Phatciao/personal-intelligence-engine)"
+)
+
+MAX_PER_SOURCE = 20
+MAX_TOTAL_ITEMS = 150
+REQUEST_TIMEOUT = 20
+
+# RSS sources are free to access. Availability and feed contents can change.
+SOURCES = [
     {
-        "name": "arXiv AI Research",
-        "url": "https://export.arxiv.org/api/query?search_query=cat:cs.AI&start=0&max_results=15&sortBy=submittedDate&sortOrder=descending",
-        "category": "AI / Research",
+        "name": "arXiv AI",
+        "category": "ai",
+        "url": "https://export.arxiv.org/rss/cs.AI",
     },
     {
         "name": "OpenAI News",
+        "category": "ai",
         "url": "https://openai.com/news/rss.xml",
-        "category": "AI / Industry",
     },
     {
         "name": "Hugging Face Blog",
+        "category": "ai",
         "url": "https://huggingface.co/blog/feed.xml",
-        "category": "AI / Industry",
     },
     {
-        "name": "BBC Sport Premier League",
-        "url": "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
-        "category": "Football / Premier League",
+        "name": "BBC Sport Football",
+        "category": "football",
+        "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
     },
     {
-        "name": "Arsenal news (Google News RSS)",
-        "url": gnews("Arsenal FC when:7d", "en-GB", "GB", "GB:en"),
-        "category": "Football / Arsenal",
+        "name": "Google News Arsenal",
+        "category": "football",
+        "url": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
     },
     {
-        "name": "Premier League news (Google News RSS)",
-        "url": gnews('"Premier League" football when:7d', "en-GB", "GB", "GB:en"),
-        "category": "Football / Premier League",
+        "name": "Google News Premier League",
+        "category": "football",
+        "url": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
     },
     {
-        "name": "BBC World News",
+        "name": "BBC World",
+        "category": "world",
         "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "category": "World / Politics & Society",
     },
     {
-        "name": "BBC Business News",
+        "name": "BBC Business",
+        "category": "world",
         "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
-        "category": "World / Economy",
     },
     {
-        "name": "World economy (Google News RSS)",
-        "url": gnews("world economy trade inflation central banks when:7d"),
-        "category": "World / Economy",
+        "name": "Google News World Economy",
+        "category": "world",
+        "url": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
     },
     {
-        "name": "AI applications (Google News RSS)",
-        "url": gnews('"AI" business applications productivity when:7d'),
-        "category": "AI / Applications",
+        "name": "Google News AI Applications",
+        "category": "ai",
+        "url": "https://news.google.com/rss/search?q=artificial+intelligence+applications&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Google News Vietnam",
+        "category": "vietnam",
+        "url": "https://news.google.com/rss/search?q=Vietnam+economy+technology&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Google News Water Technology",
+        "category": "water",
+        "url": "https://news.google.com/rss/search?q=water+treatment+filtration+technology&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Google News Energy",
+        "category": "water",
+        "url": "https://news.google.com/rss/search?q=energy+efficiency+heat+pump+technology&hl=en-US&gl=US&ceid=US:en",
     },
 ]
 
-USER_AGENT = "PersonalIntelligenceEngine/1.1"
+ATOM = "{http://www.w3.org/2005/Atom}"
+CONTENT = "{http://purl.org/rss/1.0/modules/content/}"
+DC = "{http://purl.org/dc/elements/1.1/}"
 
-def lname(tag):
-    return tag.rsplit("}", 1)[-1].lower()
 
-def get_text(element, names):
-    for node in element.iter():
-        if lname(node.tag) in names and node.text and node.text.strip():
-            return " ".join(node.text.split())
+def now_iso():
+    return datetime.now(timezone.utc).isoformat()
+
+
+def clean_html(value):
+    """Remove HTML tags and normalize whitespace from feed fields."""
+    if not value:
+        return ""
+
+    value = unescape(str(value))
+    value = re.sub(r"(?is)<(script|style).*?>.*?</\1>", " ", value)
+    value = re.sub(r"(?s)<[^>]+>", " ", value)
+    value = re.sub(r"\s+", " ", value)
+    return value.strip()
+
+
+def child_text(element, names):
+    """Find a child value by local tag name, regardless of XML namespace."""
+    if element is None:
+        return ""
+
+    wanted = set(names)
+
+    for child in element.iter():
+        local_name = child.tag.split("}")[-1]
+
+        if local_name in wanted:
+            if local_name == "link":
+                href = child.attrib.get("href")
+                if href:
+                    return href.strip()
+
+            if child.text and child.text.strip():
+                return child.text.strip()
+
     return ""
 
-def get_link(element):
-    for node in element.iter():
-        if lname(node.tag) == "link":
-            href = (node.attrib.get("href") or "").strip()
-            text = (node.text or "").strip()
-            rel = (node.attrib.get("rel") or "alternate").lower()
-            if href and rel in ("alternate", ""):
-                return href
-            if text:
-                return text
-            if href:
-                return href
-    guid = get_text(element, {"guid", "id"})
-    if guid.startswith(("http://", "https://")):
-        return guid
-    return ""
 
-def collect(feed):
-    request = urllib.request.Request(
-        feed["url"],
-        headers={"User-Agent": USER_AGENT},
-    )
-    with urllib.request.urlopen(request, timeout=25) as response:
-        root = ET.fromstring(response.read())
+def parse_date(value):
+    """Return a UTC ISO timestamp; blank if the source has no usable date."""
+    if not value:
+        return ""
+
+    value = value.strip()
+
+    try:
+        dt = parsedate_to_datetime(value)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc).isoformat()
+    except (TypeError, ValueError, OverflowError):
+        pass
+
+    try:
+        dt = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc).isoformat()
+    except (TypeError, ValueError, OverflowError):
+        return ""
+
+
+def classify_text(title, summary, source, fallback):
+    text = " ".join([title, summary, source]).lower()
+
+    if re.search(
+        r"arsenal|premier league|football|soccer|ngoại hạng anh|"
+        r"bóng đá|champions league",
+        text,
+    ):
+        return "football"
+
+    if re.search(
+        r"waterco|water treatment|water filtration|chlorination|"
+        r"heat pump|pump|pool|filtration|wastewater|water quality|"
+        r"xử lý nước|hồ bơi|máy bơm|nước sạch",
+        text,
+    ):
+        return "water"
+
+    if re.search(
+        r"vietnam|viet nam|việt nam|hanoi|ho chi minh|"
+        r"vnexpress|vietnamnews|vietnamnet",
+        text,
+    ):
+        return "vietnam"
+
+    if re.search(
+        r"artificial intelligence|\bai\b|machine learning|"
+        r"deep learning|llm|openai|hugging face|arxiv|"
+        r"neural network|generative ai|robotics",
+        text,
+    ):
+        return "ai"
+
+    if fallback in {"ai", "football", "water", "vietnam", "world"}:
+        return fallback
+
+    return "world"
+
+
+def parse_feed(xml_bytes, source):
+    """Parse RSS 2.0, RDF/RSS 1.0, or Atom entries."""
+    root = ET.fromstring(xml_bytes)
+
+    entries = []
+
+    # RSS 2.0 and RSS 1.0 use item elements.
+    for element in root.iter():
+        if element.tag.split("}")[-1] == "item":
+            entries.append(element)
+
+    # Atom uses entry elements.
+    if not entries:
+        for element in root.iter():
+            if element.tag.split("}")[-1] == "entry":
+                entries.append(element)
 
     results = []
-    for entry in root.iter():
-        if lname(entry.tag) not in ("item", "entry"):
+
+    for entry in entries[:MAX_PER_SOURCE]:
+        title = clean_html(
+            child_text(entry, ["title"])
+        )
+
+        link = child_text(entry, ["link"])
+
+        # RSS feeds can provide a GUID instead of a link.
+        if not link:
+            guid = child_text(entry, ["guid", "id"])
+            if guid.startswith(("https://", "http://")):
+                link = guid
+
+        summary_raw = child_text(
+            entry,
+            ["description", "summary", "encoded", "content"],
+        )
+
+        # Fall back to the namespaced content field where present.
+        if not summary_raw:
+            content_node = entry.find(CONTENT + "encoded")
+            if content_node is not None:
+                summary_raw = content_node.text or ""
+
+        summary = clean_html(summary_raw)
+
+        published_raw = child_text(
+            entry,
+            ["pubDate", "published", "updated", "date"],
+        )
+
+        if not published_raw:
+            published_raw = child_text(entry, ["date"])
+
+        published_at = parse_date(published_raw)
+
+        if not title or not link:
             continue
 
-        title = get_text(entry, {"title"})
-        url = get_link(entry)
-        if not title or not url or not url.startswith(("http://", "https://")):
+        if not link.startswith(("https://", "http://")):
             continue
+
+        category = classify_text(
+            title,
+            summary,
+            source["name"],
+            source["category"],
+        )
 
         results.append({
-            "title": title,
-            "url": url,
-            "summary": get_text(
-                entry, {"summary", "description", "content", "encoded"}
-            )[:900],
-            "published_at": get_text(
-                entry, {"published", "updated", "pubdate", "date"}
-            ),
-            "source": feed["name"],
-            "category": feed["category"],
+            "title": title[:500],
+            "url": link,
+            "summary": summary[:2500],
+            "published_at": published_at,
+            "source": source["name"],
+            "category": category,
             "label": "SIGNAL",
             "verification": "Chưa xác minh độc lập",
         })
-        if len(results) >= 12:
-            break
 
     return results
 
-def main():
-    items = []
-    errors = []
-    successful = 0
 
-    for feed in FEEDS:
+def item_key(item):
+    """Stable duplicate key, preferring URL."""
+    url = item.get("url", "").strip().lower().rstrip("/")
+    if url:
+        return url
+
+    title = item.get("title", "").strip().lower()
+    return hashlib.sha256(title.encode("utf-8")).hexdigest()
+
+
+def fetch_source(source):
+    request = urllib.request.Request(
+        source["url"],
+        headers={
+            "User-Agent": USER_AGENT,
+            "Accept": "application/rss+xml, application/xml, text/xml, */*",
+        },
+    )
+
+    with urllib.request.urlopen(
+        request,
+        timeout=REQUEST_TIMEOUT,
+    ) as response:
+        xml_bytes = response.read(5_000_000)
+
+    return parse_feed(xml_bytes, source)
+
+
+def main():
+    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+
+    collected = []
+    source_errors = []
+    succeeded = 0
+
+    print("Personal Intelligence Engine — free RSS collector")
+    print("Sources:", len(SOURCES))
+
+    for index, source in enumerate(SOURCES, start=1):
+        print(
+            f"[{index}/{len(SOURCES)}] Fetching: {source['name']}"
+        )
+
         try:
-            batch = collect(feed)
-            items.extend(batch)
-            successful += 1
-            print(f"OK: {feed['name']} - {len(batch)} items")
+            items = fetch_source(source)
+            collected.extend(items)
+            succeeded += 1
+
+            print(f"  OK: {len(items)} items")
+
         except Exception as exc:
-            errors.append({
-                "source": feed["name"],
-                "error": str(exc)[:240],
+            message = f"{type(exc).__name__}: {str(exc)[:250]}"
+
+            source_errors.append({
+                "source": source["name"],
+                "error": message,
             })
-            print(f"WARN: {feed['name']} - {str(exc)[:160]}")
-        time.sleep(0.25)
+
+            print(f"  ERROR: {message}")
+
+        # Avoid hammering feeds unnecessarily.
+        time.sleep(0.3)
 
     unique = {}
-    for item in items:
-        unique.setdefault(item["url"], item)
+    for item in collected:
+        key = item_key(item)
+        if key not in unique:
+            unique[key] = item
 
-    data = list(unique.values())
-    data.sort(
-        key=lambda item: item.get("published_at", ""),
+    items = list(unique.values())
+
+    # Put dated items first, newest first. Undated items follow.
+    items.sort(
+        key=lambda item: (
+            bool(item.get("published_at")),
+            item.get("published_at", ""),
+        ),
         reverse=True,
     )
-    data = data[:100]
 
-    result = {
+    items = items[:MAX_TOTAL_ITEMS]
+
+    status = "ok" if succeeded > 0 else "error"
+
+    payload = {
         "schema_version": 1,
-        "generated_at": datetime.now(timezone.utc).isoformat(),
-        "status": (
-            "ok" if not errors
-            else ("partial" if successful else "error")
-        ),
-        "items_count": len(data),
-        "items": data,
-        "source_errors": errors,
-        "sources_attempted": len(FEEDS),
-        "sources_succeeded": successful,
+        "generated_at": now_iso(),
+        "status": status,
+        "items_count": len(items),
+        "items": items,
+        "source_errors": source_errors,
+        "sources_attempted": len(SOURCES),
+        "sources_succeeded": succeeded,
         "note": (
-            "Headlines are signals, not verified facts or forecasts. "
-            "Some results use Google News RSS. Check original publishers "
-            "before relying on claims."
+            "Free RSS collection. Feed summaries may be incomplete. "
+            "Items have not been independently verified. "
+            "Priority scores and interpretations are generated in the dashboard."
         ),
     }
 
-    output = Path("data/latest.json")
-    output.parent.mkdir(parents=True, exist_ok=True)
-    output.write_text(
-        json.dumps(result, ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8",
-    )
-    print(
-        f"Collected {len(data)} items; "
-        f"sources succeeded: {successful}/{len(FEEDS)}"
-    )
+    temporary_file = OUTPUT_FILE.with_suffix(".json.tmp")
+
+    with temporary_file.open("w", encoding="utf-8") as file:
+        json.dump(
+            payload,
+            file,
+            ensure_ascii=False,
+            indent=2,
+        )
+        file.write("\n")
+
+    temporary_file.replace(OUTPUT_FILE)
+
+    print()
+    print("Finished.")
+    print("Status:", status)
+    print("Sources succeeded:", succeeded, "/", len(SOURCES))
+    print("Unique items:", len(items))
+    print("Output:", OUTPUT_FILE)
+
+    # Do not fail the whole workflow if a few feeds are temporarily down.
+    # Fail only when every source fails.
+    if succeeded == 0:
+        raise SystemExit("All RSS sources failed; check network or feed URLs.")
+
 
 if __name__ == "__main__":
     main()

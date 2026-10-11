@@ -1,55 +1,525 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T05:53:17.641135+00:00",
+  "generated_at": "2026-10-11T05:47:19.366040+00:00",
   "status": "ok",
   "items_count": 150,
   "items": [
     {
       "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5n49xxjxe4zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmlylg0n5pg7o?at_medium=RSS&at_campaign=rss",
       "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "published_at": "2026-10-10T05:28:48+00:00",
+      "published_at": "2026-10-11T05:42:58+00:00",
       "source": "BBC Sport Football",
       "category": "football",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
-      "published_at": "2026-10-10T05:25:12+00:00",
-      "source": "BBC World",
-      "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Time to rise? Ranking European football's sleeping giants",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do?at_medium=RSS&at_campaign=rss",
-      "summary": "From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?",
-      "published_at": "2026-10-10T05:14:17+00:00",
+      "title": "Toxicity and uncertainty await Man City - will their season even matter?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Manchester City visit Liverpool on Sunday with a lot of uncertainty hanging over them. Phil McNulty looks at what lies ahead.",
+      "published_at": "2026-10-11T05:27:03+00:00",
       "source": "BBC Sport Football",
       "category": "football",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "How to watch Arsenal FC vs Leeds: TV channel and live stream for Premier League today - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTWlFcl9aMTNoWVJWRVpvMjNTaFpGT1hXa0dBRXhIU2hjRmV3RW8yVjd6UmRxSXBXTEFSbnBwNmhNSjlyT01OdVl6V3UxZWRGQjRDQnQ4N0FoQXJRUmkwUDdFbFNkRmppclNKVURxUU9QM2F1MXZ3a25uZ183QW13SS1WdnQzY096REV4OWtGU2JTQ1F0ejRoclNjTGtzcnlvWFdJSmdhRzBoNVlNTVljdnBKUzZIeTZFYjNocEl1ZF80V0VheVZJb0NFNG0?oc=5",
-      "summary": "How to watch Arsenal FC vs Leeds: TV channel and live stream for Premier League today London Evening Standard",
-      "published_at": "2026-10-10T05:04:55+00:00",
+      "title": "Toxicity and uncertainty await Man City - will their season even matter? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tZkRuN1RpU0xuUndhbXlPR29zRVhZLUtRZHNuQWtpZTNIMnpDMjhGcmkzYmVENmdBX0dSRzRvWnMtTzJwY1F2aDRGWU5HTHJaTjhkakthQ3FfaGxvcWJEdkMwMWc1bXEwQndF?oc=5",
+      "summary": "Toxicity and uncertainty await Man City - will their season even matter? BBC",
+      "published_at": "2026-10-11T05:27:03+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Arsenal 2-1 Leeds: Riccardo Calafiori and Bruno Guimaraes on target as champions fight back to go level with Man City - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcG5JQW1GRkc0czR3dUVxR3hUYlR4SFhxd0dkRzNUR0xBTW51U1ZIVjlMOTZhLTlsRm9iZXlCVC1xS015VWRsUVFiYl8zaVVPajA4VjhRUTBiRjNQXy1iS2FNX2toZVlCcHN2R3JzbzVzOXlIVmlPMEQxbG9DaG5KYUhZU1pVMVVIUm9RQVpqOEhmZ3AzczVVVDZDak9kUV9RVHMzYVpRQkt1dFJuQVY4d3JBUEhQU0lQNjdfZGFibUd0M2VGX2FkcGdOMmFmZXdOT0FqYmdaVTBBOW9qck9uWTF3MTVaUVBjcGlDc3ktSWlLZ0ZLaFFQaw?oc=5",
+      "summary": "Arsenal 2-1 Leeds: Riccardo Calafiori and Bruno Guimaraes on target as champions fight back to go level with Man City Sky Sports",
+      "published_at": "2026-10-11T04:58:58+00:00",
       "source": "Google News Arsenal",
       "category": "football",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "Man City’s disgrace means this is a sham Premier League season - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVTV4RFR6MGFMMFgxR0tKenhXaE9oYTFfaTk3ODhtNGhVVTc3SE42YURmbFJXYlFsR2o4R01xNnJvUHhRdHlWc0h5cmExTHJJNlMya0lpdjRodEZtOHl2VjJhSWxhclRpRC1seWg0M2tjdnd1M1JnVmxwODUxYXB2N3M1OTA2TkJ0OVZraVV0ZDhZcnp1eGU4MndRSkw2dk9xQXhzM2tyTQ?oc=5",
-      "summary": "Man City’s disgrace means this is a sham Premier League season The Telegraph",
-      "published_at": "2026-10-10T05:00:00+00:00",
+      "title": "Sunderland 0-2 Brighton: Seagulls stay third in Premier League after third straight league win without conceding - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUDZ3akZDUkQ2ZUt1cVlXMS1WX0NobTJPYVV5R3Zzd00tNGhUNVd0V3FWR1ZMaklXQW4yaDYzZ2hra0xheHFuZ1FsdDlDY0o0TjAyY1lrdTRoUzZMRnl2WnR0dW83cmxhV25ET2Jqdl9oSktCaWVybi0wc1hwSG5LZEJSalFnM202TXhMU096SWNQYUh6TTgyWHVuZW9odEhUUzEyWjF0OUdFbDFaM1lFZ3BnTHVHLTJEUXZOd1FFajZzdGZLOXJqenBjSVB0cGNPSEpKSkdKWFVfZw?oc=5",
+      "summary": "Sunderland 0-2 Brighton: Seagulls stay third in Premier League after third straight league win without conceding Sky Sports",
+      "published_at": "2026-10-11T04:26:48+00:00",
       "source": "Google News Premier League",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike.",
+      "published_at": "2026-10-11T03:57:22+00:00",
+      "source": "BBC World",
+      "category": "world",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Arsenal news: Mikel Merino's dad reveals exit terms as January swap deal available - The Mirror",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWllvTXNnQkhJQjJkbDBWdFRGTkhtV3U5TjRWTXNCcFJwT2RPWDdiZUM1VkhfODFmNzBnT0RTbE95djJ1OXNQOU9zNnBtRmY4ajVvcDlVSjJJTmpybHhEaEc0UmV0ZXdmWmdfRHJNemlVdGY3SGduLTN1UXhMMnphRWJUMFlSWkNnLVdCdVRQVUlPQdIBlwFBVV95cUxPeTh6LU82ZUI3a045bGtiUVVmTjJGb1l3bjZVbElQR3M4VzRRa3loZ0RKYTJyZkw1UGU2ZVdBTTM0TFpDemgtc3A0MDhBX2p0ZkRwOTFwNm9wMnVDUzZBSi1BVFV0MUJwRWlkVjN6bmh1UlpTeVJiV0M5MVJ2V0EtcENvZXFhUGdqRG54bm42N0NPSFBnY1Bv?oc=5",
+      "summary": "Arsenal news: Mikel Merino's dad reveals exit terms as January swap deal available The Mirror",
+      "published_at": "2026-10-11T03:00:00+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Premier League talking points: Man City in spotlight with trip to Liverpool - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPZmQxUFJGVVFrQktieDlXT0ZzcXM1OEItS0NxdjZJRkJfaFlFUko4WHJaVG5ndjliYnpwZEgwMTg0Wm1YaVpSRUZFOTZEYnRqSzA2QzVRdXBjQWstNUthaXRBYWUtRUZzVFRhZEFpcXRPajlteFBSaXBKaXhEX1JqNElCaEZxazFReGdrN0lUZXl6bTViQkhyTGdhTVZGNE1ZV016bW1wOGlVYnhQOGJ1Z1I5TVowV1pMNGxfVUFLN3R5NHh4NDRkdEV6cUNLNS11bmIyS0l3RXpsRGxCYl9jd2ItVXEzb3JRbWRtbkxyZ2gwSmlRWGIzWXdHazFkSUo1RkJzZnFUZDRJYnhhTEVhNnNYM1dnWXI1dGhXbWRBbw?oc=5",
+      "summary": "Premier League talking points: Man City in spotlight with trip to Liverpool Sky Sports",
+      "published_at": "2026-10-11T02:10:23+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "published_at": "2026-10-11T01:41:29+00:00",
+      "source": "BBC World",
+      "category": "world",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Highlights | Arsenal 2-1 Leeds United | bitesize - Arsenal.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU1lXOS0tX0I2bHlEUUNINGxERU1ETEhJdHhTeFowYTYzUEFQYTR5a1VPanVHOGp4R0l3dGQ3VVpZRXdfZ0tYZ3NxYl8xOGFLYVVaWlZEX2xmM2diREtR?oc=5",
+      "summary": "Highlights | Arsenal 2-1 Leeds United | bitesize Arsenal.com",
+      "published_at": "2026-10-11T01:13:51+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+      "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
+      "published_at": "2026-10-10T23:31:35+00:00",
+      "source": "BBC World",
+      "category": "world",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+      "published_at": "2026-10-10T23:19:55+00:00",
+      "source": "BBC World",
+      "category": "world",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Highlights and analysis on Match of the Day",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032wxj?at_medium=RSS&at_campaign=rss",
+      "summary": "With Man Utd v Spurs, Arsenal v Leeds and Chelsea v Bournemouth as the top flight returns",
+      "published_at": "2026-10-10T22:50:45+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+      "published_at": "2026-10-10T22:13:08+00:00",
+      "source": "BBC World",
+      "category": "world",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "AC Milan keen on Scott - Sunday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rp2r516po?at_medium=RSS&at_campaign=rss",
+      "summary": "AC Milan are looking at Bournemouth's Alex Scott, Bayern Munich have held fresh talks with Manchester United's JJ Gabriel, Liverpool interested in Barcelona defender Jules Kounde, plus more.",
+      "published_at": "2026-10-10T22:01:20+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Roberto de Zerbi praises Rodrigo Bentancur after he was sent off in a 1-1 draw against Manchester United.",
+      "published_at": "2026-10-10T20:58:39+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Boos, anguish & fading belief -'worrying day' for under-pressure Carrick",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62e9g09e781o?at_medium=RSS&at_campaign=rss",
+      "summary": "It couldn't happen again could it? Another failure to beat 10 men increases pressure on Man Utd boss Michael Carrick after a 1-1 draw against Tottenham Hotspur.",
+      "published_at": "2026-10-10T20:54:46+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "published_at": "2026-10-10T20:51:12+00:00",
+      "source": "BBC World",
+      "category": "world",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Ten-man Brighton continue fine form with battling win at Sunderland - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQemxvd1hJTHpWNVBGalJnNzFacHBzMU5JUWFMRm1tc2JhRTJiZndadDBFbGdhMXZzQ2k4UnFoWXlVRVA1ZmROeUI0YVVEdUJ1NEVLY3NJa3JvN3MwSnJDZU9HSjJlWnpBN3o0TVp2SVlHRXNaOEJlUEpJU1FrNFVXcElVOWd3QWI1SWhwMWxCQVJGQ3RuRWtYYzNzNHI?oc=5",
+      "summary": "Ten-man Brighton continue fine form with battling win at Sunderland The Guardian",
+      "published_at": "2026-10-10T20:32:00+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "'Reminds me of Muller' - Naderi proving worth in Rangers revival",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqzjx3z4ljr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "After a slow start to his Rangers career, striker Ryan Naderi is playing an integral role in the club's title challenge and proving his doubters wrong.",
+      "published_at": "2026-10-10T20:03:56+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Premier League LIVE: Man United held by 10-man Spurs, Chelsea net five against Bournemouth, Arsenal beat Leeds - talkSPORT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ1htT215MUZGSUNHbFdWcWdXcnhnUXlqaFBwV0dNZkQxNUUzRXlkSkQyWW9NUHU2ZTIyNnJhV2pIcjM1ZS16ZEtWWndDd0FETVYxMnU2bnhuZDVYVnloN3dab05MQVhCeV9fOVlMZmpIZjlSbEd4bS1fRGF1YXV6QWRjRkwwM2FLcVdaRG9OSTNFOGY5T0x6TVJaQndrNzJReGQwQg?oc=5",
+      "summary": "Premier League LIVE: Man United held by 10-man Spurs, Chelsea net five against Bournemouth, Arsenal beat Leeds talkSPORT",
+      "published_at": "2026-10-10T19:28:03+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Solanke scores in added time as 10-man Spurs draw with Man Utd",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crz9zdl0g04zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dominic Solanke scores in stoppage time to salvage a point for 10-man Tottenham as they snatch a draw against Manchester United in a feisty encounter at Old Trafford.",
+      "published_at": "2026-10-10T19:24:23+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Savage success and statement win for Boro - Sam Parkin's EFL Takeaways",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw77prgk52zro?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including Robbie Savage's debut as Peterborough manager.",
+      "published_at": "2026-10-10T19:19:42+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Man City charges LIVE: Settlement talks with Premier League before punishments agreed - The Mirror",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWTJ0UUFyYlhWOGV4X0trNG5IenJ3ZGlrRmtpYXZzWGZHV1Npd21oTGI0bUxLY3hUS00wS19iRTBtcy1keHg5dGlBdmQtOFZicFFXbklZOFhyQzZyU3JNMExGWnRjTFNGUFBHbk14MXhSVVdyckNSQTJNZ3hJOUp5REgxX0dFZVJiSWIzd19DWQ?oc=5",
+      "summary": "Man City charges LIVE: Settlement talks with Premier League before punishments agreed The Mirror",
+      "published_at": "2026-10-10T19:12:57+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Arbeloa 'doesn't feel fear' but pressure increases after loss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvgrey535n4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fulham boss Alvaro Arbeloa says he does not 'feel fear' after defeat at Ipswich left his side winless in six games and bottom of the Premier League.",
+      "published_at": "2026-10-10T19:03:00+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Brentford extend unbeaten start as Ajer secures draw at Aston Villa",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjwyz50g569zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Brentford extend their unbeaten start to the new Premier League season as Kristoffer Ajer scores late to earn his side a 2-2 draw at Aston Villa, who's wait for a first home Premier League win of the season goes on.",
+      "published_at": "2026-10-10T19:00:33+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Struijk sees red but Brighton march on with win against Sunderland",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6n8m3k7egd9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Brighton maintained their excellent start to the new Premier League season, as they beat Sunderland 2-0 at the Stadium of Light, despite having to play much of the second half with ten men, after Pascal Struijk was shown a controversial red card.",
+      "published_at": "2026-10-10T19:00:17+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Highlights - Premier League - Sunderland 0-2 Brighton & Hove Albion - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5THhoVlpoWjE0Q3p6dl9zd1lNcFQ4ZzYySEoxb1FXcDJoOU95Q0U5cFkzVUVRcktZLWN2Z2JGN2VHOWcwSWJsbnlwUUZKRjRhbDNzQmgyR0JlR3pvZUZ2WFZQYmFtN3Y4?oc=5",
+      "summary": "Highlights - Premier League - Sunderland 0-2 Brighton & Hove Albion BBC",
+      "published_at": "2026-10-10T19:00:17+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Ipswich produce late fightback to stun winless Fulham",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw7v42y027gqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two goals in three minutes sees Ipswich produce a late fightback to snatch a 2-1 victory against Fulham at Portman Road, with the away side still searching for their first Premier League win of the season.",
+      "published_at": "2026-10-10T19:00:14+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Henderson scores twice as five-star Chelsea thrash Bournemouth",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjy5zxv9qq1po?at_medium=RSS&at_campaign=rss",
+      "summary": "Jordan Henderson has a home debut to remember as he scores twice for Chelsea as his side thrash Bournemouth 5-1 at Stamford Bridge, leaving the away side still searching for their first Premier League win this season.",
+      "published_at": "2026-10-10T19:00:12+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Brilliant Guimaraes goal helps Arsenal fight back to beat Leeds",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6y4z9lnkz30o?at_medium=RSS&at_campaign=rss",
+      "summary": "A brilliant goal from Bruno Guimaraes helps Arsenal come from behind to beat Leeds United 2-1 at the Emirates, as the champions get back to winning ways in the Premier League.",
+      "published_at": "2026-10-10T19:00:08+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdFR3X1lCTmR3OU0wUWt4aUI2aU9xd25ZUWVJT0cyTGU1WkdLa3ZPZUdCdl84NnhuYzhvU3p2Q3ZTcl9yWW01TFVVb0psNHdHUkFmNkJWMkJVV09NZUJ3MFREeEw1Y2tORk9ZU3gtTVFvM24yY3c3MDFGRldrZjM1RGpyblBXR0VpaXpkTlotZlZPLWhyVnpnR0lnLUNDb3Ns?oc=5",
+      "summary": "Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson The Guardian",
+      "published_at": "2026-10-10T19:00:00+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Tottenham grab a draw but who got 1/10 - Ratings for Man Utd v Spurs",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr86z32ezel9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tottenham score an injury-time equaliser against Manchester United after Rodrigo Bentancur was sent off for headbutting Luke Shaw.",
+      "published_at": "2026-10-10T18:46:40+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "U18s report: Arsenal 3-2 Birmingham City - Arsenal.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeE5DQWRLREdqazZqNTViWXhudm81djJPUlZ4a2lENXdzeldzT0lVMHVJbEwyckJxTllyZkI5SWpPTnNSQURMZDlQVXNTZWVoaEdBN1pMc21iMU1TTlpXbHdNdmsyQ3JzT0VZWXhtUEtwWWF5bFMtZXNyOFlEOHE2dzBSTFBWOUF3?oc=5",
+      "summary": "U18s report: Arsenal 3-2 Birmingham City Arsenal.com",
+      "published_at": "2026-10-10T18:24:34+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+      "published_at": "2026-10-10T18:22:29+00:00",
+      "source": "BBC World",
+      "category": "world",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "The rock behind Chelsea's entertainers: Midfield duo key for Blues",
+      "url": "https://www.bbc.co.uk/sport/articles/cw3dj5yx4ej2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The performances of Jordan Henderson and Moises Caicedo underpinned Chelsea's 5-1 victory at home to Bournemouth on Saturday afternoon.",
+      "published_at": "2026-10-10T18:09:37+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+      "published_at": "2026-10-10T17:44:26+00:00",
+      "source": "BBC World",
+      "category": "world",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Ronaldo provisionally suspended by Portuguese FA",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g13909lp7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Cristiano Ronaldo has been provisionally suspended by the Portuguese Football Federation (FPF) after leaving his country's international camp last month.",
+      "published_at": "2026-10-10T17:37:24+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Premier League predictions & Jones Knows' best bets: Liverpool vs Manchester City, Manchester United vs Tottenham and more - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPaVYya3FRZkZ1WFo4NWY0NE1POXlybE9TckxZR3NBZGR2ZGxRNUxPYlA2cFpYeFFKTmhRRUM3OEpiZnZTUVF1N0ZILUQwblZLUlZ0VEdUcmhXZElTNE9xTlYwZjJRNEFPSHZpdHFDQlRhalhZWmJSRENlMlJVelJYV3plUTBwMkhUZzF1UmNYT05VcWx6bWI1X254WUk5ZTcyeUZCMExfVGNtMHBSSjFnSzg2Q256WGltTG1XRU1HVmNtNzJSM2V4d1NvS1lRR2pBNUZDV0J4cXRwT0hqMmhEUEFyZGcyVU8zdXlHX0twX081QnVsVHQxVUNBd080ZEU?oc=5",
+      "summary": "Premier League predictions & Jones Knows' best bets: Liverpool vs Manchester City, Manchester United vs Tottenham and more Sky Sports",
+      "published_at": "2026-10-10T17:23:19+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Timely recognition or long overdue? How Gross is proving all-time bargain",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq1j427zze5xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Named the Premier League's player of the month for September, BBC Sport looks at Brighton star Pascal Gross' impact both this season and over the past nine years during his two spells at the club.",
+      "published_at": "2026-10-10T17:07:02+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Chelsea 5-1 Bournemouth| Premier League highlights - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEhEMVdWR3pYSFRveHlNWjlUdEVVNEVMOVRZMklQV0kweTREeXhHZ2hNNDJ2ejBxSXNnY0gwWGpWOG5reVVaSjNwVE9BXzRORkplU3laWW9MNWFMVktFeGRKTzMzTHNoNGNvMjNDY3FmT3hGVVNKMVlGa2NPVTk5QWVqSnQwXzd5QUM0b0FqYWJEd2xCS3lIaE9DMGV1TndW?oc=5",
+      "summary": "Chelsea 5-1 Bournemouth| Premier League highlights Sky Sports",
+      "published_at": "2026-10-10T16:17:55+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Arsenal 2-1 Leeds | Premier League highlights - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZnRuNWNEYmQxWDQwQlJQV01fdFFmaXZyaGFWcVpqbnJ4MldLc1lnRXVtQ0xwQk14RVdUMXZmQjJqODBxOUozeE5UdnJCWDBQMDZ5V21wUEdIWFNoaWpsa1JVU25taV9IOUhGcjA5OFZiVDl1NGpJSlphOVRkMmZfTjRGdG9Za1dOZTJjRnBoRmNuUktONGZqUg?oc=5",
+      "summary": "Arsenal 2-1 Leeds | Premier League highlights Sky Sports",
+      "published_at": "2026-10-10T16:15:59+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Highlights: Arsenal 2-1 Leeds United - Arsenal.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQWhoODg3TmhCVzBSdkJPWms5dXVkUDZ2TTAzOTMtT0hMUkN1ZVBLcjlmYTBBektlS1ktc0xRVERoTmE2dnRpYk91Q2J6MFJTekgwRFZOYnlxaEI3dENueTY0QnhjbWlpd2Fib2Z2MkJZMHM5UzNUQWVBcmkzSDVRbE9iTQ?oc=5",
+      "summary": "Highlights: Arsenal 2-1 Leeds United Arsenal.com",
+      "published_at": "2026-10-10T15:45:47+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Hincapie injury adds to Arsenal issues after Guimaraes rescue act",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c63r5w20ez3do?at_medium=RSS&at_campaign=rss",
+      "summary": "Heroics and battling performances have already become a theme of Arsenal's season with Bruno Guimaraes coming to the rescue again.",
+      "published_at": "2026-10-10T15:44:14+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Arteta thrilled to end \"special week\" with a win - Arsenal.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU1BNX0R2eXBtNTBsWVBHd0s5bXlrSzc5T1RmdGNtVUVSXzFpRVFtTDd1cHNJbVFNMzVwdGZJTXVtR2hlWEVTaFpBdExJdkJrTFdOSTFJMEhGa0ZRdXhDb3ptVHBWQmNKZGRBT0pJdVFBUUtuUzI0R1pQU1ZiRmM0Q0lDQWNQS19iUVZLMDcyMnBOdw?oc=5",
+      "summary": "Arteta thrilled to end \"special week\" with a win Arsenal.com",
+      "published_at": "2026-10-10T15:31:25+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+      "published_at": "2026-10-10T15:23:47+00:00",
+      "source": "BBC World",
+      "category": "world",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Arsenal vs Leeds LIVE! Premier League match updates, news and score - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRzBDamVwTDBFMVA2TjYwZS1lVDk1eVZhS3gwZ3JkTmFIVEc3bVc1Y1Y0MVNWdVVJUzgzeXhHZGZ5TzlBaURjMnJuRVl4TXB5UFN4eVg4NzZtNGZaNnRzTHF0ZHk3a18zMlZoNUJadVRLcEhid0ZiQ0ZobVpjcGFndzZkTEhtZEd5VEVrNE56eDRuNWotZmVWN000bVFKM01yLVBNWUlQY3V4bW9DbW43Q21UbWVoRDBKVGxr?oc=5",
+      "summary": "Arsenal vs Leeds LIVE! Premier League match updates, news and score Sky Sports Arsenal vs Leeds LIVE: Latest score and updates from Premier League London Evening Standard Arsenal 2-1 Leeds United: Gunners' title defence back on track after comeback win BBC Every word of Arteta's post-Leeds press conference Arsenal.com Arsenal 2-1 Leeds: Premier League result, goals and reaction - as it happened ESPN Arsenal player ratings vs Leeds as Bruno Guimaraes and two 8/10s inspire fightback Football London Alan Shearer praises two Arsenal stars after comeback win against Leeds Metro.co.uk Leeds manager & players agree on 1 thing about Arsenal Daily Cannon Arsenal player ratings vs Leeds as Bruno G seals comeback win after 5/10 star flops Daily Express",
+      "published_at": "2026-10-10T15:15:09+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Bruno on \"feeling the love\" after home debut winner - Arsenal.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3dJbzVYcWZoZmlSbENRN1dFM3RObi00QnNKWEozZnZsRGtmQ1NVMmhpeHoxLTktQnlFcEdXTlRtRHQxWjlneXUzX2ttaXJhZVZPeUxSU1RCc0FhRWxiMDVlRUJvRUZKVmRFRXpfcHIyNTVvYnJoMnh2MnpscEtJV3QtNmZLOUxKc015RFlEQXFtUnphS1E?oc=5",
+      "summary": "Bruno on \"feeling the love\" after home debut winner Arsenal.com",
+      "published_at": "2026-10-10T15:03:16+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Manchester United 1-1 Tottenham: Premier League – as it happened - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTM4aTEwcklOSlo1cHpNWGNJMEZKcEQ3cFZ3NXQybGtsMHRwbUJFaU8yMFoxamY5cUd4QkQ1ODFDY0ctRS0zRHpLWk5GYTVFRWFsWV83UW1MMGt2TF9BcFhsbmxnTU5BcXN6cjJwM0preWk5cVFzU3RmcnJYajJGNVI3RS11bTVaajBQTDctN3oyVURxcVowLW5KMElfRDNTdEYyZWpB?oc=5",
+      "summary": "Manchester United 1-1 Tottenham: Premier League – as it happened The Guardian Highlights - Premier League - Manchester United 1-1 Tottenham Hotspur BBC Man Utd make worst start in 40 years after being hauled back by 10-man Spurs The Telegraph",
+      "published_at": "2026-10-10T15:00:00+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Woman injures three people in third Poland school knife attack in a week",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
+      "published_at": "2026-10-10T14:58:55+00:00",
+      "source": "BBC World",
+      "category": "world",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+      "published_at": "2026-10-10T14:49:32+00:00",
+      "source": "BBC World",
+      "category": "world",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Daniel Farke's mixed emotions and half-time message as Leeds lose narrowly at Arsenal - Leeds United | Official Website - Leeds United",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYkh3TGI5RWxCUWN1eDhPMHdLUTlnYm9LZ0ZXM2NDbExXemVoamhaQjRndW5pNU9tSktnWmhDa1AtdXRHal96Y0Z5OWpjVEg5WHRQZW5CdmZHc2JLa2RFUTN0RVJIemd4OWNZbG9Qc1FROEoxX2pWSS1UQnFqVEpvYWtsMElGQ2RBU3JEUmpwTnRTUzdjR0NQR0tZRExKZ1g1dllaNjl4Q0l2SzM4Yy1SNkNmS1VlWWxuNUJNTg?oc=5",
+      "summary": "Daniel Farke's mixed emotions and half-time message as Leeds lose narrowly at Arsenal Leeds United | Official Website - Leeds United",
+      "published_at": "2026-10-10T14:47:24+00:00",
+      "source": "Google News Arsenal",
       "category": "football",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
@@ -58,8 +528,148 @@
       "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-      "published_at": "2026-10-10T04:38:20+00:00",
+      "published_at": "2026-10-10T14:24:14+00:00",
+      "source": "BBC Business",
+      "category": "world",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "U21s report: Arsenal 2-2 Sunderland - Arsenal.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2I5TTRONXk0OU81UjQ1Q1pIZHZxZzRQdkdPRzBMczFHRVRNMVQ2d2RlS0piM292LTlISXBjck9ZYVVMSThIeXhGRV84SldlZ01ucDR0c0RvR2dzNEtXekI1SEpYSUN4QXZ0YnZaOVEwY0lLclUwd2lMX0ZUNzZnOGJn?oc=5",
+      "summary": "U21s report: Arsenal 2-2 Sunderland Arsenal.com",
+      "published_at": "2026-10-10T14:09:05+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Arsenal 2-1 Leeds: Premier League – as it happened - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRlpTZlJXZVlNM1JPV2JKM0paRjIwb0Q0cjVLM1pyaDlzSndpSGdBMVBFYnlBRVk3cUJWSG5BRXB0aVFoZTQySEt4V3gzVzBLQVc5a0VaMlVFZGljY2hFWXJNenNKdFVReTA3UE5ZU1B6WG9EQ2xsdF9SaTVpM2d0ejVNa05ncVBTbklpMU5Vclc2Rms?oc=5",
+      "summary": "Arsenal 2-1 Leeds: Premier League – as it happened The Guardian",
+      "published_at": "2026-10-10T14:06:47+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "David Moyes delivers Hull City verdict as he makes Tigers' Premier League confession - Hull Live",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV0dBcWMwQkFrTHhySTJJelVzVnpZZUY2TktJTEFBQTh2ZUFiQzNfc003WWhNa3dlLTVhUzFKZTlzcVdlcGh1YXgybjhGcmczZjl5OFZnRDhBUW9wNWlsZHo3SnZJSUt5b2xiVE5mMG9qbXRES29YN3drdENDYkdQamFsekVpckU1QmpUUkprZkZPc3p0VWFJNXE1LWwzVlFIMHc?oc=5",
+      "summary": "David Moyes delivers Hull City verdict as he makes Tigers' Premier League confession Hull Live",
+      "published_at": "2026-10-10T14:00:00+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Guimaraes looks a £75m bargain as ‘super sub’ makes difference - The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNazFNckRoVGZGSHlrMHFmc0dKN2xCXzZVWlhUaVh5Tm1VQ2RoTGNrbWgyTHFla3dDekE3V201UVMzR2pPYkQ5cXhzMkt2WkhUVF9QTnZKeXpkZGFyTG1RX1Nlc19fVHo4OUFYOV9UdDZlWWk5VjBSUk4za2FlTG9tMUsycjZDRzE3TUxMSjA0QzhLeXNXeFpqbVA0V1JuNWVObmlERGM0clpQdw?oc=5",
+      "summary": "Guimaraes looks a £75m bargain as ‘super sub’ makes difference The Telegraph",
+      "published_at": "2026-10-10T13:54:14+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Report: Arsenal 2-1 Leeds United - Arsenal.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RcnJLWGJPTURiX1M2bE5pbmNkTWUyRC0tM25SVXNvQkxqZk9ZZ0RKUkNvOEFxYVJJNl91QmM5T2lQMGp3eDVRSzlQSU5DOGlWbG5lSVRXamo0T3pna0xkV2ZnOGlxUkVCcXF4LUVkSDRsWF9fREswSW9iSlJNQQ?oc=5",
+      "summary": "Report: Arsenal 2-1 Leeds United Arsenal.com",
+      "published_at": "2026-10-10T13:47:00+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
+      "published_at": "2026-10-10T12:29:31+00:00",
       "source": "BBC World",
+      "category": "world",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+      "summary": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
+      "published_at": "2026-10-10T12:28:51+00:00",
+      "source": "BBC World",
+      "category": "world",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "“There were many Premier League players, let alone Football League players, that didn’t have the level of fame I did” Streets-won’t-forget-football Lee Trundle looks back at the height of his “mad” career as he turns 50 - FourFourTwo",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPcHA1ODhzbjFaTDRQZUl1a28tSnhCZm1CX0RjRzZpVlJUdVM5bEJJNVhiOVFuZC1xdjhzNngzU0JnUHV4MFNpTm5YQUpXdEFPeHJndFZweFpWTW9xV3lKUkg2dXVmeFhvQzBFalNZWGU4dm1fblRtWHV1c25aNmNocU9pMGFWZzN2Z01HeEJuSkJ4ejlHcjI2YlFacURpZHF3MmRTNXU0dDVBYVhDT2w2bFBnSXJKYWQzQ1NHRlpQZGV4WUlvbm9ibENBdldzaGtGMXRVOFZOeG1rQkxfbmQ3V2hZMno3N2VOeVFNTmwzbkhlOThtODZNNlNJbWJzUldWclJoMDRaeXY3TGVhbXZST2tweGthTEh2SFBvdkhkc2NxbWNqVXVhY2hQaDZTQl9qTFVJdnlkQy1lV1RnbnBMS01oeVRVOHhzcDhBN0hSM2RmaTNiQ1Bfa2ozNW1xX1VyUWNBUDlsV3JEWmpkWFE?oc=5",
+      "summary": "“There were many Premier League players, let alone Football League players, that didn’t have the level of fame I did” Streets-won’t-forget-football Lee Trundle looks back at the height of his “mad” career as he turns 50 FourFourTwo",
+      "published_at": "2026-10-10T12:00:00+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Premier League Tips: @FootyAccums’ x/1 Saturday Acca - Paddy Power News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXZGS1hsUFlNc01FeUhTMGJNZi1EbmlnYjJ4b2diNHZBbzhFclZOTjhjZXo2VXc2ZmF6ZGlKN0V4ZGhrSHZkeFJwb21oTmJVOENPbGo5Z3pFQmhDa1FjR3g3TUllWGl5OGozS21LUWZKLXdpMkZpcGQwUmNscjMtZGFPMlNKQkMzRWd4N01pa1M2QnFlQ0gxeGUxTnVia2ZTZ054SEw1Q3BhamtVajBNZVV6cUw3dGMzeVRwSg?oc=5",
+      "summary": "Premier League Tips: @FootyAccums’ x/1 Saturday Acca Paddy Power News",
+      "published_at": "2026-10-10T11:19:00+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Follow Saturday's Premier League games live - BBC",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoY0R0bnJVVkZudDNmczdIV0owTkhWZWRmMm9zV3BRSmJUUWhxNXpkbVU0dXVTTFJsNHhYbU4wbVpEdFJsUEp3b2RveDhUMDFad0Q2SHBIbXluMTJHZXQ3SzJOWVlwRkZYdjhR?oc=5",
+      "summary": "Follow Saturday's Premier League games live BBC",
+      "published_at": "2026-10-10T10:26:44+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Arsenal XI vs Leeds: Starting lineup and confirmed team news - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOHpIV01KZE1HcE5IMFRkcjNJeFhodkpXTTBVLWc4NzRuYXpNSmNLUk55eUg0OEw3SGdTdVJVNG1zVExMWHRCS21venJwX0Z5QU1wY0FJMjhuRkxWdVFmdWJZSzI3RW5KS0g1cTI3eUZNV3dVM282djd6UmNEbVpKclVvaTc5RXpkenVHMk8xcmxNajFXREFFeUNiRnJyWDA4Zk5PdGo4aVNGUmVmMzJmLXN4dVZYRnVsdjlYWFJpdXM0VGdMRzJXNjJMRHMxdFpOSElqckFlUU9CM0ZOY2EwN25OelA2WWpJaG40QTFSRTJvTUJS?oc=5",
+      "summary": "Arsenal XI vs Leeds: Starting lineup and confirmed team news London Evening Standard",
+      "published_at": "2026-10-10T10:26:37+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Team news: Trio fit, three more come in for Leeds test - Arsenal.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTEgyYlhzN3NmUnVMMWVtaXkzRG15cHVfLWFQMXg4X2VvZnRhb0pBeXlzeGc2TnNfQkp6SDhxMkN6MFFoSnUtXzZKVVNCNVhaeTJwY1VSa0VLZUJnOUVHQ0N2MlhFTE9ZeUZHbzRRaDdQV1VMa0RoSGN1WXp2T3N6MUlkNktZVjdyRHd6Z0RETFIzZlk0REZhMGR3?oc=5",
+      "summary": "Team news: Trio fit, three more come in for Leeds test Arsenal.com",
+      "published_at": "2026-10-10T10:26:22+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+      "published_at": "2026-10-10T10:06:23+00:00",
+      "source": "BBC World",
+      "category": "ai",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Elon Musk says SpaceX could one day be worth vastly more than Earth's economy. Here's what that would take. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaF9YdkctaHUyMDAzUk9hbzRxclBCZWhRWVUxcWJKNDllaWY3OU9VQ2xkNmZ0ZDNTYzdVLXhDbDJHUlFYZ095MGsyNzhiZk14SUxyRGZRbnhSWlhOY2pXZGEzUmNwUFY4NERnd0ktS1J1b21QTk5HQWVIUWJVX00ydjlHRWhTWWU2cUpsd3FIN0w3ZTgtN0lETkc1bThxcXl1SUMxM0NHYWNuWVE?oc=5",
+      "summary": "Elon Musk says SpaceX could one day be worth vastly more than Earth's economy. Here's what that would take. Business Insider",
+      "published_at": "2026-10-10T09:34:00+00:00",
+      "source": "Google News World Economy",
       "category": "world",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
@@ -75,20 +685,20 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
-      "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
-      "published_at": "2026-10-10T04:07:11+00:00",
-      "source": "BBC World",
-      "category": "world",
+      "title": "Chelsea vs Bournemouth: Premier League preview, team news, stats & head-to-head - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84eWdkUER2SF9EVkJOQ285NlZ6MGVWWkVPRm9PS1l2Wm55a0pzVHhLZkd4MVhYM2FpdDVuRncxWFA4ZGlmUmdrLWl2LWxSVEhVXzFsZ214MGNYLTlabFZFNFpVX05EZw?oc=5",
+      "summary": "Chelsea vs Bournemouth: Premier League preview, team news, stats & head-to-head BBC Henderson and João Pedro lead Chelsea charge against Bournemouth The Guardian Jordan Henderson surprise assassin in Chelsea demolition of Bournemouth The Telegraph",
+      "published_at": "2026-10-10T03:01:26+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "Chelsea vs Bournemouth: Premier League preview, team news, stats & head-to-head - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50YUp2ZTVydzhELVJDNlk3ZnZvaWhTZFVxQzV4NUUxWk9GdWs4Nlkzc1JIWTUtZjNKdWFLVWJXNnltR3hmbmRrRzE4UGpqcC1IZ2FwQmtZOEI5TDJqb1Bvam9kMA?oc=5",
-      "summary": "Chelsea vs Bournemouth: Premier League preview, team news, stats & head-to-head BBC",
-      "published_at": "2026-10-10T03:06:11+00:00",
+      "title": "Ipswich score two late goals to leave Fulham winless - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PMTNzWWhYTTJZM1Z4V2tuV1drTnF3cmZYampQQUloaGk1NFlJaFo4cTRMT2t3d3JpWDZtQUdtb2hJTnNxaU1mYVJjeFM5U093amZPSWtFSjJCZlFFYWRKb1RfRkRFUQ?oc=5",
+      "summary": "Ipswich score two late goals to leave Fulham winless BBC",
+      "published_at": "2026-10-10T03:01:26+00:00",
       "source": "Google News Premier League",
       "category": "football",
       "label": "SIGNAL",
@@ -105,26 +715,6 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
-      "published_at": "2026-10-10T01:58:56+00:00",
-      "source": "BBC World",
-      "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "US immigration officials defend ICE agents who shot man in same car as child",
-      "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
-      "published_at": "2026-10-10T00:13:12+00:00",
-      "source": "BBC World",
-      "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
       "title": "Boots has a new owner: Three ways it could affect you",
       "url": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
       "summary": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
@@ -135,132 +725,32 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "Man City whistleblower to remain in witness protection",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&at_campaign=rss",
-      "summary": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it.",
-      "published_at": "2026-10-09T22:59:32+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Commentator Katie Zacharia picked as new White House press secretary",
-      "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-      "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
-      "published_at": "2026-10-09T22:41:21+00:00",
-      "source": "BBC World",
-      "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Mikel Arteta's conscience clear as Arsenal boss pressed on Man City guilty verdict - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZEJONFRnc0RoSGtUMXAtcmFEbmlYb3lRN2RKeWMxamFFNndUbU56N2pjRFY4RXJlc21RRDNydkRoOVJrMmd5dmhQcU5KWTYtNVJyX1U4cjdyWENYVHQ2TF93a2dUT3M0MVV0TDRrSnB5UHEycmcybnhoNXFWcWZXSEg5NkNhaUhqQk5CSVkxQ3cwYUl5?oc=5",
-      "summary": "Mikel Arteta's conscience clear as Arsenal boss pressed on Man City guilty verdict London Evening Standard",
-      "published_at": "2026-10-09T22:32:24+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
       "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
       "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
       "published_at": "2026-10-09T22:30:22+00:00",
+      "source": "BBC Business",
+      "category": "world",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+      "summary": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
+      "published_at": "2026-10-09T21:55:51+00:00",
       "source": "BBC World",
       "category": "world",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
       "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
       "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
       "published_at": "2026-10-09T21:50:47+00:00",
       "source": "BBC World",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Arsenal press conference LIVE: Mikel Arteta on injuries, new contract, Man City charges and Leeds - Football London",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYmMybHAwVENYNGxJWW9jRG5hM1F6Ny1oSnAtcVZXLThOLTZERzZ0dHN5V0JHcHZYSWNibEFaRGx2ZjlOVlVoLWg0d2RBVWd5SFVHb2xDal9LZGprYS1xaDRoSkNjNXlLVlNYaXRwbVZwcWpaWmFxRDBKSV9UTm1hYmZwLUk1c0dobFBrOHJROWtYZw?oc=5",
-      "summary": "Arsenal press conference LIVE: Mikel Arteta on injuries, new contract, Man City charges and Leeds Football London",
-      "published_at": "2026-10-09T21:44:54+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Arteta's conscience clear over Man City charges",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6d93ql8jvdko?at_medium=RSS&at_campaign=rss",
-      "summary": "Mikel Arteta says his conscience is clear over Manchester City's rule breaches during a period when he was assistant manager at the club.",
-      "published_at": "2026-10-09T21:30:52+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Arsenal boss Mikel Arteta gives blunt answer as he's asked about Man City rule breaking for first time - The Sun",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRFoxS2RMQ1Yxc2ZsM2ZXempianpJWXh3MG9aZlR2cGNvVUppN1BKM2pQSFVrbnBnemRnWlJoQm1IN2k5dDZ3Qkt0VlFXeEFkeXpwUmZXc1RhLXlkYjFjSUdybzFDajIyTlctUlA1Z0dwdzQ2aGt1Nk5JMGE4RWRFbTRGcXUyQl9BV3QwYw?oc=5",
-      "summary": "Arsenal boss Mikel Arteta gives blunt answer as he's asked about Man City rule breaking for first time The Sun",
-      "published_at": "2026-10-09T21:30:00+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
-      "published_at": "2026-10-09T21:26:30+00:00",
-      "source": "BBC World",
-      "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "NI World Cup hopes gone from 'improbable to impossible'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6gqw03lxxnno?at_medium=RSS&at_campaign=rss",
-      "summary": "Michael McArdle admits Northern Ireland's chances of beating Portugal in a Women's World Cup play-off have \"gone from improbable to impossible\" after a 4-0 first leg defeat.",
-      "published_at": "2026-10-09T21:24:28+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Arsenal eye deal for teenager Mora - Saturday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxr5y36yml21o?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal eye deal for Mexico teenager Gilberto Mora, AC Milan in pole position for Endrick, Nottingham Forest braced for Murillo interest",
-      "published_at": "2026-10-09T21:19:35+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Manchester United vs Tottenham: Premier League – teams, prediction, lineups - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY1lOaXBtSGlfZDhsVG1OZktGMEtOY0xFZ1IxZWFCTHl0aU9BNWNGZHNzQkdpaXdPdEdGMFdidUNvWDdpeHV4TTFzTlhxclZBWkZGak5NQWNabmVTdV9meWhvZXdCWmFZNTRMQ0tKbkpTVnloX2N0N0taZUo4NGJDaDhDT2dRdjl6d1BVRlpLX180OFhrUGdkN2JXdnMzWWtUb245WHl5QXhTZWs4Q2M1alpTZ9IBuAFBVV95cUxQdjNTNHBxLVdkTEZ5aGZOTUlXN2taX2RKbmdJUzVnT01aLUc0RTVwb1doenlpMjhTNkpyS1NfdjR3cHRnTWpDc0RNLUNITU5OT3JqRC1Rak56Tmp3RVV2Q3VFOWdCZUNLRnl2TzlaeUNBMGVxQ0xkSUIzVm9qOWJtMzNSUVZLeWVfTUJoWU9DM2RjRlExSmpONkxZVVBiczVwZkZpdDhGdFNCNHZHRFowR3pBZXFTZ2RZ?oc=5",
-      "summary": "Manchester United vs Tottenham: Premier League – teams, prediction, lineups Al Jazeera",
-      "published_at": "2026-10-09T21:15:47+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Greek takeaways: What did we learn from Lionesses' win?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo?at_medium=RSS&at_campaign=rss",
-      "summary": "England come away from Greece with a valuable first-leg lead in their Women's World Cup qualifying play-off - but who impressed in the 3-1 victory?",
-      "published_at": "2026-10-09T21:15:24+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
     },
@@ -271,36 +761,6 @@
       "published_at": "2026-10-09T19:32:50+00:00",
       "source": "BBC Business",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-      "published_at": "2026-10-09T18:40:10+00:00",
-      "source": "BBC World",
-      "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Havertz injury latest as Arteta reveals new eight-man Arsenal update - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRWtYcTRfNUVlb01QSEVTZGVpNU1MdkM1OFNxYV9TNV9BYTNrb25sXzBFZDBaN1FMNnM1dERoWnRDRWJDRkM4alVXZW5CbHBEeUlacUlPckFBZmpHWUxjaUY0S2hLWG9UdmVKamFmS29PQTZuN05ialNyQk5nSzRGRGN2cVBiVVZYc0hBdkFBRjZoTDJqd1Q5YWV4QQ?oc=5",
-      "summary": "Havertz injury latest as Arteta reveals new eight-man Arsenal update London Evening Standard",
-      "published_at": "2026-10-09T18:32:53+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Chelsea XI vs Bournemouth: Confirmed team news, predicted lineup and injury latest for Premier League - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNT2FsWm5tU1NzMDVLMmY2Zmt0anNiTUlJNkNTemZ6aU1Jcm5abFprU3g2Umg5LXNzN05xMkR5a0s3MTZqNmZzOUtDaWNHeUpfdXMxRVJBdGJ0U1p5aVdYVC1aQ0pIRVVQY2hicmVobVI4OW1DYlUyMFlfOWpZTnNZRmd6ek5Nal9Ld2diaXVrcjNDaGVmSmNrY2ZRTTNsZEpNRnk1ZmR6cjVuaGIzZnRJb1FxMkE0NjdEMHZpZTVaQjhJenR6blJEcWlWUVptVEZxV1RUaEx6QkpVVFVXMGJxMmU3OFg?oc=5",
-      "summary": "Chelsea XI vs Bournemouth: Confirmed team news, predicted lineup and injury latest for Premier League London Evening Standard",
-      "published_at": "2026-10-09T18:02:37+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
     },
@@ -335,81 +795,11 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "Arsenal XI vs Leeds: Confirmed team news and predicted lineup - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTmlJLUR3UXZuRTczUEdmSDNPcDkxVmVzNzJ6M3dzVDdWTGNCZi1OTjRMNW5wdFU1bElvaXRfY3Q4YzF4UDNvOC1rQVFxNkhMWURUXy16Ul9FRHQydHNOTmJkNGVaMkgtN0VMRzBDZjBHTllWZWt4VWVKbVRoeTFGSzVUb09vLXJSbnNsdmNaWTFoSmJROERCLTRXTFVRaWNYUy1xZnJmVGNGTEI3b3JEUHpwUWhmSERESHFLc0xObXhkVWtSQlJ5Sl95eGZIZzdEbzUzSDJTblBVZjh1T2ljdlA0VQ?oc=5",
-      "summary": "Arsenal XI vs Leeds: Confirmed team news and predicted lineup London Evening Standard",
-      "published_at": "2026-10-09T16:28:46+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Will anyone stop re-election of Infantino as Fifa president?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v7zdrp5po?at_medium=RSS&at_campaign=rss",
-      "summary": "Little more than two months since news broke of Infantino's Fifa Forward Enterprise proposal, the chances appear slim that Gianni Infantino might be removed as president.",
-      "published_at": "2026-10-09T16:28:23+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Premier League team news: predicted lineups for the weekend action - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzFoS3RXX3BZRk5jWHoxbV9KZVk3Z3JOQ1V2OXhMRDBPSmswUWhOQnJKT0I5RURtRnFWcmp0NnprTUdJS1B5ZUxhOGcteUE0dmYtcGZHZTNmek80c25kZU96VDdzYjRmaXJIQzJVWHpkT0xodGtwc1NHT19EcXlMb2tJaXhNejQ2ZWVDZTgzZ2l2cERFV1czZWkwdnpEcTZUS3RIc0VOZnZrNDNjR3RRblVqWXQ?oc=5",
-      "summary": "Premier League team news: predicted lineups for the weekend action The Guardian",
-      "published_at": "2026-10-09T16:28:00+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
       "title": "Burnham promises to curb non-compete rules in job contracts",
       "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
       "summary": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
       "published_at": "2026-10-09T16:15:30+00:00",
       "source": "BBC Business",
-      "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Decision to stay at Celtic did not take long - O'Neill",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm89z77egpw5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Martin O'Neill suggests he was never close to leaving Celtic after a three-game losing streak, with the veteran manager stressing his \"great enthusiasm\" for the role.",
-      "published_at": "2026-10-09T16:04:03+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Everton up for sale again - so what next as owners TFG look for a way out?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e8n9q4e0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Everton are up for sale again. Chief football writer Phil McNulty looks at what happens next as owners The Friedkin Group look for a way out.",
-      "published_at": "2026-10-09T15:38:59+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Everton up for sale again - so what next as owners TFG look for a way out? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TcGVwc2M4aS1BTUcyVjdwei1EOFZkcU1GZzB6Sm0yVWFna1FVZU1kZy1TaG82eEJ4ZXpTd0pTTUd1QWNaZWU3cFJxOEVfbDVtZUl5RDJ2MlZTR1UtdFFCY2NESUI4LVlx?oc=5",
-      "summary": "Everton up for sale again - so what next as owners TFG look for a way out? BBC",
-      "published_at": "2026-10-09T15:38:59+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
-      "published_at": "2026-10-09T15:24:43+00:00",
-      "source": "BBC World",
       "category": "world",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
@@ -425,56 +815,6 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "Arsenal lineups for Leeds as Viktor Gyokeres agreement reached and Bruno Guimaraes axed - Football London",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYk8wOXVlaGRZYUZZckZBX1MySTJ5TlYwdVBTcW5xRHNWbXkxTnZ3NWkxUWU5UUZiVE56RmUweTZSTURJQXp5MnJReld4cmwxSUQzOXg0Tl9RMXpMTjB3VHg4ZkV4M2k0OWJIZ1l5X3BDQlJ5bHhzLWxjd2JjRzlpY3hvZE9YY1NvdFlSNDQxWW8zRkUw0gGaAUFVX3lxTFBuaEJJTGlIc01na1RnY0JMR3RlaThORk5vQW93R3RKV3QwWXJMVTdYS0lRTUxMTkl0WU9xZlNhS0NvdHdEek5VNWp6YnBOb1F0QW1mbGZQM0FMSkJ0UDNSdEIySVZFMU1neWNjelJ4VGVma1hDWlRlMXZ2TklqeWhBZGRBRTRTT1BvVnFjYjJOWGx1M3NrVEJCd0E?oc=5",
-      "summary": "Arsenal lineups for Leeds as Viktor Gyokeres agreement reached and Bruno Guimaraes axed Football London",
-      "published_at": "2026-10-09T15:07:30+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Arsenal vs Leeds United: Team news, key stats and everything you need to know - Leeds United | Official Website - Leeds United",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblp5UG1Wa3RGaUpHY1F4NEZZODNSZWpNVlFPMGRKWGV3NjM5QldtMWhZenYzNGx2blh3Xzl6WnF6UEw4Zl9DVDBKeE1MM05pZGFmMkFObGFXWmNzZjZrLWhlZ1FwcWdPRlo0X21UYUh3LURMSV84enk1cXh5MUNYTHhPOHVWM3h1Smk3d0daNy1SUnFMbnNLb0RielJ4NXd5aENmUm96TF9WWEhQdTFieA?oc=5",
-      "summary": "Arsenal vs Leeds United: Team news, key stats and everything you need to know Leeds United | Official Website - Leeds United",
-      "published_at": "2026-10-09T14:59:26+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Premier League: 10 things to look out for this weekend - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHU4bXlndThBaGdpOE1aR200QWptOGlxMEo0Z0dhN2gwQ3JEZjNjMmpaRVV5NzR5anVIYm9kNUsyby1QSy0teUxmd19Vb0tpVExBNG1IREV6bWNFUlZ3bFF3U1lOWHIxR2UyeXhfSzJEQ1ZzWDdyb0hXbE9nRzJGUHgxQWYwUGxMam1sVHZFZ3FaNE95c01HM0JCSm5UQmI2MlYwdQ?oc=5",
-      "summary": "Premier League: 10 things to look out for this weekend The Guardian",
-      "published_at": "2026-10-09T14:55:00+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Arsenal vs Leeds predictions: 13-1 Bet Builder tip, team news and odds - Racing Post",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR3hIeFIwb1k1Nk9BQ3p0RUVManNMbk93RkRSN2ZLNFVoZnVxal85MkxSSGN6UHdyWVRza3J3UkVDMjVWZkREdWdia0lDZHNINDVVUVBYSlZFekhkQXJYaEFTOEVBN2VpcWxibkU0U1dsbzFDYjFyS1hiR3BEODNoWVgwMFppQ3p3UDVWbFNjOU9UaUwxWkt0MVdZS1p3bFZDUndNYkdSY0NsX1hPVEZPUTZWSWdzNDlfRnpYWHNtclRFR19jNGJGb2QzQjE1dXNNdmo1STBxVkg4NDVT?oc=5",
-      "summary": "Arsenal vs Leeds predictions: 13-1 Bet Builder tip, team news and odds Racing Post",
-      "published_at": "2026-10-09T14:50:27+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Transfer news LIVE: Arsenal get Alvarez boost; Liverpool target Mbappe - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZTBWM2xEcGJsQ1QzU196ejdMNl93Q3E3Vm16OUNjOWhaUU5sVFVxWnRUejZQN2dZVFBZQ0RMbm0xYWVUR0FWVEE1UWdNQWtVNy1abWlIUFZrY0FFcXZDWHJEeWxLSXhOMHFEUjBpQVVuT3ByaS13R1N5OXZBVWhZS3phTHhQa1hGMS05OE02Ymp5c3JqYng5V3BRMDBPZjZ1ZHllOEVtakcxMlJYZ1VnQWVQSHU1TTR4eC12SVRuTnp6ZUox?oc=5",
-      "summary": "Transfer news LIVE: Arsenal get Alvarez boost; Liverpool target Mbappe London Evening Standard",
-      "published_at": "2026-10-09T14:48:56+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
       "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
       "url": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
       "summary": "The Court of Appeal quashes the conviction of Christian Bittar, a former Deutsche Bank trader jailed in 2018.",
@@ -485,49 +825,9 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "Arteta on his absolute passion and love for the game - Arsenal.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSlJuejFTTjVBNFAydFBjNFljLWI1NkMyTUNvb3Q0Q0MwUzB3N3FmbGdGX0F2M010a0RCLWJFTFEwcDN6Wllhc1I1TEpKZmJKNExtOC1TQVB3RVBkbkNTeTNDYkJSNWhGMGhtejctVHpYMXN0Y0ZnUUc2dlJjbFkxMDVLRUNDVVcyUkROdmFlYUZiRjZrMnZ1WFJR?oc=5",
-      "summary": "Arteta on his absolute passion and love for the game Arsenal.com",
-      "published_at": "2026-10-09T14:36:32+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "I've got my own questions on Man City case - Carrick",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter.",
-      "published_at": "2026-10-09T14:30:38+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Man City titles 'absolutely not' tainted - Maresca",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmzxjdvv784xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Manchester City manager Enzo Maresca says the club's titles are \"absolutely not\" tainted after they were found guilty of the majority of the 115 charges brought against them by the Premier League.",
-      "published_at": "2026-10-09T14:08:55+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "What reception awaits Man City at Anfield?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o?at_medium=RSS&at_campaign=rss",
-      "summary": "Bus welcomes, banners and flags expected as Man City head to Liverpool on Sunday for their first game since they were found guilty of breaching Premier League rules.",
-      "published_at": "2026-10-09T14:02:46+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
       "title": "Injury latest on Havertz, Tzolis, Rice, Konsa and White - Arsenal.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdDZ5NDVfNmdmMXc5ZGU5OVVLQ2laTVFMNDF4dDBMVHF6NmdwYnJEZXRmMEhFTzR4cnJuSmNtMnJIcmdvYjdiVXppSGtWaU9jZjMwNFprZUZaN09XeDlFYmlaNW9lVlpzdE1QbU05WURtV0hIRjE1eVZDT21hQWVmNnZQWGdZbkJMRld6TEVRb1RaaW45SjdCZVpR?oc=5",
-      "summary": "Injury latest on Havertz, Tzolis, Rice, Konsa and White Arsenal.com Arsenal XI vs Leeds: Confirmed team news and predicted lineup London Evening Standard Back to club football! How to watch Arsenal vs Leeds United Leeds United | Official Website - Leeds United",
+      "summary": "Injury latest on Havertz, Tzolis, Rice, Konsa and White Arsenal.com",
       "published_at": "2026-10-09T14:01:49+00:00",
       "source": "Google News Arsenal",
       "category": "football",
@@ -535,41 +835,11 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
-      "published_at": "2026-10-09T13:50:25+00:00",
-      "source": "BBC World",
-      "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Arsenal injury update: Konsa, Tzolis and Havertz latest return dates - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRzBRaFJ6YU5HYXVBMmo1YUtNSXhrQkYyUUZUQ0tIWU9paF9KaTFRR2xqaERiekRnSnhxa0t6S3h4bXIteTZ4TTlQSlNKNTdjVEFmZnFVdnVtbnU3LW5jeG1QUFY3b2ZjWlRFRllFY0d3cEIxS2ZuQ2RjMklvRVZYZldybldfVXZkSEtoQmttanNrdHFaTXVwdWFucjNmOEVJNjY5Wms2R01odmxXNThzYWlVWmItS3JScXNEYzNUaHdqVGtt?oc=5",
-      "summary": "Arsenal injury update: Konsa, Tzolis and Havertz latest return dates London Evening Standard",
-      "published_at": "2026-10-09T13:02:21+00:00",
+      "title": "Back to club football! How to watch Arsenal vs Leeds United - Leeds United | Official Website - Leeds United",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT05maTh6VHE0NUIxdmxGTnllZUFIbEZPaURhdmdKbWt5M1phRkhiclZ3YWFkbXVoRjV3UEJ3Wl9TUk9UcE1KaWdWWEVZaWdYUWJBT2RzaWFYRXlFblNsTUhrM3ItbmJuWDBKVmdVeFpobURDZTN2SW1fY3p2WDRzbVl2MjNaeWlXV2ZoR2ZFMnJ5UkRRdHRmbzh3?oc=5",
+      "summary": "Back to club football! How to watch Arsenal vs Leeds United Leeds United | Official Website - Leeds United",
+      "published_at": "2026-10-09T13:14:07+00:00",
       "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Liverpool confirm double injury blow ahead of Man City Premier League clash - Metro.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONm1lNy0wMzU4NzV2OEIwc0VXU0s3dm9uRHFnaXgxV0EyakRHTWNwNldjRElxMWZBVFlrTjk4dWJPaUF2VUt0UFJ5M3N5ZUNrVmVFM3VKZk5TQXJKNS1LeVpZTGM1Zk9nNUhlTGc5bVo5dGVVUjczekpRc1h4UDNxSUxMUXpWLWRjRnVPM2ZCWmhyVU1QdER6N2ZIS2RFbFNKOGxvVmhTR0R0S3hRSHdySHNTUdIBuAFBVV95cUxPcThmb3Bwd1o0T05aRlUzZ3VqV0NGeXMxc1NOWV9lQTBtVzA0aUZIYnRMQzNwSVpSUGRTRURNTVdQeDZITUpyaUpBZXlubzJ1Tk1ZWGtfQTB0NC1PU2k4Uy1KWVlvMHlpU1ZTeEluZG5SM3oxdmxFODI5czExeTlDb25EQWVlMUN5Z0ZTV2VibHlRcEtlX0VXVWhwVmY5SWJ1bkpKa0RNT29icUtZZGlibFBhay1BUFRF?oc=5",
-      "summary": "Liverpool confirm double injury blow ahead of Man City Premier League clash Metro.co.uk",
-      "published_at": "2026-10-09T13:01:00+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Everton lead English football's 'misery league' with 31 trophyless years as Friedkin Group put Toffees up for sale again - The Sun",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ1M4My1SVUdVSExZRUxPckpDNmVJU09QMkgyNHRuMUphZXVHU3YwLXZTTW94b0UwVmQ5Z3pVN1lDMnREQzVXVVRwLUZiZkpZLV9BdjBPQ1lRODN6ZUZBZWh4ckxNVG9tQkFMUGNkUDRfYm5naVNLNDhXSThQOWVONG1za3hRMDlodFVRLTVuY3lpU0JBRUE?oc=5",
-      "summary": "Everton lead English football's 'misery league' with 31 trophyless years as Friedkin Group put Toffees up for sale again The Sun",
-      "published_at": "2026-10-09T12:53:00+00:00",
-      "source": "Google News Premier League",
       "category": "football",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
@@ -585,72 +855,12 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "France promises 3,000 extra teachers in first step to calm student protests",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
-      "summary": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.",
-      "published_at": "2026-10-09T11:35:00+00:00",
-      "source": "BBC World",
-      "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Crazy Rich Asians to return as TV show with original film's stars",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
-      "summary": "It will pick up after the hit 2018 film, starring Constance Wu, Henry Golding, Michelle Yeoh and Ronny Chieng.",
-      "published_at": "2026-10-09T10:54:21+00:00",
-      "source": "BBC World",
-      "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Arne Slot lands new job! Former Liverpool boss returns to football four months after Anfield exit as role confirmed - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdWhReEtzb1FvM3I3TWIyU3J4RmtTZHFjbFVDT2NHTllabmhNb1N3TDlwc0NBWW1uaVNsWU5mUHh6T2ZSS0NzbWR0M19KUHY3NXRNNU9yYURPcFd0WTk5Q2lILXNTWGgtUzdxcllURUtxbHNjaXRyRzZRSU5UVzRDTzFYOUx1bjRIdHlDYWF4MnkyTk11RDFMWXhId01sRzJpS19R?oc=5",
-      "summary": "Arne Slot lands new job! Former Liverpool boss returns to football four months after Anfield exit as role confirmed Goal.com",
-      "published_at": "2026-10-09T10:27:39+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
       "title": "World growth to slow to 2.6% in 2026 as Middle East crisis hits global economy - India Today",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPekM2NUp3S1pGZWFxc1paMTlhV2tZS3E2dE00SnJ3aXdLLXdhaHVjYmtiTG1nckkwbmxWem05SExPQ0JURWpjc0F6d29BS09SWWZ0RWVXTUt6Y3JuNGdhWVR2d0hBb1pDUTU5SkZwbUZybmhTQ3h1TW9jRVBhQV9jNWhscHFJbmdwckR6U216VVdJa1k3WFBQY0JLeEhfNTkyVmFDUUxLcUhyMnhJd0dLMGlteVB3VmQ4cWZkcDFfONIBxAFBVV95cUxNUU81dTBSc3FvejRia3BWeGRaaDY1WVJNZUlyVmQ5OWpBZC0tcUJCVFc0dkxNUDhINEVzTWJtTGlsb05nRmJyTDI5RE04NHNPVkU4LWtxUFVUVkNTMDVtQm1jdzhEYmZUeE5zNzByYzRXUVE3UXAzVVc1dUdLN3dGSG5fWTVuZVRPNFJsUG9WeXQxdG5DRkxOZk9BM05sU1VUazRqbkRNSmJPQ19iNWp4dHpXcjJpN0g2Z3prb3cxM3dLeFVC?oc=5",
       "summary": "World growth to slow to 2.6% in 2026 as Middle East crisis hits global economy India Today",
       "published_at": "2026-10-09T10:24:57+00:00",
       "source": "Google News World Economy",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Manchester City charges: Enzo Maresca says 'titles absolutely not tainted' - BBC",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92dGpyb2thek1VckNMX1hUSmZLdUNHTUpPbkZfbk5ESWRCMUNKUDN3SUFmMmw4amJ2TGZJV3JwbzJvZXY0WlBGdDFoTGh6TkxCcV9yam9oVGVES2VvazdkWmFrUjZTRldUdmVV?oc=5",
-      "summary": "Manchester City charges: Enzo Maresca says 'titles absolutely not tainted' BBC Premier League news conferences: Mikel Arteta, Andoni Iraola, Michael Carrick and Xabi Alonso BBC The Premier League is back: welcome to the new era of post-verdict unreality | Barney Ronay The Guardian",
-      "published_at": "2026-10-09T10:24:13+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Go Inside Training ahead of Premier League return - Arsenal.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVzNvQi1iNG9CeHNRdmw3ZFY3OG1WSndnM3AzNk9JbU5TUHQ3TnJsS1h1MFpKVzdMY19aNnlOajVZdmpMMEdiYlQxRWRHZ3VCVXUzUWxPOUtldDdCSFA4anlncC04dmxDa3h0Um43cUQ1eXp1ekw4T3ltcU1FZTNtYUpFN01BS1VfcTBVanJ1TVhiTkVZVVE?oc=5",
-      "summary": "Go Inside Training ahead of Premier League return Arsenal.com",
-      "published_at": "2026-10-09T10:07:21+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "What could Rangers' 2012 case tell us about Man City's uncertain future?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx240n2p57y5o?at_medium=RSS&at_campaign=rss",
-      "summary": "From sanctions and stripped titles to starting from scratch, BBC Scotland explains how potential consequences for Manchester City compare with the financial collapse of Rangers in 2012.",
-      "published_at": "2026-10-09T10:04:35+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
     },
@@ -675,122 +885,12 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "Arsenal's Max Dowman presented with three World Records! - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb1VTOXNxWlpwMEhLZUR6T2tJdTJuOFpPOU1rUVlzMEQtLWFyekZlNWVSbTN2VHQwZnZ5aUFWamJVZUFuVElWYkVRQWttbTBCV3ZaRm9yQXNQWGJKRnFtRVcxX0w2cG96WDRjNEp1Wk1RdF9zeTBnU0tidGt3YkNRNlI5VlRhd2dBT3FmZFVrak1QS3lPenJ2WWMyWHhQWXIxcnozMy1FWQ?oc=5",
-      "summary": "Arsenal's Max Dowman presented with three World Records! Sky Sports",
-      "published_at": "2026-10-09T09:20:49+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
-      "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
-      "summary": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
-      "published_at": "2026-10-09T09:09:03+00:00",
-      "source": "BBC World",
-      "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "World economic growth to slow to 2.6% in 2026, UN trade body says - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbmszdmlXR21SempqTS1yalpxY25vbHp0MWZZNUg4bk1qZzJrTkZaRThRRXplT1YxbGVNd0JyRF9fSk1DN2hPVkh2eWlncTM4WUNtTmxhUG5kMzhDZWlsWS1vUWN1c1FyRncxbmRiVjdJM3RKNjNjVjg5YzhtOXZqb2NOQzgzWVhiTXdzd2p2Yw?oc=5",
-      "summary": "World economic growth to slow to 2.6% in 2026, UN trade body says Yahoo Finance",
-      "published_at": "2026-10-09T09:02:01+00:00",
-      "source": "Google News World Economy",
-      "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "10 soaring Arsenal players already giving Mikel Arteta the right kind of problem - Pain in the Arsenal",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVmF0SDljQ1NiQ3BQVGdJZ2NiaEdHRVdMbFV0RVlSVmZRTnlYUlNZLVZqNjJ2ZkVKbmJUbnJ2S3dkcG5YdHVBU0pVZnJkcEpjaWsyemVROWpUbFRDUnh5QzJxaW5nWXdNNXVRanhzakpGWndhbWVUa3lFMHlyVHlCNGxOUE5VUnZXcUk3SERuRVRhXzV4c1RoNEZyTHVxTzZ2YldKcQ?oc=5",
-      "summary": "10 soaring Arsenal players already giving Mikel Arteta the right kind of problem Pain in the Arsenal",
-      "published_at": "2026-10-09T08:36:10+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
       "title": "Everton owners consider selling club two years after takeover",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&at_campaign=rss",
       "summary": "Everton owners the Friedkin Group are exploring the sale of the club less than two years after taking control.",
       "published_at": "2026-10-09T08:23:50+00:00",
       "source": "BBC Business",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Fantasy Premier League: Best gameweek 6 wildcard - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zd3drMDk3X3FKYkUyY2lRMUlGeVJCbkU1cEJBb0lmNDZzdzlCMkUtV2ExYzBfbjU4VHozVEJGRGxGSVJWaFFBcE52eXJPQ05CM0ZOVXZpMTZZYk03aVFRWU9kN2tZSHdS?oc=5",
-      "summary": "Fantasy Premier League: Best gameweek 6 wildcard BBC",
-      "published_at": "2026-10-09T08:17:13+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Atlas Copco Showcases Energy Recovery Solutions at Boiler India 2026 - Construction World",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOenJCTS1yV3ZUR0p2UkZ1UXJOSThCU0xxb0ZQc1VkRmZYNjRac180a3pNcVpGUDM1QVJITm51LUQ2YzVDNjQxZ1VfUFAtWFZ0NWx0WmFhTEJETlFRbkZNZG8xR1NEMGJFOHJwS3hwR1l1a2JKTHVUQno2X1lUa2dMWlFIMU55Ykk1N1dCcTNzTGN0MFpfWnhPTlBrUGJnOG54bVF5SWdobEJXTTM4UDZ3ekRjSFM1Z2Fid1pydnNLLVo1YXd3bmZONzctMWtqSGxEY0E?oc=5",
-      "summary": "Atlas Copco Showcases Energy Recovery Solutions at Boiler India 2026 Construction World",
-      "published_at": "2026-10-09T08:10:36+00:00",
-      "source": "Google News Energy",
-      "category": "water",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Is £70m Baleba ready for his Man Utd exam?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck054p2lyeplo?at_medium=RSS&at_campaign=rss",
-      "summary": "Manchester United's £70m summer signing Carlos Baleba is expected to make his debut against Tottenham Hotspur at Old Trafford",
-      "published_at": "2026-10-09T07:57:23+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Carlos Baleba is expected to make his Man Utd debut against Spurs - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82RlUxNWNkdi1aMnVfdkk4bENIWWFSZGw0WVdjTVdkSTlkcUQ0cFVrdVBIYXhhSXRXTkk4TkRfNXpUWHpZN1hBSGdDSWg2bkdJRzBkNjVIMzl3OXBMSlhDV1RrTkp1X2ho?oc=5",
-      "summary": "Carlos Baleba is expected to make his Man Utd debut against Spurs BBC",
-      "published_at": "2026-10-09T07:57:23+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Premier League giants Everton put up for sale as owners set takeover conditions - Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM2tQXzNrRnV1bWp6dFFZdHdDSDJ1REJsZWRjWUlIcm52T2dlVHpoYjUyTmtsZExKTUJjRExmT2hHbXJqbXNiQkxEc01jMi1faEluWWdZMG5EVjIzSGtTRG1meWxMdVhOVEtzek4yM2ZKN0duYTc1VEJlR3NqaXZUQnh6QWVqR2R4Q3VZNDdn?oc=5",
-      "summary": "Premier League giants Everton put up for sale as owners set takeover conditions Daily Star",
-      "published_at": "2026-10-09T07:44:00+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Yet to gel or same old struggles? - De Zerbi's Premier League dilemma",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwp8g355me6no?at_medium=RSS&at_campaign=rss",
-      "summary": "After a three-week international break, Tottenham Hotspur return to Premier League action having won none of their opening five matches and sitting bottom of the table. BBC Sport looks back at their poor start to the season and asks if another relegation battle is looming?",
-      "published_at": "2026-10-09T07:41:09+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Carrick stays cool, but should he be worried about Man Utd's form?",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6x29vg0p7kko?at_medium=RSS&at_campaign=rss",
-      "summary": "After three weeks off because of the international break, BBC Sport looks back at Manchester United's indifferent start to the new Premier League season, which saw Michael Carrick's side win just one of their opening five matches.",
-      "published_at": "2026-10-09T07:36:24+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
     },
@@ -825,41 +925,11 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "How Arteta's response to Brighton loss may shape Arsenal's next chapter",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crn8wg221lnvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mikel Arteta has shown an increased appetite for risk this season but, as Arsenal look to stay at the top, failing to reinvent would be a greater gamble.",
-      "published_at": "2026-10-09T06:41:14+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Arsenal are not rebuilding the Emirates – here’s why - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZnoxRDJPeGtuWHdFZFFPRGFfTW5DREZjTm5zcDlDb1NsUlpmNmNzakdhdzVTRmF2Vm1tSUVxUHZoUmoycGdsdkNDdEtaMGhSNkJtMkNQR3hNd25WODVSRlk0S3dUU3VHZG9lanZxbDIxU1I5YndpTHM2amFqTjB5OWlfRU5XOWVtOU94bjM4WmNSMUczZDdwZXZXU0FsdE0?oc=5",
-      "summary": "Arsenal are not rebuilding the Emirates – here’s why The Telegraph",
-      "published_at": "2026-10-09T06:30:00+00:00",
+      "title": "How to watch Arsenal v Leeds United live on TV - Arsenal.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS1VVbmNnYlR5dGFNMGxKYU95d3Nsc1dUQUxwczlnMXo3aTE3X2xMV1RuZS01X3NlYnRqcWw2cF9sYkxuNU9Xd1FZbGZGbFRYR1BSNFk5eUNLcUhtSkNwQlFOM3h2UUFCVkJMTUc0RGZUQ0xMa2J3UzF3RUVWdWYtYl9LYXFYamE0aHVtd1gzeXIyZw?oc=5",
+      "summary": "How to watch Arsenal v Leeds United live on TV Arsenal.com",
+      "published_at": "2026-10-09T07:00:00+00:00",
       "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "What to do with Joao Pedro? FPL gameweek six dilemmas",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1pk9w8y0o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport's Fantasy Premier League expert FPL Pras gives his answers to some of the biggest dilemmas facing managers in gameweek six.",
-      "published_at": "2026-10-09T06:18:10+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "What to do with Joao Pedro? FPL gameweek six dilemmas - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mUEkxQ2RRbEtwTGJPR0x0c3pESjBlMG5ySTZkQkpTOEdxR1pKZ0NlSG9KZHV5Sjd3X2p5Vkp2NmpPUGlSa2ZGUi1lU29sNDduQUJqeEQtSUM2MzVnS2d5QVNxdW92b1FC?oc=5",
-      "summary": "What to do with Joao Pedro? FPL gameweek six dilemmas BBC",
-      "published_at": "2026-10-09T06:18:10+00:00",
-      "source": "Google News Premier League",
       "category": "football",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
@@ -875,32 +945,12 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "Chelsea vs Bournemouth: Key statistics and facts | News | Official Site - Chelsea Football Club",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdE1iUEdoYnViYktfeVZFTzJHUzB0UE44bVB2XzBtdnFFZnNmM2dMUTFQOWJhd3pZSm9DTUxfRVk3ZHZjQ1BFb3p6X1g5UjhoeTJWX0xzb2hkeDRmWWtMZENnQVFGV0Jmbk5MNXlDRHEtUnZqcE11Y2RDaUpmaVZVcWljZ3I1U1gwaEowNmhkSXZIczQ?oc=5",
-      "summary": "Chelsea vs Bournemouth: Key statistics and facts | News | Official Site Chelsea Football Club",
-      "published_at": "2026-10-09T05:03:14+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
       "title": "Adidas sues Australian label White Fox over four stripes design",
       "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
       "summary": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
       "published_at": "2026-10-09T03:36:41+00:00",
       "source": "BBC Business",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Arsenal statement adds to Man City misery after guilty 115 verdict - Manchester Evening News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOamtwZDlsVDhremQxTTU3X0VhSEpSSmhaNmh2emZEUzJQaXd0ZDlwaWNQREVab1U5dHltOUctY3pMOFN5VEgzckJRdEJIaWxucWRIUEZxVEN5M01OVHV3RG4wdG5CQWcyQlJWUUtRbk0wVlhvMWZkUUFDMzZzemNBQkVIV2Zvc0NLa01NZWZRS3RDdjlJZnFjaGJrbFdGaHhsaThFUFpRcWxOdFZpMmfSAbMBQVVfeXFMTUNocXAycXM0dUs1bzQ2MlBjREZoX19ha2t4VjdBWlFPQzY0c1JOQmRyWkppVFgyeHQ1MFRjTlZnWW9VTmJ5SGVxYk1RckhvMTM4d2dSN2tYRVN6YUc1SGhCaTVDNHJtOVlzSi04RDdJc1VfejNlRmE1Vk5UUERRcUxWZUMtdExPR3BQbEJKOXBnb1hjNUhTbXRCcUNfclIxMHJ0X1hFcXhEd3pzeS1jVkh1M1k?oc=5",
-      "summary": "Arsenal statement adds to Man City misery after guilty 115 verdict Manchester Evening News",
-      "published_at": "2026-10-09T03:00:00+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
     },
@@ -915,31 +965,11 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "MISA IGOV ONE AI Artificial Intelligence Application Training - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVU1PZFR2NTRzV0luZ0xNVEZEd1dtSmJnOVFiSzVMejdvNnI5TW1rQkQ4dUdFUEtKVkJwY1RKdFlBTHRvMWFwWjFORS10VlB2VDExSnNvRVhaY1EyUFNxREV2eGlwWTB1eXdRcHU3QzJfTF9wbUVpNE1PbjR1azdWRzJqYw?oc=5",
-      "summary": "MISA IGOV ONE AI Artificial Intelligence Application Training Vietnam.vn",
-      "published_at": "2026-10-09T02:29:10+00:00",
-      "source": "Google News AI Applications",
-      "category": "vietnam",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
       "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
       "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
       "summary": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
       "published_at": "2026-10-08T23:14:02+00:00",
       "source": "BBC Business",
-      "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
-      "published_at": "2026-10-08T23:11:10+00:00",
-      "source": "BBC World",
       "category": "world",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
@@ -985,40 +1015,20 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "Sutton's predictions v Starsailor frontman James Walsh",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5zjx92v1mero?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport football expert Chris Sutton takes on Starsailor frontman James Walsh, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-      "published_at": "2026-10-08T20:46:40+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Premier League predictions: Chris Sutton v Starsailor frontman James Walsh - & AI - BBC",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1odlU0dGhjc2V1SmttOWcxTlFZcWl3ZWxjaUZkc0FCTnlnS1VqQmJaUDA4UFAtb3k1emFrT3JWdnZpU1Q2ZlJmTkwzV0FwczVqeTVZVjkxZGl4REFCQmtsbEI4Y1FscXRFUFVr?oc=5",
-      "summary": "Premier League predictions: Chris Sutton v Starsailor frontman James Walsh - & AI BBC",
-      "published_at": "2026-10-08T20:46:40+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Scout Selection: Best Fantasy team for Gameweek 6 - Premier League",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTjdDTnEwMHFQalQtcjQ5MkxVaEtoLUJodTFTN2g4dVVxUUQwWUFUQTM2bndidWJ6OE1UWTJrendfcFMtbXRGQUZXdmJOdkJzMUY4LVdGV3VGckdoZk9MWWtieEpXUER1Z2I4VW1YYV9laVFHWG1Wc0ZBb1AxMDc0RkFmOUFMbFRNSnJsa25uOW9NMzFJRUpPS1JB?oc=5",
-      "summary": "Scout Selection: Best Fantasy team for Gameweek 6 Premier League",
-      "published_at": "2026-10-08T17:58:17+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
       "title": "Hotter Summers and Rising Energy Costs: How Next-Generation Inverter Heat Pumps Can Provide Comfort and Savings - SWX Local Sports",
       "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPOG00Yy0wTTU0TGpCRUN1ZE95UWdmb0IxVnRPUl9ESU04TjI5WXBhYllfU1JhbVRUVDNDa0owQlRHR1pCU0NsM3BaZkNTdVNQUVNEQ3JnVnVFN2Jaei1CRkRCS3laamN4RlpjVGN3eU5lcXNMR2RuUHh5SzFmS1FMMk9oMmZFWFBWMl9OckhldXdNU1JsQ3FGeXUtNkZSWElWcVhad0Z2b3BfLUNSb0FUOWc5YmctMk1CMXlVaWhSdmhseE9HX0VVSl9fYURFekJGQjQtYjNmNWxWRTA3YTVpWnFZbDRqRVlwY0ZldHpIRDkxS2ZJdjNpWlVZN05Yb3J2clExTGRiM1AySVVrU21IbGlqaHVBRjk0STZLUmFXek1TMVNUYUFVQTFVRWc1TUVHZVkzRTh3?oc=5",
       "summary": "Hotter Summers and Rising Energy Costs: How Next-Generation Inverter Heat Pumps Can Provide Comfort and Savings SWX Local Sports",
       "published_at": "2026-10-08T17:33:23+00:00",
+      "source": "Google News Energy",
+      "category": "water",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Ductless Heating and Cooling Systems Market to Top $144 billion by 2030, 9% CAGR, North America, Daikin - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbVBfanhpSWtqSzFPNDBFMDF0MWVtaEhXUi0wcWdSQVl1cFFGZnNMUjNyRGVxOThDU3o3bmEyaEFlcXlBYVZZQzE3a0NhN3F1emN1cVRzV2tqaG5HWjg0RzB0Z1c4N01EQkI1MG5JaFlqeUQ1V0IzU2JJMzJKVDBtTGo2OVhtZTNhNFhCMUc3UFV6ekZaZ0M2WllaLUpWVlU2YnVfeFFVMGtrQWtDb0VlQg?oc=5",
+      "summary": "Ductless Heating and Cooling Systems Market to Top $144 billion by 2030, 9% CAGR, North America, Daikin The National Law Review",
+      "published_at": "2026-10-08T17:32:55+00:00",
       "source": "Google News Energy",
       "category": "water",
       "label": "SIGNAL",
@@ -1031,26 +1041,6 @@
       "published_at": "2026-10-08T17:09:16+00:00",
       "source": "BBC Business",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Watts Showcases Energy-Efficient Water Heating Solutions at ASPE - PHCPPros",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcG5lSXcwRllXUlZCc01wUGFkaE5uUmgtYnh5MFNKb3NrYXU3TTVQSkRsb3dHUmVpbXVwRmljVTljQ0JzUTluVnRabF9KdHV1VDFvbkRjTFZTeTV0V0N4RzhQcGpKY280TVpTdjJiLXpLNHNscVhmeVJCMUVyX0l2YklhZGNYRW9WUlB2WVg4blRVZElTOXcwU19WR3czbXZPMEg0dEtGaw?oc=5",
-      "summary": "Watts Showcases Energy-Efficient Water Heating Solutions at ASPE PHCPPros",
-      "published_at": "2026-10-08T16:41:00+00:00",
-      "source": "Google News Energy",
-      "category": "water",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Ductless Heating and Cooling Systems Market to Top $144 billion by 2030, 9% CAGR, North America, Daikin - EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd0lYRFdveVhfeEVCM3UybDhlTTRUUU1DSk0zYUtkcENqVUdDSTZQM3prSjgyeEt3b1djNDVsamE2N1h5QVd2MHBhNVRpc0NNMm9CQTVaYzVPb0Y4c1NNY1hDSXRlLXFsakw2cHlCQzQyQ0xDLXFfVmxVb2FQdUZHT3BIcmlFQ3FVcWJuUWV5X1FQT2dabm1fTGpOMTBXSnYtZzM3MnB0bkZpSXM4VkhLYXpwRVBHSklnWk9iZ3BtckY1Um8tREpfTWU3dUUxQUlnVjI4NkpKcw?oc=5",
-      "summary": "Ductless Heating and Cooling Systems Market to Top $144 billion by 2030, 9% CAGR, North America, Daikin EIN News",
-      "published_at": "2026-10-08T16:30:00+00:00",
-      "source": "Google News Energy",
-      "category": "water",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
     },
@@ -1085,9 +1075,9 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "Point-Of-Use Water Treatment Systems Market Tops $34 billion by 2030, 8% CAGR, Under-the-Counter Filters 40% - EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWm9zbzhZNlkyZUZEa1hwNVNmNVM1N3N3MEdOeDFSbXkyNUV4VkpVZUhYWF9LR1I3VUpnZXhIaXZqQlAyWGczOHZzUHdnYnBIVGg2eW94QlJnMmhQZzR0ZEUxX2twVjFrcVFIZlNWcUFaREpUZUQ3TGVPNWN3VHA0QmRnQjN0c3pnc1BHb3d1RjdMUUVRb3FQY3FqMWlQT1pUemkycUdJaE0wVzBCajFYSlY5eEFaSC1tMC1GdlozZHVWNVFaSUlYREdRQjNVUkt5WHkwLU16R2d6N0dxd0E?oc=5",
-      "summary": "Point-Of-Use Water Treatment Systems Market Tops $34 billion by 2030, 8% CAGR, Under-the-Counter Filters 40% EIN News",
+      "title": "Point-Of-Use Water Treatment Systems Market Tops $34 billion by 2030, 8% CAGR, Under-the-Counter Filters 40% - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOGFHTzhiRkJYSHRzLUpXdTgxeEdCaHRVWW1tZWFSaUNCLVFEallkcG9LanpfMS1TRERUQXpRS0FYc29zSXF1NUppNkpxbVE0YllBWWZJYmt6VmN6UXZncW1hbXZRZkxscmhaYUN4X0JYVHdtVTZLbHljMHVaWXYzZUwxNVlqOV80bk5oN2NOR0xwc0wzc2g5WThkYTQ1THVCVllxaTJGRGxlS08tWHVaWTNmZ1M3Wlp3eS1PbnluMFU5WUNQNUd0STh5R0F4d3g2eml5WjJFYTJDd08zSjJQYUNyVks?oc=5",
+      "summary": "Point-Of-Use Water Treatment Systems Market Tops $34 billion by 2030, 8% CAGR, Under-the-Counter Filters 40% EIN Presswire",
       "published_at": "2026-10-08T14:15:00+00:00",
       "source": "Google News Water Technology",
       "category": "water",
@@ -1115,12 +1105,32 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "Business - The Economist",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSazE4dV9ZczF2dElrTFMzSG9BOGNYRVRxd0VocmVlMGFnUl94NmNXd1dQZ0QzeHMwTXQyUTNqS2pZTjlKVXBtSTBOMUw5S3lYWG0xdVJQV3pZQUhPRUhETzRyOXV4N3VuRUFIN0xUUkFuSVk?oc=5",
-      "summary": "Business The Economist",
-      "published_at": "2026-10-08T13:01:51+00:00",
-      "source": "Google News World Economy",
-      "category": "world",
+      "title": "Water-Efficient Technology Opportunity: On-Site Wastewater Treatment Systems - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3c3V0E3ektYWmptcjluQmtWZExDczdIX0JoN2EwcjEzNUtpZk5DRENtM3NIQ0lBQUVjanY1S3hodWR1Z0c2ZVlFdzdKX2hKWDZQeDhrNVllUENRdDg1eUx0dl9hVzl0VnVFV2Jkby1pU3daWUc0aTFyY3Mwd3ZwakpIc3E1UU4tbXVIMXRsTlVYUWFqRDJGQjM1enFhRnVFNGhjQl9iSlQ?oc=5",
+      "summary": "Water-Efficient Technology Opportunity: On-Site Wastewater Treatment Systems Department of Energy (.gov)",
+      "published_at": "2026-10-08T13:13:59+00:00",
+      "source": "Google News Water Technology",
+      "category": "water",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Geothermal Heat Pump Case Study: Marine Corps Logistics Base–Albany - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX1BVRXAzSEtRNVZyRWtnNkdEMUQ2QzJYVHRJanUtS1RQdXVGYlhGUkdvZWpsaFZqQkR5Z0xsazdyVEZndERNdUk3eU1rYjdBLWNaMUhIOV9KZTRoN2JTbExYVndtZEVrekVwbW51TVowMDNObm9zTGowdnJxc1JpMi1xQ2NtTndHLVFvSk5EeU13bHVrN1FCS2J3eHh0Snh6UVN1dkprMUc?oc=5",
+      "summary": "Geothermal Heat Pump Case Study: Marine Corps Logistics Base–Albany Department of Energy (.gov)",
+      "published_at": "2026-10-08T13:13:59+00:00",
+      "source": "Google News Energy",
+      "category": "water",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Tax Credits, Incentives, and Technical Assistance for Geothermal Heat Pumps - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUXdZcTR3T2RxVTRURjJtWDdhdWp2LVI2RHRIOWl1eDdvbHNublNKWjFIZjR5ZVV1Q3p4RXh5aUVzUmZBZFkzMDl4YTFRUWhCdURIWHlyb09HLTh3WGRmUHZHLUV1QVA1cmdzVExfNTBsaFFBM2Y5U25RZWs3T2h5cld1UzROZG5zMDFlaWZQczdiSHc4dEdJQlFLMGVpMTlRMExNcURmak1XWkRt?oc=5",
+      "summary": "Tax Credits, Incentives, and Technical Assistance for Geothermal Heat Pumps Department of Energy (.gov)",
+      "published_at": "2026-10-08T13:13:59+00:00",
+      "source": "Google News Energy",
+      "category": "water",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
     },
@@ -1155,20 +1165,20 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "Atlas Copco showcases energy recovery solutions at Boiler India - Manufacturing Today India",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fYU15OHAwcFlBVUlIbnpFT2s5YnJVNVloUW9iU0FNdUN5S2hwcGlHeWV4cGFJWnRIYWpFaHJ2eE9zX191QlJ5X25Fa0dlSFNSRVdsRFZGaFdSYWpONmc3UFU3clpnTjI0VXVxQTBJLV9PN2pncTJEMWVzRFJCbU0?oc=5",
-      "summary": "Atlas Copco showcases energy recovery solutions at Boiler India Manufacturing Today India",
-      "published_at": "2026-10-08T11:17:00+00:00",
-      "source": "Google News Energy",
-      "category": "water",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
       "title": "Transforming international resources into endogenous capabilities of the Vietnamese economy. - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSVpUVkcwajd3cFA0cWdjeWIwRkFwX29MRlJlMnE3MVhGRXpOZENJUGVsSXNXU2t2Wm44MkdqM3o0Z3ZOc0x0U3ZFc0ZzUWxaT0Y1aFFfVklCOVVQYll3N2dzUmxyNVZPdndKRlJDODJ4RHl0NTQ3ZTY0Tkg5eGNfRktKVVlxZVZjZXFXLTBZVDhJcUNrdkVYbWc4ZW55UQ?oc=5",
       "summary": "Transforming international resources into endogenous capabilities of the Vietnamese economy. Vietnam.vn",
       "published_at": "2026-10-08T07:30:47+00:00",
+      "source": "Google News Vietnam",
+      "category": "vietnam",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Forum \"Digital Technology and AI in Building a Creative Economy - From Cultural Resources to National Competitiveness\" - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMFc0dHlsUWdjNHRIU3NQc1Q4MHg3NUtMb25iM2wwaXc2d01FVmpzMWxVZm1PV2t6Y0s0R0h6TDNDY2pXRFp5RDFabjZKbkNEcDVfc1dYWl8zdDBtZWQtai0yalhjRkNvTEcwUGsyNFNFRjU5RHZwbGVFQzdOQjczb1E4LW5tWUFKU2xkOGh6Z1lEUVVtUERDS3F0NDRyR1BxVzdHclFCbHRyaHpkcktHcDRDN1k0ZU1jcGJWRkhkX0NUNWt3aFJIXzhyZ1Zwa0R2TVpHZm5hdVhHdDA4?oc=5",
+      "summary": "Forum \"Digital Technology and AI in Building a Creative Economy - From Cultural Resources to National Competitiveness\" Vietnam.vn",
+      "published_at": "2026-10-08T07:11:36+00:00",
       "source": "Google News Vietnam",
       "category": "vietnam",
       "label": "SIGNAL",
@@ -1225,16 +1235,6 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "Transforming a fossil fuel firm into a clean energy leader - The World Economic Forum",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSmczcUI3NWhNMENzcG9XMFhqbHV5UVI1WDhJbDJJeUlEeTFrVzVkSjY4SXBNWjB3Qm1yMHdESkhGZHB4MnhJRGpnaS1XUmZwcXcwLXBiZUtncFFBZjIzaV80d3FUZXVValBDMzJUamVjR2VrOE5KTlJBcjBOY1ZNRnAySG43dVUzZnV1U1hKQ3pIbGwzR0xJc0NJdnYyRlk5cFAxNEM0TUZkdw?oc=5",
-      "summary": "Transforming a fossil fuel firm into a clean energy leader The World Economic Forum",
-      "published_at": "2026-10-07T12:55:25+00:00",
-      "source": "Google News World Economy",
-      "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
       "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
       "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
       "summary": "",
@@ -1261,26 +1261,6 @@
       "published_at": "2026-10-07T11:10:48+00:00",
       "source": "Google News Arsenal",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Vietnam targets low-altitude economy making up 1.5% of GDP by 2045 - Theinvestor",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb004cjA4Ymxyand0cnlKS1BVQ2ROa3VSWDBRY2lFTlhIbkhzN08zdDhtNUk1NDdhVUNBY1hodGczVC1MNE9HTko5QmRtTEhxbDhGN0NDdFN5em5wa1d1dzllYkgwRURQVWZsdzBTUjVOMUI2bld5Tm5oQ0xzZTJ3S2RDb0FGUUE1T19hWExZN3J5T2FEN0VVMUo1MmZJUy1L?oc=5",
-      "summary": "Vietnam targets low-altitude economy making up 1.5% of GDP by 2045 Theinvestor",
-      "published_at": "2026-10-07T09:02:00+00:00",
-      "source": "Google News Vietnam",
-      "category": "vietnam",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "UM Macao Humanities Forum explores AI applications in humanities and healthcare research - 澳門特別行政區政府入口網站",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1QVU5VnExdTJCT2U3eGZnRF9ZZzVMdFBPUE5vaTZJdWtPZWgyYS1idGdmcGNEUkVEcUVZejB0cVp2ODRyNmlKZzZ3?oc=5",
-      "summary": "UM Macao Humanities Forum explores AI applications in humanities and healthcare research 澳門特別行政區政府入口網站",
-      "published_at": "2026-10-07T07:25:00+00:00",
-      "source": "Google News AI Applications",
-      "category": "ai",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
     },
@@ -1345,16 +1325,6 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "World Geothermal Heat Pumps - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX2JmZlBLQWhfeHg1SDI1NUZ0b1JEeGxIdHNpMTVVTTYyN2RpTUViUGRtQ3B5bEJUc0NvSkNEeFpvc0pFdm1XczIxWGlmVC1XTlNJMjV2dFlUNTBSQ1pfeV81WWQ1cmlwMzctQ3MxaS0yTk43VzNBR084NGM3T0Rld1hSYTYzWEtDLXUyaUdyQ2htaWxDOGNoQXMtdmk4WXJXQkhRMnlmOGlHbWZYNnlFMjkteERWS1ZpQ0hCVUw2aDVOQQ?oc=5",
-      "summary": "World Geothermal Heat Pumps - Market Analysis, Forecast, Size, Trends and Insights IndexBox",
-      "published_at": "2026-10-06T16:46:04+00:00",
-      "source": "Google News Energy",
-      "category": "water",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
       "url": "https://openai.com/index/atlassian-partnership",
       "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
@@ -1391,16 +1361,6 @@
       "published_at": "2026-10-06T11:32:31+00:00",
       "source": "Google News Vietnam",
       "category": "vietnam",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "World Bank urges India to focus on small-scale AI applications - Awaz The Voice",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTB4TG1HV3pkUnpwX250MlFERGNLdXlRdER5NGRDZlhPazY0amNvc0tEUExKb2xFd0xxamh4SGNpN3FoNFNsOGpBSGc3cWFpMmJqeTVHcXM0S0hzcjU5RVJxTXpnelptVjR0Zm1pclpTaUZEc2lwUXY1S1BmTC1UMDE0dC1XV1ZRc0hkSWxFM0FWUmMxcFZ5akNzdjdFbmRGakgtd284OXNuaDdwZFhOakJFVTlrZw?oc=5",
-      "summary": "World Bank urges India to focus on small-scale AI applications Awaz The Voice",
-      "published_at": "2026-10-06T10:55:08+00:00",
-      "source": "Google News AI Applications",
-      "category": "ai",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
     },
@@ -1465,16 +1425,6 @@
       "verification": "Chưa xác minh độc lập"
     },
     {
-      "title": "Water-Efficient Technology Opportunity: On-Site Wastewater Treatment Systems - Department of Energy (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3c3V0E3ektYWmptcjluQmtWZExDczdIX0JoN2EwcjEzNUtpZk5DRENtM3NIQ0lBQUVjanY1S3hodWR1Z0c2ZVlFdzdKX2hKWDZQeDhrNVllUENRdDg1eUx0dl9hVzl0VnVFV2Jkby1pU3daWUc0aTFyY3Mwd3ZwakpIc3E1UU4tbXVIMXRsTlVYUWFqRDJGQjM1enFhRnVFNGhjQl9iSlQ?oc=5",
-      "summary": "Water-Efficient Technology Opportunity: On-Site Wastewater Treatment Systems Department of Energy (.gov)",
-      "published_at": "2026-10-05T15:48:55+00:00",
-      "source": "Google News Water Technology",
-      "category": "water",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
       "title": "High-Efficiency Solid-State Heat Pump Module - Department of Energy (.gov)",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcG9xdDZhMUw2dDM4RmIwcGp2YWsyTTFSdVhMbmlDZWtfT1RjOHZpOTdtWTlmbkNEa1RWSVVNZzQ2Z04xN2NkRXIyZGhGY1UyRUxKZHlHdjhhblVHNnJMZlNYOGphX1FHOVd5ODJIZl9CdlFnNHB1enZ4TGV4bnotWGhhTG4xZjBxSkdiUFZPSHZ3UzRkdkE?oc=5",
       "summary": "High-Efficiency Solid-State Heat Pump Module Department of Energy (.gov)",
@@ -1501,6 +1451,56 @@
       "published_at": "2026-10-05T15:00:00+00:00",
       "source": "OpenAI News",
       "category": "ai",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "published_at": "2026-10-05T10:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "ai",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "iSpring Kicks Off Prime Big Deal Days Savings Early with Water Filtration Deals Starting October 1 - FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcUlXZ0tSUUUya2FCQnNhMFdTVVp0RkliSnpocDlSU1JhQVFsZUFNelBUdERYcXVRSVZtMm9pWHlDLW92blVZeU5mdHhERF9XdnBlR1dmYmMxZjZ0NUFKZGU3N3UzWDBGUU1QMWpzbWkyWmtJS0VObklvbEMwb1N2Rm5XNjVVU1NBemdwMHhQcmFIdjNQMGM4QXllLXFMSmd1MlBkeklaRFVPdmJlY24zRzFNaWRvYXZ2Z1Y4clhfR0ZjZ29oQi12NFlZYlVZbUFQa0dtZndXa1RNcXpIODJYY1RWU2I5NEctU3RsNkZveEV1VkcwSnFr?oc=5",
+      "summary": "iSpring Kicks Off Prime Big Deal Days Savings Early with Water Filtration Deals Starting October 1 FinancialContent",
+      "published_at": "2026-10-04T13:00:00+00:00",
+      "source": "Google News Water Technology",
+      "category": "water",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Apple strengthens user data protection on macOS to counter the risks posed by AI applications - صوت الإمارات",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWWx1VDFCQ1FvdjRlN3lkcml5Ukp5bkYyUmtXaFR6MGpEYUxSVjVkWU9ZMkc1RFZiYkgyUVhWbzZvQnJnaXluckluNm9RcXQ0cjhDaW81MGNsWXM5X184TURySWFyQlU2N3NKTnJMY2tsVmVxRjJ3X0VJdW1iRU5WWFFiamJOY256Qm9qNnBSZ1d3bmpBSUlEM2R2TGhpZm5Rem1kZ25sWXppWktILWlyTXZwVjhxcVdkUlRJSGFRNmZ4VV9uVzRQRkFHYnVBU1JQcUR4NzQxc085VUZKSl92YU1qb2FlNWJQLXVXY093?oc=5",
+      "summary": "Apple strengthens user data protection on macOS to counter the risks posed by AI applications صوت الإمارات",
+      "published_at": "2026-10-04T05:32:58+00:00",
+      "source": "Google News AI Applications",
+      "category": "ai",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "summary": "",
+      "published_at": "2026-10-03T22:56:48+00:00",
+      "source": "Hugging Face Blog",
+      "category": "ai",
+      "label": "SIGNAL",
+      "verification": "Chưa xác minh độc lập"
+    },
+    {
+      "title": "Vietnam opens up new growth opportunities from the low-end segment. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdm84dU02SHdYV0JHWXktVS1jUDZxUUw0WkZPazJRYXlDc1ZPWlY3ZFJPX3ZUWDRrWHo2U21KUHBjLV9weHBwNjhHazFqU3hqSnpNdExDbTIwR1BmeEZBc01lQ2h0dnY2SFF4aHhOdXUyRTBTb25KTFlRa0hpWWxQVjlBSV9fUTZ5ZUlz?oc=5",
+      "summary": "Vietnam opens up new growth opportunities from the low-end segment. Vietnam.vn",
+      "published_at": "2026-10-03T13:24:13+00:00",
+      "source": "Google News Vietnam",
+      "category": "vietnam",
       "label": "SIGNAL",
       "verification": "Chưa xác minh độc lập"
     }

@@ -1,13 +1,49 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-15T10:07:23.135064+00:00",
+  "generated_at": "2026-10-15T10:19:50.859046+00:00",
   "status": "ok",
   "items_count": 150,
   "items": [
     {
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/ Comments URL: https://news.ycombinator.com/item?id=50101586 Points: 1 # Comments: 0",
+      "published_at": "2026-10-15T10:15:07+00:00",
+      "source": "Hacker News AI Discussions",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+      "published_at": "2026-10-15T10:14:31+00:00",
+      "source": "BBC World",
+      "category": "world",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World"
+      ]
+    },
+    {
       "title": "Costs of Switching AI Models",
       "url": "https://www.youtube.com/watch?v=zUCeaaGCRuc",
-      "summary": "Article URL: https://www.youtube.com/watch?v=zUCeaaGCRuc Comments URL: https://news.ycombinator.com/item?id=50101472 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://www.youtube.com/watch?v=zUCeaaGCRuc Comments URL: https://news.ycombinator.com/item?id=50101472 Points: 3 # Comments: 0",
       "published_at": "2026-10-15T10:00:28+00:00",
       "source": "Hacker News AI Discussions",
       "category": "ai",
@@ -36,69 +72,6 @@
         "published_within_24_hours"
       ],
       "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
-      "title": "Sir Gareth Southgate rules out a return to Premier League management - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGNVVlhoWWFQcE5xb3pobVZKTmNRSmtaaXVoRVRJUmdCOWkyNHY0b1VRSnZIMDRMdEdmWmdqQ3VEcmhLb1lIY1VnSnBQS1FtTE9POHA1N2szTWFidG84N0k4bTVVZ25TOVluU3QtdGFsbW12c0h1N1dKTFlfMDJLWXRtVjhKRjc4UENYd0RRSG95THdzU050dWdKX1FoMG8zSVRWOQ?oc=5",
-      "summary": "Sir Gareth Southgate rules out a return to Premier League management ESPN",
-      "published_at": "2026-10-15T09:48:00+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
-      "title": "Transfer news LIVE: Shock Arsenal move; Man Utd bombshell - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY05EQ01WeFdKbFZaX3g3Wm1uOVk3R1BXRFNZVVk1U3RVUEt5S1VxaXNzOGdLOWRkeUJCWHpIaFBUbjRlQTExTS1JSFFEXzBwU1BTNEJJU21XLVAzUkptd2RnS1k5c21TYzlWeS1pT1BsVlZIS0ZJRDg5VVpwSzVxVlZqMVJTNk83YkR3R2czSGlZYk9PU1BPelhZVEJoNXJSMnE0Z3FZU3FHNzl2U29YWng5ekVOVWg2Y2pWVGY2Y3BSSDJiMXBDbzAtQmJXT2M?oc=5",
-      "summary": "Transfer news LIVE: Shock Arsenal move; Man Utd bombshell London Evening Standard",
-      "published_at": "2026-10-15T09:42:07+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
-      "title": "Ipswich news: Should Town dare to dream about more than survival? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Wd2k3d2pFSXdQMEdiSDJNMVp2THBNZ2dEQXByUjduNHhwU3kzOWRNb2xra1pXeDVlNmpzaENIVEFKZHEtYkROOHA3ZGs3S0o3YTBWZWg2MERHcDFqNmszR3BrNTVMWjU2NDlz?oc=5",
-      "summary": "Ipswich news: Should Town dare to dream about more than survival? BBC",
-      "published_at": "2026-10-15T09:32:27+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
       "sources_seen": [
         "Google News Premier League"
       ]
@@ -222,6 +195,27 @@
       ]
     },
     {
+      "title": "Your Opinions: Norwich and Southampton fans react to Saints' 1-0 win - BBC",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hYUUxaFF6NVpYaGo1WHVleG5iNXRIRnFpVHZpR2w2ZHo4RjZBXy1vVGdHUXdOd1Jrc3hDTnlPd1pvUnoyZWZWQ1dXbmNBOUFnM3NRTnNsU2lwYWFYTnBxaVlZMWlzX3EwZGNv?oc=5",
+      "summary": "Your Opinions: Norwich and Southampton fans react to Saints' 1-0 win BBC",
+      "published_at": "2026-10-15T09:16:38+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
       "title": "Show HN: Reproducible failure drills for AI coding agents",
       "url": "https://github.com/second-time-is-a-bug-book/book-companion",
       "summary": "Article URL: https://github.com/second-time-is-a-bug-book/book-companion Comments URL: https://news.ycombinator.com/item?id=50101157 Points: 1 # Comments: 0",
@@ -240,12 +234,12 @@
       ]
     },
     {
-      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
-      "published_at": "2026-10-15T09:10:10+00:00",
-      "source": "BBC World",
-      "category": "world",
+      "title": "Gareth Southgate says he has ‘hardly watched football’ since leaving England, rules out club management - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3RibFhiaXRkWGFCNDZzZUh6U29BOXM5bnNqQzExSnNLMDFhVmxpWUl6WkpIVkdJdlU2T2VQTFcwSmUzbDNySkNUbTNINUU5ZWpiT2ZpZkpTTk9oZTVTMzd4VmJRTXJyLXFmaUQ4ZUpDMVB5Q2RHUDFTZlNqbjF3VllnV2VQY1MwNDhTbTNLMEh4TGF4X2F2a0YxLVVnSGg0?oc=5",
+      "summary": "Gareth Southgate says he has ‘hardly watched football’ since leaving England, rules out club management The New York Times",
+      "published_at": "2026-10-15T09:01:05+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
       "triage_score": 42,
@@ -254,7 +248,28 @@
       ],
       "quality_flags": [],
       "sources_seen": [
-        "BBC World"
+        "Google News Premier League"
+      ]
+    },
+    {
+      "title": "Mamadou Sangare challenges Brentford to aim for \"top two\" Premier League finish - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWjN1Zkk2bVBfNGhySW4yM0FTdElWeEhOc0F0akRqM0FOM0xuMi13cnpaUjZYTHdTaFNRSzZqRzZkLVBrc01saUlfd2Zla2tFdmVxbGJvdWFPckZSSmp2OHRqc3hWVmNJdnA2Ni1tbVh3OWNIV21qSnFfUEdwM250dzVZS01CZWszZG5SYWtEbzhPTGVUdzNwRlVIXzlfblhaOHIxaHhXazk4cHFoNXpNTlNxZUpIOGhtUzNOdWd0dw?oc=5",
+      "summary": "Mamadou Sangare challenges Brentford to aim for \"top two\" Premier League finish ESPN",
+      "published_at": "2026-10-15T08:52:00+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Premier League"
       ]
     },
     {
@@ -393,45 +408,6 @@
       ]
     },
     {
-      "title": "Man United’s Martinez takes to social media to defend his criticism of club - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3VEM3U4T2JPaDNnRk13Q1IyY2tGZWhmdFU5SGpldVd4ZDVrZklka1hJeS1BUXdFVnBhY09jSm9HMFU0Z0tGTzNBRXJHZEpDdVB1Q2dnZkZGbUJyTGhlZ1NSZEtUVjhPRVBUMUJTS1R4T2pjcDBiTUJHOTczTTAteTFYUHV0N0xsSlpwTGFhX3dRMFRydUpvLVp3NEx2eFIzQ0VVTXJJbGxJZmlodjVsTVh0RXZQNWszamfSAb8BQVVfeXFMTmZwUHpXZkhNT2I2UnAxLVpJSVp1YWJQU1JQWFltNGtSUjlpQkdwTExsVkN0bzM2VzNiYlQ3SFIyWVVMV1JOUjRmdE1FYTJ4QkpDWFh1TjBTQTFCQk5MVVVVZ1c3WjZoRVphOUszNDJxSjNkb0pZdDh6OHlDZXhRSlJkbGtTNkd4VlJrWE9KVHc0MkFEXzZiYmhNSkYwcFFfMkFQSkpvQlRVYnRfZi1NTVg3cjhwU0NaMGVmSk1VMnM?oc=5",
-      "summary": "Man United’s Martinez takes to social media to defend his criticism of club Al Jazeera",
-      "published_at": "2026-10-15T08:29:57+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
-      "title": "REA – I tested AI agent reverse engineering",
-      "url": "https://korben.info/en/rea-ai-agent-reverse-engineering-test.html",
-      "summary": "Article URL: https://korben.info/en/rea-ai-agent-reverse-engineering-test.html Comments URL: https://news.ycombinator.com/item?id=50100843 Points: 2 # Comments: 0",
-      "published_at": "2026-10-15T08:27:13+00:00",
-      "source": "Hacker News AI Discussions",
-      "category": "ai",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Hacker News AI Discussions"
-      ]
-    },
-    {
       "title": "China’s economy seen missing target as global shocks bite - Free Malaysia Today",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2JSaVBpaHFVUERnWFRidHZPeF9FaDFDeEV1bVZoS1JSdzMzcDB0NkhqUE8xNUo2TUVZQ1BWTnJReXh2c19uaTgwWk04OEkxY2lZSXNrRmxXcEYxQmFZRm12ck1lMzFBbFRVWjM5UDBCYjJMLXFqVUJTOWlieTEtUjdZbUpaTUlVQllFaWFBQWNRR1VCd3JIX2RPbk1RODd2eER3U2VBUjNZT1J6VWZGMHFjaGVNaUFWTXBJaA?oc=5",
       "summary": "China’s economy seen missing target as global shocks bite Free Malaysia Today",
@@ -453,21 +429,24 @@
       ]
     },
     {
-      "title": "AI was great until it was not",
-      "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
-      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 47 # Comments: 33",
-      "published_at": "2026-10-15T08:18:38+00:00",
-      "source": "Hacker News AI Discussions",
-      "category": "ai",
+      "title": "Gareth Southgate: I stopped enjoying football — I won’t return - The Times",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZHhjaWRzZi1XTnFfeVBXOG5feUtmYlZETE5mNGExSktXTzVFU2RMeVlkUnVuWTM1amVJcHVJUk5xNzdaMXF6TV9oVElnOEN1ZU1Hb3VwdXhrSjFCMEp3OEszQ2h0ZWcxckJ4SExhZXMwZDd2cGRyQUJwOWNCeExVa2w1MzlLUVpoOTNicThMQlZENThBOVZ2Wk94YjlsTGFzS1NWYXZ6WTc?oc=5",
+      "summary": "Gareth Southgate: I stopped enjoying football — I won’t return The Times",
+      "published_at": "2026-10-15T08:20:00+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 34,
       "triage_reasons": [
-        "published_within_24_hours"
+        "published_within_24_hours",
+        "summary_insufficient"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "short_summary"
+      ],
       "sources_seen": [
-        "Hacker News AI Discussions"
+        "Google News Premier League"
       ]
     },
     {
@@ -560,24 +539,6 @@
       "sources_seen": [
         "BBC World",
         "BBC Business"
-      ]
-    },
-    {
-      "title": "'My desire has changed' - Sir Gareth Southgate rules out Premier League return as former England boss explains why he walked away from football - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaS1ueFVZdzBtUXk4VThsUDBqZVdwUFJ4NmdBS1pCZ0RvWjdoQWxzY2tfZERuVzVvdHpIT3hObndxNmZ2QjJzelgwaXdSTnV2SHJBYnlDRzNDVkxaRjNhemdvUGt3aUdmOEZ1b0JYRmhfYW56ZVBWZkpIM1Z4ZTJ5eF9iZWdLVmxUNGg2VFdQalkyMHBHTHo1c19pUUwwa1JQS0h1Ty1XaFl0SXJOWTlIc0ZxY2hpZTdONmpRVVBn?oc=5",
-      "summary": "'My desire has changed' - Sir Gareth Southgate rules out Premier League return as former England boss explains why he walked away from football Goal.com",
-      "published_at": "2026-10-15T07:06:56+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
       ]
     },
     {
@@ -2001,6 +1962,24 @@
       ]
     },
     {
+      "title": "Arsenal closing in on all-time Champions League record held by Bayern Munich ahead of trip to Bavaria - Pain in the Arsenal",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbFZLWXhraF9Id3JfSVNIc0JSWHJuaTMxVTFfUjBIdFc3Y0J1ZGJfMDJQLTZqSzAyMjBONkVmUnhXU0c3SnVVTGx2NU82MS1PeGRkd1FZYkJ0RnZfc25sMHNWZnNHYmZ0ZUVGcUI5a0dnZF9tR0tOTlZtYzdHbUFlbkRnOFFSTXBQaS1CSzdGWXdScGhtSl9YNFB4VzN1dm5YYkh5UG9vNDBxQUYzNExUTi1hUG5tWU8zcnJXNHpSTmg3TmtYRkt3ZFlB?oc=5",
+      "summary": "Arsenal closing in on all-time Champions League record held by Bayern Munich ahead of trip to Bavaria Pain in the Arsenal",
+      "published_at": "2026-10-14T16:19:29+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
       "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
       "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
       "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
@@ -2815,6 +2794,28 @@
       ]
     },
     {
+      "title": "@zuck: To lead this effort, I'm excited that Chirantan \"CJ\" Desai will join Meta as Chief Enterprise Platform Officer, reporting directly to me. CJ is...",
+      "url": "https://www.threads.com/t/Dd1MqeVG3vT",
+      "summary": "@zuck ↩️: To lead this effort, I'm excited that Chirantan \"CJ\" Desai will join Meta as Chief Enterprise Platform Officer, reporting directly to me. CJ is an experienced enterprise leader with a track record of building full-stack software and delivering results in AI, infrastructure, business applications, and security. He has an extensive industry network that we look forward to partnering with.",
+      "published_at": "2026-09-28T12:35:32+00:00",
+      "source": "Threads Zuckerberg",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 48,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "possible_concrete_development",
+        "older_than_7_days"
+      ],
+      "quality_flags": [
+        "older_than_7_days"
+      ],
+      "sources_seen": [
+        "Threads Zuckerberg"
+      ]
+    },
+    {
       "title": "Three international bodies warn of risks of rising debt and soaring borrowing in major economies - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNHB6TmVYd0xCRDB2clFtQkdKbXZVUEkzVWJJN1p0RVE2WXNfSWk5NnpKY09TdFNQVExkazczbDRoSU5vTzJDOGtLVG5Ld0FTMTd0TjkzZkVKbzZTS3A0WDNINVZYVlFnQWMzN0NCYVc2ZWpIUHZNejBEcy00cXI5bzdSRUpZa21Talc5NldGSlQ?oc=5",
       "summary": "Three international bodies warn of risks of rising debt and soaring borrowing in major economies The Guardian",
@@ -2861,34 +2862,30 @@
   ],
   "category_counts": {
     "ai": 45,
-    "football": 40,
     "world": 47,
+    "football": 40,
     "vietnam": 6,
     "water": 12
   },
   "source_errors": [
     {
       "source": "X OpenAI",
-      "error": "HTTPError: HTTP Error 404: Not Found"
+      "error": "RuntimeError: All feed endpoints failed: https://rsshub.app/twitter/user/OpenAI -> HTTPError: HTTP Error 404: Not Found | https://rsshub.isrss.com/twitter/user/OpenAI -> HTTPError: HTTP Error 503: Service Unavailable | https://rsshub.rssforever.com/twitter/user/Op"
     },
     {
       "source": "X Google DeepMind",
-      "error": "HTTPError: HTTP Error 404: Not Found"
+      "error": "RuntimeError: All feed endpoints failed: https://rsshub.app/twitter/user/GoogleDeepMind -> HTTPError: HTTP Error 404: Not Found | https://rsshub.isrss.com/twitter/user/GoogleDeepMind -> HTTPError: HTTP Error 503: Service Unavailable | https://rsshub.rssforever.com"
     },
     {
       "source": "X Simon Willison",
-      "error": "HTTPError: HTTP Error 404: Not Found"
-    },
-    {
-      "source": "Threads Zuckerberg",
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "error": "RuntimeError: All feed endpoints failed: https://rsshub.app/twitter/user/simonw -> HTTPError: HTTP Error 404: Not Found | https://rsshub.isrss.com/twitter/user/simonw -> HTTPError: HTTP Error 503: Service Unavailable | https://rsshub.rssforever.com/twitter/user/si"
     }
   ],
   "sources_attempted": 22,
-  "sources_succeeded": 18,
+  "sources_succeeded": 19,
   "deduplication": {
-    "raw_items": 360,
-    "unique_titles": 356,
+    "raw_items": 370,
+    "unique_titles": 366,
     "duplicates_removed": 4
   },
   "note": "Free RSS collection. NEWS is a neutral label, not an importance claim. triage_score is a transparent heuristic, not verified importance. Feed content has not been independently verified. quality_flags identify missing or potentially stale data."

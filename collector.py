@@ -96,6 +96,57 @@ SOURCES = [
         "category": "water",
         "url": "https://news.google.com/rss/search?q=energy+efficiency+heat+pump+technology&hl=en-US&gl=US&ceid=US:en",
     },
+        # --- AI: nguồn chính thức và nghiên cứu miễn phí ---
+    {
+        "name": "Google DeepMind Blog",
+        "category": "ai",
+        "url": "https://deepmind.google/blog/rss.xml",
+    },
+    {
+        "name": "Google Research",
+        "category": "ai",
+        "url": "https://research.google/blog/rss/",
+    },
+    {
+        "name": "arXiv Machine Learning",
+        "category": "ai",
+        "url": "https://rss.arxiv.org/rss/cs.LG",
+    },
+    {
+        "name": "TechCrunch AI",
+        "category": "ai",
+        "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    },
+    {
+        "name": "Hacker News AI Discussions",
+        "category": "ai",
+        "url": "https://hnrss.org/newest?q=AI",
+    },
+
+    # --- X: tài khoản công khai qua RSSHub ---
+    # Thử nghiệm; dịch vụ trung gian có thể bị giới hạn.
+    {
+        "name": "X OpenAI",
+        "category": "ai",
+        "url": "https://rsshub.app/twitter/user/OpenAI",
+    },
+    {
+        "name": "X Google DeepMind",
+        "category": "ai",
+        "url": "https://rsshub.app/twitter/user/GoogleDeepMind",
+    },
+    {
+        "name": "X Simon Willison",
+        "category": "ai",
+        "url": "https://rsshub.app/twitter/user/simonw",
+    },
+
+    # --- Threads: thử nghiệm, chưa bảo đảm hoạt động ---
+    {
+        "name": "Threads Zuckerberg",
+        "category": "ai",
+        "url": "https://rsshub.app/threads/zuck",
+    },
 ]
 
 VALID_CATEGORIES = {"ai", "football", "water", "vietnam", "world"}

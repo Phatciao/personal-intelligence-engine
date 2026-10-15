@@ -129,16 +129,19 @@ SOURCES = [
         "name": "X OpenAI",
         "category": "ai",
         "url": "https://rsshub.app/twitter/user/OpenAI",
+      "fallback_urls": ["https://rsshub.isrss.com/twitter/user/OpenAI","https://rsshub.rssforever.com/twitter/user/OpenAI","https://rsshub.feeded.xyz/twitter/user/OpenAI"],
     },
     {
         "name": "X Google DeepMind",
         "category": "ai",
         "url": "https://rsshub.app/twitter/user/GoogleDeepMind",
+      "fallback_urls": ["https://rsshub.isrss.com/twitter/user/GoogleDeepMind","https://rsshub.rssforever.com/twitter/user/GoogleDeepMind","https://rsshub.feeded.xyz/twitter/user/GoogleDeepMind"],
     },
     {
         "name": "X Simon Willison",
         "category": "ai",
         "url": "https://rsshub.app/twitter/user/simonw",
+      "fallback_urls": ["https://rsshub.isrss.com/twitter/user/simonw","https://rsshub.rssforever.com/twitter/user/simonw","https://rsshub.feeded.xyz/twitter/user/simonw"],
     },
 
     # --- Threads: thử nghiệm, chưa bảo đảm hoạt động ---
@@ -146,6 +149,7 @@ SOURCES = [
         "name": "Threads Zuckerberg",
         "category": "ai",
         "url": "https://rsshub.app/threads/zuck",
+      "fallback_urls": ["https://rsshub.isrss.com/threads/zuck","https://rsshub.rssforever.com/threads/zuck","https://rsshub.feeded.xyz/threads/zuck"],
     },
 ]
 
@@ -507,21 +511,33 @@ def parse_feed(xml_bytes, source):
 
 
 def fetch_source(source):
-    request = urllib.request.Request(
-        source["url"],
-        headers={
-            "User-Agent": USER_AGENT,
-            "Accept": "application/rss+xml, application/xml, text/xml, */*",
-        },
-    )
+    urls = [source["url"]] + source.get("fallback_urls", [])
+    errors = []
 
-    with urllib.request.urlopen(
-        request,
-        timeout=REQUEST_TIMEOUT,
-    ) as response:
-        xml_bytes = response.read(5_000_000)
+    for url in urls:
+        request = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": USER_AGENT,
+                "Accept": "application/rss+xml, application/xml, text/xml, */*",
+            },
+        )
 
-    return parse_feed(xml_bytes, source)
+        try:
+            with urllib.request.urlopen(
+                request,
+                timeout=REQUEST_TIMEOUT,
+            ) as response:
+                xml_bytes = response.read(5_000_000)
+
+            items = parse_feed(xml_bytes, source)
+            if url != source["url"]:
+                print(f"  FALLBACK OK: {url}")
+            return items
+        except Exception as exc:
+            errors.append(f"{url} -> {type(exc).__name__}: {str(exc)[:160]}")
+
+    raise RuntimeError("All feed endpoints failed: " + " | ".join(errors))
 
 
 def deduplicate(items):

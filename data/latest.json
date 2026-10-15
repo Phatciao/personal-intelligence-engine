@@ -1,9 +1,538 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-15T04:39:50.791187+00:00",
+  "generated_at": "2026-10-15T09:51:16.397824+00:00",
   "status": "ok",
   "items_count": 150,
   "items": [
+    {
+      "title": "Ipswich news: Should Town dare to dream about more than survival? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Wd2k3d2pFSXdQMEdiSDJNMVp2THBNZ2dEQXByUjduNHhwU3kzOWRNb2xra1pXeDVlNmpzaENIVEFKZHEtYkROOHA3ZGs3S0o3YTBWZWg2MERHcDFqNmszR3BrNTVMWjU2NDlz?oc=5",
+      "summary": "Ipswich news: Should Town dare to dream about more than survival? BBC",
+      "published_at": "2026-10-15T09:32:27+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
+      "title": "Everton vs Chelsea: Key statistics and facts | News | Official Site - Chelsea Football Club",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSlpCR2dEX2FyRFlqT2ttYzBFZXVhb201VHc0RG5aMlVOSkpQbmNlNFFmQmFtNUdZeTVDLUlJOFdQSGxkSkhmMTZxV0k0SDVEOFZBRng4S2diSF83V2Q4TVMzaWRoLWFMdjdMV09qcjZpUlNPbFp2M3JjSFhHU2FVWUlVaWJPMnhJUHhyTmtOZktoMUpUWlE?oc=5",
+      "summary": "Everton vs Chelsea: Key statistics and facts | News | Official Site Chelsea Football Club",
+      "published_at": "2026-10-15T09:30:00+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
+      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+      "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+      "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+      "published_at": "2026-10-15T09:29:54+00:00",
+      "source": "BBC Business",
+      "category": "world",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "BBC Business"
+      ]
+    },
+    {
+      "title": "U19s highlights: Arsenal 2-3 LOSC Lille - Arsenal.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONTFxSExXSzZUT3U3NS1oMWd3UHJTT1JBSGNEbG41dGhHQ1NaWlFLSHBpNkRXcEhBSHZMblJaaDFFSHBjS2tnOFRXZUt1YTdZT0xnVXBlVXFHdDVqOXpGbkNaREljeTdQMm91WkhaeE55Q1BLeTNlLXZWZFozaXIxZHhpTDhaZjA?oc=5",
+      "summary": "U19s highlights: Arsenal 2-3 LOSC Lille Arsenal.com",
+      "published_at": "2026-10-15T09:19:37+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+      "published_at": "2026-10-15T09:10:10+00:00",
+      "source": "BBC World",
+      "category": "world",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "Mamadou Sangare challenges Brentford to aim for \"top two\" Premier League finish - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWjN1Zkk2bVBfNGhySW4yM0FTdElWeEhOc0F0akRqM0FOM0xuMi13cnpaUjZYTHdTaFNRSzZqRzZkLVBrc01saUlfd2Zla2tFdmVxbGJvdWFPckZSSmp2OHRqc3hWVmNJdnA2Ni1tbVh3OWNIV21qSnFfUEdwM250dzVZS01CZWszZG5SYWtEbzhPTGVUdzNwRlVIXzlfblhaOHIxaHhXazk4cHFoNXpNTlNxZUpIOGhtUzNOdWd0dw?oc=5",
+      "summary": "Mamadou Sangare challenges Brentford to aim for \"top two\" Premier League finish ESPN",
+      "published_at": "2026-10-15T08:52:00+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
+      "title": "White House defends new press secretary amid questions about her legal credentials",
+      "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
+      "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
+      "published_at": "2026-10-15T08:41:04+00:00",
+      "source": "BBC World",
+      "category": "world",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "Arteta's injury update on Hincapie, Zubimendi and Saliba - Arsenal.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNTlyLUowYWJKLUt0aUFMaTFHbnBuZXZfVmdoMzl2bFpHTnJwcFN4SC1mY1NHZHdPV3BUWVVsWFhfeGRLUy1vVkRiWFpvUkRrSjV1WFhuR0g3dVQ2WGxZU1dsQk53Rm1kbGhHdXdhRGd3b3U1ZGlTRl95MUtELTBZTjZNQTlScXVUT0o3TlQ4Z3ItOTdEaHE1T2s3bkM?oc=5",
+      "summary": "Arteta's injury update on Hincapie, Zubimendi and Saliba Arsenal.com",
+      "published_at": "2026-10-15T08:33:32+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
+      "title": "Arsenal's wildcard option as Arteta searches for left-wing solution - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMnd3UzE5b1ZmdGVEdldMS1RfSllmT2VyMF9sb2xrMVJ4RlN2NjdEazl5VkkzUjJFeWYtajZaTWEwLWxHekxTTVQ2ekstUDl1eUVSZjY5Zzh2WURJY2tLRWR6OS1NcFF6WjFDNG1jTDlHT25xNVFHbXViWmtsZEFvV0FvQW9VODlIdGFaZEd2T3JBWUtEbWhIZ1NqTW1PWEZsSkE?oc=5",
+      "summary": "Arsenal's wildcard option as Arteta searches for left-wing solution London Evening Standard",
+      "published_at": "2026-10-15T08:32:07+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
+      "title": "Why Souness rejected Barcelona when he left Liverpool",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0j07pdw95eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Liverpool legend Graeme Souness reveals he rejected the chance to sign for Barcelona when he left the European champions.",
+      "published_at": "2026-10-15T08:30:04+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
+    },
+    {
+      "title": "Liverpool: Graeme Souness rejected Barcelona to join Sampdoria - BBC",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UUmlENmhtaXF6SUVHLVBmemRFZ204MU04UTI0Z281NWFwamhMYzhEREU0bUNXMEJKUG1PY3VDUDA3czJMRDljX29Id2Y0RUNUeGVCbno4THVnQlZJNU1FVFgyRGMxS2VFdWxv?oc=5",
+      "summary": "Liverpool: Graeme Souness rejected Barcelona to join Sampdoria BBC",
+      "published_at": "2026-10-15T08:30:04+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
+      "title": "China’s economy seen missing target as global shocks bite - Free Malaysia Today",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2JSaVBpaHFVUERnWFRidHZPeF9FaDFDeEV1bVZoS1JSdzMzcDB0NkhqUE8xNUo2TUVZQ1BWTnJReXh2c19uaTgwWk04OEkxY2lZSXNrRmxXcEYxQmFZRm12ck1lMzFBbFRVWjM5UDBCYjJMLXFqVUJTOWlieTEtUjdZbUpaTUlVQllFaWFBQWNRR1VCd3JIX2RPbk1RODd2eER3U2VBUjNZT1J6VWZGMHFjaGVNaUFWTXBJaA?oc=5",
+      "summary": "China’s economy seen missing target as global shocks bite Free Malaysia Today",
+      "published_at": "2026-10-15T08:22:00+00:00",
+      "source": "Google News World Economy",
+      "category": "world",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News World Economy"
+      ]
+    },
+    {
+      "title": "Gareth Southgate rules out return to Premier League management - The Times",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZHhjaWRzZi1XTnFfeVBXOG5feUtmYlZETE5mNGExSktXTzVFU2RMeVlkUnVuWTM1amVJcHVJUk5xNzdaMXF6TV9oVElnOEN1ZU1Hb3VwdXhrSjFCMEp3OEszQ2h0ZWcxckJ4SExhZXMwZDd2cGRyQUJwOWNCeExVa2w1MzlLUVpoOTNicThMQlZENThBOVZ2Wk94YjlsTGFzS1NWYXZ6WTc?oc=5",
+      "summary": "Gareth Southgate rules out return to Premier League management The Times",
+      "published_at": "2026-10-15T08:20:00+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
+      "title": "How to watch Nottingham Forest v Arsenal live on TV - Arsenal.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEp2T0NSZDhfQkRwTk5tSWRoZDkzdmtScG8wc2VXZnJxT05WSjh4eUlIbEJOdUpheVp0OS1DdVFSNlpYNHo2cUtiM0x2amxCRDlzOUMyalNvMFlDTHhxZEJtdWplYzdDOXBHOVZ2SHVfYjRsX3BaNl9ERGxpRXVaMjFia3J6TlJRLTZxcHhjcEhfQUZiQjM0MA?oc=5",
+      "summary": "How to watch Nottingham Forest v Arsenal live on TV Arsenal.com",
+      "published_at": "2026-10-15T08:03:30+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
+      "title": "Liechtenstein PM’s Vietnam visit expected to provide fresh impetus for bilateral ties: Ambassador - Thông tấn xã Việt Nam",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONmN6RXlYb1ZYbFZ6YlRBallFckF6MFMyXzB5V1NkUnhZWmdHNlBkUDFkUTVTM3N2UF9iREpBTDVhd3R3eDlQZjF1emZNVVVod0JVVldKSkM5QzNBT2hERHFFYjJZY3B5ejlvaXB5LVJFWDVJZ3dxY28xci1sVnNoRk1zbFZFVTJYWmU3MXRIUkZEVUhiMC1zRC1uU29WcmZteHRpS3RCUzdqYVhkakVXbDg4ckNjVDM1NFlaZlVyWmRsTFNsQTlqVW1BQ05MeTh1LWVNWUpxdw?oc=5",
+      "summary": "Liechtenstein PM’s Vietnam visit expected to provide fresh impetus for bilateral ties: Ambassador Thông tấn xã Việt Nam",
+      "published_at": "2026-10-15T08:03:18+00:00",
+      "source": "Google News Vietnam",
+      "category": "vietnam",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Vietnam"
+      ]
+    },
+    {
+      "title": "Ancelotti makes Arsenal claim after 'harsh' Champions League defeat - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOWlZbUJQcjhRc2lUTjBlYUltRjNZNE5FRC1iY2poclYtNGxPZHZXQVRvSjdueDR4RjFrUEdpRk1FcGVBbUR5NVBadGFnZXdzTXhlNGt1SkJucExERVVqdkYzckdJOS1SZzMtcmdBLUFfS1htNURhbzlmb19BNUgtWlc2S0FvQUFYSHNsb25mSGxsUnJQM2dtRw?oc=5",
+      "summary": "Ancelotti makes Arsenal claim after 'harsh' Champions League defeat London Evening Standard Report: Arsenal 3-0 Lille Arsenal.com Arsenal’s big guns blow Lille away after the second string flop The Telegraph",
+      "published_at": "2026-10-15T07:53:21+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
+      "title": "Arsenal XI vs Nottingham Forest: Confirmed team news, predicted lineup and injury latest - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbllxNGJoa1Q4eGd5VUUzaVR1Z3UycHJjTlZ2Mm9hNGdfN0c5Wi0wX3kwUEVudjdzOGpoZGpKRWc3ajRUS3MxMXNOajBYUTRkRlphb1RKaWlWZEdoNDIxLUYtazNUbGx5dWR4aGQtd3FiaFZFWUM1U1dyV0NTVFhFVDJ4LXdSQms1V3NPMUhSMVRZTzI0MWp5TFhGbWNjek01N0ZjbFF5UFJObmF6V3RSaW11UlFfakdPNXdTUHpPeEp1MHdfcnpReTJLSTFaMjZ6NktqbmVvWlk?oc=5",
+      "summary": "Arsenal XI vs Nottingham Forest: Confirmed team news, predicted lineup and injury latest London Evening Standard",
+      "published_at": "2026-10-15T07:47:05+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
+      "title": "The Portuguese second-tier team hosting Sunderland in Europe",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw99zxvyzj04o?at_medium=RSS&at_campaign=rss",
+      "summary": "Portuguese second-tier side Torreense host Sunderland in the Europa League in what will be their first ever European home match.",
+      "published_at": "2026-10-15T07:30:41+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
+    },
+    {
+      "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "published_at": "2026-10-15T07:20:45+00:00",
+      "source": "BBC World",
+      "category": "world",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World",
+        "BBC Business"
+      ]
+    },
+    {
+      "title": "'My desire has changed' - Sir Gareth Southgate rules out Premier League return as former England boss explains why he walked away from football - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaS1ueFVZdzBtUXk4VThsUDBqZVdwUFJ4NmdBS1pCZ0RvWjdoQWxzY2tfZERuVzVvdHpIT3hObndxNmZ2QjJzelgwaXdSTnV2SHJBYnlDRzNDVkxaRjNhemdvUGt3aUdmOEZ1b0JYRmhfYW56ZVBWZkpIM1Z4ZTJ5eF9iZWdLVmxUNGg2VFdQalkyMHBHTHo1c19pUUwwa1JQS0h1Ty1XaFl0SXJOWTlIc0ZxY2hpZTdONmpRVVBn?oc=5",
+      "summary": "'My desire has changed' - Sir Gareth Southgate rules out Premier League return as former England boss explains why he walked away from football Goal.com",
+      "published_at": "2026-10-15T07:06:56+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
+      "title": "Man City told size of points deduction they face as Premier League rivals left 'fuming' - Daily Express",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWE1XMmhNMUdmanhiTm9qWnFqa0F1TElqQUUzUElYSW80dU9hX1U4azRBQ05RZXlDbWpqcnV0UUhnOUgxc2ZHRkE0a2xtcXdiOC1WQVFDSkNTc0RkU0twZlk1MzNqaVdrX2k5ZXFwUnR5Z09kcFVXVjY1LWJJXzhnYUtZOXdVZ0Nyd0FHYzBCUnptRDBuNTZJUkhwS1nSAaIBQVVfeXFMUHJHejJ2S2lBUjVFZWk5TDZRbkJ3aXNoM3Q3NTFBaGM2R0xjRUlvMkhiUldmeGJfVkVfc1NxZkx3d2k1Tm1ZM3UyTkdQQlZJTUVjZzlLVHdCOXBPSkZ3M3FoMzZNY21CemV1a0tUc3dMd294eHFJZTFYRU5UYzA4R25mUDJCWHpsc1Q2bXQ2UkxaMXRPQmpxa2ZfaklRd1JLaU5R?oc=5",
+      "summary": "Man City told size of points deduction they face as Premier League rivals left 'fuming' Daily Express",
+      "published_at": "2026-10-15T06:36:00+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
+      "title": "Could Wenger really take on Infantino and run for Fifa presidency?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx30e8dqmnzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Senior figures in European football tell BBC Sport they want former Arsenal manager Arsene Wenger to run as a surprise candidate against Gianni Infantino.",
+      "published_at": "2026-10-15T06:35:39+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
+    },
+    {
+      "title": "The Andorran club making history with a Pochettino in the team",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwy4nyv3rqzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Maurizio Pochettino and inter Club d'Escaldes are set to make European history for footballing minnows Andorra.",
+      "published_at": "2026-10-15T06:09:12+00:00",
+      "source": "BBC Sport Football",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
+    },
+    {
+      "title": "Quiz: Lewis Koumas is the 11th Wales player to score in the Champions League - can you name the other 10? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80QW84dVppQ3NPNWl0YVZ1SUg2OEktcVQxVmlZYzc2Y3k5SDR6dndlN0t3dnB1aVdpdXdYS3NkVmNlcEJPbWhxWmtsOVc2d1BkVkFEVVhpckpUd3FGOUFHX3I0Y3V1S1YydWhv?oc=5",
+      "summary": "Quiz: Lewis Koumas is the 11th Wales player to score in the Champions League - can you name the other 10? BBC",
+      "published_at": "2026-10-15T06:06:04+00:00",
+      "source": "Google News Premier League",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
+      "title": "IMF Chief Warns Global Economy’s Resilience Is Reaching Its Limits - liberianobserver.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNEFraVhGM0hXc3hwVFpndGIxR1NaVlhPWkNIc1BidS1MeGsxOVU1MEF0dU5XNk5KZkJJQ3c0WlhfTDlZNXZ3dHVPeDJSSURxUGFneHp1X2QteFZaR1BOZkVUYWtmenlzOFpUQ2Q0bThENV9fcENDdnlvMXdjaWt3UzZUMmZWNkQxbW0wNGttWm54ZVBQajdCcDh3c21ORm51dUp3Z0NhOHdENHd6ZUIyemh6cUtZQlJtX1B2bklXOWItYVNCU3BQMlhpVk1lRnJVdXIzYzhrUDFjUTB0R1FfVzBaVkpJUHRNdnNiMDVQcw?oc=5",
+      "summary": "IMF Chief Warns Global Economy’s Resilience Is Reaching Its Limits liberianobserver.com",
+      "published_at": "2026-10-15T06:00:00+00:00",
+      "source": "Google News World Economy",
+      "category": "world",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 54,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News World Economy"
+      ]
+    },
+    {
+      "title": "Arsenal have advantage over other clubs in race for ‘one of the best wingers in Europe’ - CaughtOffside",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPXzJmcTJuZ1ZyQWUxYi00UHVWYS1sSWtnVExLaFBGMUwzQ3luQVhQQl95OFVMQ3ZUSUZlNjVXMklUazJUeHpfYU9YYW82aU1kcENGWUlPdFU1bFQyaGpvWUxBUDIwOEVWRW9XZXlWb2puUTNVVnFMRm11VlZWdFl2LXhFMURUeU5hZzF1MVJZOVpwYnpnT0HSAZsBQVVfeXFMTWN0WTZLWUdmRjNDQnlMWGZQTnFMdHFaVEFZdDV5SGRpUS1BT1hsOUZvY3k0cEdOY3RqalRpemZsa3MzbUMxMGRlbjU5MGV6M1N6bUxzeUdDc3ZmV3ZwTTUydUpoZHFYYmVnM0NVa09lTVJ6WVZtRnc2ZndVZW9QOXFUNHZrQlVGMzExU3BmRkZmOHRld3Rud2NTWkk?oc=5",
+      "summary": "Arsenal have advantage over other clubs in race for ‘one of the best wingers in Europe’ CaughtOffside",
+      "published_at": "2026-10-15T05:50:34+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Arsenal",
+        "Google News Premier League"
+      ]
+    },
+    {
+      "title": "'I paid thousands to a company for jobs that never came'",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
+      "published_at": "2026-10-15T05:02:37+00:00",
+      "source": "BBC Business",
+      "category": "world",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Business"
+      ]
+    },
     {
       "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
       "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
@@ -11,48 +540,34 @@
       "published_at": "2026-10-15T04:30:08+00:00",
       "source": "BBC World",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World"
+      ]
     },
     {
-      "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-      "published_at": "2026-10-15T04:19:17+00:00",
-      "source": "BBC World",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "LASK 3-6 Liverpool: Bradley Barcola scores hat-trick as Florian Wirtz shines in Champions League victory - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPODBsNzg0WEZSMm13c29tOGNMS3JZZ3BCVWFJMHNQQ3I5Z3d0eUhwOGtNTzk4ckNvWHBrZDZVZ1B2MWpZc0Z4dkhKVFhlejdwWUpUSXJ3X2hxV3FCdTlrLURsa1BGS3FmWXpBQnhDdlVKblgwekRIWWtXX000bDk1VXZJSkltcHJaQ3ZrZXRvaTd6OVh0Z2IwTU84QTJzbVlqWUw2SlVfUlZhTS1WWEktRE9BeURIXzlpZldqdjhVeE4zRXMteFRrYjJMX2duY25VZW40ckhWblBuOXRaalctWWlISS1DcFk?oc=5",
-      "summary": "LASK 3-6 Liverpool: Bradley Barcola scores hat-trick as Florian Wirtz shines in Champions League victory Sky Sports",
-      "published_at": "2026-10-15T04:07:44+00:00",
-      "source": "Google News Premier League",
+      "title": "Arsenal latest: Viktor Gyokeres ripped apart as team-mate lifts lid on squad's title ambition - Football London",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbkxkVjBIak9zZUVHSmpZN2ppZEJJT0VkMGlNZGxTR2poOVJkN0pEMW9XLVFMa3FqSWduVTZudnV0NXA1WDhvdWhNcVdTbEdXRlpvYVN5WjlkdFUwUXNtaTI3SkJZN0VTTkhhc1F1aTJTaVV6dTgyenAzSVZGdzlpRHBPczVHX2JnTlRodjVEaDNoVWJq0gGaAUFVX3lxTFBwXzVTN3ZPb2IwdHdNWFpHSDY3TmtOUFMxRDJDYkZuNHVxRmZJeURJVUpTY1ZUN2pGQXFWTjFvNXliX0FXQl84ZjdqblZlSHpSZkRIOXFMYnpKZVBwWTJCeVlNSk5tNmNkWkxSdXJPUmpzNkktbHVDbHVBYkJkdUxkbkI4UXNyd3lMeG9abzVFdTRYYTNYNGxJeWc?oc=5",
+      "summary": "Arsenal latest: Viktor Gyokeres ripped apart as team-mate lifts lid on squad's title ambition Football London",
+      "published_at": "2026-10-15T04:14:22+00:00",
+      "source": "Google News Arsenal",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
-      "url": "https://arxiv.org/abs/2610.14005",
-      "summary": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines and the people who write the tests? One answer to the question hinges on inverse problems, inductive inference questions for which difficulty depends on the complexity of the underlying mechanism, given the observations and the previous knowledge. Levin's Kt, a computable variant of Kolmogorov complexity, puts a theoretical upper bound to that difficulty, balancing the simplest representation encoding for the mechanism and the logarithm of the time steps to run that mechanism. Previous tests derived from Levin's Kt, such as the original C-test, are based on minimalistic Universal Turing Machines (UTM), capable of very limited representations and no previous knowledge. Reasoning large language models (LLM) are UTMs that capture a compendium of human culture as knowledge, using prompts as natural language programs. This paper presents the first test based on Levin's Kt with LLMs as representational machines. Fresh test items can be produced at high difficulties, estimated in a ratio scale measured in bits, before any human or frontier model can solve them. We formalise the measure, devise a lightweight generation and certification pipeline, explore the effect of the power of the reference machine and the gap between examiner and examinee. We produce a first battery of certified items administered to twelve LLMs. The resulting agent characteristic curves decrease with difficulty, down to the uncharted high-difficulty region, the supra-intelligence window of items we can certify, yet beyond generations of frontier intelligence.",
-      "published_at": "2026-10-15T04:00:00+00:00",
-      "source": "arXiv AI",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "The Silent Failures in Agentic Data Science",
-      "url": "https://arxiv.org/abs/2610.14115",
-      "summary": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model development. Existing evaluations of agentic data science (agentic DS) assess downstream predictive performance and code correctness, providing preliminary insight in agentic DS capabilities. We argue that these evaluations overlook the fundamental principles of data science: methodological data science- and domain knowledge. As such, only assessing downstream performance masks methodological failures such as data leakage and inappropriate validation, limiting the development of robust agentic DS systems. In this paper, we evaluate agentic DS beyond accuracy from three different angles: 1) a large-scale analysis of failure modes in common agentic DS frameworks and models across 220 data science tasks, 2) a reusable and extensible test suite with curated data science tasks that test for six specific failures in a controlled manner, and 3) a qualitative assessment of agentic DS pipelines against expert solutions on Kaggle competitions. We find that the majority of agentic solutions contain at least one failure mode despite the complexity of agentic harness or model capacity. Moreover, we identify a positive correlation between the occurrence of data leakage failures and predictive performance, confirming the necessity to evaluate agents beyond accuracy. Our qualitative analysis shows that DS agents generally lack problem solving creativity and domain knowledge, compared to competition-winning data scientists. We believe that principled failure mode analysis, as presented here, should be integral part of agentic DS evaluations, and that the insights we surface will be key in developing trustworthy agentic DS pipelines.",
-      "published_at": "2026-10-15T04:00:00+00:00",
-      "source": "arXiv AI",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
     },
     {
       "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
@@ -60,39 +575,19 @@
       "summary": "arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells. While numerous post-training pipelines exist for tool-use agents, their counterparts for harness-based agents remain scarce and are predominantly one-shot and teacher-dependent: a stronger external model synthesizes tasks and collects trajectories, the target agent is trained once, and evaluation results are consumed by human researchers rather than fed back into the loop. Such pipelines are inherently bounded by the capability of the external model and the scope of human prior, leaving no room for self-improvement. To address these limitations, we propose ClawLoop, a framework that enables self-improving without any external teacher model and with minimal prior dependencies. ClawLoop composes three phases into a self-sustaining cycle: Task Synthesis, which generates a diverse pool of training tasks via two complementary construction routines, applies diagnosis-conditioned difficulty growth followed by both agent-free and agent-based task validation; Training, which updates the agent via SFT and/or RL; and Diagnosis and Feedback, which analyzes the agent's rollout behaviors to produce a capability analysis report that will be used as feedback for task synthesis in the next iteration. Using Qwen3.6-27B as the loop model, ClawLoop yields consistent improvements on SkillsBench, Claw-Eval-Live, and ClawGym-Bench. The iteratively refined tasks are further transferred to smaller-scale Qwen3.5-4B and 9B models with gains across all benchmarks, validating data quality independently of the loop model.",
       "published_at": "2026-10-15T04:00:00+00:00",
       "source": "arXiv AI",
-      "category": "water",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Correction Training for Diffusion Models",
-      "url": "https://arxiv.org/abs/2610.14136",
-      "summary": "arXiv:2610.14136v2 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predictions from the earlier steps, something it has never seen at training time. This might be one reason diffusion models often struggle without additional help, such as CFG. We introduce a correction step for diffusion models which attempts to reduce this training-inference gap. The corrector takes the base model's prediction as input and is trained against the same ground-truth target. This makes correction an explicit learning task, with training inputs provided by the base model. During sampling, at each denoising step, we iteratively refine the denoiser's clean-sample prediction. This allows us to correct predictions at intermediate denoising steps, preventing early artifacts from persisting into the final sample. Although the corrector is trained only on predictions from the base denoiser, it can be applied repeatedly to its own outputs at inference for better results. This simple framework leads to substantial improvement in sample quality while largely preserving diversity. We evaluate our method across DiT, SiT, and JiT. Our method substantially improves upon previously reported FID scores for unguided generation and, notably, unconditional generation, where producing high-quality samples without guidance has been particularly challenging. Our method achieves performance competitive with classifier-free guidance (CFG), and combining correction with CFG further improves diversity and reduces oversaturation typical of CFG. Finally, we show that the additional inference cost of correction can be amortized by distilling the refined predictions back into the base diffusion model, retaining the quality gains without additional inference-time overhead.",
-      "published_at": "2026-10-15T04:00:00+00:00",
-      "source": "arXiv AI",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
-      "url": "https://arxiv.org/abs/2610.14146",
-      "summary": "arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.0), an extension of Long-Horizon-Terminal-Bench that preserves its 46 original tasks while correcting task and evaluation-infrastructure defects and extending 31 tasks. LHTB 2.0 contains 77 tasks across 13 domains and eight task types. The extended tasks are produced through a systematic reconstruction-task pipeline. We start from a working scientific or engineering artifact, then use a parameterized reference implementation to generate multiple scenarios, reveal six as behavioral evidence, hold out three for evaluation, and use dense progress ladders to reward partial progress while preventing memorization of public outputs. We also extend the evaluation horizon from 90 minutes to three hours and record verifier checkpoints every 30 minutes, enabling direct measurement of sustained progress within a run. Across 1,145 scored model-task runs from 15 frontier models, GPT-6-astra leads with dense mean reward 0.69 and 37 tasks at R at least 0.95, followed by GPT-5.6-sol with dense mean reward 0.67 and 32 tasks at the same threshold. On the 30 reconstruction tasks, binary verifier scores average 0.221, whereas dense ladder scores average 0.653, showing that outcome-only evaluation discards substantial intermediate progress. LHTB 2.0 provides a broader, hardened, and process-aware testbed for studying reliable agent execution over hours.",
-      "published_at": "2026-10-15T04:00:00+00:00",
-      "source": "arXiv AI",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
-      "url": "https://arxiv.org/abs/2610.14149",
-      "summary": "arXiv:2610.14149v1 Announce Type: new Abstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine through standardized, high-quality datasets and multi-institutional collaboration across academic and non-academic sectors. This framework addresses the gap between AI advances in human medicine and the fragmented state of veterinary AI development.",
-      "published_at": "2026-10-15T04:00:00+00:00",
-      "source": "arXiv AI",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 72,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
     },
     {
       "title": "Unconstrained CTI-REALM with Open-Weights",
@@ -101,78 +596,18 @@
       "published_at": "2026-10-15T04:00:00+00:00",
       "source": "arXiv AI",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Visualizing the World Model in an Agent's Value Function",
-      "url": "https://arxiv.org/abs/2610.14186",
-      "summary": "arXiv:2610.14186v1 Announce Type: new Abstract: Could model-free reinforcement learning algorithms actually be learning a model of the environment? In this work, we apply counterfactual interventions which hold everything about a state fixed, besides a targeted change, to explore if the value function of a Proximal Policy Optimization agent forms a world model of the Crafter environment. Despite only being trained to optimize reward, we discover that the value function learns concepts such as the rules governing when a diamond is collectible, water and food having an impact on health, heuristics regarding inventory, and more. Finally, we discuss the safety implications of our visualizations and some shortcomings of current reinforcement learning agents that will prevent us from building truly advanced machine intelligence.",
-      "published_at": "2026-10-15T04:00:00+00:00",
-      "source": "arXiv AI",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models",
-      "url": "https://arxiv.org/abs/2610.14190",
-      "summary": "arXiv:2610.14190v1 Announce Type: new Abstract: Explaining a vision--language model (VLM) prediction requires tracing training-example influence to the multimodal evidence that mediates it, yet existing attribution methods largely operate only at the sample level. Recent latent-mediated influence methods provide feature-level attribution in language models, but lack the multimodal and spatial structure needed to ground influence in VLMs. We introduce MOSAIC (Multimodal Orthogonalized Sparse Autoencoders for Influence Characterization). It learns a shared sparse image--text latent space whose concepts are 1) sparse within each modality, 2) supported on contiguous image regions, 3) aligned to the phrases that describe them, and 4) approximately decorrelated. It then applies EK-FAC to decompose training-example influence through these concepts and localize their contributions to specific text phrases and image regions. We evaluate MOSAIC on Qwen and Gemma across captioning, chest X-ray understanding, and visual question answering. The learned features are more localized and coherent without degrading task behavior, and ablating influence-ranked latents changes model outputs more than ablating latents ranked by activation or frequency. We find that visual evidence can substantially reorganize training-data attribution while preserving more of the shared latent structure. MOSAIC thus connects where model behavior comes from with what multimodal evidence carries that influence.",
-      "published_at": "2026-10-15T04:00:00+00:00",
-      "source": "arXiv AI",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs",
-      "url": "https://arxiv.org/abs/2610.14209",
-      "summary": "arXiv:2610.14209v1 Announce Type: new Abstract: The most accurate agents executing user-provided tasks are driven by large, cloud-hosted models, which solve them by reading the private data of the user. Agents powered by models small enough to run on edge devices keep that data local, but yield far worse results. A third option is to have cloud models write a program that devices execute: the data stays local, but as the program is written before any data is seen, it fails whenever a step depends on interpreting content that appears only at run time. We explore an intermediate architecture, in which the cloud-written program defers bounded questions over user data to a small local model through an ordinary function call. On AppWorld this improves the success rate of a code-only agent in all six combinations of backbone model and test partition we evaluate, by up to 14.9pp, recovering a substantial part of the gap to a cloud-hosted ReAct loop while keeping user data on the device.",
-      "published_at": "2026-10-15T04:00:00+00:00",
-      "source": "arXiv AI",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Harness^2: Recursive Agent Harnessing for an Open World",
-      "url": "https://arxiv.org/abs/2610.14224",
-      "summary": "arXiv:2610.14224v1 Announce Type: new Abstract: LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these harnesses. However, deploying RSI in open-world settings still faces two critical challenges. First, open-world tasks are typically unseen during the harness design phase and novel at test time, leaving no ground-truth verifiers to reliably guide online harness edits. Second, the RSI process remains highly task-specific and fails to generalize to novel scenarios. We introduce Harness^2, a plug-and-play, recursive agent harnessing framework that addresses these challenges through two connected levels of recursion. Task-level recursion refines the current task's harness using a contrastive Propose-Probe-Compose step that reliably guides edits without ground-truth verifiers, and can be scaled further via parallel or sequential recursion. Harnessing-level recursion then extracts experience from these edits to update a continual improvement harness, enabling the agent to better adapt to future tasks. Across three professional benchmarks and four model-harness configurations, a single step consistently improves GLM-5 and Gemini 3.5 Flash over their base harnesses, yielding gains of up to 11.5 points on WorkBuddy-Bench, 4.5 points on JobBench, and 11.8 percentage points on LAB, with further gains as the task-level recursion budget increases.",
-      "published_at": "2026-10-15T04:00:00+00:00",
-      "source": "arXiv AI",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Echo: Error-Compensated 4-Bit Tensor-Parallel Communication for LLM Training and Inference",
-      "url": "https://arxiv.org/abs/2610.14277",
-      "summary": "arXiv:2610.14277v1 Announce Type: new Abstract: Tensor parallelism ends every layer with an all-reduce that sits between two dependent matrix multiplications, so its cost cannot be hidden and grows as compute outpaces interconnect bandwidth. Sending 4-bit instead of 16-bit values would cut this cost by nearly 4x, but the all-reduce must add the values it carries, and rounding the sum injects an error at every call. Model quality depends on how these errors accumulate over layers, yet existing methods treat each call on its own. We present Echo, a 4-bit all-reduce for training and inference that controls the accumulated error. Echo moves data in 4 bits and sums in high precision, so each value is quantized at most twice per call for any number of GPUs. The summation reveals each injected error, and Echo feeds it back into later calls, so old errors cancel instead of accumulating. We prove that the accumulated error stays bounded independently of depth. On A100 GPUs, Echo is 2.09x faster than the 16-bit NCCL all-reduce on 1 GB messages. It speeds up the time to first token by up to 1.16x and the training step by up to 1.09x on an idle interconnect, and by up to 1.44x and 1.38x as background traffic grows. It keeps the average accuracy over seven benchmarks within 0.4 points of 16-bit inference on Qwen3-8B. In 10B-token pretraining, its final loss is less than 0.9% above that of 16-bit training. Echo needs no FP8 or FP4 hardware.",
-      "published_at": "2026-10-15T04:00:00+00:00",
-      "source": "arXiv AI",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Controllable Diverse Sampling through Pullback Directions",
-      "url": "https://arxiv.org/abs/2610.14294",
-      "summary": "arXiv:2610.14294v1 Announce Type: new Abstract: Conditional diffusion models can generate high-quality images that align closely with a given prompt. However, samples generated from different random seeds may remain visually similar, limiting creative exploration. Existing approaches can increase variation, but often require additional optimization or sampling overhead, while stronger perturbations may introduce distortions that degrade image quality or prompt alignment. We propose a training-free method that leverages the local pullback geometry induced by the mapping from the conditioning-embedding space to the image space to identify directions of maximal output sensitivity. By steering different sampling trajectories along these directions, we encourage distinct generations while maintaining consistency with the conditioning signal. Experiments on MS-COCO and BrushNet show the efficacy of the method in improving diversity on prompt-conditioned image generation and inpainting.",
-      "published_at": "2026-10-15T04:00:00+00:00",
-      "source": "arXiv AI",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "ConicFlow: constrained Inference-time optimal control for flow matching models",
-      "url": "https://arxiv.org/abs/2610.14307",
-      "summary": "arXiv:2610.14307v1 Announce Type: new Abstract: We propose ConicFlow, which frames constrained sampling from a flow matching model at inference time as an optimal control problem that balances deviation from the pretrained trajectory against reward, subject to hard terminal constraints. We discretize this problem and adapt receding-horizon control, optimizing only a short window of the trajectory at each step for computational tractability. We address the resulting sequence of receding-horizon subproblems with a receding-horizon primal-dual algorithm. Its dual multipliers capture the difficulty of satisfying each constraint and are refined throughout sampling, steering generation toward feasible final samples. We further propose a terminal-estimate variant that avoids accumulating local truncation errors by evaluating the reward and constraints at the predicted terminal point rather than at the end of the current horizon. Under standard regularity assumptions, we establish finite-horizon guarantees on suboptimality. Under convex-affine structure, we derive a sharper bound that scales linearly with omitted horizon length, and we show that the terminal-estimate variant is provably tighter when the flow dynamics change slowly. Experiments in both low- and high-dimensional settings with a recent large-scale flow matching model show that ConicFlow achieves high reward and strong constraint satisfaction while deviating less from the pretrained flow than recent baselines.",
-      "published_at": "2026-10-15T04:00:00+00:00",
-      "source": "arXiv AI",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 72,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
     },
     {
       "title": "Which Metadata Matters for LLM Tool Selection in MCP? Evidence from Controlled Factor-Level Interventions",
@@ -181,38 +616,114 @@
       "published_at": "2026-10-15T04:00:00+00:00",
       "source": "arXiv AI",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 72,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
     },
     {
-      "title": "Actionable Meta-Requirements for AI Robustness Auditing",
-      "url": "https://arxiv.org/abs/2610.14356",
-      "summary": "arXiv:2610.14356v1 Announce Type: new Abstract: AI-enabled systems must remain dependable when the conditions under which they operate change (e.g., due to input perturbations, distribution shifts, or changes in external dependencies). This makes robustness auditing of such systems important for judging whether the available evidence is sufficient to support a defined robustness conclusion. However, designing an AI robustness auditing framework is challenging. A key unresolved issue is determining the requirements such a framework should support; these requirements have not yet been consolidated. We address this gap through meta-requirements: higher-order requirements specifying what a class of auditing frameworks should support. In design science research, literature and domain experts are common sources of meta-requirements; accordingly, we derive the initial set from literature and validate and refine it with practitioners. Our systematic literature review retained 74 of 2,890 records and derived 43 meta-requirements across 16 categories. We evaluated them with 128 practitioners, obtaining 5,504 ratings and 586 substantive comments. Overall, 81.20% of ratings indicated agreement or strong agreement. In particular, 41 of the 43 literature-derived meta-requirements were classified as strongly supported. Practitioner feedback refined the requirements and identified an additional requirement concerning external components and supply chain dependencies. The final set comprises 44 meta-requirements across 16 categories, of which 43 received quantitative validation. These meta-requirements can help organizations implement AI robustness auditing frameworks, assess existing frameworks for completeness, and refine them.",
+      "title": "Measuring the Inference Energy Efficiency of Open-Weight LLMs across Benchmarks, Reasoning Modes, and Hardware",
+      "url": "https://arxiv.org/abs/2610.14389",
+      "summary": "arXiv:2610.14389v1 Announce Type: new Abstract: Benchmark scores tell us what an LLM can do, but not how much energy is required to deliver that capability. We directly measure this trade-off for 86 open-weight model checkpoints, evaluated on seven benchmarks and six hardware platforms ranging from a consumer GPU to an eight-GPU server. We find large differences in energy efficiency even among models with similar capability. Most configurations lie away from the score--energy Pareto frontier: they use a median of 2.6--4.8$\\times$ more energy than another configuration that scores at least as well, with differences reaching 27$\\times$. Reasoning can improve capability, but enabling thinking increases energy by about 3.7$\\times$ on average, and the benefit depends strongly on the model family and output budget. Generated-token count is also an imperfect proxy for energy, misordering 18--24\\% of model pairs. In contrast, FP8 reduces energy by roughly a quarter with little change in score, while changing hardware largely rescales energy without changing the relative ranking of models. These results show that capability alone gives an incomplete picture of efficiency. We argue that benchmark scores should be reported together with measured energy consumption under a specified serving regime and output budget.",
+      "published_at": "2026-10-15T04:00:00+00:00",
+      "source": "arXiv AI",
+      "category": "water",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 72,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
+    },
+    {
+      "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
+      "url": "https://arxiv.org/abs/2610.14146",
+      "summary": "arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.0), an extension of Long-Horizon-Terminal-Bench that preserves its 46 original tasks while correcting task and evaluation-infrastructure defects and extending 31 tasks. LHTB 2.0 contains 77 tasks across 13 domains and eight task types. The extended tasks are produced through a systematic reconstruction-task pipeline. We start from a working scientific or engineering artifact, then use a parameterized reference implementation to generate multiple scenarios, reveal six as behavioral evidence, hold out three for evaluation, and use dense progress ladders to reward partial progress while preventing memorization of public outputs. We also extend the evaluation horizon from 90 minutes to three hours and record verifier checkpoints every 30 minutes, enabling direct measurement of sustained progress within a run. Across 1,145 scored model-task runs from 15 frontier models, GPT-6-astra leads with dense mean reward 0.69 and 37 tasks at R at least 0.95, followed by GPT-5.6-sol with dense mean reward 0.67 and 32 tasks at the same threshold. On the 30 reconstruction tasks, binary verifier scores average 0.221, whereas dense ladder scores average 0.653, showing that outcome-only evaluation discards substantial intermediate progress. LHTB 2.0 provides a broader, hardened, and process-aware testbed for studying reliable agent execution over hours.",
       "published_at": "2026-10-15T04:00:00+00:00",
       "source": "arXiv AI",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
     },
     {
-      "title": "When Pleasing the User Compromises Care: AI Sycophancy in Caregiver-Mediated Healthcare",
-      "url": "https://arxiv.org/abs/2610.14360",
-      "summary": "arXiv:2610.14360v1 Announce Type: new Abstract: Large language model (LLM) alignment often assumes that the user interacting with a model is also the primary beneficiary of its behavior. Yet in many consequential settings, one person directs the system while another bears the consequences. We study this problem in caregiver-mediated healthcare, where parents, pet owners, and caregivers make decisions for children, animals, and older adults. We introduce an evidence-grounded benchmark spanning veterinary, pediatric, and older-adult care, and test whether AI advisors maintain appropriate care when users express clinically inferior preferences. Holding patient facts fixed, we vary stated care preferences and communication styles and evaluate both initial recommendations and multi-turn follow-up. Across frontier and open-weight models, inferior preferences substantially increase switching from appropriate to inappropriate care beyond neutral conversational drift and increase agreement with the requested action, while communication style alone has a smaller effect. These failures accumulate across turns, including on cases models initially answer correctly, and often carry moderate or severe potential harm. In matched eldercare cases, the effect of an inferior preference is similar whether it is expressed by the patient or by a caregiver. Together with models' limited tendency to elicit patient preferences in caregiver conversations, this suggests that current models are highly sensitive to expressed user preferences but less sensitive to whose preferences are represented and who bears the consequences. Our results expose a broader limitation of user-centric alignment in settings with multiple stakeholders.",
+      "title": "Visualizing the World Model in an Agent's Value Function",
+      "url": "https://arxiv.org/abs/2610.14186",
+      "summary": "arXiv:2610.14186v1 Announce Type: new Abstract: Could model-free reinforcement learning algorithms actually be learning a model of the environment? In this work, we apply counterfactual interventions which hold everything about a state fixed, besides a targeted change, to explore if the value function of a Proximal Policy Optimization agent forms a world model of the Crafter environment. Despite only being trained to optimize reward, we discover that the value function learns concepts such as the rules governing when a diamond is collectible, water and food having an impact on health, heuristics regarding inventory, and more. Finally, we discuss the safety implications of our visualizations and some shortcomings of current reinforcement learning agents that will prevent us from building truly advanced machine intelligence.",
       "published_at": "2026-10-15T04:00:00+00:00",
       "source": "arXiv AI",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
     },
     {
-      "title": "ACED-Bench: Evaluating How LLM Agents Acquire and Act on Causal Evidence",
-      "url": "https://arxiv.org/abs/2610.14381",
-      "summary": "arXiv:2610.14381v1 Announce Type: new Abstract: Large language models are increasingly used as scientific assistants, yet we still lack reliable ways to evaluate whether they can investigate a system rather than merely answer a prompt. A useful evaluation must let agents choose experiments, interpret finite evidence, and make causal decisions, while keeping the environment coherent across repeated observations and interventions and preserving objective ground truth. We introduce ACED-BENCH (Active Causal Evidence and Decision Benchmark), a neuro-symbolic benchmark built around this requirement. The key idea is to separate the readable scientific surface from the formal causal world: LLMs generate natural-language scenarios and task text, while hidden probabilistic graphical models define the causal graph, data-generating process, intervention semantics, validation checks, and oracle answers. This yields scientific worlds that are natural for agents to investigate but exact enough for scalable, programmatic evaluation. The main leaderboard ACED-CORE contains 180 tasks: 60 set-valued causal ancestry/descendancy questions and 120 constrained causal-decision tasks. We also report ACED-QUAL, a 150-question yes/no qualification check using the same hidden-PGM interface. We evaluate seven contemporary LLMs and two earlier-generation models across three active agent designs. ACED-QUAL checks whether agents can use the interface to draw conclusions from evidence, while ACED-CORE tests whether they can decide what evidence to collect and when to commit to an answer. Evidence-ledger analysis localizes failures within the investigation: agents test the wrong intervention, lose relevant evidence, or continue after sufficient evidence has appeared. These results suggest that reliable AI co-scientists need explicit support for experiment design, evidence retention, answer commitment, and stopping.",
+      "title": "Echo: Error-Compensated 4-Bit Tensor-Parallel Communication for LLM Training and Inference",
+      "url": "https://arxiv.org/abs/2610.14277",
+      "summary": "arXiv:2610.14277v1 Announce Type: new Abstract: Tensor parallelism ends every layer with an all-reduce that sits between two dependent matrix multiplications, so its cost cannot be hidden and grows as compute outpaces interconnect bandwidth. Sending 4-bit instead of 16-bit values would cut this cost by nearly 4x, but the all-reduce must add the values it carries, and rounding the sum injects an error at every call. Model quality depends on how these errors accumulate over layers, yet existing methods treat each call on its own. We present Echo, a 4-bit all-reduce for training and inference that controls the accumulated error. Echo moves data in 4 bits and sums in high precision, so each value is quantized at most twice per call for any number of GPUs. The summation reveals each injected error, and Echo feeds it back into later calls, so old errors cancel instead of accumulating. We prove that the accumulated error stays bounded independently of depth. On A100 GPUs, Echo is 2.09x faster than the 16-bit NCCL all-reduce on 1 GB messages. It speeds up the time to first token by up to 1.16x and the training step by up to 1.09x on an idle interconnect, and by up to 1.44x and 1.38x as background traffic grows. It keeps the average accuracy over seven benchmarks within 0.4 points of 16-bit inference on Qwen3-8B. In 10B-token pretraining, its final loss is less than 0.9% above that of 16-bit training. Echo needs no FP8 or FP4 hardware.",
       "published_at": "2026-10-15T04:00:00+00:00",
       "source": "arXiv AI",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
+    },
+    {
+      "title": "ConicFlow: constrained Inference-time optimal control for flow matching models",
+      "url": "https://arxiv.org/abs/2610.14307",
+      "summary": "arXiv:2610.14307v1 Announce Type: new Abstract: We propose ConicFlow, which frames constrained sampling from a flow matching model at inference time as an optimal control problem that balances deviation from the pretrained trajectory against reward, subject to hard terminal constraints. We discretize this problem and adapt receding-horizon control, optimizing only a short window of the trajectory at each step for computational tractability. We address the resulting sequence of receding-horizon subproblems with a receding-horizon primal-dual algorithm. Its dual multipliers capture the difficulty of satisfying each constraint and are refined throughout sampling, steering generation toward feasible final samples. We further propose a terminal-estimate variant that avoids accumulating local truncation errors by evaluating the reward and constraints at the predicted terminal point rather than at the end of the current horizon. Under standard regularity assumptions, we establish finite-horizon guarantees on suboptimality. Under convex-affine structure, we derive a sharper bound that scales linearly with omitted horizon length, and we show that the terminal-estimate variant is provably tighter when the flow dynamics change slowly. Experiments in both low- and high-dimensional settings with a recent large-scale flow matching model show that ConicFlow achieves high reward and strong constraint satisfaction while deviating less from the pretrained flow than recent baselines.",
+      "published_at": "2026-10-15T04:00:00+00:00",
+      "source": "arXiv AI",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
     },
     {
       "title": "ANASSA: From High-Level Framework to Low-Level Architecture for Spatial Agentic AI",
@@ -221,18 +732,220 @@
       "published_at": "2026-10-15T04:00:00+00:00",
       "source": "arXiv AI",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
     },
     {
-      "title": "Measuring the Inference Energy Efficiency of Open-Weight LLMs across Benchmarks, Reasoning Modes, and Hardware",
-      "url": "https://arxiv.org/abs/2610.14389",
-      "summary": "arXiv:2610.14389v1 Announce Type: new Abstract: Benchmark scores tell us what an LLM can do, but not how much energy is required to deliver that capability. We directly measure this trade-off for 86 open-weight model checkpoints, evaluated on seven benchmarks and six hardware platforms ranging from a consumer GPU to an eight-GPU server. We find large differences in energy efficiency even among models with similar capability. Most configurations lie away from the score--energy Pareto frontier: they use a median of 2.6--4.8$\\times$ more energy than another configuration that scores at least as well, with differences reaching 27$\\times$. Reasoning can improve capability, but enabling thinking increases energy by about 3.7$\\times$ on average, and the benefit depends strongly on the model family and output budget. Generated-token count is also an imperfect proxy for energy, misordering 18--24\\% of model pairs. In contrast, FP8 reduces energy by roughly a quarter with little change in score, while changing hardware largely rescales energy without changing the relative ranking of models. These results show that capability alone gives an incomplete picture of efficiency. We argue that benchmark scores should be reported together with measured energy consumption under a specified serving regime and output budget.",
+      "title": "Correction Training for Diffusion Models",
+      "url": "https://arxiv.org/abs/2610.14136",
+      "summary": "arXiv:2610.14136v2 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predictions from the earlier steps, something it has never seen at training time. This might be one reason diffusion models often struggle without additional help, such as CFG. We introduce a correction step for diffusion models which attempts to reduce this training-inference gap. The corrector takes the base model's prediction as input and is trained against the same ground-truth target. This makes correction an explicit learning task, with training inputs provided by the base model. During sampling, at each denoising step, we iteratively refine the denoiser's clean-sample prediction. This allows us to correct predictions at intermediate denoising steps, preventing early artifacts from persisting into the final sample. Although the corrector is trained only on predictions from the base denoiser, it can be applied repeatedly to its own outputs at inference for better results. This simple framework leads to substantial improvement in sample quality while largely preserving diversity. We evaluate our method across DiT, SiT, and JiT. Our method substantially improves upon previously reported FID scores for unguided generation and, notably, unconditional generation, where producing high-quality samples without guidance has been particularly challenging. Our method achieves performance competitive with classifier-free guidance (CFG), and combining correction with CFG further improves diversity and reduces oversaturation typical of CFG. Finally, we show that the additional inference cost of correction can be amortized by distilling the refined predictions back into the base diffusion model, retaining the quality gains without additional inference-time overhead.",
       "published_at": "2026-10-15T04:00:00+00:00",
       "source": "arXiv AI",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
+    },
+    {
+      "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
+      "url": "https://arxiv.org/abs/2610.14149",
+      "summary": "arXiv:2610.14149v1 Announce Type: new Abstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine through standardized, high-quality datasets and multi-institutional collaboration across academic and non-academic sectors. This framework addresses the gap between AI advances in human medicine and the fragmented state of veterinary AI development.",
+      "published_at": "2026-10-15T04:00:00+00:00",
+      "source": "arXiv AI",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
+    },
+    {
+      "title": "Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs",
+      "url": "https://arxiv.org/abs/2610.14209",
+      "summary": "arXiv:2610.14209v1 Announce Type: new Abstract: The most accurate agents executing user-provided tasks are driven by large, cloud-hosted models, which solve them by reading the private data of the user. Agents powered by models small enough to run on edge devices keep that data local, but yield far worse results. A third option is to have cloud models write a program that devices execute: the data stays local, but as the program is written before any data is seen, it fails whenever a step depends on interpreting content that appears only at run time. We explore an intermediate architecture, in which the cloud-written program defers bounded questions over user data to a small local model through an ordinary function call. On AppWorld this improves the success rate of a code-only agent in all six combinations of backbone model and test partition we evaluate, by up to 14.9pp, recovering a substantial part of the gap to a cloud-hosted ReAct loop while keeping user data on the device.",
+      "published_at": "2026-10-15T04:00:00+00:00",
+      "source": "arXiv AI",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
+    },
+    {
+      "title": "When Pleasing the User Compromises Care: AI Sycophancy in Caregiver-Mediated Healthcare",
+      "url": "https://arxiv.org/abs/2610.14360",
+      "summary": "arXiv:2610.14360v1 Announce Type: new Abstract: Large language model (LLM) alignment often assumes that the user interacting with a model is also the primary beneficiary of its behavior. Yet in many consequential settings, one person directs the system while another bears the consequences. We study this problem in caregiver-mediated healthcare, where parents, pet owners, and caregivers make decisions for children, animals, and older adults. We introduce an evidence-grounded benchmark spanning veterinary, pediatric, and older-adult care, and test whether AI advisors maintain appropriate care when users express clinically inferior preferences. Holding patient facts fixed, we vary stated care preferences and communication styles and evaluate both initial recommendations and multi-turn follow-up. Across frontier and open-weight models, inferior preferences substantially increase switching from appropriate to inappropriate care beyond neutral conversational drift and increase agreement with the requested action, while communication style alone has a smaller effect. These failures accumulate across turns, including on cases models initially answer correctly, and often carry moderate or severe potential harm. In matched eldercare cases, the effect of an inferior preference is similar whether it is expressed by the patient or by a caregiver. Together with models' limited tendency to elicit patient preferences in caregiver conversations, this suggests that current models are highly sensitive to expressed user preferences but less sensitive to whose preferences are represented and who bears the consequences. Our results expose a broader limitation of user-centric alignment in settings with multiple stakeholders.",
+      "published_at": "2026-10-15T04:00:00+00:00",
+      "source": "arXiv AI",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
+    },
+    {
+      "title": "ACED-Bench: Evaluating How LLM Agents Acquire and Act on Causal Evidence",
+      "url": "https://arxiv.org/abs/2610.14381",
+      "summary": "arXiv:2610.14381v1 Announce Type: new Abstract: Large language models are increasingly used as scientific assistants, yet we still lack reliable ways to evaluate whether they can investigate a system rather than merely answer a prompt. A useful evaluation must let agents choose experiments, interpret finite evidence, and make causal decisions, while keeping the environment coherent across repeated observations and interventions and preserving objective ground truth. We introduce ACED-BENCH (Active Causal Evidence and Decision Benchmark), a neuro-symbolic benchmark built around this requirement. The key idea is to separate the readable scientific surface from the formal causal world: LLMs generate natural-language scenarios and task text, while hidden probabilistic graphical models define the causal graph, data-generating process, intervention semantics, validation checks, and oracle answers. This yields scientific worlds that are natural for agents to investigate but exact enough for scalable, programmatic evaluation. The main leaderboard ACED-CORE contains 180 tasks: 60 set-valued causal ancestry/descendancy questions and 120 constrained causal-decision tasks. We also report ACED-QUAL, a 150-question yes/no qualification check using the same hidden-PGM interface. We evaluate seven contemporary LLMs and two earlier-generation models across three active agent designs. ACED-QUAL checks whether agents can use the interface to draw conclusions from evidence, while ACED-CORE tests whether they can decide what evidence to collect and when to commit to an answer. Evidence-ledger analysis localizes failures within the investigation: agents test the wrong intervention, lose relevant evidence, or continue after sufficient evidence has appeared. These results suggest that reliable AI co-scientists need explicit support for experiment design, evidence retention, answer commitment, and stopping.",
+      "published_at": "2026-10-15T04:00:00+00:00",
+      "source": "arXiv AI",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
+    },
+    {
+      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+      "url": "https://arxiv.org/abs/2610.14005",
+      "summary": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines and the people who write the tests? One answer to the question hinges on inverse problems, inductive inference questions for which difficulty depends on the complexity of the underlying mechanism, given the observations and the previous knowledge. Levin's Kt, a computable variant of Kolmogorov complexity, puts a theoretical upper bound to that difficulty, balancing the simplest representation encoding for the mechanism and the logarithm of the time steps to run that mechanism. Previous tests derived from Levin's Kt, such as the original C-test, are based on minimalistic Universal Turing Machines (UTM), capable of very limited representations and no previous knowledge. Reasoning large language models (LLM) are UTMs that capture a compendium of human culture as knowledge, using prompts as natural language programs. This paper presents the first test based on Levin's Kt with LLMs as representational machines. Fresh test items can be produced at high difficulties, estimated in a ratio scale measured in bits, before any human or frontier model can solve them. We formalise the measure, devise a lightweight generation and certification pipeline, explore the effect of the power of the reference machine and the gap between examiner and examinee. We produce a first battery of certified items administered to twelve LLMs. The resulting agent characteristic curves decrease with difficulty, down to the uncharted high-difficulty region, the supra-intelligence window of items we can certify, yet beyond generations of frontier intelligence.",
+      "published_at": "2026-10-15T04:00:00+00:00",
+      "source": "arXiv AI",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
+    },
+    {
+      "title": "The Silent Failures in Agentic Data Science",
+      "url": "https://arxiv.org/abs/2610.14115",
+      "summary": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model development. Existing evaluations of agentic data science (agentic DS) assess downstream predictive performance and code correctness, providing preliminary insight in agentic DS capabilities. We argue that these evaluations overlook the fundamental principles of data science: methodological data science- and domain knowledge. As such, only assessing downstream performance masks methodological failures such as data leakage and inappropriate validation, limiting the development of robust agentic DS systems. In this paper, we evaluate agentic DS beyond accuracy from three different angles: 1) a large-scale analysis of failure modes in common agentic DS frameworks and models across 220 data science tasks, 2) a reusable and extensible test suite with curated data science tasks that test for six specific failures in a controlled manner, and 3) a qualitative assessment of agentic DS pipelines against expert solutions on Kaggle competitions. We find that the majority of agentic solutions contain at least one failure mode despite the complexity of agentic harness or model capacity. Moreover, we identify a positive correlation between the occurrence of data leakage failures and predictive performance, confirming the necessity to evaluate agents beyond accuracy. Our qualitative analysis shows that DS agents generally lack problem solving creativity and domain knowledge, compared to competition-winning data scientists. We believe that principled failure mode analysis, as presented here, should be integral part of agentic DS evaluations, and that the insights we surface will be key in developing trustworthy agentic DS pipelines.",
+      "published_at": "2026-10-15T04:00:00+00:00",
+      "source": "arXiv AI",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
+    },
+    {
+      "title": "Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.14190",
+      "summary": "arXiv:2610.14190v1 Announce Type: new Abstract: Explaining a vision--language model (VLM) prediction requires tracing training-example influence to the multimodal evidence that mediates it, yet existing attribution methods largely operate only at the sample level. Recent latent-mediated influence methods provide feature-level attribution in language models, but lack the multimodal and spatial structure needed to ground influence in VLMs. We introduce MOSAIC (Multimodal Orthogonalized Sparse Autoencoders for Influence Characterization). It learns a shared sparse image--text latent space whose concepts are 1) sparse within each modality, 2) supported on contiguous image regions, 3) aligned to the phrases that describe them, and 4) approximately decorrelated. It then applies EK-FAC to decompose training-example influence through these concepts and localize their contributions to specific text phrases and image regions. We evaluate MOSAIC on Qwen and Gemma across captioning, chest X-ray understanding, and visual question answering. The learned features are more localized and coherent without degrading task behavior, and ablating influence-ranked latents changes model outputs more than ablating latents ranked by activation or frequency. We find that visual evidence can substantially reorganize training-data attribution while preserving more of the shared latent structure. MOSAIC thus connects where model behavior comes from with what multimodal evidence carries that influence.",
+      "published_at": "2026-10-15T04:00:00+00:00",
+      "source": "arXiv AI",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
+    },
+    {
+      "title": "Harness^2: Recursive Agent Harnessing for an Open World",
+      "url": "https://arxiv.org/abs/2610.14224",
+      "summary": "arXiv:2610.14224v1 Announce Type: new Abstract: LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these harnesses. However, deploying RSI in open-world settings still faces two critical challenges. First, open-world tasks are typically unseen during the harness design phase and novel at test time, leaving no ground-truth verifiers to reliably guide online harness edits. Second, the RSI process remains highly task-specific and fails to generalize to novel scenarios. We introduce Harness^2, a plug-and-play, recursive agent harnessing framework that addresses these challenges through two connected levels of recursion. Task-level recursion refines the current task's harness using a contrastive Propose-Probe-Compose step that reliably guides edits without ground-truth verifiers, and can be scaled further via parallel or sequential recursion. Harnessing-level recursion then extracts experience from these edits to update a continual improvement harness, enabling the agent to better adapt to future tasks. Across three professional benchmarks and four model-harness configurations, a single step consistently improves GLM-5 and Gemini 3.5 Flash over their base harnesses, yielding gains of up to 11.5 points on WorkBuddy-Bench, 4.5 points on JobBench, and 11.8 percentage points on LAB, with further gains as the task-level recursion budget increases.",
+      "published_at": "2026-10-15T04:00:00+00:00",
+      "source": "arXiv AI",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
+    },
+    {
+      "title": "Controllable Diverse Sampling through Pullback Directions",
+      "url": "https://arxiv.org/abs/2610.14294",
+      "summary": "arXiv:2610.14294v1 Announce Type: new Abstract: Conditional diffusion models can generate high-quality images that align closely with a given prompt. However, samples generated from different random seeds may remain visually similar, limiting creative exploration. Existing approaches can increase variation, but often require additional optimization or sampling overhead, while stronger perturbations may introduce distortions that degrade image quality or prompt alignment. We propose a training-free method that leverages the local pullback geometry induced by the mapping from the conditioning-embedding space to the image space to identify directions of maximal output sensitivity. By steering different sampling trajectories along these directions, we encourage distinct generations while maintaining consistency with the conditioning signal. Experiments on MS-COCO and BrushNet show the efficacy of the method in improving diversity on prompt-conditioned image generation and inpainting.",
+      "published_at": "2026-10-15T04:00:00+00:00",
+      "source": "arXiv AI",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
+    },
+    {
+      "title": "Actionable Meta-Requirements for AI Robustness Auditing",
+      "url": "https://arxiv.org/abs/2610.14356",
+      "summary": "arXiv:2610.14356v1 Announce Type: new Abstract: AI-enabled systems must remain dependable when the conditions under which they operate change (e.g., due to input perturbations, distribution shifts, or changes in external dependencies). This makes robustness auditing of such systems important for judging whether the available evidence is sufficient to support a defined robustness conclusion. However, designing an AI robustness auditing framework is challenging. A key unresolved issue is determining the requirements such a framework should support; these requirements have not yet been consolidated. We address this gap through meta-requirements: higher-order requirements specifying what a class of auditing frameworks should support. In design science research, literature and domain experts are common sources of meta-requirements; accordingly, we derive the initial set from literature and validate and refine it with practitioners. Our systematic literature review retained 74 of 2,890 records and derived 43 meta-requirements across 16 categories. We evaluated them with 128 practitioners, obtaining 5,504 ratings and 586 substantive comments. Overall, 81.20% of ratings indicated agreement or strong agreement. In particular, 41 of the 43 literature-derived meta-requirements were classified as strongly supported. Practitioner feedback refined the requirements and identified an additional requirement concerning external components and supply chain dependencies. The final set comprises 44 meta-requirements across 16 categories, of which 43 received quantitative validation. These meta-requirements can help organizations implement AI robustness auditing frameworks, assess existing frameworks for completeness, and refine them.",
+      "published_at": "2026-10-15T04:00:00+00:00",
+      "source": "arXiv AI",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv AI"
+      ]
     },
     {
       "title": "Google is employing artificial intelligence to serve scientific research; advanced tools are opening new horizons - صوت الإمارات",
@@ -241,8 +954,16 @@
       "published_at": "2026-10-15T03:43:02+00:00",
       "source": "Google News AI Applications",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News AI Applications"
+      ]
     },
     {
       "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
@@ -251,18 +972,16 @@
       "published_at": "2026-10-15T03:26:36+00:00",
       "source": "BBC World",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "White House defends new press secretary amid questions about her legal credentials",
-      "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-      "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
-      "published_at": "2026-10-15T03:03:16+00:00",
-      "source": "BBC World",
-      "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World"
+      ]
     },
     {
       "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
@@ -271,18 +990,34 @@
       "published_at": "2026-10-15T02:26:07+00:00",
       "source": "BBC World",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World"
+      ]
     },
     {
       "title": "IMF–World Bank 2026 livestream schedule for October 15 with global economy debate at 3.30pm - Nation Thailand",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XdkE4bmxSOU1IVFJuZEJjR0Z3a3M1WWlPTXhjWGhGSFZvc29kb0pxNklSdHhZazRpVktNeTlJT2lQSHN2SjQ3a1pBYklGSWQ3T1AwenBNaFh1anJxOTI5OEhHSFVZRHVVOTd1MWpqS2Rfdw?oc=5",
       "summary": "IMF–World Bank 2026 livestream schedule for October 15 with global economy debate at 3.30pm Nation Thailand",
-      "published_at": "2026-10-15T01:54:01+00:00",
+      "published_at": "2026-10-15T00:53:00+00:00",
       "source": "Google News World Economy",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News World Economy"
+      ]
     },
     {
       "title": "Small AI: The trend of low-cost artificial intelligence applications. - Vietnam.vn",
@@ -291,8 +1026,19 @@
       "published_at": "2026-10-15T00:12:18+00:00",
       "source": "Google News AI Applications",
       "category": "vietnam",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News AI Applications"
+      ]
     },
     {
       "title": "'Players won't like it' - Martinez apologises, but is the damage done?",
@@ -301,18 +1047,17 @@
       "published_at": "2026-10-14T23:13:53+00:00",
       "source": "BBC Sport Football",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "'Shameless' - Mourinho critical of Vinicius Jr ban timing",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Real Madrid forward Vinicius Jr will miss El Clasico against Barcelona after being given a four-game ban.",
-      "published_at": "2026-10-14T23:13:20+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
     },
     {
       "title": "How backlash against data centres could shape the US midterm elections",
@@ -321,8 +1066,17 @@
       "published_at": "2026-10-14T23:02:57+00:00",
       "source": "BBC Business",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Business"
+      ]
     },
     {
       "title": "How a Chinese-made toy gets to a US retailer",
@@ -331,28 +1085,58 @@
       "published_at": "2026-10-14T23:01:28+00:00",
       "source": "BBC Business",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "BBC Business"
+      ]
+    },
+    {
+      "title": "How much is the minimum wage?",
+      "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+      "summary": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
+      "published_at": "2026-10-14T23:01:11+00:00",
+      "source": "BBC Business",
+      "category": "world",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "BBC Business"
+      ]
     },
     {
       "title": "Guardiola's return, Man City's defiance - and a game of glorious chaos",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqp8gyv8le87o?at_medium=RSS&at_campaign=rss",
-      "summary": "On their return to Etihad Stadium Manchester City put on a show of defiance - even in the face of a PSG masterclass, writes Phil McNulty.",
+      "summary": "Manchester City put on a show of defiance on their return to Etihad Stadium - even in the face of a PSG masterclass, writes Phil McNulty.",
       "published_at": "2026-10-14T22:57:23+00:00",
       "source": "BBC Sport Football",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Manchester City 2-4 PSG: Pep Guardiola returns but European champions humble City - BBC",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43dmtFaFYxZk5LN3h3cUwtRnNUUlN4VEk4a0tPOC1hZURaNVJpcVlRWmc3em0xV2xXdktlTVBhOFhRaTRIVXd5Wnc2WmQ0bXNBa2JMWTBXMXJtbkpwTzlVUEdyNENnaVpNYWUw?oc=5",
-      "summary": "Manchester City 2-4 PSG: Pep Guardiola returns but European champions humble City BBC",
-      "published_at": "2026-10-14T22:57:23+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
     },
     {
       "title": "Jackson steps up again as Aston Villa revival continues",
@@ -361,18 +1145,34 @@
       "published_at": "2026-10-14T22:45:22+00:00",
       "source": "BBC Sport Football",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
     },
     {
-      "title": "Martinez outburst came out of 'anger and frustration'",
+      "title": "Outburst came out of 'anger and frustration' - Martinez",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqd09l278n15o?at_medium=RSS&at_campaign=rss",
       "summary": "Manchester United defender Lisandro Martinez says he \"spoke out of anger and frustration\" when launching a scathing attack on the club's hierarchy.",
       "published_at": "2026-10-14T22:42:02+00:00",
       "source": "BBC Sport Football",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
     },
     {
       "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
@@ -381,38 +1181,53 @@
       "published_at": "2026-10-14T22:31:10+00:00",
       "source": "BBC World",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 32,
+      "triage_reasons": [
+        "uncertainty_language",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World"
+      ]
     },
     {
-      "title": "Brooklyn novelty shop reeling from 'surreal' row with Kelly Clarkson over mechanical bird",
+      "title": "At the Brooklyn novelty shop in 'surreal' row with Kelly Clarkson over mechanical bird",
       "url": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
       "summary": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
       "published_at": "2026-10-14T22:19:13+00:00",
       "source": "BBC World",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World"
+      ]
     },
     {
-      "title": "PSG on 'different level' - are they building greatest European dynasty?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Paris St-Germain are eyeing a third successive Champions League crown after dismantling Manchester City, but where do they rank against Europe's most dominant clubs?",
-      "published_at": "2026-10-14T21:55:37+00:00",
-      "source": "BBC Sport Football",
+      "title": "Aston Villa 6-0 Fenerbahce: Nicolas Jackson and Ross Barkley both score twice in big Champions League win - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQd2dfRGN2MUN2ZVJtTzYwNWhEeGVHUUJxYkJVQTdmTm1IckFpTEFadTJCb3AwY2pYYmtwSFp3bU5taFlpUHVTV2lpZEJSeEVwdGhUSmJhZElZWHJBZ3ZfRHhZSXhXbHJRQm9WNlZDampfNmlIeS1qM19mcGhlY2wtc1BOX0ZJUVduQ2VrVmpmOGw2WnI3a0ZFWFd4dFZPa1Q0aWhiYXItckVVeDlrS0I1VEJWZ3J3S2FuS0tLS0I1NGk3dmVsOXBMS21VUWRXNVVlT3NMYXUwcW51VmdWY2ZtX0JKMW55aGhC?oc=5",
+      "summary": "Aston Villa 6-0 Fenerbahce: Nicolas Jackson and Ross Barkley both score twice in big Champions League win Sky Sports",
+      "published_at": "2026-10-14T22:04:05+00:00",
+      "source": "Google News Premier League",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Isco snatches late Betis win as they edge past Porto",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmn4e91e4dk7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Isco scores an 84th minute penalty to help Real Betis snatch a late 3-2 win against Porto, giving them back to back wins at the start of this season's Champions League.",
-      "published_at": "2026-10-14T21:51:42+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
     },
     {
       "title": "DSWD to roll out filtration kits, assures public treated water is ‘safe’ - Inquirer.net",
@@ -421,8 +1236,19 @@
       "published_at": "2026-10-14T21:33:00+00:00",
       "source": "Google News Water Technology",
       "category": "water",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Water Technology"
+      ]
     },
     {
       "title": "Real Madrid stun Roma after dramatic late comeback",
@@ -431,28 +1257,16 @@
       "published_at": "2026-10-14T21:31:34+00:00",
       "source": "BBC Sport Football",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Man City dismantled by Paris St-Germain in breathless Champions League battle - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN3BDMFNXY1BJQmxwXzRtNzBmakRiQ2s1dnY2bUNVcmUtVjBrbE82c2lDWER4Zl9od2Nrb19TRE9aU3BCSXVmS0hFOXFsVWxOS2hreXlmWEZ5cGE2eHlqaTFKUXE0aTVhazBnWk9IM1FaNFlfSm1EX1Z1ekpKUmYzaG91dzdzU2pQVi1tSEh2a1ZQTVpnYkJyZS16bllIWGc1WTlaYVhfMWJyRVk?oc=5",
-      "summary": "Man City dismantled by Paris St-Germain in breathless Champions League battle The Telegraph",
-      "published_at": "2026-10-14T21:30:32+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Bodo/Glimt impress in win over Dortmund",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqly0nd6xnp1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Bodo/Glimt bounce back from their thrashing at Bayern with a fine 1-0 win in the Champions League over Borussia Dortmund.",
-      "published_at": "2026-10-14T21:28:39+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
     },
     {
       "title": "Villa rewrite the record books as they hit Fenerbahce for six",
@@ -461,8 +1275,16 @@
       "published_at": "2026-10-14T21:24:34+00:00",
       "source": "BBC Sport Football",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
     },
     {
       "title": "Man City show fight but fall short of fightback against slick PSG",
@@ -471,8 +1293,16 @@
       "published_at": "2026-10-14T21:19:45+00:00",
       "source": "BBC Sport Football",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
     },
     {
       "title": "Tresoldi hat-trick fires Club Brugge to victory over Inter in seven-goal thriller",
@@ -481,8 +1311,16 @@
       "published_at": "2026-10-14T21:00:52+00:00",
       "source": "BBC Sport Football",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
     },
     {
       "title": "Gordon scores as 'brilliant Barcelona' thrash Galatasaray",
@@ -491,8 +1329,16 @@
       "published_at": "2026-10-14T21:00:43+00:00",
       "source": "BBC Sport Football",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
     },
     {
       "title": "Viking snatch draw against Bayern Munich in six-goal thriller",
@@ -501,8 +1347,17 @@
       "published_at": "2026-10-14T21:00:40+00:00",
       "source": "BBC Sport Football",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
     },
     {
       "title": "Substitutes steal the show as Arsenal score three against Lille",
@@ -511,18 +1366,16 @@
       "published_at": "2026-10-14T21:00:36+00:00",
       "source": "BBC Sport Football",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Highlights - Champions League - Arsenal 3-0 Lille - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WRi1DWmJwWUltNzNmM2ZybEpYZjRmSDVHaUNTSTQ5NUFxbGY3QnpWM3JNMU1idHZERWJIU1BvOF9qVXgyVWhZMFY4cFJ4TE9nNnBuVHRzLXg0MjBUUGcxcTRiaUNrQkxI?oc=5",
-      "summary": "Highlights - Champions League - Arsenal 3-0 Lille BBC",
-      "published_at": "2026-10-14T21:00:36+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
     },
     {
       "title": "Yoro sent off as Man Utd stumble to defeat against Atletico Madrid",
@@ -531,8 +1384,16 @@
       "published_at": "2026-10-14T21:00:34+00:00",
       "source": "BBC Sport Football",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
     },
     {
       "title": "Brilliant Barcola scores first hat-trick to get lift-off at Liverpool",
@@ -541,8 +1402,16 @@
       "published_at": "2026-10-14T21:00:28+00:00",
       "source": "BBC Sport Football",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
     },
     {
       "title": "Barcola shines as Liverpool score six to beat LASK",
@@ -551,8 +1420,16 @@
       "published_at": "2026-10-14T21:00:24+00:00",
       "source": "BBC Sport Football",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
     },
     {
       "title": "On night of mayhem for Liverpool, Barcola arrives in style",
@@ -561,18 +1438,17 @@
       "published_at": "2026-10-14T20:46:35+00:00",
       "source": "BBC Sport Football",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "IMF upgrades growth forecasts, but economic inequality fears remain - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcjhoZlh5eFJOblQ3MG1ZUkZEcllvSGFNRTk2VHhjbWZKN1BwWm9uV3VLbk5KTnFlV1Bfa0owekhqSkZYSWJQUFA5UG9Ec3NndHVvcm1Mc0xDSHp4dHhpWWUxd2hPclhoSEprd3FoVW1ydmV2Vm5XX2tKcUdUSFViSHRoN0VPNnFqa1lma3FBdm5GWU5SUVN3VGFMR0VsanRleF9OZi1R?oc=5",
-      "summary": "IMF upgrades growth forecasts, but economic inequality fears remain DW.com",
-      "published_at": "2026-10-14T20:33:04+00:00",
-      "source": "Google News World Economy",
-      "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
     },
     {
       "title": "Student protesters attack government buildings in Albania",
@@ -581,18 +1457,16 @@
       "published_at": "2026-10-14T20:29:05+00:00",
       "source": "BBC World",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
-      "published_at": "2026-10-14T19:52:04+00:00",
-      "source": "BBC World",
-      "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World"
+      ]
     },
     {
       "title": "Aramco’s vulnerability: How could it shake the global economy? - The Business Standard",
@@ -601,18 +1475,19 @@
       "published_at": "2026-10-14T19:36:30+00:00",
       "source": "Google News World Economy",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Lask 3-6 Liverpool: Champions League – as it happened - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZlJhcEhCbE5ybmU5VXluOWRkS2M4Y0c3ZHFnWEtGSjh3NmJER0VOV0N4blVCZGlOaEd0b1dJbHpLdElPRVQ1YTFLZ2oyUEh6cWV0OXNKeF82Y0ppQVBlWjNxdjNvZERQbl9obkYxazMzaUdmdjZldl9KSkk3bWVGdVJRc29pOVdkY2JaX2pzay1FcTZsVV81T0hMY2MzaGJzZmdmclNxdXItQQ?oc=5",
-      "summary": "Lask 3-6 Liverpool: Champions League – as it happened The Guardian",
-      "published_at": "2026-10-14T19:04:44+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News World Economy"
+      ]
     },
     {
       "title": "Healthy Spring Introduces Whole Home Water Filtration for Cleaner Water at Every Tap - Digital Journal",
@@ -621,8 +1496,16 @@
       "published_at": "2026-10-14T19:01:24+00:00",
       "source": "Google News Water Technology",
       "category": "water",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Water Technology"
+      ]
     },
     {
       "title": "Arsenal cutting jobs just days after Mikel Arteta’s £80m deal is simply indefensible - The Independent",
@@ -631,8 +1514,17 @@
       "published_at": "2026-10-14T18:38:00+00:00",
       "source": "Google News Arsenal",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Arsenal",
+        "Google News Premier League"
+      ]
     },
     {
       "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
@@ -641,18 +1533,16 @@
       "published_at": "2026-10-14T17:46:30+00:00",
       "source": "BBC Business",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Champions League LIVE: LASK vs Liverpool, Aston Villa vs Fenerbahce & Man City vs PSG - scores, commentary & updates - BBC",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40Vk43d2h5dlp2WlR1NzdCaDVyZzROMEg5bVVQYzB6N3A1akJmdnJ1OE1oUDFZYUctMUs5UGVfdFc3VzBwS0F1UTZMNHRHdHJnVEktakRQMHVFbUpFQnI1RHk2M1ZKaVltVmxaNkhfZw?oc=5",
-      "summary": "Champions League LIVE: LASK vs Liverpool, Aston Villa vs Fenerbahce & Man City vs PSG - scores, commentary & updates BBC",
-      "published_at": "2026-10-14T17:42:03+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Business"
+      ]
     },
     {
       "title": "Kenya confirms second Ebola case - a relative of the first victim",
@@ -661,8 +1551,19 @@
       "published_at": "2026-10-14T17:23:01+00:00",
       "source": "BBC World",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "BBC World"
+      ]
     },
     {
       "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares - Cryptonews.net",
@@ -671,8 +1572,37 @@
       "published_at": "2026-10-14T17:21:04+00:00",
       "source": "Google News AI Applications",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News AI Applications"
+      ]
+    },
+    {
+      "title": "Actor and Arsenal fan Paul Bettany talks winning the Premier League and starring in Wimbledon - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVnVjNTZXQTdzcmhDdlJEc3dFLVVBQl9paGdQT0xza3ltcnk3YS1CM2FRcEVKSVoySnd5LUl4WFg3MEZocV93NDkxMWNkbW12U1hKWW1vSXNvek95QWY3U0llNEJSUXVoZzNSVjJBclNXUXA0QmxiYkFDajlmaU90aktpYzNoMzRKMVdBeU9acUVqMmxIQ0RmakhxQ29TVGlOQUpWV3VSM1MxQzhMc19CYmNwOE1XUTZuUDRfbnZn?oc=5",
+      "summary": "Actor and Arsenal fan Paul Bettany talks winning the Premier League and starring in Wimbledon Sky Sports",
+      "published_at": "2026-10-14T17:15:26+00:00",
+      "source": "Google News Arsenal",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
     },
     {
       "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
@@ -681,8 +1611,16 @@
       "published_at": "2026-10-14T16:56:21+00:00",
       "source": "BBC World",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World"
+      ]
     },
     {
       "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
@@ -691,38 +1629,38 @@
       "published_at": "2026-10-14T16:47:32+00:00",
       "source": "BBC World",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "BBC World",
+        "BBC Business"
+      ]
     },
     {
-      "title": "（*TODAY*）*LASK Linz / Liverpool LIVE STREA.Ms Nations League ON TV Channel 14 october 2026 - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxONXJuOWl3U3BmbHZhbmwzbkR3TWRiM0JQcVBBalhEcnVGNVFJUkVtWndrMTFqYjRNb2FoTmVCZWt3UHRCWHlXN1ZBc29tYmtBQTZVLWVOS0xXZjRyLVJKUlZCM3ZRc0hnMEhvS0lfNEJoOGwzT0xYTFh6NDZNcS15ZFNEcjRYa0RXUHNNVkU3RjV1STdLRWtLY3pDUFNxWlV3UkhTUHVpQ3VQaHVsQ2FEQ255NVZ5d0N1eU1rSzNRX3Z0LTdpaHJUTVJLM2NRQWQzM1Nfbk8tVm82dVF4XzZLOXVoME5JMExhQldvREFnZDdtbnpnLUxFcjFOX2JZVHQxWU01TFhrc29ZeUJ0UEhCbXlBZHpaZ2s1SEZESDladlRpc3pKVnJuczR3bXc4ek1haGhnSDRsbmozeG4yNWdxUFlLZDgxTll6b283N2pxYjFibWpZX0RV?oc=5",
-      "summary": "（*TODAY*）*LASK Linz / Liverpool LIVE STREA.Ms Nations League ON TV Channel 14 october 2026 Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-14T16:42:18+00:00",
-      "source": "Google News Premier League",
+      "title": "Arsenal closing in on all-time Champions League record held by Bayern Munich ahead of trip to Bavaria - Pain in the Arsenal",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbFZLWXhraF9Id3JfSVNIc0JSWHJuaTMxVTFfUjBIdFc3Y0J1ZGJfMDJQLTZqSzAyMjBONkVmUnhXU0c3SnVVTGx2NU82MS1PeGRkd1FZYkJ0RnZfc25sMHNWZnNHYmZ0ZUVGcUI5a0dnZF9tR0tOTlZtYzdHbUFlbkRnOFFSTXBQaS1CSzdGWXdScGhtSl9YNFB4VzN1dm5YYkh5UG9vNDBxQUYzNExUTi1hUG5tWU8zcnJXNHpSTmg3TmtYRkt3ZFlB?oc=5",
+      "summary": "Arsenal closing in on all-time Champions League record held by Bayern Munich ahead of trip to Bavaria Pain in the Arsenal",
+      "published_at": "2026-10-14T16:19:29+00:00",
+      "source": "Google News Arsenal",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "[#!LIVESTREAMs!]™LASK Linz versus Liverpool Live free Football October 14, 2026 - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOSzBkbDhCMjYwQXNGMDhuY0w3clI4dUQ1SGF5OEo5WGk4TThjVGEwc1BRU28xUVZRVFVUU3FJSnU4RFhjOXJYbnNQcmV4TXpCUVJ6aFBHaGVkSXF2SlpOd00tb1hqNHBSakJlOWZFcm52RlpEaUJJdVE1bzFmTHlSRS1VWEp3Q0ExY1U2Slp2WFFGVlltUC1xazNZNEIwbklvRVZMRnlNbVc4TXhXN2ZfTTNUYnY2akF3YjhkV25TdnR2akt1Z3U4czgzejdwWW94NWs4Y1dTck9zWFdSaEZxLWFrVHhpTlplMl9mSktHcmt6d21JX0Rfdk1hSmNaYW54ZWtiZnpYX0pCb2taMFRwMnhUdFFpZ0F6ZlNvVUtZVFlReEdXM2t1d2Z5NVRGbjQ0c3RuR1pLRlQ1TUltR2pNbDAybkp2UXB0WEMySjJsYWV2Z01ja0EwbGQ2ZzNodVcza1pIa2hNeVlLMXpHd1RxRC1qdGE1THFUU1hkMUxDQTh2Nm9RN3NfeDgwTjJMbGRISURnODFRTUhiQnhfRjl6RHBEdkhXRFpRekc2d1kwV25oS3doc1k0?oc=5",
-      "summary": "[#!LIVESTREAMs!]™LASK Linz versus Liverpool Live free Football October 14, 2026 Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-14T16:39:23+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Footballer Antoine Semenyo 'froze' after alleged racial abuse, court hears - Sky News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3o5WVFNQWYxOFRfWVp6ZDg5ZWROTTFNbGU0X3pjcHdxcU05bzZlNjRKQU13WG40d1pUanA3OUNSazVRZ3pCdkhBTkhaN2gzai1VOHE5TTlXRHRGXzVEd1Zpdzg2V1c0QzBJeGVJQTI4c2dFZkpOajRwQTNacTBWSkFHU1A1ZlctS1RhU1A3THBsd2FDMGNicU5ja0g0UjBNbUs4a1pZaDN0MVE?oc=5",
-      "summary": "Footballer Antoine Semenyo 'froze' after alleged racial abuse, court hears Sky News",
-      "published_at": "2026-10-14T16:22:03+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
     },
     {
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
@@ -731,8 +1669,20 @@
       "published_at": "2026-10-14T16:12:42+00:00",
       "source": "Hugging Face Blog",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Hugging Face Blog"
+      ]
     },
     {
       "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
@@ -741,18 +1691,18 @@
       "published_at": "2026-10-14T15:54:04+00:00",
       "source": "BBC World",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Transfer news LIVE: Arsenal have new target, Alvarez twist; Chelsea get Scott boost; Man Utd, Liverpool latest - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTEY4YTRSTUdlU3BWMXBob2tRMTROWEhzMjJydWE3VVJHVEd6dTVRMkFlLW1GS3JuaWxKaHczSGhDekhJTk9VTUJlX2FzbDN5aVgzYmJYRFFxaXZyTVpHeXpoV05meHVzdHFaQzNuN0ZtLTM1WUNwWkVKSjVVVkRudUQ2TFdWdWpEMU5NMW4tUDB6UmlJNWJPNjFxNl92T3RJanF2bWUyZUotSGtFdFp6NUJmbDA5ZUJLZWlSUFB0NFFfZTRpTzJyZXJfMA?oc=5",
-      "summary": "Transfer news LIVE: Arsenal have new target, Alvarez twist; Chelsea get Scott boost; Man Utd, Liverpool latest London Evening Standard",
-      "published_at": "2026-10-14T15:42:11+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World",
+        "BBC Business"
+      ]
     },
     {
       "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
@@ -761,28 +1711,16 @@
       "published_at": "2026-10-14T15:34:19+00:00",
       "source": "BBC World",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Wilcox the target again in another damaging Man Utd fallout",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.",
-      "published_at": "2026-10-14T15:30:03+00:00",
-      "source": "BBC Sport Football",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Lisandro Martinez interview: Jason Wilcox again the target in latest Man Utd fallout - BBC",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96YUxZOURzMEtDbzM5aHIybmlRRU96UXpwN2Z3WndNZUNRWHRjb3VKa2QyeWJqajBIV1hUNTU0Y3VTRm5NazVxQnR3WUp4T3U1dlM1eDFMTXlJZmowSlp3VHVZcW1tTVJCajNj?oc=5",
-      "summary": "Lisandro Martinez interview: Jason Wilcox again the target in latest Man Utd fallout BBC",
-      "published_at": "2026-10-14T15:30:03+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World"
+      ]
     },
     {
       "title": "US inflation rises more than expected - here's what is happening with prices",
@@ -791,8 +1729,18 @@
       "published_at": "2026-10-14T15:26:14+00:00",
       "source": "BBC World",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World",
+        "BBC Business"
+      ]
     },
     {
       "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
@@ -801,8 +1749,19 @@
       "published_at": "2026-10-14T15:12:46+00:00",
       "source": "BBC World",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "BBC World"
+      ]
     },
     {
       "title": "From Set Piece FC to Second Half FC, how Arsenal have rebranded thanks to their elite 'finishers' - The Sun",
@@ -811,8 +1770,16 @@
       "published_at": "2026-10-14T14:20:00+00:00",
       "source": "Google News Arsenal",
       "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
     },
     {
       "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
@@ -821,8 +1788,19 @@
       "published_at": "2026-10-14T14:18:18+00:00",
       "source": "BBC World",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "BBC World"
+      ]
     },
     {
       "title": "Driving test waits fall to two-year low - but still average 20 weeks",
@@ -831,8 +1809,16 @@
       "published_at": "2026-10-14T13:45:34+00:00",
       "source": "BBC Business",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Business"
+      ]
     },
     {
       "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
@@ -841,18 +1827,16 @@
       "published_at": "2026-10-14T13:41:51+00:00",
       "source": "BBC World",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "See our men's first team's 2026/27 squad photo - Arsenal.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjROZXd1cUhzLWI4WmVTajlxTTU5ZXlmWWJPTEswOW5xd1cySkhXLU9DeXdLNU4tTzgta0s5b184VF9pYnNEVk56eklZcWpGSndiWnFSNFJyVTFBS1R6REV4YWhSSWJWb21obXZSRTJPRXoxQURxdFJ5Rm5xcThILWhZS3NaLTV2M0dmOXRR?oc=5",
-      "summary": "See our men's first team's 2026/27 squad photo Arsenal.com",
-      "published_at": "2026-10-14T13:38:01+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World"
+      ]
     },
     {
       "title": "Riding the wave of AI investment, technology exports are booming. - Vietnam.vn",
@@ -861,8 +1845,19 @@
       "published_at": "2026-10-14T13:30:38+00:00",
       "source": "Google News Vietnam",
       "category": "vietnam",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Vietnam"
+      ]
     },
     {
       "title": "Are the European Women's World Cup play-offs working?",
@@ -871,8 +1866,16 @@
       "published_at": "2026-10-14T13:25:56+00:00",
       "source": "BBC World",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World"
+      ]
     },
     {
       "title": "What to know about the Country Strategy Meeting on Panama - The World Economic Forum",
@@ -881,38 +1884,19 @@
       "published_at": "2026-10-14T13:00:00+00:00",
       "source": "Google News World Economy",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Premier League 26/27 could be a stone-cold classic (if we ignore Man City) - Football365",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Lajk0UkxsTkVldnEtOXlqTUFka3lmWjdwaWNvNnRWTm5xYnJyaHdjeVptTG1COTdFZzBZNFN5NlVGZjRROG13WFpFSm9EX3VfUzNxTDNXZmlIMkdaZ3dXeXZGWVRzZ3hIUFNCZVl0VGRaQ2NXVzN3Njl0aGZJZw?oc=5",
-      "summary": "Premier League 26/27 could be a stone-cold classic (if we ignore Man City) Football365",
-      "published_at": "2026-10-14T12:54:23+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "'Mad as a box of frogs' - Edwards builds his perfect manager - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PcnFWaE83V1huSjZ4STlERGRVVVFzdnFXTklYbW0tNl9pZ2hvYnpEenRFMkVhdGNYekVBT0JKd3FMYUtEMUowUGtqeFZNcm84Vm13VTBqUGNhLXVkRW01akRncGQxSl9U?oc=5",
-      "summary": "'Mad as a box of frogs' - Edwards builds his perfect manager BBC",
-      "published_at": "2026-10-14T12:47:56+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Arsenal's wildcard option as Arteta searches for left-wing solution - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMnd3UzE5b1ZmdGVEdldMS1RfSllmT2VyMF9sb2xrMVJ4RlN2NjdEazl5VkkzUjJFeWYtajZaTWEwLWxHekxTTVQ2ekstUDl1eUVSZjY5Zzh2WURJY2tLRWR6OS1NcFF6WjFDNG1jTDlHT25xNVFHbXViWmtsZEFvV0FvQW9VODlIdGFaZEd2T3JBWUtEbWhIZ1NqTW1PWEZsSkE?oc=5",
-      "summary": "Arsenal's wildcard option as Arteta searches for left-wing solution London Evening Standard",
-      "published_at": "2026-10-14T12:30:10+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News World Economy"
+      ]
     },
     {
       "title": "Wayfair among firms fined millions for misleading sales tactics",
@@ -921,18 +1905,16 @@
       "published_at": "2026-10-14T12:09:45+00:00",
       "source": "BBC Business",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "published_at": "2026-10-14T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Business"
+      ]
     },
     {
       "title": "SentinelOne cuts malware analysis from weeks to hours",
@@ -941,8 +1923,35 @@
       "published_at": "2026-10-14T12:00:00+00:00",
       "source": "OpenAI News",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "published_at": "2026-10-14T12:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "OpenAI News"
+      ]
     },
     {
       "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
@@ -951,8 +1960,16 @@
       "published_at": "2026-10-14T11:57:22+00:00",
       "source": "BBC Business",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Business"
+      ]
     },
     {
       "title": "Vietnam, US seek to deepen economic ties, promote high-tech investment - Vietnam+ (VietnamPlus)",
@@ -961,28 +1978,19 @@
       "published_at": "2026-10-14T11:51:33+00:00",
       "source": "Google News Vietnam",
       "category": "vietnam",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Arsenal: Every Buyako Saka Premier league goal this season! - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTdWa0REekF0bmlHbm5ua1M2YkdoVE9WdXNjWGN5T2N2ZVdLZ3ViNWhwX21WU0lIUGFmWHFoWVNhS1NqTmp2WWV0MGQ3V09JTmtzUzZUVEZOODBzSFFTQld2elRSb01nOW1HelhJQ0NpMURuS1J3U1VTaF9XbDNDM3o3eEJaVTRZU0N0Q1hpWE13Mkd3dnNtSnBFQ0ZFd0xndmR6cFBjTHFnQTJPMDlz?oc=5",
-      "summary": "Arsenal: Every Buyako Saka Premier league goal this season! Sky Sports",
-      "published_at": "2026-10-14T11:51:23+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Arsenal to cut 60 jobs - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QQ2dJM19yZkxsV0FKdi1zcjAtdkM5TmpwTjJRRkRST1U4U3l0Wjc3R3F6bkVkS0RXSUZaQkN2NVdmcnhXMUNmSld4VmdpYnZUd1VmVUdJU2JPek9QOTltNlBKOVRuNWpKS2owdDNYNHotdURKcllMX3R5SQ?oc=5",
-      "summary": "Arsenal to cut 60 jobs The Telegraph",
-      "published_at": "2026-10-14T11:13:00+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Vietnam"
+      ]
     },
     {
       "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
@@ -991,68 +1999,17 @@
       "published_at": "2026-10-14T11:04:12+00:00",
       "source": "BBC Business",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "How Chelsea used extended international break to positive effect - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pNlRlUEtZalZFcTc0d3o0RGhnQ3ktZGV5M3VpVmJ3bmhKYzl6dEUxTlk3Zmsta3p0bld5QS1CU293OTRzTzBhMHJJeElMOTk2cDVZMjlLXzdyQlRya29VWl9SQVlXQjlw?oc=5",
-      "summary": "How Chelsea used extended international break to positive effect BBC",
-      "published_at": "2026-10-14T10:43:19+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Charlie George: \"Ken Friar was Mr Arsenal\" - Arsenal.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2tLZWgxQU5kRjJjelJhd3ZvdURWVlZDTVhLeEMwWldSNkNyWGVfb3RGYVAySzZXd2dVamNYSkl3anJyaUxPdjNtQ2VzZmNHNE5JSmk1dXFwMDdiMURwWXg4cU9kQXhqZ3pjSDRJOW44ZXQtbFMtRU9IQmJiS2JXVG5TRUJKZ1pI?oc=5",
-      "summary": "Charlie George: \"Ken Friar was Mr Arsenal\" Arsenal.com",
-      "published_at": "2026-10-14T09:46:55+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Premier League star has red card overturned for 'wrongful dismissal' - talkSPORT",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWdVUzNzeXczR1RXR01QZzJSTV95enhkVEZIRXExX2pDNGZzQlNSem14X3dkazNpV0Z2aDVmcVh6Wlo4TXhUVTBFZ1NvVS1oMFFELThaNmF1d0JOaEY4LXFvNDFPb01CNXhWVU5XdzVFazd2TGRKNllqa1ZhdURXbDh6UzVOSkQtZFl5bnlocUVPMEVqRjJUaHlTNHNiTU0?oc=5",
-      "summary": "Premier League star has red card overturned for 'wrongful dismissal' talkSPORT",
-      "published_at": "2026-10-14T09:38:04+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Barcelona match rescheduled due to strike action - Arsenal.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLTlLMU56VktoYVYybHc4M0l6TTBFYnE3TWdobTVIMGVOOTNHaUJ5NzdLZmpZVlFhdkg1aHpKU25tQWlEVGdTNkdrZWJXVkIxbTRLMTdWZDEwYmpmT1ZpV1kxVzAzNDZHUHI4QW5MZ0dlQkN1UmZwZDI4d1YzWjExMk1fU1ZGZ1RwbWp0WXdfS1cySk15?oc=5",
-      "summary": "Barcelona match rescheduled due to strike action Arsenal.com",
-      "published_at": "2026-10-14T09:36:47+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Chelsea’s 10 oldest Premier League scorers | News | Official Site - Chelsea Football Club",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0hWRXVTX3ZKZlFyNk5XY1NuT1h3bWl0SEYtSkFFaktmMm9rTjdReGFfUXJ1dHg4SU5QZWh6RVVjZ21tQWd6RGhHWHA1WlpLZEFhQXEyWTJmREFkQlBuUWdsUVVjOVZTb2lGdlVIcXNCa3AxenlOX201WG10NmFVVGlibnF6SHJhSWdiRWxLNVpZWUFVYTJ1bXYxYS0xSFRBeUljQ3VR?oc=5",
-      "summary": "Chelsea’s 10 oldest Premier League scorers | News | Official Site Chelsea Football Club",
-      "published_at": "2026-10-14T09:30:00+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Ken Friar 1934-2026: Tributes to a legend - Arsenal.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnc3enppOTRuZ3hCWmx5YXBGUnEwaW1QODB2UUZkelI4a1BtcjVCVU5DaW5wNGNLUTVPQjhYbk8wWG1PTy0yd3dhVjU3RENTeExPTjRmNVY4dGRGSnJmRVpqR3JJRV9QR1BsUTcxMkRvcDVzOVhqclBFMEFBeFM0a25HcUNOWmcxdFE?oc=5",
-      "summary": "Ken Friar 1934-2026: Tributes to a legend Arsenal.com",
-      "published_at": "2026-10-14T09:20:39+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Business"
+      ]
     },
     {
       "title": "Vietnam and the United States advance economic partnership - Vietnam Economic Times",
@@ -1061,8 +2018,19 @@
       "published_at": "2026-10-14T09:15:00+00:00",
       "source": "Google News Vietnam",
       "category": "vietnam",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 29,
+      "triage_reasons": [
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Vietnam"
+      ]
     },
     {
       "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
@@ -1070,29 +2038,17 @@
       "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
       "published_at": "2026-10-14T08:27:17+00:00",
       "source": "BBC Business",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Liechtenstein PM’s Vietnam visit expected to provide fresh impetus for bilateral ties: Ambassador - Vietnam+ (VietnamPlus)",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZWZfb1JPUGJhcF84d0I3VFkwbzhtUms3MnJlZVZMeE8yR0RfMzEtTzJFNGJYaURmNW1OdkVnZE1wR3hqT1ViZ1RzV2QtMVdFdDFNOGFmTE55bU1xaU5aYzJtMjJjQ19nZERnc05hei1uSGpBR1VVY0FKamhmUVRPMzl2alFVMHczWjQtNnVGaFZRcWREZUpkR0JaNDFHQVRCZlhhb0M1MzVWWi1KdkNHU2wwOGp2d3UyNXdEZzh4cU9CRlY5VUg4QklpdExobEYydUE?oc=5",
-      "summary": "Liechtenstein PM’s Vietnam visit expected to provide fresh impetus for bilateral ties: Ambassador Vietnam+ (VietnamPlus)",
-      "published_at": "2026-10-14T08:00:27+00:00",
-      "source": "Google News Vietnam",
-      "category": "vietnam",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Sources: Man United and Arsenal monitor ‘exciting young talent’ from Premier League rivals - CaughtOffside",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUndVRzhVcEpyY0QwcWJ0dVNVNVoyOTRXd2F5TlNPY2MwMkFPTUlxY2dOVWR0ZDJBaGdjQmVlRGpFUkxOQUI0VUw3bTNONTlnOVJMdl92SkNVWW9VaVBwOEJaQ2FpTjNYRG1YQWltbVd2M1JTbDI0WHF4ZUxhY1E2bW1hZ24wNmZlRVB4a0hnOUc5ZXp4QzhrX1J2ak5NSGvSAaQBQVVfeXFMUFZJbnlrRUExNVpoVkZ5SHhmRXgtNUFSY2tJc012eDYyQzBZLWVfUE1IRGpHNlFRdFNObEJ1bUI4a1l3eUp0UFRPX0JlQ0NLenhGendvTDB5aTZqMVhfUVptTHJrWkJDUlVFalVuWnVPVVJTNUxLZHgtNUd4NWQxTThvM1V5LVJMZlVxUmYwaVpUaGlvSFhaS3p2UlpOa3VXbThCTkI?oc=5",
-      "summary": "Sources: Man United and Arsenal monitor ‘exciting young talent’ from Premier League rivals CaughtOffside",
-      "published_at": "2026-10-14T07:42:28+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "category": "world",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 37,
+      "triage_reasons": [
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Business"
+      ]
     },
     {
       "title": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
@@ -1101,8 +2057,16 @@
       "published_at": "2026-10-14T07:18:08+00:00",
       "source": "BBC Business",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 37,
+      "triage_reasons": [
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Business"
+      ]
     },
     {
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
@@ -1111,8 +2075,16 @@
       "published_at": "2026-10-14T07:00:00+00:00",
       "source": "OpenAI News",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 37,
+      "triage_reasons": [
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "OpenAI News"
+      ]
     },
     {
       "title": "How Block is building AI-powered security with OpenAI technology",
@@ -1121,8 +2093,16 @@
       "published_at": "2026-10-14T07:00:00+00:00",
       "source": "OpenAI News",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 37,
+      "triage_reasons": [
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "OpenAI News"
+      ]
     },
     {
       "title": "Water treatment for microalgae cultivation using ultrafiltration - Smart Water Magazine",
@@ -1131,8 +2111,19 @@
       "published_at": "2026-10-14T06:55:42+00:00",
       "source": "Google News Water Technology",
       "category": "water",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 29,
+      "triage_reasons": [
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Water Technology"
+      ]
     },
     {
       "title": "U.K. and Indian economies set to overtake Japan, IMF says - The Japan Times",
@@ -1141,18 +2132,19 @@
       "published_at": "2026-10-14T06:07:00+00:00",
       "source": "Google News World Economy",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Man City charges news: Pep Guardiola returns as appeal and punishment timeline emerges - Daily Mirror",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRHFJWm42QmJwdUNJdkw2cVJseVdRSE9TeW1LV3N3VVpzWkQ2SmZFdEtoZlg4dDhGTEI3RVFnTWZtNWFaMmFhaWxSU3NVUjlqRjVhLXBfV3lYcERvWW1EMzVpTmZ2SFNJMzZMVFpwTUUtMXNFRFFFbUEya1JoTWMzYUxoa3pEdlBOVlE?oc=5",
-      "summary": "Man City charges news: Pep Guardiola returns as appeal and punishment timeline emerges Daily Mirror",
-      "published_at": "2026-10-14T05:54:54+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 29,
+      "triage_reasons": [
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News World Economy"
+      ]
     },
     {
       "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
@@ -1161,18 +2153,17 @@
       "published_at": "2026-10-14T04:59:06+00:00",
       "source": "BBC Business",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "ECB Chief Christine Lagarde Warns of 'Harder to Read' Global Economy and Emerging Inflation Risks - Nation Thailand",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wTWV4S3ZRQmNEd3VsSHQzeFowVThTTFdJOGlGMmNCcnRZc0d2OEJZdzczMDl4d1Fkc0VxRXdpUmxrRUswRmx2b09tTUFNYjdubXp2T2wzdzV5Unl5dXZTOThEQTBpaE0?oc=5",
-      "summary": "ECB Chief Christine Lagarde Warns of 'Harder to Read' Global Economy and Emerging Inflation Risks Nation Thailand",
-      "published_at": "2026-10-14T04:46:00+00:00",
-      "source": "Google News World Economy",
-      "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 57,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Business"
+      ]
     },
     {
       "title": "WATCH: DSWD officials demonstrate how to use the portable water filtration system that can be used for rainwater during El Niño. WATCH: DSWD Secretary Rex Gatchalian shows the effectiveness of the water filtration system by doing a demonstration how it - Facebook",
@@ -1181,8 +2172,16 @@
       "published_at": "2026-10-14T04:23:56+00:00",
       "source": "Google News Water Technology",
       "category": "water",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 37,
+      "triage_reasons": [
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Water Technology"
+      ]
     },
     {
       "title": "A global economic recovery built on shaky foundations - The Business Times",
@@ -1191,8 +2190,19 @@
       "published_at": "2026-10-14T04:00:00+00:00",
       "source": "Google News World Economy",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 29,
+      "triage_reasons": [
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News World Economy"
+      ]
     },
     {
       "title": "Bank of America hit with $1.2bn fine for money laundering failings",
@@ -1201,8 +2211,16 @@
       "published_at": "2026-10-14T02:05:32+00:00",
       "source": "BBC Business",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 37,
+      "triage_reasons": [
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Business"
+      ]
     },
     {
       "title": "The EU’s next chapter in AI is agentic",
@@ -1211,8 +2229,16 @@
       "published_at": "2026-10-14T00:00:00+00:00",
       "source": "OpenAI News",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 37,
+      "triage_reasons": [
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "OpenAI News"
+      ]
     },
     {
       "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
@@ -1221,8 +2247,16 @@
       "published_at": "2026-10-13T23:26:54+00:00",
       "source": "BBC World",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 37,
+      "triage_reasons": [
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World"
+      ]
     },
     {
       "title": "How long will humans be needed for translation?",
@@ -1230,39 +2264,20 @@
       "summary": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
       "published_at": "2026-10-13T23:05:29+00:00",
       "source": "BBC Business",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Every word from Arteta's post-Lille press conference - Arsenal.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSUhqenQ3T0dEM1BBYnp4dHdQX1dzQ3FNTkZxd0xnVXVnOFhfVjhpTE1OMFVkNE5WYnNwNF9pTnJ3TXR6SmJMWkM4QVVCNDNlTGtodlI3QVJnYXFXdTFEa1dVSUM3OHFsSDRTYncwZ2JmcGxPc0FTbmpMc2l2TEhYSmI2dDlLRVk0ejdyYkgwWmoxTkdhd0pDbQ?oc=5",
-      "summary": "Every word from Arteta's post-Lille press conference Arsenal.com",
-      "published_at": "2026-10-13T22:37:20+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Arsenal’s big guns blow Lille away after the second string flop - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRE5WMjlJUDM2MmxRZWcySk8wTURyb2QzSVhUbnhXOXRrNFd0WlMyRzQ0TXdwV1QxY2hZbXNEMHNZdGJjSHBFMEFsSDNnd2JKQkZIVWNQNVVhMUExQUNRQjNXZ2xWcFhHUW43bzJ1bVRqcTQzV2tJalhJR1BCc3N0Y2kzWlNOcV9PeWNCVnlnbENlNE1PN1llZklBTlRfbXpIZmJYcUJUOG1GTHFL?oc=5",
-      "summary": "Arsenal’s big guns blow Lille away after the second string flop The Telegraph Ancelotti makes Arsenal claim after 'harsh' Champions League defeat London Evening Standard Arsenal vs Lille LIVE: Latest score and updates from Champions League London Evening Standard",
-      "published_at": "2026-10-13T21:51:46+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Report: Arsenal 3-0 Lille - Arsenal.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZT2VaNlBFcEJsZmNtVEkwZlVFMWI5NkZ1Z3YtbktBdzRrMlFlSjByM2paVTlkTkF5RVVjdVpzWmdjQTNhV3VQXzNUTnNXR1NhVXU3LXhvVnJuWC1zRVh0Q2E4RDhSTi1mdFEtTnhZZk5aeEty?oc=5",
-      "summary": "Report: Arsenal 3-0 Lille Arsenal.com",
-      "published_at": "2026-10-13T20:59:29+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "category": "world",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 29,
+      "triage_reasons": [
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "BBC Business"
+      ]
     },
     {
       "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
@@ -1271,8 +2286,20 @@
       "published_at": "2026-10-13T17:05:48+00:00",
       "source": "Hugging Face Blog",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 29,
+      "triage_reasons": [
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Hugging Face Blog"
+      ]
     },
     {
       "title": "IMF flags risks to global economy from AI market correction, war and debt - Reuters",
@@ -1280,19 +2307,21 @@
       "summary": "IMF flags risks to global economy from AI market correction, war and debt Reuters",
       "published_at": "2026-10-13T16:15:03+00:00",
       "source": "Google News World Economy",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Premier League statement on the draft State of the Game report - Premier League",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOemo1a2hsdDJxbEl3T01IV1BfZHI5N1I2eFVjVWR4RHNWN2pFUnBTbzNPcGUzdjR0VlZWMUphNUxOTk9Hd3FmS0xVVHFLUkhtVjNwQWxmTUl0LWZrdEZVYlhUak9jQU90Q2NvMlNubUI3UWdvYTllcm9uRzVrNlZ6bnVlY2J3UUFzNV9HVnlrMEhpV0FiS2E2cXN3cGJLM001ZG8zLU53UVhFR2sy?oc=5",
-      "summary": "Premier League statement on the draft State of the Game report Premier League",
-      "published_at": "2026-10-13T16:14:25+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "category": "world",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 49,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News World Economy"
+      ]
     },
     {
       "title": "The Water Filters Market Industry Outlook Improves as Global Demand Increases - The National Law Review",
@@ -1301,8 +2330,16 @@
       "published_at": "2026-10-13T15:54:28+00:00",
       "source": "Google News Water Technology",
       "category": "water",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 37,
+      "triage_reasons": [
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Water Technology"
+      ]
     },
     {
       "title": "Indian Scientists Develop Biodegradable Filter to Remove Industrial Dyes From Wastewater - INDIA New England News",
@@ -1311,8 +2348,16 @@
       "published_at": "2026-10-13T15:52:33+00:00",
       "source": "Google News Water Technology",
       "category": "water",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 37,
+      "triage_reasons": [
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Water Technology"
+      ]
     },
     {
       "title": "N.A. President visits Beijing Economic-Technological Development Area - en.qdnd.vn",
@@ -1321,28 +2366,19 @@
       "published_at": "2026-10-13T15:02:00+00:00",
       "source": "Google News Vietnam",
       "category": "vietnam",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "IMF warns of risks from AI boom and debt, but raises forecast for world growth - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCS2tQa0FDUXVMZ1laaG9yd2JnZFF1Ym9uREI4cWJKNnVMVS03c0NCa05abDVLRDBwNUdtd3d1ODRhVlhGcC1mT3NDTHFWY01FMDRpcG1YdlIySWlFMm1zVjg5WFB3WWNSWk5jNFEwWVhiTmV5blhRQ2V3?oc=5",
-      "summary": "IMF warns of risks from AI boom and debt, but raises forecast for world growth CBC",
-      "published_at": "2026-10-13T14:22:14+00:00",
-      "source": "Google News World Economy",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "U19s report: Arsenal 2-3 LOSC Lille - Arsenal.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVXRjQ1BGNUNSaW9uV0dvQ2tFdlM4Qi1BeDVaaHRQZWZodjhQeWFDUGJ2Qmtma0dzdXFRUVRXLWhmTTNZTkw1eWM2WmhhYWNLOHRuUkdYR0JNMFc1QlRUSVByeV9ObXVrbzBUYTBac3BzMEdsUHV5Ump0Rk9ZaXkzaElR?oc=5",
-      "summary": "U19s report: Arsenal 2-3 LOSC Lille Arsenal.com",
-      "published_at": "2026-10-13T14:04:35+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 29,
+      "triage_reasons": [
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Vietnam"
+      ]
     },
     {
       "title": "Ahead of VIS 2026: Vietnam and the shifts in the global economy. - Vietnam.vn",
@@ -1351,18 +2387,19 @@
       "published_at": "2026-10-13T13:47:12+00:00",
       "source": "Google News Vietnam",
       "category": "vietnam",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Arsenal life president Ken Friar dies aged 92 - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd1dHbTJXZGp3eWxZeFpFc3FKR3lNMkowWFluSDg5WlkxeWZWWlFEV09wUWZhQmh5T0lhZGpoSmJhaTliSVYzMC13QXNxSkFxdENLcFdhMzBaOWlKYkJ6R1BNeHk4VmZRMWVwUXU2b295eE1xUk5FbVFIY2hiVlBZYU9ac0FHa0s2d0lwakVmSUZFZG85bW81M0xXWVpydw?oc=5",
-      "summary": "Arsenal life president Ken Friar dies aged 92 ESPN",
-      "published_at": "2026-10-13T12:55:00+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 29,
+      "triage_reasons": [
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Vietnam"
+      ]
     },
     {
       "title": "Threat of AI share crash puts world financial stability at risk, says IMF - The Guardian",
@@ -1370,9 +2407,20 @@
       "summary": "Threat of AI share crash puts world financial stability at risk, says IMF The Guardian",
       "published_at": "2026-10-13T12:30:00+00:00",
       "source": "Google News World Economy",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "category": "world",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 29,
+      "triage_reasons": [
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News World Economy"
+      ]
     },
     {
       "title": "Higgsfield takes AI video from 1 minute to over 10",
@@ -1381,8 +2429,16 @@
       "published_at": "2026-10-13T12:00:00+00:00",
       "source": "OpenAI News",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 37,
+      "triage_reasons": [
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "OpenAI News"
+      ]
     },
     {
       "title": "IMF: Time to rebuild ‘resilient’ world economy - African Business",
@@ -1391,8 +2447,19 @@
       "published_at": "2026-10-13T11:42:44+00:00",
       "source": "Google News World Economy",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 29,
+      "triage_reasons": [
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News World Economy"
+      ]
     },
     {
       "title": "IMF warns global economy ‘could soon test the limits of resilience’ - The Guardian",
@@ -1401,8 +2468,20 @@
       "published_at": "2026-10-13T10:55:00+00:00",
       "source": "Google News World Economy",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 49,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News World Economy"
+      ]
     },
     {
       "title": "Assessing Generative vs. Discriminative AI in Rail Preventive Maintenance - Mass Transit",
@@ -1411,8 +2490,19 @@
       "published_at": "2026-10-13T10:54:49+00:00",
       "source": "Google News AI Applications",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 29,
+      "triage_reasons": [
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News AI Applications"
+      ]
     },
     {
       "title": "On the eve of VIS 2026: Vietnam's opportunities amidst new trends in the global economy. - Vietnam.vn",
@@ -1421,8 +2511,40 @@
       "published_at": "2026-10-13T10:50:06+00:00",
       "source": "Google News Vietnam",
       "category": "vietnam",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 29,
+      "triage_reasons": [
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Vietnam"
+      ]
+    },
+    {
+      "title": "'Vietnam has the potential to become a regional AI technology hub' - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGJSYWdZaUJITzhnQi1acFVqc2NrTTVpTUtheDVlNlR2QW52dXkwT1BSeUVFRlVLOEE5Mld2UTNRTy1WSE9MNW93UHpOd1VKWFpMWXFuNzA3NGxaYjNWbzNvVEdScm8wbUlLTFItOXZBS0Z2bkR5alJnY20zRVBDRzRWeHJISzJKNWZmRkJCSlNJVmtt?oc=5",
+      "summary": "'Vietnam has the potential to become a regional AI technology hub' Vietnam.vn",
+      "published_at": "2026-10-13T08:38:50+00:00",
+      "source": "Google News Vietnam",
+      "category": "vietnam",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 29,
+      "triage_reasons": [
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Vietnam"
+      ]
     },
     {
       "title": "Artificial intelligence opens new windows for people with visual impairments - www.jordannews.jo",
@@ -1431,38 +2553,19 @@
       "published_at": "2026-10-13T07:07:58+00:00",
       "source": "Google News AI Applications",
       "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "Preview: Arsenal v Lille - Arsenal.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03VDJpTUxRVzFIbjhzV05HSXo5a0JVSFVPMnFqby1EVDl5RVVjS2xRVEVxZVJrLUFTZWpXNFQzNUlBQnY1azFXRlFyT255V0lacDlNWG55dExKU2xYTXd5YWFDaUdHa05sTkNVdWhqcUJCUEU?oc=5",
-      "summary": "Preview: Arsenal v Lille Arsenal.com",
-      "published_at": "2026-10-13T07:06:29+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "How to watch Arsenal v Lille live on TV - Arsenal.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2F3R05OT1dGWHJxZHJtOWY2LUNwTzFlUUg3Rm54SFpnQmxvREtQT3JBcXlNYXdzeFh5Q1J3X3I5RlQ0bnJ5bk5WTWFkUlBhM0xOQ0QtVE5NSU5NcEhxUEJrWVgwUWd4a2lmbUR5Y201U3lsd1RTU0NidGNrbFpSb29SNTdOZEVj?oc=5",
-      "summary": "How to watch Arsenal v Lille live on TV Arsenal.com",
-      "published_at": "2026-10-13T07:00:00+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
-    },
-    {
-      "title": "IMF: Debt-fuelled AI spending puts global economy at risk - The Times",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGZuR1hHcmNXa0JjT1NheU11cTJ4eDAxQTQ0NFlldk5xdGg2QTR2VEZ3UzUwNjhkbU5WTWcxYmpMZHFKYmRfVk1UUjhVZktYZWhnTnZZWDBsUVIyT3I4Zkx0LVhDbWNPemRqSmFLUHFOZXAzV2FfMGpXQTA5aDdTRktfWnVXRWZuU0F6eUkzcTFXU3h1N201NExvMlpwRkFnYTNuRy1OWm5wUTdvV3N5Rw?oc=5",
-      "summary": "IMF: Debt-fuelled AI spending puts global economy at risk The Times",
-      "published_at": "2026-10-13T03:30:00+00:00",
-      "source": "Google News World Economy",
-      "category": "ai",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 29,
+      "triage_reasons": [
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News AI Applications"
+      ]
     },
     {
       "title": "IMF raises its forecast for world growth this year but says economies will slow in 2027 - Bozeman Daily Chronicle",
@@ -1471,18 +2574,34 @@
       "published_at": "2026-10-13T03:16:28+00:00",
       "source": "Google News World Economy",
       "category": "world",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 37,
+      "triage_reasons": [
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News World Economy"
+      ]
     },
     {
-      "title": "Coventry City 4-1 Newcastle United: Sky Blues win first Premier League home game in 25 years - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BOXYyNEpiZ0U4WUg0eHpWR2M2cUk0Uk1ZQWlFdlFkcXVYU2FUZWpKTHo5U2cyTVNRV1JuWG96VmhFYjgyY1pBTnpWVzlZS08xSTVESGw2VE1MMXJPTnRfOTlMWFlvUQ?oc=5",
-      "summary": "Coventry City 4-1 Newcastle United: Sky Blues win first Premier League home game in 25 years BBC",
-      "published_at": "2026-10-12T21:39:39+00:00",
-      "source": "Google News Premier League",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "title": "How Artificial Intelligence Can Help With Critical Thinking - Greater Good: The Science of a Meaningful Life",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDRyeXZvdHEtSXdXV1Y4T3UxZzk3UEY1ZjN5RzhoMld1RHQ5MWxqNWtkOXhiVklVam4xUE0ySDR5NkxnT1VYakd6MUpFNjkzQjdMOXJaWERiWUQ3T2hEcHh6LTVVSHI3bWVlYWdIMUdOYzU5QW94V0Q5Mm5WNllGMFlUdFFWRU9vaXdyRlEtRlZ4MUdsZXlKN2NkVXBoaFd1YVVvVlNvM3pBZw?oc=5",
+      "summary": "How Artificial Intelligence Can Help With Critical Thinking Greater Good: The Science of a Meaningful Life",
+      "published_at": "2026-10-12T19:16:19+00:00",
+      "source": "Google News AI Applications",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 37,
+      "triage_reasons": [
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News AI Applications"
+      ]
     },
     {
       "title": "5 best heat pump water heaters tested by Consumer Reports - qz.com",
@@ -1491,22 +2610,279 @@
       "published_at": "2026-10-12T15:30:54+00:00",
       "source": "Google News Energy",
       "category": "water",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 29,
+      "triage_reasons": [
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Energy"
+      ]
     },
     {
-      "title": "Every word from Mikel Arteta's pre-Lille presser - Arsenal.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUnd2X3A2VFk0WEwwUmpWQkNrcllhSlRDbThmMENUQlFVMDBOZnZOX3lrMzd5SFlJZ19EYzdKQVpQeXhvbFZEdWJoTENLUmlyalQ3YW9jQlBmTk1MTnpOdExjN3c2LUtKdGdSZUEyX18zb3J4ODQ3UGV0LThjMkozVU0tVG5va3p6R3NpZUw0S0xQU2s?oc=5",
-      "summary": "Every word from Mikel Arteta's pre-Lille presser Arsenal.com",
-      "published_at": "2026-10-12T13:42:51+00:00",
-      "source": "Google News Arsenal",
-      "category": "football",
-      "label": "SIGNAL",
-      "verification": "Chưa xác minh độc lập"
+      "title": "Elon Musk says SpaceX could one day be worth vastly more than Earth's economy. Here's what that would take. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaF9YdkctaHUyMDAzUk9hbzRxclBCZWhRWVUxcWJKNDllaWY3OU9VQ2xkNmZ0ZDNTYzdVLXhDbDJHUlFYZ095MGsyNzhiZk14SUxyRGZRbnhSWlhOY2pXZGEzUmNwUFY4NERnd0ktS1J1b21QTk5HQWVIUWJVX00ydjlHRWhTWWU2cUpsd3FIN0w3ZTgtN0lETkc1bThxcXl1SUMxM0NHYWNuWVE?oc=5",
+      "summary": "Elon Musk says SpaceX could one day be worth vastly more than Earth's economy. Here's what that would take. Business Insider",
+      "published_at": "2026-10-10T09:34:00+00:00",
+      "source": "Google News World Economy",
+      "category": "world",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 30,
+      "triage_reasons": [],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News World Economy"
+      ]
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 30,
+      "triage_reasons": [],
+      "quality_flags": [],
+      "sources_seen": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 30,
+      "triage_reasons": [],
+      "quality_flags": [],
+      "sources_seen": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "title": "Hotter Summers and Rising Energy Costs: How Next-Generation Inverter Heat Pumps Can Provide Comfort and Savings - SWX Local Sports",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPOG00Yy0wTTU0TGpCRUN1ZE95UWdmb0IxVnRPUl9ESU04TjI5WXBhYllfU1JhbVRUVDNDa0owQlRHR1pCU0NsM3BaZkNTdVNQUVNEQ3JnVnVFN2Jaei1CRkRCS3laamN4RlpjVGN3eU5lcXNMR2RuUHh5SzFmS1FMMk9oMmZFWFBWMl9OckhldXdNU1JsQ3FGeXUtNkZSWElWcVhad0Z2b3BfLUNSb0FUOWc5YmctMk1CMXlVaWhSdmhseE9HX0VVSl9fYURFekJGQjQtYjNmNWxWRTA3YTVpWnFZbDRqRVlwY0ZldHpIRDkxS2ZJdjNpWlVZN05Yb3J2clExTGRiM1AySVVrU21IbGlqaHVBRjk0STZLUmFXek1TMVNUYUFVQTFVRWc1TUVHZVkzRTh3?oc=5",
+      "summary": "Hotter Summers and Rising Energy Costs: How Next-Generation Inverter Heat Pumps Can Provide Comfort and Savings SWX Local Sports",
+      "published_at": "2026-10-08T17:33:23+00:00",
+      "source": "Google News Energy",
+      "category": "water",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 30,
+      "triage_reasons": [],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Energy"
+      ]
+    },
+    {
+      "title": "Point of Entry Water Treatment Systems Market to Exceed $16 billion by 2030 at 9% CAGR, Led by Asia-Pacific - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUVFQlh2Rms4YzVwUU1rNTF4eEs1UmtiX0pwTElOLVQ0aDBMVHJueld0Nk9KVW5qNktDZm1jcW92T1VURW1LWlZHLTVqak1WVXhYdHJSUm9HTDEzQzJCNkItWnNxTjJCZDFmdnZVNGFHeklSU2NtLVhsbk5OMjdGZGgtdGk0eDZsaC1WRVFmUGZNZXBaQUNYWUM2aXMyZTBhc05aQWkyMVQtajgyUl9GT0hUcmNSM2M?oc=5",
+      "summary": "Point of Entry Water Treatment Systems Market to Exceed $16 billion by 2030 at 9% CAGR, Led by Asia-Pacific The National Law Review",
+      "published_at": "2026-10-08T16:00:15+00:00",
+      "source": "Google News Water Technology",
+      "category": "water",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 30,
+      "triage_reasons": [],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Water Technology"
+      ]
+    },
+    {
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "published_at": "2026-10-08T16:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 30,
+      "triage_reasons": [],
+      "quality_flags": [],
+      "sources_seen": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "title": "Point-Of-Use Water Treatment Systems Market Tops $34 billion by 2030, 8% CAGR, Under-the-Counter Filters 40% - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOGFHTzhiRkJYSHRzLUpXdTgxeEdCaHRVWW1tZWFSaUNCLVFEallkcG9LanpfMS1TRERUQXpRS0FYc29zSXF1NUppNkpxbVE0YllBWWZJYmt6VmN6UXZncW1hbXZRZkxscmhaYUN4X0JYVHdtVTZLbHljMHVaWXYzZUwxNVlqOV80bk5oN2NOR0xwc0wzc2g5WThkYTQ1THVCVllxaTJGRGxlS08tWHVaWTNmZ1M3Wlp3eS1PbnluMFU5WUNQNUd0STh5R0F4d3g2eml5WjJFYTJDd08zSjJQYUNyVks?oc=5",
+      "summary": "Point-Of-Use Water Treatment Systems Market Tops $34 billion by 2030, 8% CAGR, Under-the-Counter Filters 40% EIN Presswire",
+      "published_at": "2026-10-08T14:15:00+00:00",
+      "source": "Google News Water Technology",
+      "category": "water",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 30,
+      "triage_reasons": [],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Water Technology"
+      ]
+    },
+    {
+      "title": "One Water Systems Announces 21% Savings on ELITE 15 Whole Home Water Filtration Systems - The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTGNyQ0IxV2JzdEYxNl9SSFlMVnNhTEtwSmYteDhwZjA3cWY2d0d4dXFQd2dkcTlGUHZ3bEFqNFp2cDN1ZzZkckxtWmFsNk5xaXg5cExwbEZXVjFGdVlmQ3g2SFZlV0NtMVFKRUZpejlWd0owblZyMlpKY2NZSnNBOVJFT01aQ3lxYlI1R0xGb01FSjJFLXhKN0Z1Q21pOXJ1MGw2YjJvanBfakJQSUZkR3Q3VVR3Y3RuUU9MdTN4TjE3WUo4Q1BpRXNKaFgtc1pwaGtYWkg4NWFKSTlJd2YxYWRB?oc=5",
+      "summary": "One Water Systems Announces 21% Savings on ELITE 15 Whole Home Water Filtration Systems The Des Moines Register",
+      "published_at": "2026-10-08T14:09:42+00:00",
+      "source": "Google News Water Technology",
+      "category": "water",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 30,
+      "triage_reasons": [],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Water Technology"
+      ]
+    },
+    {
+      "title": "Water-Efficient Technology Opportunity: On-Site Wastewater Treatment Systems - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3c3V0E3ektYWmptcjluQmtWZExDczdIX0JoN2EwcjEzNUtpZk5DRENtM3NIQ0lBQUVjanY1S3hodWR1Z0c2ZVlFdzdKX2hKWDZQeDhrNVllUENRdDg1eUx0dl9hVzl0VnVFV2Jkby1pU3daWUc0aTFyY3Mwd3ZwakpIc3E1UU4tbXVIMXRsTlVYUWFqRDJGQjM1enFhRnVFNGhjQl9iSlQ?oc=5",
+      "summary": "Water-Efficient Technology Opportunity: On-Site Wastewater Treatment Systems Department of Energy (.gov)",
+      "published_at": "2026-10-08T13:45:59+00:00",
+      "source": "Google News Water Technology",
+      "category": "water",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 30,
+      "triage_reasons": [],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Water Technology"
+      ]
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "published_at": "2026-10-08T12:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 30,
+      "triage_reasons": [],
+      "quality_flags": [],
+      "sources_seen": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "published_at": "2026-10-08T12:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 30,
+      "triage_reasons": [],
+      "quality_flags": [],
+      "sources_seen": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "summary": "",
+      "published_at": "2026-09-29T13:07:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "ai",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 30,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "older_than_7_days",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary",
+        "older_than_7_days"
+      ],
+      "sources_seen": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "title": "Three international bodies warn of risks of rising debt and soaring borrowing in major economies - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNHB6TmVYd0xCRDB2clFtQkdKbXZVUEkzVWJJN1p0RVE2WXNfSWk5NnpKY09TdFNQVExkazczbDRoSU5vTzJDOGtLVG5Ld0FTMTd0TjkzZkVKbzZTS3A0WDNINVZYVlFnQWMzN0NCYVc2ZWpIUHZNejBEcy00cXI5bzdSRUpZa21Talc5NldGSlQ?oc=5",
+      "summary": "Three international bodies warn of risks of rising debt and soaring borrowing in major economies The Guardian",
+      "published_at": "2026-09-23T07:00:00+00:00",
+      "source": "Google News World Economy",
+      "category": "world",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 38,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "older_than_7_days"
+      ],
+      "quality_flags": [
+        "older_than_7_days"
+      ],
+      "sources_seen": [
+        "Google News World Economy"
+      ]
+    },
+    {
+      "title": "The World Economy Is Becoming Wary of the U.S. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNGhMeGs3d1pMZFBlS3NtWUVZS2s4UmttYnB0bEM1OVZUSnFCZ2FWbDB2T2J4NlNLWHctSnltSmlLY3ZTZTlNNDVXSVlFTkxSaFFqVTd6MU5fMlVPakhHM09lam5WYkJwclBsMkd3NURiNllBcU52VzFMTFhWZm9nYlhQSGF0eC1EV21Waw?oc=5",
+      "summary": "The World Economy Is Becoming Wary of the U.S. The New York Times",
+      "published_at": "2026-09-16T07:00:00+00:00",
+      "source": "Google News World Economy",
+      "category": "world",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 30,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "older_than_7_days",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary",
+        "older_than_7_days"
+      ],
+      "sources_seen": [
+        "Google News World Economy"
+      ]
     }
   ],
+  "category_counts": {
+    "football": 40,
+    "world": 49,
+    "vietnam": 9,
+    "ai": 39,
+    "water": 13
+  },
   "source_errors": [],
   "sources_attempted": 13,
   "sources_succeeded": 13,
-  "note": "Free RSS collection. Feed summaries may be incomplete. Items have not been independently verified. Priority scores and interpretations are generated in the dashboard."
+  "deduplication": {
+    "raw_items": 260,
+    "unique_titles": 254,
+    "duplicates_removed": 6
+  },
+  "note": "Free RSS collection. NEWS is a neutral label, not an importance claim. triage_score is a transparent heuristic, not verified importance. Feed content has not been independently verified. quality_flags identify missing or potentially stale data."
 }

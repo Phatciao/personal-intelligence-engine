@@ -126,23 +126,17 @@ SOURCES = [
     # --- X: tài khoản công khai qua RSSHub ---
     # Thử nghiệm; dịch vụ trung gian có thể bị giới hạn.
     {
-        "name": "X OpenAI",
+        "name": "Anthropic News (RSS mirror)",
         "category": "ai",
-        "url": "https://rsshub.app/twitter/user/OpenAI",
-      "fallback_urls": ["https://rsshub.isrss.com/twitter/user/OpenAI","https://rsshub.rssforever.com/twitter/user/OpenAI","https://rsshub.feeded.xyz/twitter/user/OpenAI"],
-    },
+        "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",    },
     {
-        "name": "X Google DeepMind",
+        "name": "Microsoft AI Blog",
         "category": "ai",
-        "url": "https://rsshub.app/twitter/user/GoogleDeepMind",
-      "fallback_urls": ["https://rsshub.isrss.com/twitter/user/GoogleDeepMind","https://rsshub.rssforever.com/twitter/user/GoogleDeepMind","https://rsshub.feeded.xyz/twitter/user/GoogleDeepMind"],
-    },
+        "url": "https://blogs.microsoft.com/ai/feed/",    },
     {
-        "name": "X Simon Willison",
+        "name": "VentureBeat AI",
         "category": "ai",
-        "url": "https://rsshub.app/twitter/user/simonw",
-      "fallback_urls": ["https://rsshub.isrss.com/twitter/user/simonw","https://rsshub.rssforever.com/twitter/user/simonw","https://rsshub.feeded.xyz/twitter/user/simonw"],
-    },
+        "url": "https://venturebeat.com/category/ai/feed/",    },
 
     # --- Threads: thử nghiệm, chưa bảo đảm hoạt động ---
     {
@@ -491,6 +485,9 @@ def parse_feed(xml_bytes, source):
             "summary": summary[:2500],
             "published_at": published_at,
             "source": source["name"],
+            # Feed URL explains where this record was collected; item URL above
+            # remains the original article/post destination.
+            "source_feed": source["url"],
             "category": category,
 
             # Neutral label: collection does not prove importance.

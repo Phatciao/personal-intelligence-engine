@@ -136,10 +136,9 @@ SOURCES = [
         "url": "https://www.microsoft.com/en-us/research/feed/",
     },
     {
-        "name": "VentureBeat AI",
+        "name": "The Verge AI",
         "category": "ai",
-        "url": "https://venturebeat.com/category/ai/feed/",
-        "fallback_urls": ["https://venturebeat.com/feed/"],
+        "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
     },
 
     # --- Threads: thử nghiệm, chưa bảo đảm hoạt động ---

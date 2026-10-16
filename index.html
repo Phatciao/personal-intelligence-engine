@@ -249,13 +249,14 @@ function ageHours(item){return dateValue(item)?(Date.now()-dateValue(item))/3600
 function classify(item){
   // Explicit subject cues in title take precedence; source category is fallback.
   const title=clean(item.title).toLowerCase();
+  const sourceCategory=String(item.category||"").toLowerCase();
+  if(["books","creator"].includes(sourceCategory))return sourceCategory;
   if(/arsenal|premier league|\bepl\b|football|soccer|ngoại hạng anh|bóng đá|manchester united|liverpool fc|champions league/.test(title))return "football";
   if(/water treatment|water filtration|chlorination|wastewater|water quality|desalination|pool filtration|reverse osmosis|heat pump|energy efficiency|electrolysis|xử lý nước|lọc nước|nước thải|nước sạch|hồ bơi|điện phân|tiết kiệm năng lượng/.test(title))return "water";
   if(/booktok|book review|book reviews|new books|books about|publishing|publisher|nonfiction book|novel|literary|author interview|reading list|sách|tác giả|xuất bản|điểm sách|phê bình sách/.test(title))return "books";
   if(/youtube|tiktok|threads\.net|x\.com|twitter|content creator|creator economy|video essay|short.form video|social media creator|storytelling|viral video|influencer|youtuber|nhà sáng tạo nội dung|sáng tạo nội dung|nội dung số/.test(title))return "creator";
   if(/\bvietnam\b|\bviet nam\b|việt nam|hanoi|ha noi|ho chi minh|vietstock|vietnamnews|vietnamnet|vnexpress|báo chính phủ|chính phủ việt nam|cục thống kê/.test(title))return "vietnam";
   if(/openai|anthropic|hugging face|arxiv|artificial intelligence|machine learning|deep learning|\bllm\b|neural network|generative ai|robotics|trí tuệ nhân tạo|mô hình ngôn ngữ|\bai model\b|\bai tools?\b/.test(title))return "ai";
-  const sourceCategory=String(item.category||"").toLowerCase();
   if(["ai","football","water","vietnam","world","books","creator"].includes(sourceCategory))return sourceCategory;
   return "world";
 }

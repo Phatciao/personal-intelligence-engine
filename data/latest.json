@@ -1,9 +1,338 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-16T03:21:48.327271+00:00",
+  "generated_at": "2026-10-16T03:59:40.315643+00:00",
   "status": "ok",
   "items_count": 150,
   "items": [
+    {
+      "title": "Three children and teacher killed by 16-year-old at Oregon primary school",
+      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The suspect was shot dead by a local community member who followed him into the school, said police.",
+      "published_at": "2026-10-16T03:45:09+00:00",
+      "source": "BBC World",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "Researchers discover rogue Chinese AI agent fleet and talk with it",
+      "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
+      "summary": "Article URL: https://swarmcha.se/posts/chinese-agent-fleet-full-report Comments URL: https://news.ycombinator.com/item?id=50113792 Points: 2 # Comments: 1",
+      "published_at": "2026-10-16T03:42:02+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "japan earthquake",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-16T03:40:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "jericho sims",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-16T03:40:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "vgk",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-16T03:40:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "jelena ostapenko",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-16T03:40:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "ostapenko",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-16T03:40:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "robin williams",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-16T03:40:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "iphone duo pre order",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-16T03:40:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "học sinh",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "summary": "",
+      "published_at": "2026-10-16T03:30:00+00:00",
+      "source": "Google Trends Vietnam",
+      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "petrolimex giảm giá xăng dầu",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "summary": "",
+      "published_at": "2026-10-16T03:30:00+00:00",
+      "source": "Google Trends Vietnam",
+      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "nfl overtime rules",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-16T03:30:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "jake bauers wife",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-16T03:30:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "will lutz",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-16T03:30:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
     {
       "title": "MuscleMemory: Open-source procedural memory for AI agents",
       "url": "https://github.com/TheWariend/MuscleMemory",
@@ -23,50 +352,6 @@
       "quality_flags": [],
       "sources_seen": [
         "Hacker News AI Discussions"
-      ]
-    },
-    {
-      "title": "Three children and teacher killed by 16-year-old at Oregon primary school",
-      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The suspect was shot dead by a local community member who followed him into the school, said police.",
-      "published_at": "2026-10-16T03:01:38+00:00",
-      "source": "BBC World",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC World"
-      ]
-    },
-    {
-      "title": "mlb",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-16T03:00:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
       ]
     },
     {
@@ -94,12 +379,12 @@
       ]
     },
     {
-      "title": "megan fox",
-      "url": "https://trends.google.com/trending/rss?geo=US",
+      "title": "mlb",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
       "summary": "",
       "published_at": "2026-10-16T03:00:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "source": "Google Trends Vietnam",
+      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
       "category": "trends",
       "signal_source_type": "google_trends",
       "label": "NEWS",
@@ -114,223 +399,7 @@
         "short_summary"
       ],
       "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "tommy edman",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-16T03:00:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "brewers manager",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-16T03:00:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "when does the world series start",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-16T03:00:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "sharks game",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-16T03:00:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "seattle mariners",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-16T03:00:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "novig",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-16T02:50:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "dodgers payroll",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-16T02:50:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "when is the world series",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-16T02:50:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "teoscar hernandez",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-16T02:50:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
+        "Google Trends Vietnam"
       ]
     },
     {
@@ -357,7 +426,7 @@
       ]
     },
     {
-      "title": "phạm gia túc",
+      "title": "tesla roadster",
       "url": "https://trends.google.com/trending/rss?geo=VN",
       "summary": "",
       "published_at": "2026-10-16T02:30:00+00:00",
@@ -381,7 +450,7 @@
       ]
     },
     {
-      "title": "tesla roadster",
+      "title": "phạm gia túc",
       "url": "https://trends.google.com/trending/rss?geo=VN",
       "summary": "",
       "published_at": "2026-10-16T02:30:00+00:00",
@@ -450,122 +519,25 @@
       ]
     },
     {
-      "title": "phạm thị thanh trà",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-16T02:00:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "We take it as a compliment. 😘 #trend #trending - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzRndFd29XNTR3YVlZR2FWazRmNkxYM2RCaENYeWRiTXNyVWc0U0VyTmZKQjRySVdDaHpfMlZtdXY0Yy1UMmc3SHo4My1rYUhzRlJoVWEwTzVPYWkzRmdkNlByLW44bTJDY09V?oc=5",
-      "summary": "We take it as a compliment. 😘 #trend #trending TikTok",
-      "published_at": "2026-10-16T01:52:38+00:00",
+      "title": "did I win this trend? #costume #costumeideas #victoriassecretfashionshow #vsfashionshow #nataliereynolds - TikTok",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01dk1kc1VWcVpTTGEzZFhEaEJrYTJSNTl1R1VKZ3otREtCUVRya2hQMjJSVTFHWi1sVGoydnR5eVNxaTZ3SFpjanVGQ1pmd09nejVKeEo5Y21DbHJsMEhiczU1UndLVzFVTnJUTk10NWlFOUVy?oc=5",
+      "summary": "did I win this trend? #costume #costumeideas #victoriassecretfashionshow #vsfashionshow #nataliereynolds TikTok",
+      "published_at": "2026-10-16T01:45:29+00:00",
       "source": "Google News TikTok & Short-form Video",
       "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
       "category": "creator",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 42,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "published_within_24_hours"
       ],
       "quality_flags": [
-        "likely_platform_noise",
-        "short_summary"
+        "no_public_engagement_metrics"
       ],
       "sources_seen": [
         "Google News TikTok & Short-form Video"
-      ]
-    },
-    {
-      "title": "Wait for it... 💌 #trend #BabyShark #DooDooDoo #fy - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3eVBULVB2YUlRYS1EaGZNRDcyOTNqU1gzeTNiZG9EdFZaNVBtZXFxSE9TLXBLNkZwc2ZFR3N0clJSbjBjV0xPeng2RVczXzRGbE5iRmFjaDZYQlFTWEtBeHZnNW5kUlhQOHdJakxPc1hxaDVaTGVn?oc=5",
-      "summary": "Wait for it... 💌 #trend #BabyShark #DooDooDoo #fy TikTok",
-      "published_at": "2026-10-16T01:49:24+00:00",
-      "source": "Google News TikTok & Short-form Video",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "likely_platform_noise",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News TikTok & Short-form Video"
-      ]
-    },
-    {
-      "title": "Premier League: 10 things to look out for this weekend - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdEVLdGU1OS0ySW9JOW1LdGhZYWVIZkNxaUg2OHBpNDEyRFdSRkM3TlBwbmNlbnl6blU5c2FkRDBvZV9faS1La1lKZVlkNVNSck5hYUhLbktHS2xGYXhJSlRnM3RVNDZxNnFva0p0dW4yRWhMQlQ0OWRSU0N5QmE0YUJFbkhFQXVtUXAtTEJkal9XZFZnZ24wamI4Mkg5RTF4a2tTWA?oc=5",
-      "summary": "Premier League: 10 things to look out for this weekend The Guardian",
-      "published_at": "2026-10-16T01:41:24+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
-      "title": "nguyễn thanh nghị",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-16T01:40:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
       ]
     },
     {
@@ -609,149 +581,6 @@
       ]
     },
     {
-      "title": "game online",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-16T00:50:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "Can we bring this trend back #scream #halloween - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DVG92OEwzYTIxQ3RCVjgyX0ZDV1ZoR09ORXJCUjg4ZDYtUWhNakFhc3haeTFtOThqbTBZYk9IaURfYXNQSXBoazZlbEpXaWVDRkNSb2FndFB4cVM5d3JVdnJrWUh6NzQ1SkRjaXBELWFKSGlx?oc=5",
-      "summary": "Can we bring this trend back #scream #halloween TikTok",
-      "published_at": "2026-10-16T00:45:01+00:00",
-      "source": "Google News TikTok & Short-form Video",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "likely_platform_noise",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News TikTok & Short-form Video"
-      ]
-    },
-    {
-      "title": "vtvgo",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-16T00:30:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "vtv",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-16T00:30:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "COOKED! Fox mourns MAGA losses expected in midterms, Dem STARS stump - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05M05KZmNHNGVDZ2FqSUVncHZLblJpdE5JajJYUWdoNjdXdVFTOGtobVgxeUY4UFY0aHNmOG1RMWxhWnFEMTJoRUxjdGpOUnVYa0Z1Y21n?oc=5",
-      "summary": "COOKED! Fox mourns MAGA losses expected in midterms, Dem STARS stump YouTube",
-      "published_at": "2026-10-16T00:17:17+00:00",
-      "source": "Google News YouTube Videos & Creators",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ayoutube.com%2Fwatch+creator+OR+video+essay+OR+explainer&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News YouTube Videos & Creators"
-      ]
-    },
-    {
-      "title": "oh heyyyy 🤭🤭 @TEN #fyp #TEN #kpop #dance #trend - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GaS15MFRUM200b0dGSHhhME15N1JFcE1PQTlwSC1XVTY2TXNrMjNDMVcxdVRWS0xfZUNUSEtnT0JSal9kRk9QYUhlcG05akJHNThENkNFRjFYcmpiMU5NV1NHaGJ4aXQtNkFDRHE0aWxQd1k?oc=5",
-      "summary": "oh heyyyy 🤭🤭 @TEN #fyp #TEN #kpop #dance #trend TikTok",
-      "published_at": "2026-10-15T23:51:48+00:00",
-      "source": "Google News TikTok & Short-form Video",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "likely_platform_noise",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News TikTok & Short-form Video"
-      ]
-    },
-    {
       "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
       "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
       "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
@@ -766,30 +595,11 @@
       "triage_reasons": [
         "published_within_24_hours"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
       "sources_seen": [
         "TechCrunch AI"
-      ]
-    },
-    {
-      "title": "Free-AI-tools – Curated list of free and low cost AI tools",
-      "url": "https://github.com/ShaikhWarsi/free-ai-tools",
-      "summary": "Article URL: https://github.com/ShaikhWarsi/free-ai-tools Comments URL: https://news.ycombinator.com/item?id=50111860 Points: 1 # Comments: 0",
-      "published_at": "2026-10-15T23:39:33+00:00",
-      "source": "Hacker News AI Discussions",
-      "source_feed": "https://hnrss.org/newest?q=AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Hacker News AI Discussions"
       ]
     },
     {
@@ -830,52 +640,6 @@
       "quality_flags": [],
       "sources_seen": [
         "BBC World"
-      ]
-    },
-    {
-      "title": "Living with a stink? Technology might help",
-      "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-      "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
-      "published_at": "2026-10-15T23:18:21+00:00",
-      "source": "BBC Business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "BBC Business"
-      ]
-    },
-    {
-      "title": "Full match | Arsenal v Tottenham Hotspur | 2018/19 - Arsenal.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIbjJMZlhSRTkza2ZrVjl2UTJCRFFSdnNmSW5Jb0FoUFFRSmNTOFRLRmV4ajE3bEJFV0NOajNNYklhQ0JkRXlDanhYaEVOcDBGbVJPcTJQS050YnNJUkJR?oc=5",
-      "summary": "Full match | Arsenal v Tottenham Hotspur | 2018/19 Arsenal.com",
-      "published_at": "2026-10-15T23:16:48+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News Arsenal"
       ]
     },
     {
@@ -934,7 +698,9 @@
       "triage_reasons": [
         "published_within_24_hours"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
       "sources_seen": [
         "Google News TikTok & Short-form Video"
       ]
@@ -1106,9 +872,9 @@
       ]
     },
     {
-      "title": "Sutton's predictions v boxer & Ipswich fan Fabio Wardley - BBC",
+      "title": "Premier League predictions: Chris Sutton v boxer & Ipswich fan Fabio Wardley - & AI - BBC",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hX2tiVG1BLWJxejI1aDBTUzNpajNLRUFHSlF4cUJyRTVjNmE0TnJzXzN5TWo1cW1WMVhPUnZEWlM2aUFlTmdtQTlIZXUwQlIxRnBqVVZhcU9MZWppaDdxRUdIbExKaUta?oc=5",
-      "summary": "Sutton's predictions v boxer & Ipswich fan Fabio Wardley BBC",
+      "summary": "Premier League predictions: Chris Sutton v boxer & Ipswich fan Fabio Wardley - & AI BBC",
       "published_at": "2026-10-15T19:26:51+00:00",
       "source": "Google News Premier League",
       "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
@@ -1167,7 +933,8 @@
       ],
       "quality_flags": [],
       "sources_seen": [
-        "Google News Arsenal"
+        "Google News Arsenal",
+        "Google News Premier League"
       ]
     },
     {
@@ -1327,7 +1094,9 @@
       "triage_reasons": [
         "published_within_24_hours"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
       "sources_seen": [
         "Google News TikTok & Short-form Video"
       ]
@@ -1436,27 +1205,6 @@
       ]
     },
     {
-      "title": "Chelsea XI vs Everton: Confirmed team news, predicted lineup and injury latest for Premier League - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWW9wNHFvZk91V1hGVVhIOW04THlCM2traW4ybmFnSmp2SjlkVWd6c0pSY2VZMWc5NzE1c2llbURTb3Q3TXlyRzV1U055TE1oT1o4dnU2dzI3RjVoOEQyV3pVbXlDQ2tFaDZSR3c3YTJLREFIYnNFbmJ0WGk3UUt4ZHBSVFctTFliYUlpaUY5eHplc2pscnhoaUg0U1loM2pvckZsd2RvREFWQ1BRZXRKTTFER3Zjdy1XcnUyVVZ5ajRDbkNaOUM1NkJFaw?oc=5",
-      "summary": "Chelsea XI vs Everton: Confirmed team news, predicted lineup and injury latest for Premier League London Evening Standard",
-      "published_at": "2026-10-15T15:38:29+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 52,
-      "triage_reasons": [
-        "possible_concrete_development",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
       "title": "Eom has strength to move on after alleged racist abuse, says Swansea boss",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck0e0qd0yllwo?at_medium=RSS&at_campaign=rss",
       "summary": "Vitor Matos says Eom Jisung has the strength to move on from the alleged racial abuse which marred Swansea City's win at Millwall.",
@@ -1537,6 +1285,32 @@
       ]
     },
     {
+      "title": "Tyler Cowen and Dwarkesh Patel Predict the Future | Interesting Times - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90M2dVOGFaS25OdXE4LWlYSFg0N1pkOUkwLTRoZm5nd1F2enZMc3NCaV90VU9QS3lPTDItXzlBZ21RU21VaU5fdGdqS2lSNURKM3FyTFpR?oc=5",
+      "summary": "Tyler Cowen and Dwarkesh Patel Predict the Future | Interesting Times YouTube",
+      "published_at": "2026-10-15T15:00:17+00:00",
+      "source": "Google News YouTube Videos & Creators",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Ayoutube.com%2Fwatch+creator+OR+video+essay+OR+explainer&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 54,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "viral_metrics_missing",
+        "no_public_engagement_metrics",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News YouTube Videos & Creators"
+      ]
+    },
+    {
       "title": "Today, October 15th, is far more than just a date on the calendar, it is a sacred intersection of life and eternity. Marking another year of my own birth on this very day brings a bittersweet reflection, knowing it is also the date my beloved younger brother, Baba Ra - X",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10RXU0YXFpWTNxMkZYSHJwa0xMaGJTR000QklLQmhtdW4zdWNvZGZwbGVjWHUzVTA1dGl5Qm1acHlNZExkYXFkSTJJTnJBcVkxWDFpY3JiVVBNR2tMYWlN?oc=5",
       "summary": "Today, October 15th, is far more than just a date on the calendar, it is a sacred intersection of life and eternity. Marking another year of my own birth on this very day brings a bittersweet reflection, knowing it is also the date my beloved younger brother, Baba Ra X",
@@ -1551,7 +1325,9 @@
       "triage_reasons": [
         "published_within_24_hours"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
       "sources_seen": [
         "Google News X Threads & Creator Discussions"
       ]
@@ -1651,7 +1427,9 @@
       "triage_reasons": [
         "published_within_24_hours"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
       "sources_seen": [
         "Google News YouTube Videos & Creators"
       ]
@@ -1674,6 +1452,26 @@
       "quality_flags": [],
       "sources_seen": [
         "BBC Sport Football"
+      ]
+    },
+    {
+      "title": "Is possession football dying? The tactical evolution transforming the Premier League - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazZCellEOW8tTDZESU0zbm54ZFkyMk91NDgyMG5XVE42UjJnbmZMWGxjb1plQ3ZOd2hFTF9UbVNmM19jbHRkRElNekw0V0hvZmRiNGtoV2ZFTFg5VlZ6TzVWU1VkMkMtTi1hYTlfNzNtRWREdC1OVjF6SjNNUmNTbWhoOXJ4Yk9Wc2hFeG1VSk5rSW1EUWwzZ0duUF9EenM?oc=5",
+      "summary": "Is possession football dying? The tactical evolution transforming the Premier League The Independent",
+      "published_at": "2026-10-15T12:55:00+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
       ]
     },
     {
@@ -1861,6 +1659,70 @@
       ]
     },
     {
+      "title": "Top five greatest Premier League signings in history including surprise player who won nothing - talkSPORT",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83c2ctNDZPeGRGa2dzNU9lNXU3VVIxcjdEaFlJQXNsUlBnbjFISkFJcHllUEE1VGl5R2diZ1V0RDdOTjNmY29Ib3Z6Qk9sSWpEeXhHU1FRZVM1WnpKTFNlejFWcGVDeWRnN2ZDUk1RS0FpblM3cXlYWV9kZlY?oc=5",
+      "summary": "Top five greatest Premier League signings in history including surprise player who won nothing talkSPORT",
+      "published_at": "2026-10-15T07:44:00+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
+      "title": "Upcoming Clásico jersey to feature the logo of Tyler, The Creator More info 📰 https://t.co/auk1x4xIdU - X",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HY1ZDQUYtZVp0MWVVZ1k1V3pvazhxVTk1UDFSNmtJcDQ0dkJJNnNMWFRIU3pKYUQ2eV9UaWx0NzdhSDFhcVN6UnIxaFNNV3Z3VG0xUXJCOHpoT0pDMWZ0LU9R?oc=5",
+      "summary": "Upcoming Clásico jersey to feature the logo of Tyler, The Creator More info 📰 https://t.co/auk1x4xIdU X",
+      "published_at": "2026-10-15T07:35:26+00:00",
+      "source": "Google News X Threads & Creator Discussions",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
+      "sources_seen": [
+        "Google News X Threads & Creator Discussions"
+      ]
+    },
+    {
+      "title": "BARÇA GANG FC Barcelona x @spotify x Tyler, The Creator x GOLF WANG ⛳ Exclusive merch ⏳ https://t.co/HFQaFw4Awc - X",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nV3JZNWYtVHA1VGMwbjIzNERjWFFKUVhNc1I5Sy1EamVnMkdDWloycnE0aGJzb2RTa1hrcmZDRlg0VEsyNEtnR1lYV0l4ekRVZFlKc3FNX0hCWjFkcWRROF9B?oc=5",
+      "summary": "BARÇA GANG FC Barcelona x @spotify x Tyler, The Creator x GOLF WANG ⛳ Exclusive merch ⏳ https://t.co/HFQaFw4Awc X",
+      "published_at": "2026-10-15T07:23:29+00:00",
+      "source": "Google News X Threads & Creator Discussions",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
+      "sources_seen": [
+        "Google News X Threads & Creator Discussions"
+      ]
+    },
+    {
       "title": "Tyler, The Creator is taking over FC Barcelona's jerseys for El Clásico against Real Madrid on October 25 ⚽️🚨 ▫️ His GOLF logo will appear on the team's jerseys, replacing Spotify's logo ▫️ Collaboration includes a GOLF WANG clothing collection, a Tyler-dir - X",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10MmRSUEZpMGs2c29EeWhKaGVqZTFwTTFQa0dEbUc3bWg4M2FxdmxPMmd6Vy1qb0c3VVl4UU5nUXlqYnRDT0xSbzJrMDhBTmRaVWJDU3RlN2pMUHM?oc=5",
       "summary": "Tyler, The Creator is taking over FC Barcelona's jerseys for El Clásico against Real Madrid on October 25 ⚽️🚨 ▫️ His GOLF logo will appear on the team's jerseys, replacing Spotify's logo ▫️ Collaboration includes a GOLF WANG clothing collection, a Tyler-dir X",
@@ -1875,7 +1737,9 @@
       "triage_reasons": [
         "published_within_24_hours"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
       "sources_seen": [
         "Google News X Threads & Creator Discussions"
       ]
@@ -1895,7 +1759,9 @@
       "triage_reasons": [
         "published_within_24_hours"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
       "sources_seen": [
         "Google News X Threads & Creator Discussions"
       ]
@@ -1963,6 +1829,30 @@
       "quality_flags": [],
       "sources_seen": [
         "Google News Premier League"
+      ]
+    },
+    {
+      "title": "IMF Chief Warns Global Economy’s Resilience Is Reaching Its Limits - liberianobserver.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNEFraVhGM0hXc3hwVFpndGIxR1NaVlhPWkNIc1BidS1MeGsxOVU1MEF0dU5XNk5KZkJJQ3c0WlhfTDlZNXZ3dHVPeDJSSURxUGFneHp1X2QteFZaR1BOZkVUYWtmenlzOFpUQ2Q0bThENV9fcENDdnlvMXdjaWt3UzZUMmZWNkQxbW0wNGttWm54ZVBQajdCcDh3c21ORm51dUp3Z0NhOHdENHd6ZUIyemh6cUtZQlJtX1B2bklXOWItYVNCU3BQMlhpVk1lRnJVdXIzYzhrUDFjUTB0R1FfVzBaVkpJUHRNdnNiMDVQcw?oc=5",
+      "summary": "IMF Chief Warns Global Economy’s Resilience Is Reaching Its Limits liberianobserver.com",
+      "published_at": "2026-10-15T06:00:00+00:00",
+      "source": "Google News World Economy",
+      "source_feed": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 54,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News World Economy"
       ]
     },
     {
@@ -2596,9 +2486,31 @@
       "triage_reasons": [
         "published_within_72_hours"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
       "sources_seen": [
         "Google News X Threads & Creator Discussions"
+      ]
+    },
+    {
+      "title": "IMF–World Bank 2026 livestream schedule for October 15 with global economy debate at 3.30pm - Nation Thailand",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XdkE4bmxSOU1IVFJuZEJjR0Z3a3M1WWlPTXhjWGhGSFZvc29kb0pxNklSdHhZazRpVktNeTlJT2lQSHN2SjQ3a1pBYklGSWQ3T1AwenBNaFh1anJxOTI5OEhHSFVZRHVVOTd1MWpqS2Rfdw?oc=5",
+      "summary": "IMF–World Bank 2026 livestream schedule for October 15 with global economy debate at 3.30pm Nation Thailand",
+      "published_at": "2026-10-15T00:53:00+00:00",
+      "source": "Google News World Economy",
+      "source_feed": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 37,
+      "triage_reasons": [
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News World Economy"
       ]
     },
     {
@@ -2678,7 +2590,9 @@
       "triage_reasons": [
         "published_within_72_hours"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
       "sources_seen": [
         "Google News X Threads & Creator Discussions"
       ]
@@ -2738,7 +2652,9 @@
       "triage_reasons": [
         "published_within_72_hours"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
       "sources_seen": [
         "Google News X Threads & Creator Discussions"
       ]
@@ -2778,7 +2694,9 @@
       "triage_reasons": [
         "published_within_72_hours"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
       "sources_seen": [
         "TechCrunch AI"
       ]
@@ -2819,7 +2737,9 @@
         "potential_high_impact_topic",
         "published_within_72_hours"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
       "sources_seen": [
         "Google News X Threads & Creator Discussions"
       ]
@@ -2839,7 +2759,9 @@
       "triage_reasons": [
         "published_within_72_hours"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
       "sources_seen": [
         "Google News X Threads & Creator Discussions"
       ]
@@ -3084,7 +3006,9 @@
       "triage_reasons": [
         "published_within_72_hours"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
       "sources_seen": [
         "Google News YouTube Videos & Creators"
       ]
@@ -3189,22 +3113,127 @@
       "triage_reasons": [
         "published_within_72_hours"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
       "sources_seen": [
         "Google News TikTok & Short-form Video"
+      ]
+    },
+    {
+      "title": "IMF upgrades 2026 growth forecast but warns of ‘split’ outlook - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSUxWSnc0Qy1falVXTFhKMUVzaklKdUhYNVA2cnJiVU9NaVU4Y3hvYXlhYkZoTjR5VDZDeXZZeU5HTFdkUU5XOERNdUYwcXNucVRkSUF6clRBdld1VWxTcHp6ZXVkNWV3SGxrSFJKSWRsRWVWS1BrQUVCd1N3RzBFQUIxMkUzLTRMalZfZVJMMjlMTGd3eUY0UkRpejdncjRLZTVza1NQQnFhU2JacmlZYkJ0NzVyX0lzRnNhYlVUV1JnUWJmY1JjdEZPVFIzR01KZy1mZUFZcTBoXzQ0QXc5dNIB5wFBVV95cUxOcm5fQzJlSjJSc0ZUazJ1NG5uZmI1M3lWcnk0RllGbjE0dFRNNTI0YXZWamlMcXd5OTJzcDBOZmI3X1JSb1FtSXltbWV4YzlNekcwX3AwV1BrNkVZTjg0blo5MTlLMk9mRXZsaF9Mb19vdHk4Q1Y1aHU3eTBhUW1PZlJNZG44LUJiMm5EMXcxQXJ3LVpnVDVxMzZrZzh2WWZ0MTEzVndmaDEzUHBva1Z3b1hLR1dYdmtNRjRtem90WG5PR2lfUlJnc1YzU2VuZ0Vwc3hrSi1WdXlCVHd2ZERaWTlSTndFbFE?oc=5",
+      "summary": "IMF upgrades 2026 growth forecast but warns of ‘split’ outlook The Hindu",
+      "published_at": "2026-10-13T03:11:09+00:00",
+      "source": "Google News World Economy",
+      "source_feed": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News World Economy"
+      ]
+    },
+    {
+      "title": "Three international bodies warn of risks of rising debt and soaring borrowing in major economies - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNHB6TmVYd0xCRDB2clFtQkdKbXZVUEkzVWJJN1p0RVE2WXNfSWk5NnpKY09TdFNQVExkazczbDRoSU5vTzJDOGtLVG5Ld0FTMTd0TjkzZkVKbzZTS3A0WDNINVZYVlFnQWMzN0NCYVc2ZWpIUHZNejBEcy00cXI5bzdSRUpZa21Talc5NldGSlQ?oc=5",
+      "summary": "Three international bodies warn of risks of rising debt and soaring borrowing in major economies The Guardian",
+      "published_at": "2026-09-23T07:00:00+00:00",
+      "source": "Google News World Economy",
+      "source_feed": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 38,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "older_than_7_days"
+      ],
+      "quality_flags": [
+        "older_than_7_days"
+      ],
+      "sources_seen": [
+        "Google News World Economy"
+      ]
+    },
+    {
+      "title": "Marlon James and Douglas Stuart have chance to become 5th multiple winner of Booker Prize book award - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYWFZSjl5bFlVb0JVa0hySEdvSmtBdTA1SVFpMVp0ZzdXcFJZZXJYUVR2NEFMQjEwVGRBZ0wyU1NVVUlub2gxWEhMSmJZWTNSN0xueFgxMDFhRDJRbVlYdm5CYllpZS11YklNeU5TcGFQcVNkRllhdnhJSXpzWk5xZWRVTzhNZUdLX3RLUUs1YldhaGdZLUpzbUJwemhGRTJ4OWc?oc=5",
+      "summary": "Marlon James and Douglas Stuart have chance to become 5th multiple winner of Booker Prize book award AP News",
+      "published_at": "2026-09-22T07:00:00+00:00",
+      "source": "Google News International Book Awards",
+      "source_feed": "https://news.google.com/rss/search?q=Booker+Prize+OR+Pulitzer+Prize+OR+National+Book+Award+shortlist+winner&hl=en-US&gl=US&ceid=US:en",
+      "category": "books",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 38,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "older_than_7_days"
+      ],
+      "quality_flags": [
+        "older_than_7_days"
+      ],
+      "sources_seen": [
+        "Google News International Book Awards"
+      ]
+    },
+    {
+      "title": "Stories Are Weapons: Psychological Warfare and the American Mind - Washington Independent Review of Books",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNGE1Nlp0NUR6RzlkNTJGNk1udWFILTRfUGpyd3FKNnluS3VER3M2bTh5YWkwSVlyUDZBMzJzSGRaamNWRWJyTU5FN282UkFFOGhDd1h3d0hlU3NwQnJNNTcxM1RyZFFGaHhMd0pKYUhZZE5QcFIxODF2dUNpTkpXUHZSMDJySlpwczltV19TLVgzUHdoUlRsOTI1M3kzWWhyd25DUDUzT3RNdnhMdkFoaTFabG81SFMxRXpKekNWclRMeDQ?oc=5",
+      "summary": "Stories Are Weapons: Psychological Warfare and the American Mind Washington Independent Review of Books",
+      "published_at": "2024-06-12T07:00:00+00:00",
+      "source": "Google News Best Books & Nonfiction",
+      "source_feed": "https://news.google.com/rss/search?q=best+books+nonfiction+history+science+psychology+economics+book+review&hl=en-US&gl=US&ceid=US:en",
+      "category": "books",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 38,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "older_than_7_days"
+      ],
+      "quality_flags": [
+        "older_than_30_days",
+        "older_than_7_days"
+      ],
+      "sources_seen": [
+        "Google News Best Books & Nonfiction"
       ]
     }
   ],
   "category_counts": {
+    "world": 36,
     "ai": 40,
-    "world": 33,
-    "trends": 20,
+    "trends": 17,
     "vietnam": 1,
-    "creator": 20,
-    "football": 31,
-    "water": 5
+    "creator": 19,
+    "football": 30,
+    "water": 5,
+    "books": 2
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source": "Google News Books Translated into Vietnamese",
+      "error": "RuntimeError: All feed endpoints failed: https://news.google.com/rss/search?q=%22bản+dịch+tiếng+Việt%22+OR+%22sách+dịch%22+OR+%22sách+mới%22+OR+%22sách+hay%22&hl=vi&gl=VN&ceid=VN:vi -> UnicodeEncodeError: 'ascii' codec can't encode character '\\u1ea3' in position 2"
+    },
+    {
+      "source": "Google News Vietnamese Book Reviews",
+      "error": "RuntimeError: All feed endpoints failed: https://news.google.com/rss/search?q=%22điểm+sách%22+OR+%22giới+thiệu+sách%22+OR+%22sách+phi+hư+cấu%22+OR+%22sách+khoa+học%22&hl=vi&gl=VN&ceid=VN:vi -> UnicodeEncodeError: 'ascii' codec can't encode character '\\u0111' in po"
+    }
+  ],
   "source_stats": [
     {
       "source": "arXiv AI",
@@ -3239,7 +3268,7 @@
       "feed_url": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 7
+      "items_selected_primary": 6
     },
     {
       "source": "Google News Premier League",
@@ -3260,14 +3289,14 @@
       "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 15
+      "items_selected_primary": 14
     },
     {
       "source": "Google News World Economy",
       "feed_url": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 4
+      "items_selected_primary": 8
     },
     {
       "source": "Google News AI Applications",
@@ -3358,7 +3387,7 @@
       "feed_url": "https://trends.google.com/trending/rss?geo=VN",
       "status": "ok",
       "items_collected": 10,
-      "items_selected_primary": 10
+      "items_selected_primary": 7
     },
     {
       "source": "Google Trends United States",
@@ -3368,6 +3397,36 @@
       "items_selected_primary": 10
     },
     {
+      "source": "Google News International Book Awards",
+      "feed_url": "https://news.google.com/rss/search?q=Booker+Prize+OR+Pulitzer+Prize+OR+National+Book+Award+shortlist+winner&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 1
+    },
+    {
+      "source": "Google News Best Books & Nonfiction",
+      "feed_url": "https://news.google.com/rss/search?q=best+books+nonfiction+history+science+psychology+economics+book+review&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 1
+    },
+    {
+      "source": "Google News Books Translated into Vietnamese",
+      "feed_url": "https://news.google.com/rss/search?q=%22bản+dịch+tiếng+Việt%22+OR+%22sách+dịch%22+OR+%22sách+mới%22+OR+%22sách+hay%22&hl=vi&gl=VN&ceid=VN:vi",
+      "status": "error",
+      "items_collected": 0,
+      "items_selected_primary": 0,
+      "error": "RuntimeError: All feed endpoints failed: https://news.google.com/rss/search?q=%22bản+dịch+tiếng+Việt%22+OR+%22sách+dịch%22+OR+%22sách+mới%22+OR+%22sách+hay%22&hl=vi&gl=VN&ceid=VN:vi -> UnicodeEncodeError: 'ascii' codec can't encode character '\\u1ea3' in position 2"
+    },
+    {
+      "source": "Google News Vietnamese Book Reviews",
+      "feed_url": "https://news.google.com/rss/search?q=%22điểm+sách%22+OR+%22giới+thiệu+sách%22+OR+%22sách+phi+hư+cấu%22+OR+%22sách+khoa+học%22&hl=vi&gl=VN&ceid=VN:vi",
+      "status": "error",
+      "items_collected": 0,
+      "items_selected_primary": 0,
+      "error": "RuntimeError: All feed endpoints failed: https://news.google.com/rss/search?q=%22điểm+sách%22+OR+%22giới+thiệu+sách%22+OR+%22sách+phi+hư+cấu%22+OR+%22sách+khoa+học%22&hl=vi&gl=VN&ceid=VN:vi -> UnicodeEncodeError: 'ascii' codec can't encode character '\\u0111' in po"
+    },
+    {
       "source": "Google News Books & Publishing",
       "feed_url": "https://news.google.com/rss/search?q=books+publishing+authors+nonfiction+new+books&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
@@ -3375,8 +3434,22 @@
       "items_selected_primary": 0
     },
     {
-      "source": "Google News Book Reviews & Ideas",
-      "feed_url": "https://news.google.com/rss/search?q=book+review+ideas+history+science+economics&hl=en-US&gl=US&ceid=US:en",
+      "source": "YouTube Culture & Trends",
+      "feed_url": "https://news.google.com/rss/search?q=site%3Ablog.youtube%2Fculture-and-trends+YouTube+trends+creators&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "TikTok Trend Reports & Viral Formats",
+      "feed_url": "https://news.google.com/rss/search?q=site%3Anewsroom.tiktok.com+trend+report+viral+creator+trend&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "Google News Viral Video Formats",
+      "feed_url": "https://news.google.com/rss/search?q=viral+video+trend+format+storytelling+YouTube+TikTok+creator&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
       "items_selected_primary": 0
@@ -3393,14 +3466,14 @@
       "feed_url": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 8
+      "items_selected_primary": 10
     },
     {
       "source": "Google News TikTok & Short-form Video",
       "feed_url": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 7
+      "items_selected_primary": 4
     },
     {
       "source": "Threads Zuckerberg",
@@ -3410,12 +3483,12 @@
       "items_selected_primary": 0
     }
   ],
-  "sources_attempted": 29,
-  "sources_succeeded": 29,
+  "sources_attempted": 35,
+  "sources_succeeded": 33,
   "deduplication": {
-    "raw_items": 530,
-    "unique_titles": 530,
-    "duplicates_removed": 0
+    "raw_items": 610,
+    "unique_titles": 608,
+    "duplicates_removed": 2
   },
   "note": "Free RSS collection, including Google Trends RSS as an independent discovery channel and search-indexed feeds for books/creators. Google Trends is a discovery signal, not proof of importance or causality. NEWS is a neutral label, not an importance claim. triage_score is a transparent heuristic, not verified importance. Feed content has not been independently verified. quality_flags identify missing or potentially stale data."
 }

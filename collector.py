@@ -225,12 +225,38 @@ def parse_date(value):
 
 def classify_text(title, summary, fallback):
     """
-    Classify by the main topic in the title first.
-    Summary-only mentions (e.g. a football article mentioning AI predictions)
-    must not override the article's actual subject. Never classify by publisher.
+    Classify from explicit subject cues in the title only.
+    Summary mentions must not override the primary topic. When the title is
+    ambiguous, preserve the feed's declared category instead of guessing from
+    incidental terms in the summary. Publisher names are not topic evidence.
     """
     title_text = clean_html(title).lower()
-    body_text = f"{title_text} {summary}".lower()
+
+    # Explicit football subject cues should win over incidental AI mentions.
+    if re.search(
+        r"\barsenal\b|\bpremier league\b|\bepl\b|"
+        r"\bfootball\b|\bsoccer\b|ngoại hạng anh|bóng đá|"
+        r"manchester united|liverpool fc|champions league",
+        title_text,
+    ):
+        return "football"
+
+    if re.search(
+        r"water treatment|water filtration|chlorination|wastewater|"
+        r"water quality|desalination|pool filtration|reverse osmosis|"
+        r"heat pump|energy efficiency|electrolysis|xử lý nước|lọc nước|"
+        r"nước thải|nước sạch|hồ bơi|điện phân|tiết kiệm năng lượng",
+        title_text,
+    ):
+        return "water"
+
+    if re.search(
+        r"\bvietnam\b|\bviet nam\b|việt nam|hanoi|ha noi|"
+        r"ho chi minh|vietnamnews|vietnamnet|vnexpress|"
+        r"báo chính phủ|chính phủ việt nam",
+        title_text,
+    ):
+        return "vietnam"
 
     if re.search(
         r"openai|anthropic|hugging face|arxiv|artificial intelligence|"
@@ -240,65 +266,6 @@ def classify_text(title, summary, fallback):
         title_text,
     ):
         return "ai"
-
-    if re.search(
-        r"water treatment|water filtration|chlorination|wastewater|"
-        r"water quality|desalination|pool filtration|reverse osmosis|"
-        r"heat pump|energy efficiency|electrolysis|xử lý nước|lọc nước|"
-        r"nước thải|nước sạch|hồ bơi|điện phân|tiết kiệm năng lượng",
-        title_text,
-    ):
-        return "water"
-
-    if re.search(
-        r"\bvietnam\b|\bviet nam\b|việt nam|hanoi|ha noi|"
-        r"ho chi minh|vnexpress|vietnamnews|vietnamnet|"
-        r"báo chính phủ|chính phủ việt nam",
-        title_text,
-    ):
-        return "vietnam"
-
-    if re.search(
-        r"\barsenal\b|\bpremier league\b|\bepl\b|"
-        r"\bfootball\b|\bsoccer\b|ngoại hạng anh|bóng đá|"
-        r"manchester united|liverpool fc|champions league",
-        title_text,
-    ):
-        return "football"
-
-    # If title is ambiguous, use specific article terms; feed category is last fallback.
-    if re.search(
-        r"openai|anthropic|hugging face|arxiv|artificial intelligence|"
-        r"machine learning|deep learning|\bllm\b|neural network|"
-        r"generative ai|robotics|trí tuệ nhân tạo|mô hình ngôn ngữ",
-        body_text,
-    ):
-        return "ai"
-
-    if re.search(
-        r"water treatment|water filtration|chlorination|wastewater|"
-        r"water quality|desalination|pool filtration|reverse osmosis|"
-        r"heat pump|energy efficiency|electrolysis|xử lý nước|lọc nước|"
-        r"nước thải|nước sạch|hồ bơi|điện phân|tiết kiệm năng lượng",
-        body_text,
-    ):
-        return "water"
-
-    if re.search(
-        r"\bvietnam\b|\bviet nam\b|việt nam|hanoi|ha noi|"
-        r"ho chi minh|vnexpress|vietnamnews|vietnamnet|"
-        r"báo chính phủ|chính phủ việt nam",
-        body_text,
-    ):
-        return "vietnam"
-
-    if re.search(
-        r"\barsenal\b|\bpremier league\b|\bepl\b|"
-        r"\bfootball\b|\bsoccer\b|ngoại hạng anh|bóng đá|"
-        r"manchester united|liverpool fc|champions league",
-        body_text,
-    ):
-        return "football"
 
     if fallback in VALID_CATEGORIES:
         return fallback

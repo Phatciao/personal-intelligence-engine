@@ -100,7 +100,8 @@ SOURCES = [
     {
         "name": "Google DeepMind Blog",
         "category": "ai",
-        "url": "https://deepmind.google/blog/rss.xml",
+        "url": "https://blog.google/technology/google-deepmind/rss/",
+        "fallback_urls": ["https://deepmind.google/blog/rss.xml"],
     },
     {
         "name": "Google Research",
@@ -123,20 +124,23 @@ SOURCES = [
         "url": "https://hnrss.org/newest?q=AI",
     },
 
-    # --- X: tài khoản công khai qua RSSHub ---
-    # Thử nghiệm; dịch vụ trung gian có thể bị giới hạn.
+    # --- AI ecosystem: community-maintained mirror, not an official Anthropic feed ---
     {
-        "name": "Anthropic News (RSS mirror)",
+        "name": "Anthropic News (community RSS mirror)",
         "category": "ai",
-        "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",    },
+        "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+    },
     {
-        "name": "Microsoft AI Blog",
+        "name": "Microsoft Research Blog",
         "category": "ai",
-        "url": "https://blogs.microsoft.com/ai/feed/",    },
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+    },
     {
         "name": "VentureBeat AI",
         "category": "ai",
-        "url": "https://venturebeat.com/category/ai/feed/",    },
+        "url": "https://venturebeat.com/category/ai/feed/",
+        "fallback_urls": ["https://venturebeat.com/feed/"],
+    },
 
     # --- Threads: thử nghiệm, chưa bảo đảm hoạt động ---
     {
@@ -527,10 +531,12 @@ def fetch_source(source):
             ) as response:
                 xml_bytes = response.read(5_000_000)
 
-            items = parse_feed(xml_bytes, source)
+            actual_source = dict(source)
+            actual_source["url"] = url
+            items = parse_feed(xml_bytes, actual_source)
             if url != source["url"]:
                 print(f"  FALLBACK OK: {url}")
-            return items
+            return items, url
         except Exception as exc:
             errors.append(f"{url} -> {type(exc).__name__}: {str(exc)[:160]}")
 
@@ -648,6 +654,7 @@ def main():
 
     collected = []
     source_errors = []
+    source_stats = []
     succeeded = 0
 
     print("Personal Intelligence Engine — collector v3")
@@ -657,9 +664,16 @@ def main():
         print(f"[{index}/{len(SOURCES)}] {source['name']}")
 
         try:
-            items = fetch_source(source)
+            items, actual_feed_url = fetch_source(source)
             collected.extend(items)
             succeeded += 1
+            source_stats.append({
+                "source": source["name"],
+                "feed_url": actual_feed_url,
+                "status": "ok",
+                "items_collected": len(items),
+                "items_selected_primary": 0,
+            })
             print(f"  OK: {len(items)} items")
 
         except Exception as exc:
@@ -669,6 +683,14 @@ def main():
                 "source": source["name"],
                 "error": message,
             })
+            source_stats.append({
+                "source": source["name"],
+                "feed_url": source["url"],
+                "status": "error",
+                "items_collected": 0,
+                "items_selected_primary": 0,
+                "error": message,
+            })
 
             print(f"  ERROR: {message}")
 
@@ -676,6 +698,15 @@ def main():
 
     unique_items = deduplicate(collected)
     items = select_items(unique_items)
+
+    # Per-source counts make feed health and selection effects auditable.
+    selected_primary_counts = {}
+    for item in items:
+        name = item.get("source", "")
+        selected_primary_counts[name] = selected_primary_counts.get(name, 0) + 1
+
+    for stat in source_stats:
+        stat["items_selected_primary"] = selected_primary_counts.get(stat["source"], 0)
 
     status = "ok" if succeeded > 0 else "error"
 
@@ -692,6 +723,7 @@ def main():
         "items": items,
         "category_counts": category_counts,
         "source_errors": source_errors,
+        "source_stats": source_stats,
         "sources_attempted": len(SOURCES),
         "sources_succeeded": succeeded,
         "deduplication": {

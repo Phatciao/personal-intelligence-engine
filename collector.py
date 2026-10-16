@@ -256,17 +256,15 @@ def parse_date(value):
 
 def classify_text(title, summary, fallback):
     """
-    Classify from explicit subject cues in the title only.
-    Summary mentions must not override the primary topic. When the title is
-    ambiguous, preserve the feed's declared category instead of guessing from
-    incidental terms in the summary. Publisher names are not topic evidence.
+    Classify from explicit title cues; preserve the source category when
+    the title is ambiguous. Discovery feeds for books and creators remain
+    separate from general AI/world topics.
     """
     title_text = clean_html(title).lower()
 
-    # Explicit football subject cues should win over incidental AI mentions.
     if re.search(
-        r"\barsenal\b|\bpremier league\b|\bepl\b|"
-        r"\bfootball\b|\bsoccer\b|ngoại hạng anh|bóng đá|"
+        r"\\barsenal\\b|\\bpremier league\\b|\\bepl\\b|"
+        r"\\bfootball\\b|\\bsoccer\\b|ngoại hạng anh|bóng đá|"
         r"manchester united|liverpool fc|champions league",
         title_text,
     ):
@@ -282,25 +280,43 @@ def classify_text(title, summary, fallback):
         return "water"
 
     if re.search(
-        r"openai|anthropic|hugging face|arxiv|artificial intelligence|"
-        r"machine learning|deep learning|\bllm\b|neural network|"
-        r"generative ai|robotics|trí tuệ nhân tạo|mô hình ngôn ngữ|"
-        r"\bai model\b|\bai tools?\b",
+        r"booktok|book review|book reviews|new books|books about|"
+        r"publishing|publisher|nonfiction book|novel|literary|"
+        r"author interview|reading list|sách|tác giả|xuất bản|điểm sách|phê bình sách",
         title_text,
     ):
-        return "ai"
+        return "books"
 
     if re.search(
-        r"\bvietnam\b|\bviet nam\b|việt nam|hanoi|ha noi|"
+        r"youtube|tiktok|threads\\.net|x\\.com|twitter|content creator|"
+        r"creator economy|video essay|short.form video|social media creator|"
+        r"storytelling|viral video|influencer|youtuber|nhà sáng tạo nội dung|"
+        r"sáng tạo nội dung|nội dung số",
+        title_text,
+    ):
+        return "creator"
+
+    if re.search(
+        r"\\bvietnam\\b|\\bviet nam\\b|việt nam|hanoi|ha noi|"
         r"ho chi minh|vietnamnews|vietnamnet|vnexpress|"
         r"báo chính phủ|chính phủ việt nam",
         title_text,
     ):
         return "vietnam"
 
+    if re.search(
+        r"openai|anthropic|hugging face|arxiv|artificial intelligence|"
+        r"machine learning|deep learning|\\bllm\\b|neural network|"
+        r"generative ai|robotics|trí tuệ nhân tạo|mô hình ngôn ngữ|"
+        r"\\bai model\\b|\\bai tools?\\b",
+        title_text,
+    ):
+        return "ai"
+
     if fallback in VALID_CATEGORIES:
         return fallback
     return "world"
+
 
 def normalize_title(title):
     text = clean_html(title).lower()

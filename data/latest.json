@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-16T02:51:58.863461+00:00",
+  "generated_at": "2026-10-16T02:57:10.133374+00:00",
   "status": "ok",
   "items_count": 150,
   "items": [
@@ -311,25 +311,6 @@
       ]
     },
     {
-      "title": "Seeing SEPHORiA IRL… when we said it was the ULTIMATE beauty trend discovery, we meant it #SEPHORiA #SEPHORiALondon - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNM1NRN08tOXJjWGRMRldYTGRrYmViM091Tkgtd184R0JvVTMwSXhQVHNBYTlJNGI2akpyZXQ4cXRiUWhwZjZyTEJOSUprRzlYTTYweVJseVRYYk5fNlAzcXZZaXlEeWR4UEtJ?oc=5",
-      "summary": "Seeing SEPHORiA IRL… when we said it was the ULTIMATE beauty trend discovery, we meant it #SEPHORiA #SEPHORiALondon TikTok",
-      "published_at": "2026-10-15T22:53:49+00:00",
-      "source": "Google News TikTok & Short-form Video",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News TikTok & Short-form Video"
-      ]
-    },
-    {
       "title": "Letters with 'suspicious substances' sent to US senators and election offices",
       "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
       "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
@@ -435,6 +416,28 @@
       ]
     },
     {
+      "title": "#fourthwing #booktok - TikTok",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qVllGeHJZZlh6ckxRWTNKSHloMG04WnJ6bzYwM3RIXzJhYXhBcmFna1NQSjZZV0JLUGg5TDUxU0tJY3ZvX3pYQ0tWbGdUMFpTcUVueUwzVDlORzZ1Q21ROG9KQnBrVkhyWjh4MlFSM1I?oc=5",
+      "summary": "#fourthwing #booktok TikTok",
+      "published_at": "2026-10-15T21:31:58+00:00",
+      "source": "Google News TikTok & Short-form Video",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News TikTok & Short-form Video"
+      ]
+    },
+    {
       "title": "Euro Leagues",
       "url": "https://www.bbc.co.uk/sounds/play/p0pgz2sp?at_medium=RSS&at_campaign=rss",
       "summary": "Are Barcelona and PSG the teams to beat in the Champions League?",
@@ -507,7 +510,7 @@
       "published_at": "2026-10-15T20:06:28+00:00",
       "source": "Google News TikTok & Short-form Video",
       "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
-      "category": "books",
+      "category": "creator",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
       "triage_score": 54,
@@ -931,6 +934,26 @@
       ]
     },
     {
+      "title": "Arsenal XI vs Nottingham Forest: Confirmed team news, predicted lineup and injury latest for Premier League - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbllxNGJoa1Q4eGd5VUUzaVR1Z3UycHJjTlZ2Mm9hNGdfN0c5Wi0wX3kwUEVudjdzOGpoZGpKRWc3ajRUS3MxMXNOajBYUTRkRlphb1RKaWlWZEdoNDIxLUYtazNUbGx5dWR4aGQtd3FiaFZFWUM1U1dyV0NTVFhFVDJ4LXdSQms1V3NPMUhSMVRZTzI0MWp5TFhGbWNjek01N0ZjbFF5UFJObmF6V3RSaW11UlFfakdPNXdTUHpPeEp1MHdfcnpReTJLSTFaMjZ6NktqbmVvWlk?oc=5",
+      "summary": "Arsenal XI vs Nottingham Forest: Confirmed team news, predicted lineup and injury latest for Premier League London Evening Standard",
+      "published_at": "2026-10-15T16:33:02+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
       "title": "Havertz takes on Calafiori in What Do You Know? - Arsenal.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSWdsNmFHd3lEM05FWkdBaWx6ODRUR0QyeUo5OGVnblBOc3RaaDlTS1RaR1lTLU9GSFdUNUw5R0dvczdjb3U1VURVVExxQzROSHYwZEdRRi15NzlGRTRxYzl2NFNTV0tLM09OMTZSZ0lMRXo1cFBkNktvZFVPeERfUWFuZGw3X1lfMjYzZDhXQkFqZw?oc=5",
       "summary": "Havertz takes on Calafiori in What Do You Know? Arsenal.com",
@@ -1098,13 +1121,32 @@
       ]
     },
     {
+      "title": "interpretability might be the most important scientific problem in the world right now, as I don't think we can solve alignment if we don't know what we're building. I think I have good news about it. I co-authored early work in mechanistic interpretability at OpenAI - X",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CMEtfVFF2YTQ1MG04bXFFS0FkTF9FT2NlTm0xVjVUdjlLbm9KcjR1VEZKTmJBVTJGTmM4amhMT2xnWTY5bXZXOGR2c1JpaXAxS25oVUlPa3lDaFlUXzZSOUk4bVU?oc=5",
+      "summary": "interpretability might be the most important scientific problem in the world right now, as I don't think we can solve alignment if we don't know what we're building. I think I have good news about it. I co-authored early work in mechanistic interpretability at OpenAI X",
+      "published_at": "2026-10-15T15:40:54+00:00",
+      "source": "Google News X Threads & Creator Discussions",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News X Threads & Creator Discussions"
+      ]
+    },
+    {
       "title": "Dostoevsky's 'Notes from Underground': The Irrational Novel - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iSzVxM2w1WS1UcEJfTjlGRWxKeEg4TnBlZVc1d2ItUk1CTEtoMjJ1ZWZsOW8zWUVwdTVHMUVvbUg1UVg2ZUV3enZqLVR2NU5XVzktVTN3?oc=5",
       "summary": "Dostoevsky's 'Notes from Underground': The Irrational Novel YouTube",
       "published_at": "2026-10-15T15:34:55+00:00",
       "source": "Google News YouTube Videos & Creators",
       "source_feed": "https://news.google.com/rss/search?q=site%3Ayoutube.com%2Fwatch+creator+OR+video+essay+OR+explainer&hl=en-US&gl=US&ceid=US:en",
-      "category": "books",
+      "category": "creator",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
       "triage_score": 34,
@@ -1341,26 +1383,6 @@
       ]
     },
     {
-      "title": "Arsenal XI vs Nottingham Forest: Confirmed team news, predicted lineup and injury latest for Premier League - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbllxNGJoa1Q4eGd5VUUzaVR1Z3UycHJjTlZ2Mm9hNGdfN0c5Wi0wX3kwUEVudjdzOGpoZGpKRWc3ajRUS3MxMXNOajBYUTRkRlphb1RKaWlWZEdoNDIxLUYtazNUbGx5dWR4aGQtd3FiaFZFWUM1U1dyV0NTVFhFVDJ4LXdSQms1V3NPMUhSMVRZTzI0MWp5TFhGbWNjek01N0ZjbFF5UFJObmF6V3RSaW11UlFfakdPNXdTUHpPeEp1MHdfcnpReTJLSTFaMjZ6NktqbmVvWlk?oc=5",
-      "summary": "Arsenal XI vs Nottingham Forest: Confirmed team news, predicted lineup and injury latest for Premier League London Evening Standard",
-      "published_at": "2026-10-15T14:33:02+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 52,
-      "triage_reasons": [
-        "possible_concrete_development",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
       "title": "Women’s Podium Training Thread 🧵⤵️ - X",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51Q3BuTDkxaFNfSmt0WEY2VFhNd1ZMN2hEMHE0V1hWNGZHdlNSWVJSRG5ZN2VHN2Jib0tfekhMNXBzSjM5MVExeWx0NHpnWV9VRk5vZHhnWERFek0?oc=5",
       "summary": "Women’s Podium Training Thread 🧵⤵️ X",
@@ -1399,28 +1421,6 @@
       "quality_flags": [],
       "sources_seen": [
         "Google News Arsenal"
-      ]
-    },
-    {
-      "title": "DOST seeks ₱500M for water filtration, desalination tech - BusinessMirror",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTR6R0p5a1VSeExrSTVvU1FGd1BONS0tR1p2dHg4c05OQWRGMDNIcVZHVGJUbE1Lbm1kd05jVTg4QUM2YVB2aHJ3by11WFhHNGdFSzVfRDJHUDBaV2hEeHJfN3hYMmh2a2NxXzE3S2d5UnFLYWtZWVdsUDBFLWs2anR2VGZHV0g1QjVZN0h3ZXZoSUNPN3pWVDVObU9yeHF1d09JMUVEMDk?oc=5",
-      "summary": "DOST seeks ₱500M for water filtration, desalination tech BusinessMirror",
-      "published_at": "2026-10-15T13:55:35+00:00",
-      "source": "Google News Water Technology",
-      "source_feed": "https://news.google.com/rss/search?q=water+treatment+filtration+technology&hl=en-US&gl=US&ceid=US:en",
-      "category": "water",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News Water Technology"
       ]
     },
     {
@@ -2989,7 +2989,7 @@
       "published_at": "2026-10-13T07:00:00+00:00",
       "source": "Google News TikTok & Short-form Video",
       "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
-      "category": "books",
+      "category": "creator",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
       "triage_score": 37,
@@ -3025,10 +3025,9 @@
     "vietnam": 1,
     "world": 39,
     "ai": 40,
-    "creator": 22,
+    "creator": 26,
     "football": 38,
-    "books": 3,
-    "water": 7
+    "water": 6
   },
   "source_errors": [],
   "source_stats": [
@@ -3114,7 +3113,7 @@
       "feed_url": "https://news.google.com/rss/search?q=water+treatment+filtration+technology&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 6
+      "items_selected_primary": 5
     },
     {
       "source": "Google News Energy",
@@ -3205,7 +3204,7 @@
       "feed_url": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 10
+      "items_selected_primary": 11
     },
     {
       "source": "Google News TikTok & Short-form Video",

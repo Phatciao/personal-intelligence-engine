@@ -325,7 +325,16 @@ function interpretation(item){
   const age=ageHours(item);
   let why="";
   let action="";
-  if(cat==="ai"){
+  if(cat==="trends"){
+    why="Google Trends giúp phát hiện truy vấn đang được chú ý, độc lập với RSS tin tức; thứ hạng/xu hướng không tự chứng minh tầm quan trọng, nguyên nhân hay mức tăng so với nền dài hạn.";
+    action="Mở dữ liệu Trends gốc, kiểm tra thời gian, khu vực và chủ đề liên quan; tìm nguồn tin độc lập để giải thích vì sao truy vấn tăng. Không suy ra nhu cầu thị trường chỉ từ một đợt tăng.";
+  }else if(cat==="books"){
+    why="Cần phân biệt sách/ý tưởng thực sự với nội dung quảng bá hoặc tiêu đề chỉ nhắc đến sách.";
+    action="Mở bài gốc, xác định luận điểm và bằng chứng, rồi tìm đánh giá hoặc phản biện độc lập.";
+  }else if(cat==="creator"){
+    why="Tín hiệu nền tảng có thể là nội dung viral đơn lẻ, không phải xu hướng rộng hay chiến lược đã chứng minh hiệu quả.";
+    action="Kiểm tra nội dung gốc, ngày đăng, dữ liệu tương tác và kết quả có thể xác minh; loại nội dung chỉ có hashtag hoặc metadata khỏi phân tích biên tập.";
+  }else if(cat==="ai"){
     why="Có thể liên quan đến năng lực, chi phí hoặc cách ứng dụng AI. Cần xem bài gốc để xác định thay đổi thực sự.";
     action="Kiểm tra tính năng hoặc kết quả được công bố; thử một tác vụ nhỏ và so sánh với quy trình hiện tại.";
   }else if(cat==="water"){

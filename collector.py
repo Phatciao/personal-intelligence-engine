@@ -142,6 +142,20 @@ SOURCES = [
     },
 
 
+    # --- Google Trends: nguồn phát hiện độc lập, không phải bằng chứng về mức độ quan tâm tuyệt đối ---
+    {
+        "name": "Google Trends Vietnam",
+        "category": "trends",
+        "signal_source_type": "google_trends",
+        "url": "https://trends.google.com/trending/rss?geo=VN",
+    },
+    {
+        "name": "Google Trends United States",
+        "category": "trends",
+        "signal_source_type": "google_trends",
+        "url": "https://trends.google.com/trending/rss?geo=US",
+    },
+
     # --- Sách và tri thức: discovery qua RSS tìm kiếm miễn phí ---
     {
         "name": "Google News Books & Publishing",
@@ -181,7 +195,7 @@ SOURCES = [
     },
 ]
 
-VALID_CATEGORIES = {"ai", "football", "water", "vietnam", "world", "books", "creator"}
+VALID_CATEGORIES = {"ai", "football", "water", "vietnam", "world", "books", "creator", "trends"}
 
 ATOM = "{http://www.w3.org/2005/Atom}"
 CONTENT = "{http://purl.org/rss/1.0/modules/content/}"
@@ -261,10 +275,17 @@ def classify_text(title, summary, fallback):
     separate from general AI/world topics.
     """
     title_text = clean_html(title).lower()
+    full_text = title_text + " " + clean_html(summary).lower()
 
-    # Preserve the intended lane for search-indexed discovery feeds.
-    if fallback in {"books", "creator"}:
-        return fallback
+    # Keep Google Trends separate: it is a discovery signal, not a topic classification.
+    if fallback == "trends":
+        return "trends"
+
+    # Search-indexed discovery feeds must pass a minimal topic-relevance check.
+    if fallback == "books" and re.search(r"book|books|publishing|publisher|novel|literary|author|reading|sách|tác giả|xuất bản|điểm sách|booktok", full_text):
+        return "books"
+    if fallback == "creator" and re.search(r"youtube|tiktok|threads|x\.com|twitter|creator|video|storytelling|influencer|social media|content|booktok|nhà sáng tạo|nội dung số", full_text):
+        return "creator"
 
     if re.search(
         r"\barsenal\b|\bpremier league\b|\bepl\b|"
@@ -543,6 +564,7 @@ def parse_feed(xml_bytes, source):
             # remains the original article/post destination.
             "source_feed": source["url"],
             "category": category,
+            "signal_source_type": source.get("signal_source_type", "rss"),
 
             # Neutral label: collection does not prove importance.
             "label": "NEWS",
@@ -648,6 +670,15 @@ def select_items(items):
                 set(item.get("quality_flags", []) + ["older_than_30_days"])
             )
 
+    # Flag likely noise without silently deleting it; this preserves recall for review.
+    for item in items:
+        title = item.get("title", "").lower()
+        summary = item.get("summary", "").strip()
+        if item.get("category") == "creator" and (len(summary) < 70 or re.search(r"#fyp|#fy\b|wait for it|we take it as a compliment|full match|dance #trend", title)):
+            item["quality_flags"] = list(set(item.get("quality_flags", []) + ["likely_platform_noise"]))
+        if item.get("category") == "books" and not re.search(r"book|books|publishing|publisher|novel|literary|author|reading|sách|tác giả|xuất bản|điểm sách|booktok", title):
+            item["quality_flags"] = list(set(item.get("quality_flags", []) + ["weak_topic_match"]))
+
     # Put stronger candidates first; date is only a tie-breaker.
     items.sort(
         key=lambda item: (
@@ -665,6 +696,7 @@ def select_items(items):
         "water": 25,
         "books": 25,
         "creator": 30,
+        "trends": 30,
     }
 
     counts = {category: 0 for category in VALID_CATEGORIES}
@@ -784,7 +816,7 @@ def main():
             "duplicates_removed": len(collected) - len(unique_items),
         },
         "note": (
-            "Free RSS collection, including search-indexed discovery feeds for books and creators. NEWS is a neutral label, not an importance "
+            "Free RSS collection, including Google Trends RSS as an independent discovery channel and search-indexed feeds for books/creators. Google Trends is a discovery signal, not proof of importance or causality. NEWS is a neutral label, not an importance "
             "claim. triage_score is a transparent heuristic, not verified "
             "importance. Feed content has not been independently verified. "
             "quality_flags identify missing or potentially stale data."

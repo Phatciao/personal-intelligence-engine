@@ -292,7 +292,8 @@ function renderSituation(){
     {id:"water",title:"NƯỚC & NĂNG LƯỢNG",desc:"Công nghệ · vận hành"},
     {id:"football",title:"ARSENAL / EPL",desc:"Đội bóng · giải đấu"},
     {id:"books",title:"SÁCH & TRI THỨC",desc:"Tác giả · luận điểm · sách mới"},
-    {id:"creator",title:"SÁNG TẠO NỘI DUNG",desc:"YouTube · Threads · X · TikTok"}];
+    {id:"creator",title:"SÁNG TẠO NỘI DUNG",desc:"YouTube · Threads · X · TikTok"},
+    {id:"trends",title:"GOOGLE TRENDS",desc:"Truy vấn nổi lên · cần giải nghĩa"}];
   const overview=$("briefOverview");overview.replaceChildren();const chosen=[],used=new Set();
   const candidates=allItems.filter(i=>isEditorialCandidate(i)&&ageHours(i)<=72).sort((a,b)=>priority(b)-priority(a)||dateValue(b)-dateValue(a));
   domains.forEach(d=>{const item=candidates.find(i=>classify(i)===d.id&&!used.has(i.url||i.title));if(item&&chosen.length<5){chosen.push({domain:d,item});used.add(item.url||item.title)}});
@@ -309,11 +310,20 @@ function renderSituation(){
   if(!chosen.length)overview.innerHTML='<div class="empty">Chưa có đủ tin mới kèm tóm tắt để tạo bức tranh nhanh.</div>';
   const map=$("domainMap");map.replaceChildren();
   domains.forEach(d=>{
-    const item=bestForCategory(allItems.filter(i=>isEditorialCandidate(i)&&ageHours(i)<=168),d.id),card=document.createElement("article");card.className="domain-card";
+    const card=document.createElement("article");card.className="domain-card";
     const title=document.createElement("div");title.className="domain-title";title.textContent=d.title;
     const desc=document.createElement("div");desc.className="small";desc.textContent=d.desc;card.append(title,desc);
-    if(item){const h=document.createElement("h4");h.appendChild(makeLink(item));const p=document.createElement("p"),summary=clean(item.summary);p.textContent=summary.slice(0,155)+(summary.length>155?"…":"");const m=document.createElement("div");m.className="brief-meta";m.textContent=clean(item.source)+" · "+dateText(dateValue(item));card.append(h,p,m)}
-    else{const p=document.createElement("p");p.textContent="Chưa có tín hiệu đủ rõ trong dữ liệu hiện tại.";card.appendChild(p)}
+    if(d.id==="trends"){
+      const trendItems=allItems.filter(i=>classify(i)==="trends").sort((a,b)=>dateValue(b)-dateValue(a)).slice(0,3);
+      if(trendItems.length){
+        trendItems.forEach(t=>{const h=document.createElement("h4");h.appendChild(makeLink(t));const m=document.createElement("div");m.className="brief-meta";m.textContent=clean(t.source)+" · "+dateText(dateValue(t));card.append(h,m)});
+        const p=document.createElement("p");p.textContent="Chỉ là truy vấn đang nổi; cần kiểm tra sự kiện và nguồn độc lập trước khi coi là tín hiệu.";card.append(p);
+      }else{const p=document.createElement("p");p.textContent="Chưa có dữ liệu Google Trends trong batch hiện tại.";card.append(p)}
+    }else{
+      const item=bestForCategory(allItems.filter(i=>isEditorialCandidate(i)&&ageHours(i)<=168),d.id);
+      if(item){const h=document.createElement("h4");h.appendChild(makeLink(item));const p=document.createElement("p"),summary=clean(item.summary);p.textContent=summary.slice(0,155)+(summary.length>155?"…":"");const m=document.createElement("div");m.className="brief-meta";m.textContent=clean(item.source)+" · "+dateText(dateValue(item));card.append(h,p,m)}
+      else{const p=document.createElement("p");p.textContent="Chưa có tín hiệu đủ rõ trong dữ liệu hiện tại.";card.appendChild(p)}
+    }
     map.appendChild(card);
   });
   const note=$("situationNote");note.replaceChildren();const strong=document.createElement("strong");strong.textContent="Cách đọc bức tranh này: ";

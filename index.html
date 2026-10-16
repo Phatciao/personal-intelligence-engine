@@ -27,7 +27,7 @@ button:hover{border-color:var(--blue)}
 .eyebrow{color:var(--green);font-size:11px;letter-spacing:1.7px;font-weight:800;text-transform:uppercase}
 .hero h2{font-size:clamp(24px,4vw,38px);line-height:1.2;letter-spacing:-1px;margin:8px 0}
 .hero p{color:#bdc9dc;max-width:760px;margin:8px 0 0}
-.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:16px 0 24px}
+.stats{display:none}
 .stat{border:1px solid var(--line);background:#111b2c;border-radius:16px;padding:17px}
 .stat .num{font-size:27px;font-weight:800;letter-spacing:-1px}
 .stat .label{font-size:12px;color:var(--muted)}
@@ -71,6 +71,15 @@ input,select{min-width:0;border:1px solid var(--line);border-radius:10px;padding
 .empty{padding:35px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:15px}
 footer{border-top:1px solid var(--line);margin-top:35px;padding-top:18px;color:var(--muted);font-size:12px}
 .small{font-size:11px;color:var(--muted)}
+.brief-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:13px;margin:16px 0 24px}
+.brief-card{background:linear-gradient(150deg,#15243a,#111b2c);border:1px solid var(--line);border-radius:17px;padding:18px;min-width:0}
+.brief-card h4{font-size:16px;line-height:1.4;margin:9px 0 8px}.brief-card h4 a,.domain-card h4 a{color:var(--text);text-decoration:none}.brief-card h4 a:hover,.domain-card h4 a:hover{color:var(--blue)}
+.brief-card p{color:#bdc9dc;font-size:13px;margin:0 0 12px}.brief-meta{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;color:var(--muted);font-size:11px}
+.domain-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin:12px 0 25px}
+.domain-card{background:#111b2c;border:1px solid var(--line);border-radius:14px;padding:14px;min-width:0}.domain-card .domain-title{font-size:12px;color:var(--green);font-weight:800;margin-bottom:8px}
+.domain-card h4{font-size:13px;line-height:1.4;margin:8px 0}.domain-card p{font-size:12px;color:#bdc9dc;margin:0 0 9px}
+.situation-note{border:1px solid #3b506c;background:#101d30;border-radius:13px;padding:14px 16px;color:#c7d5e8;font-size:13px;margin:10px 0 22px}
+@media(max-width:1000px){.domain-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}@media(max-width:650px){.brief-grid{grid-template-columns:1fr}.domain-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:400px){.domain-grid{grid-template-columns:1fr}}
 a{color:var(--blue)}
 @media(max-width:850px){.layout{grid-template-columns:1fr}.side{grid-template-columns:1fr 1fr}.stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:540px){.wrap{padding:18px 12px 40px}.hero{padding:20px}.side{grid-template-columns:1fr}.info-grid{grid-template-columns:1fr}.card{padding:15px}.stats{gap:8px}.stat{padding:13px}}
@@ -98,16 +107,17 @@ a{color:var(--blue)}
   <p>Ưu tiên tin mới, nhận diện chủ đề đáng theo dõi và biến mỗi tín hiệu thành một câu hỏi hoặc hành động có thể kiểm chứng. Bảng điều khiển không tự xác nhận tin đúng chỉ vì RSS đã đăng tin.</p>
 </section>
 
-<section class="stats">
-  <div class="stat"><div class="num" id="statItems">—</div><div class="label">Tin trong dữ liệu</div></div>
-  <div class="stat"><div class="num" id="statFresh">—</div><div class="label">Tin trong 48 giờ</div></div>
-  <div class="stat"><div class="num" id="statSources">—</div><div class="label">Nguồn có dữ liệu</div></div>
-  <div class="stat"><div class="num">$0</div><div class="label">API trả phí cho dashboard</div></div>
-</section>
-
 <div class="section-head">
-  <div><h3>🔎 Bản tin tín hiệu</h3><div class="hint" id="updatedAt">Chưa có thời điểm cập nhật</div></div>
-  <div class="small">Điểm ưu tiên là heuristic, không phải xác suất đúng.</div>
+  <div><h3>🧭 Bức tranh nhanh</h3><div class="hint" id="updatedAt">Đang tổng hợp dữ liệu hiện tại…</div></div>
+  <div class="small">Tổng hợp theo tin hiện có; chưa phải xác minh độc lập.</div>
+</div>
+<section id="briefOverview" class="brief-grid"><div class="empty">Đang dựng bức tranh tình hình…</div></section>
+<div class="situation-note" id="situationNote">Đang kiểm tra các tín hiệu nổi bật và khoảng trống thông tin.</div>
+<div class="section-head"><div><h3>🗺️ Bản đồ theo lĩnh vực</h3><div class="hint">Mỗi lĩnh vực có một diễn biến tiêu biểu để nắm nhanh bối cảnh.</div></div></div>
+<section id="domainMap" class="domain-grid"><div class="empty">Đang phân loại tín hiệu…</div></section>
+<div class="section-head">
+  <div><h3>🔎 Dòng tin để đào sâu</h3><div class="hint">Chọn bài gốc để kiểm chứng và đọc đầy đủ.</div></div>
+  <div class="small">Thứ tự đọc không đồng nghĩa mức độ quan trọng đã được xác minh.</div>
 </div>
 
 <nav class="filters" id="filters">
@@ -209,17 +219,50 @@ function classify(item){
 }
 const labels={all:"Tất cả",ai:"AI & Công nghệ",world:"Thế giới",vietnam:"Việt Nam",water:"Nước & Năng lượng",football:"Arsenal / EPL"};
 function priority(item){
-  const raw=(clean(item.title)+" "+clean(item.summary)+" "+clean(item.source)).toLowerCase();
-  let score=30;
-  const cat=classify(item);
-  if(cat==="ai"||cat==="water")score+=8;
-  if(cat==="football"||cat==="vietnam")score+=5;
-  if(/study|research|report|official|launch|released|announced|results|data|trial|policy|regulation|earnings|transfer|injury|signed|win|loss|researchers|nghiên cứu|báo cáo|chính sách|kết quả/.test(raw))score+=10;
+  // Thứ tự đọc dựa trên độ mới và độ đầy đủ, không phải điểm xác thực hay tầm quan trọng.
+  const raw=(clean(item.title)+" "+clean(item.summary)).toLowerCase();
+  let score=0;const age=ageHours(item),summary=clean(item.summary);
+  if(age<=12)score+=36;else if(age<=24)score+=30;else if(age<=48)score+=22;else if(age<=168)score+=10;else score-=10;
+  if(summary.length>=250)score+=18;else if(summary.length>=100)score+=10;else score-=8;
+  if(/announced|approved|signed|launched|confirmed|results|official data|công bố|phê duyệt|ban hành|ký kết|injury|lineup|statement/.test(raw))score+=8;
   if(/rumour|rumor|opinion|speculation|unconfirmed|tin đồn|dự đoán/.test(raw))score-=8;
-  const age=ageHours(item);
-  if(age<=12)score+=18;else if(age<=24)score+=14;else if(age<=48)score+=8;else if(age<=168)score+=3;else score-=8;
-  if(item.url)score+=3;
-  return Math.max(0,Math.min(100,score));
+  if(item.url)score+=3;return Math.max(0,Math.min(100,score));
+}
+function bestForCategory(items,cat){return items.filter(i=>classify(i)===cat).sort((a,b)=>priority(b)-priority(a)||dateValue(b)-dateValue(a))[0]||null}
+function makeLink(item){const a=document.createElement("a");a.href=safeUrl(item.url||item.link||"");a.target="_blank";a.rel="noopener noreferrer";a.textContent=clean(item.title)||"Mở bài gốc";return a}
+function renderSituation(){
+  const domains=[
+    {id:"world",title:"THẾ GIỚI",desc:"Địa chính trị · kinh tế"},
+    {id:"ai",title:"AI & CÔNG NGHỆ",desc:"Năng lực · ứng dụng"},
+    {id:"vietnam",title:"VIỆT NAM",desc:"Kinh tế · chính sách"},
+    {id:"water",title:"NƯỚC & NĂNG LƯỢNG",desc:"Công nghệ · vận hành"},
+    {id:"football",title:"ARSENAL / EPL",desc:"Đội bóng · giải đấu"}];
+  const overview=$("briefOverview");overview.replaceChildren();const chosen=[],used=new Set();
+  const candidates=allItems.filter(i=>clean(i.summary).length>=100&&ageHours(i)<=72).sort((a,b)=>priority(b)-priority(a)||dateValue(b)-dateValue(a));
+  domains.forEach(d=>{const item=candidates.find(i=>classify(i)===d.id&&!used.has(i.url||i.title));if(item&&chosen.length<4){chosen.push({domain:d,item});used.add(item.url||item.title)}});
+  chosen.forEach(entry=>{
+    const item=entry.item,card=document.createElement("article");card.className="brief-card";
+    const tag=document.createElement("span");tag.className="pill "+(ageHours(item)<=24?"fresh":"");tag.textContent=entry.domain.title;
+    const h=document.createElement("h4");h.appendChild(makeLink(item));
+    const p=document.createElement("p"),summary=clean(item.summary);p.textContent=summary.slice(0,260)+(summary.length>260?"…":"");
+    const meta=document.createElement("div");meta.className="brief-meta";
+    const src=document.createElement("span");src.textContent=clean(item.source)+" · "+dateText(dateValue(item));
+    const status=document.createElement("span");status.textContent=ageHours(item)<=24?"Mới trong 24 giờ":"Cần đặt trong bối cảnh";
+    meta.append(src,status);card.append(tag,h,p,meta);overview.appendChild(card);
+  });
+  if(!chosen.length)overview.innerHTML='<div class="empty">Chưa có đủ tin mới kèm tóm tắt để tạo bức tranh nhanh.</div>';
+  const map=$("domainMap");map.replaceChildren();
+  domains.forEach(d=>{
+    const item=bestForCategory(allItems,d.id),card=document.createElement("article");card.className="domain-card";
+    const title=document.createElement("div");title.className="domain-title";title.textContent=d.title;
+    const desc=document.createElement("div");desc.className="small";desc.textContent=d.desc;card.append(title,desc);
+    if(item){const h=document.createElement("h4");h.appendChild(makeLink(item));const p=document.createElement("p"),summary=clean(item.summary);p.textContent=summary.slice(0,155)+(summary.length>155?"…":"");const m=document.createElement("div");m.className="brief-meta";m.textContent=clean(item.source)+" · "+dateText(dateValue(item));card.append(h,p,m)}
+    else{const p=document.createElement("p");p.textContent="Chưa có tín hiệu đủ rõ trong dữ liệu hiện tại.";card.appendChild(p)}
+    map.appendChild(card);
+  });
+  const note=$("situationNote");note.replaceChildren();const strong=document.createElement("strong");strong.textContent="Cách đọc bức tranh này: ";
+  const shortCount=allItems.filter(i=>clean(i.summary).length<100).length,oldCount=allItems.filter(i=>ageHours(i)>168).length,generated=Date.parse(lastData&&lastData.generated_at||"");
+  note.append(strong,document.createTextNode("Các thẻ trên là bài tiêu biểu theo lĩnh vực, chọn theo độ mới và độ đầy đủ của tóm tắt — không phải kết luận rằng chúng là sự kiện quan trọng nhất. Dữ liệu tạo lúc "+(generated?dateText(generated):"chưa rõ")+". Có "+shortCount+" tin tóm tắt ngắn và "+oldCount+" tin cũ hơn 7 ngày; chưa có chuỗi lịch sử để xác nhận xu hướng."));
 }
 function interpretation(item){
   const cat=classify(item);
@@ -314,17 +357,14 @@ async function loadData(){
     const data=await res.json();
     if(!data||!Array.isArray(data.items))throw new Error("Cấu trúc JSON không đúng");
     lastData=data;allItems=data.items;
-    $("statItems").textContent=allItems.length.toLocaleString("vi-VN");
-    $("statFresh").textContent=allItems.filter(i=>ageHours(i)<=48).length.toLocaleString("vi-VN");
-    $("statSources").textContent=new Set(allItems.map(i=>clean(i.source)).filter(Boolean)).size;
     const gen=Date.parse(data.generated_at||"");
     $("updatedAt").textContent="Dữ liệu tạo lúc: "+(gen?dateText(gen):"chưa ghi thời gian")+" · Trạng thái: "+clean(data.status||"không rõ");
     const ok=data.status==="ok";
-    setStatus(ok,"Đã tải "+allItems.length+" tin");
-    $("sourceStatus").textContent="Đã đọc data/latest.json. Nguồn thành công: "+(data.sources_succeeded??"không rõ")+" / "+(data.sources_attempted??"không rõ")+".";
+    setStatus(ok,"Đã cập nhật bức tranh tình hình");
+    $("sourceStatus").textContent="Dữ liệu cập nhật lúc "+(gen?dateText(gen):"chưa rõ thời điểm")+".";
     const errors=Array.isArray(data.source_errors)?data.source_errors:[];
     $("sourceErrors").textContent=errors.length?"Nguồn lỗi: "+errors.map(e=>typeof e==="string"?e:(e.source||"nguồn")+": "+(e.error||"lỗi")).join(" · "):"Không có lỗi nguồn được ghi trong JSON.";
-    render();
+    renderSituation();render();
   }catch(err){
     setStatus(false,"Không tải được dữ liệu");
     $("sourceStatus").textContent="Lỗi tải JSON: "+err.message;

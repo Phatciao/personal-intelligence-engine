@@ -162,6 +162,7 @@ a{color:var(--blue)}
   <button data-cat="football">Arsenal / EPL</button>
   <button data-cat="books">Sách & Tri thức</button>
   <button data-cat="creator">Sáng tạo nội dung</button>
+  <button data-cat="trends">Google Trends</button>
 </nav>
 
 <div class="controls">
@@ -250,7 +251,7 @@ function classify(item){
   // Explicit subject cues in title take precedence; source category is fallback.
   const title=clean(item.title).toLowerCase();
   const sourceCategory=String(item.category||"").toLowerCase();
-  if(["books","creator"].includes(sourceCategory))return sourceCategory;
+  if(["books","creator","trends"].includes(sourceCategory))return sourceCategory;
   if(/arsenal|premier league|\bepl\b|football|soccer|ngoại hạng anh|bóng đá|manchester united|liverpool fc|champions league/.test(title))return "football";
   if(/water treatment|water filtration|chlorination|wastewater|water quality|desalination|pool filtration|reverse osmosis|heat pump|energy efficiency|electrolysis|xử lý nước|lọc nước|nước thải|nước sạch|hồ bơi|điện phân|tiết kiệm năng lượng/.test(title))return "water";
   if(/booktok|book review|book reviews|new books|books about|publishing|publisher|nonfiction book|novel|literary|author interview|reading list|sách|tác giả|xuất bản|điểm sách|phê bình sách/.test(title))return "books";
@@ -260,11 +261,13 @@ function classify(item){
   if(["ai","football","water","vietnam","world","books","creator"].includes(sourceCategory))return sourceCategory;
   return "world";
 }
-const labels={all:"Tất cả",ai:"AI & Công nghệ",world:"Thế giới",vietnam:"Việt Nam",water:"Nước & Năng lượng",football:"Arsenal / EPL",books:"Sách & Tri thức",creator:"Sáng tạo nội dung"};
+const labels={all:"Tất cả",ai:"AI & Công nghệ",world:"Thế giới",vietnam:"Việt Nam",water:"Nước & Năng lượng",football:"Arsenal / EPL",books:"Sách & Tri thức",creator:"Sáng tạo nội dung",trends:"Google Trends"};
 function priority(item){
   // Thứ tự đọc dựa trên độ mới và độ đầy đủ, không phải điểm xác thực hay tầm quan trọng.
   const raw=(clean(item.title)+" "+clean(item.summary)).toLowerCase();
   let score=0;const age=ageHours(item),summary=clean(item.summary);
+  // Trends are a discovery lane, not a competing article score.
+  if(item.signal_source_type==="google_trends"||classify(item)==="trends")return Math.max(0,Math.min(100,50+(age<=24?15:age<=72?5:-10)+(summary.length>=100?5:0)));
   if(age<=12)score+=36;else if(age<=24)score+=30;else if(age<=48)score+=22;else if(age<=168)score+=10;else score-=10;
   if(summary.length>=250)score+=18;else if(summary.length>=100)score+=10;else score-=8;
   if(/announced|approved|signed|launched|confirmed|results|official data|công bố|phê duyệt|ban hành|ký kết|injury|lineup|statement/.test(raw))score+=8;
@@ -346,6 +349,7 @@ function renderCard(item,index){
   const summary=clean(item.summary||item.description||"Chưa có tóm tắt trong RSS.");
   const source=clean(item.source||"Nguồn chưa ghi rõ");
   const cat=classify(item), score=priority(item), ts=dateValue(item);
+  const flags=Array.isArray(item.quality_flags)?item.quality_flags:[];
   const info=interpretation(item);
   const isFresh=ageHours(item)<=48;
   const url=safeUrl(item.url||item.link||"");
@@ -372,7 +376,7 @@ function renderCard(item,index){
   const left=document.createElement("span");left.textContent=source+" · "+dateText(ts);
   const right=document.createElement("span");right.textContent=clean(item.verification)||"Chưa xác minh độc lập";
   foot.append(left,right);
-  card.append(top,h,p,grid,foot);
+  if(flags.length){const q=document.createElement("p");q.className="small";q.textContent="Cờ chất lượng: "+flags.join(", ").replace(/_/g," ")+" · cần xem xét thủ công, không tự động loại khỏi dòng tin.";card.append(top,h,p,grid,q,foot);}else card.append(top,h,p,grid,foot);
   return card;
 }
 function render(){

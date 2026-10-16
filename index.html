@@ -534,6 +534,39 @@ function renderEditorial(ed,data){
   const strong=document.createElement("strong");strong.textContent="Bức tranh biên tập";
   const p=document.createElement("p");p.textContent=ed.top_line||"Chưa có kết luận tổng quan.";
   top.append(strong,p);
+  const curated=Array.isArray(ed.curated_sections)?ed.curated_sections:[];
+  curated.forEach(section=>{
+    const card=document.createElement("article");card.className="editorial-card";
+    const eye=document.createElement("div");eye.className="eyeline";
+    const domain=document.createElement("span");domain.className="pill";domain.textContent=section.domain||"Biên tập";
+    const conf=document.createElement("span");conf.textContent=section.status||"Bản tham khảo";
+    eye.append(domain,conf);
+    const title=document.createElement("h4");title.textContent=section.title||"Nội dung tham khảo";
+    card.append(eye,title);
+    if(section.intro)appendEditorialBlock(card,"BỨC TRANH HIỆN TẠI",section.intro);
+    (section.items||[]).forEach(item=>{
+      const sub=document.createElement("h4");sub.textContent=item.title||"";
+      const meta=document.createElement("div");meta.className="brief-meta";meta.textContent=[item.author,item.kind,item.translation_status].filter(Boolean).join(" · ");
+      card.append(sub);if(meta.textContent)card.append(meta);
+      appendEditorialBlock(card,"NỘI DUNG CỐT LÕI",item.core);
+      appendEditorialBlock(card,"VÌ SAO ĐÁNG CHÚ Ý",item.why);
+      appendEditorialBlock(card,"GIỚI HẠN / CẦN BIẾT",item.caveat);
+      if(item.url){const links=document.createElement("div");links.className="editorial-links";const a=document.createElement("a");a.href=safeUrl(item.url);a.target="_blank";a.rel="noopener noreferrer";a.textContent=item.link_label||"Nguồn kiểm tra ↗";links.append(a);card.append(links);}
+    });
+    if(section.patterns){
+      section.patterns.forEach(item=>{
+        const sub=document.createElement("h4");sub.textContent=item.title||"";
+        card.append(sub);
+        appendEditorialBlock(card,"BẰNG CHỨNG",item.evidence);
+        appendEditorialBlock(card,"VÌ SAO CÓ THỂ HOẠT ĐỘNG",item.why);
+        appendEditorialBlock(card,"CÁCH THỬ",item.try_it);
+        appendEditorialBlock(card,"TÍN HIỆU XÁC NHẬN / BÁC BỎ",item.test);
+        if(item.url){const links=document.createElement("div");links.className="editorial-links";const a=document.createElement("a");a.href=safeUrl(item.url);a.target="_blank";a.rel="noopener noreferrer";a.textContent=item.link_label||"Nguồn gốc ↗";links.append(a);card.append(links);}
+      });
+    }
+    if(section.forecast)appendEditorialBlock(card,"ĐIỀU CÓ THỂ ĐẾN TIẾP THEO — GIẢ THUYẾT",section.forecast);
+    cards.append(card);
+  });
   ed.signals.slice().sort((a,b)=>a.priority-b.priority).forEach(sig=>{
     const card=document.createElement("article");card.className="editorial-card";
     const eye=document.createElement("div");eye.className="eyeline";

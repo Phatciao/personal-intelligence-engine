@@ -449,7 +449,42 @@ function renderEditorialFallback(data){
     const distinct=new Set(found.map(i=>String(i.source||"").toLowerCase())).size;
     if(found.length>=c.minimum)results.push({...c,items:found.slice(0,5),distinct});
   });
-  results.slice(0,6).forEach((sig,index)=>{
+  function appendDomainLens(kind){
+    const isBooks=kind==="books";
+    const card=document.createElement("article");card.className="editorial-card";
+    const eye=document.createElement("div");eye.className="eyeline";
+    const domain=document.createElement("span");domain.className="pill";domain.textContent=isBooks?"SÁCH & TRI THỨC":"CONTENT CREATOR";
+    const badge=document.createElement("span");badge.textContent=isBooks?"Sách quốc tế · bản dịch tiếng Việt":"Xu hướng · viral · dự báo";
+    eye.append(domain,badge);
+    const title=document.createElement("h4");title.textContent=isBooks?"Sách đáng đọc: từ quốc tế đến bản tiếng Việt":"Nội dung đang nổi: điều gì lan truyền và điều gì có thể đến tiếp";
+    card.append(eye,title);
+    if(isBooks){
+      const candidates=items.filter(i=>i.category==="books"&&!((i.quality_flags||[]).includes("weak_topic_match"))).sort((a,b)=>Date.parse(b.published_at||0)-Date.parse(a.published_at||0)).slice(0,5);
+      appendEditorialBlock(card,"TIÊU CHÍ CHỌN", "Ưu tiên sách được ghi nhận bởi giải thưởng/nhà phê bình có uy tín, sách phi hư cấu có luận điểm và bằng chứng rõ, cùng sách nước ngoài đã có hoặc đang có bản dịch tiếng Việt. Không coi bán chạy hay được nhắc nhiều là bằng chứng sách tốt.");
+      appendEditorialBlock(card,"CẦN CÓ TRONG MỖI HỒ SƠ", "Tên sách và tác giả · chủ đề/luận điểm chính · vì sao đáng đọc lúc này · phản biện hoặc giới hạn · tình trạng bản dịch tiếng Việt và nhà xuất bản khi xác minh được.");
+      if(candidates.length){
+        candidates.forEach(i=>{const p=document.createElement("p");const a=document.createElement("a");a.href=safeUrl(i.url||"");a.target="_blank";a.rel="noopener noreferrer";a.textContent=i.title||"Mở bài về sách";p.append(a);const m=document.createElement("span");m.className="brief-meta";m.textContent=" · "+String(i.source||"Nguồn chưa rõ")+" · "+dateText(Date.parse(i.published_at||""));p.append(m);card.append(p);});
+      }else{
+        appendEditorialBlock(card,"TÌNH TRẠNG BATCH HIỆN TẠI","Chưa thu được mục sách đủ phù hợp trong dữ liệu đang tải. Đây là khoảng trống nguồn dữ liệu, không có nghĩa là không có sách hay. Không tự tạo danh sách sách nếu chưa có nguồn xác minh.");
+      }
+      appendEditorialBlock(card,"ĐIỀU SẼ LÀM CHO MỤC NÀY HỮU ÍCH","Tách rõ: sách quốc tế đáng chú ý; sách đã dịch sang tiếng Việt; sách có giải/được giới chuyên môn tranh luận; và ý tưởng trong sách liên quan trực tiếp đến các vấn đề hiện tại.");
+    }else{
+      const candidates=items.filter(i=>i.category==="creator"&&!((i.quality_flags||[]).includes("likely_platform_noise"))&&String(i.summary||"").length>=100).sort((a,b)=>Date.parse(b.published_at||0)-Date.parse(a.published_at||0)).slice(0,6);
+      appendEditorialBlock(card,"CÁCH XÁC NHẬN VIRAL","Cần có bài/video gốc, thời điểm đăng, lượt xem/tương tác có thể kiểm tra và so sánh với mức thường thấy của chính creator đó. RSS tìm kiếm hiện không cung cấp đủ các chỉ số này, nên không gắn nhãn “viral đã xác nhận” chỉ dựa trên tiêu đề.");
+      appendEditorialBlock(card,"VÌ SAO CÓ THỂ LAN TRUYỀN — GIẢ THUYẾT CẦN KIỂM TRA","Hook dễ hiểu trong vài giây · cảm xúc hoặc tranh luận · lợi ích thực dụng · bản sắc cộng đồng · tính mới · thời điểm. Chỉ giữ lời giải thích khi khớp với cấu trúc nội dung và phản hồi người xem.");
+      if(candidates.length){
+        candidates.forEach(i=>{const p=document.createElement("p");const a=document.createElement("a");a.href=safeUrl(i.url||"");a.target="_blank";a.rel="noopener noreferrer";a.textContent=i.title||"Mở nội dung gốc";p.append(a);const m=document.createElement("span");m.className="brief-meta";m.textContent=" · "+String(i.source||"Nguồn chưa rõ")+" · "+dateText(Date.parse(i.published_at||""));p.append(m);card.append(p);});
+      }else{
+        appendEditorialBlock(card,"ỨNG VIÊN TRONG BATCH","Chưa có đủ nội dung creator có ngữ cảnh để phân tích. Các bài chỉ có hashtag hoặc tiêu đề ngắn bị hạ ưu tiên thay vì xem là xu hướng.");
+      }
+      appendEditorialBlock(card,"DỰ BÁO LÀN SÓNG TIẾP THEO","Chỉ nâng thành dự báo khi cùng một chủ đề hoặc format xuất hiện ở nhiều creator độc lập, lặp lại qua nhiều ngày/nền tảng và có dấu hiệu tương tác tăng. Hiện chưa có đủ chuỗi dữ liệu để khẳng định format nào sắp viral.");
+      appendEditorialBlock(card,"ĐẦU RA MỤC TIÊU","Chủ đề · nền tảng · format/hook · bằng chứng viral · giả thuyết vì sao hiệu quả · cách thử phiên bản riêng · tín hiệu xác nhận hoặc bác bỏ.");
+    }
+    cards.append(card);
+  }
+  appendDomainLens("books");
+  appendDomainLens("creator");
+  results.filter(sig=>!["Sách & Tri thức","Sáng tạo nội dung"].includes(sig.domain)).slice(0,4).forEach((sig,index)=>{
     const card=document.createElement("article");card.className="editorial-card";
     const eye=document.createElement("div");eye.className="eyeline";
     const domain=document.createElement("span");domain.className="pill";domain.textContent=sig.domain;

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-16T03:12:21.314200+00:00",
+  "generated_at": "2026-10-16T03:21:48.327271+00:00",
   "status": "ok",
   "items_count": 150,
   "items": [
@@ -46,6 +46,198 @@
       ]
     },
     {
+      "title": "mlb",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "summary": "",
+      "published_at": "2026-10-16T03:00:00+00:00",
+      "source": "Google Trends Vietnam",
+      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "đường cao tốc bến lức - long thành",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "summary": "",
+      "published_at": "2026-10-16T03:00:00+00:00",
+      "source": "Google Trends Vietnam",
+      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "megan fox",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-16T03:00:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "tommy edman",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-16T03:00:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "brewers manager",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-16T03:00:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "when does the world series start",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-16T03:00:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "sharks game",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-16T03:00:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "seattle mariners",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-16T03:00:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
       "title": "novig",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "summary": "",
@@ -70,31 +262,7 @@
       ]
     },
     {
-      "title": "josh turek",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-16T02:50:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "diaz dodgers",
+      "title": "dodgers payroll",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "summary": "",
       "published_at": "2026-10-16T02:50:00+00:00",
@@ -142,55 +310,7 @@
       ]
     },
     {
-      "title": "mlb payrolls 2026",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-16T02:50:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "xbox cloud gaming",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-16T02:50:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "vanessa hudgens",
+      "title": "teoscar hernandez",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "summary": "",
       "published_at": "2026-10-16T02:50:00+00:00",
@@ -234,78 +354,6 @@
       ],
       "sources_seen": [
         "Google News Vietnam"
-      ]
-    },
-    {
-      "title": "chicago blackhawks",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-16T02:40:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "cupertino",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-16T02:40:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "will smith dodgers",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-16T02:40:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
       ]
     },
     {
@@ -541,6 +589,26 @@
       ]
     },
     {
+      "title": "Man City 2-4 PSG: Erling Haaland scores twice but Enzo Maresca's side suffer first defeat of season in front of Pep Guardiola - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOEp4TE5TSUpGY1BkQU5DRXVEYUJYMlVfYTk5U3VrUkxJYTJkQlhwSHVhWVB3RjVTd3ZreVU4OVUyUUZqMlRhQ3l5MEVpVG8xdk9BeTJxclM5dFMySU8xelBRVGtqdmNjWE5CcWUtVEZlNU4tNnk2aDIzaTRrTGt4R01SMzRKQzl4allxTFJweWZ0Vjd3cTNuYmlodE5BWU1MdjI0NEdxRXpGZHJvdzh5a2h1QjJyN1NqdjdDVHBacGhMNnFWTHRiY0hVcWlWUTliWHY4UWZwQmhNd0YwVnRmeFBVQjNPVFVlTnJUcE9xS05fWWt0RUJjRDdYcllESjRsVVE?oc=5",
+      "summary": "Man City 2-4 PSG: Erling Haaland scores twice but Enzo Maresca's side suffer first defeat of season in front of Pep Guardiola Sky Sports",
+      "published_at": "2026-10-16T01:14:48+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
       "title": "game online",
       "url": "https://trends.google.com/trending/rss?geo=VN",
       "summary": "",
@@ -562,6 +630,30 @@
       ],
       "sources_seen": [
         "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "Can we bring this trend back #scream #halloween - TikTok",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DVG92OEwzYTIxQ3RCVjgyX0ZDV1ZoR09ORXJCUjg4ZDYtUWhNakFhc3haeTFtOThqbTBZYk9IaURfYXNQSXBoazZlbEpXaWVDRkNSb2FndFB4cVM5d3JVdnJrWUh6NzQ1SkRjaXBELWFKSGlx?oc=5",
+      "summary": "Can we bring this trend back #scream #halloween TikTok",
+      "published_at": "2026-10-16T00:45:01+00:00",
+      "source": "Google News TikTok & Short-form Video",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "likely_platform_noise",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News TikTok & Short-form Video"
       ]
     },
     {
@@ -613,14 +705,14 @@
       ]
     },
     {
-      "title": "estudiantes đấu với flamengo",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-16T00:20:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
+      "title": "COOKED! Fox mourns MAGA losses expected in midterms, Dem STARS stump - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05M05KZmNHNGVDZ2FqSUVncHZLblJpdE5JajJYUWdoNjdXdVFTOGtobVgxeUY4UFY0aHNmOG1RMWxhWnFEMTJoRUxjdGpOUnVYa0Z1Y21n?oc=5",
+      "summary": "COOKED! Fox mourns MAGA losses expected in midterms, Dem STARS stump YouTube",
+      "published_at": "2026-10-16T00:17:17+00:00",
+      "source": "Google News YouTube Videos & Creators",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Ayoutube.com%2Fwatch+creator+OR+video+essay+OR+explainer&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
+      "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
       "triage_score": 34,
@@ -629,35 +721,10 @@
         "summary_insufficient"
       ],
       "quality_flags": [
-        "missing_summary",
         "short_summary"
       ],
       "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "phim ngọc điểm thu",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-16T00:20:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
+        "Google News YouTube Videos & Creators"
       ]
     },
     {
@@ -763,6 +830,52 @@
       "quality_flags": [],
       "sources_seen": [
         "BBC World"
+      ]
+    },
+    {
+      "title": "Living with a stink? Technology might help",
+      "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+      "published_at": "2026-10-15T23:18:21+00:00",
+      "source": "BBC Business",
+      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "BBC Business"
+      ]
+    },
+    {
+      "title": "Full match | Arsenal v Tottenham Hotspur | 2018/19 - Arsenal.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIbjJMZlhSRTkza2ZrVjl2UTJCRFFSdnNmSW5Jb0FoUFFRSmNTOFRLRmV4ajE3bEJFV0NOajNNYklhQ0JkRXlDanhYaEVOcDBGbVJPcTJQS050YnNJUkJR?oc=5",
+      "summary": "Full match | Arsenal v Tottenham Hotspur | 2018/19 Arsenal.com",
+      "published_at": "2026-10-15T23:16:48+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Arsenal"
       ]
     },
     {
@@ -911,6 +1024,26 @@
       ]
     },
     {
+      "title": "UEFA Europa & Conference League LIVE: Crystal Palace, Sunderland, Bournemouth and Brighton all in action - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZWWhlVmxENkRLME1FSUUyb2VTWHctN3pLUWxhSndQYVRKd3ZSWmZKblhfOG5YR21HclZrd09GcmtEWmdMQmdRNWZzQ3NqY05xRVpUN0hFZW5KdE5tajFWY3daajJRQQ?oc=5",
+      "summary": "UEFA Europa & Conference League LIVE: Crystal Palace, Sunderland, Bournemouth and Brighton all in action BBC",
+      "published_at": "2026-10-15T21:31:33+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
       "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
       "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
       "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said […]",
@@ -973,6 +1106,30 @@
       ]
     },
     {
+      "title": "Sutton's predictions v boxer & Ipswich fan Fabio Wardley - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hX2tiVG1BLWJxejI1aDBTUzNpajNLRUFHSlF4cUJyRTVjNmE0TnJzXzN5TWo1cW1WMVhPUnZEWlM2aUFlTmdtQTlIZXUwQlIxRnBqVVZhcU9MZWppaDdxRUdIbExKaUta?oc=5",
+      "summary": "Sutton's predictions v boxer & Ipswich fan Fabio Wardley BBC",
+      "published_at": "2026-10-15T19:26:51+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 54,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
       "title": "Friends don’t let friends feed their data to AI agents",
       "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
       "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also […]",
@@ -1011,27 +1168,6 @@
       "quality_flags": [],
       "sources_seen": [
         "Google News Arsenal"
-      ]
-    },
-    {
-      "title": "Liverpool XI vs Brentford: Confirmed team news, predicted lineup and injury latest for Premier League - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQU3Z6bk5qTmlwMjJCQkppYUkxd3hBS2lCN21nd3piZnM1a295djYtbGNxZ3Z4Wm1WU1lsYUt6NEtEczVzVDdkcWVJWnlMeldZQ2kzbHVwYlFhNlozM25QTXY3ZXlNTHFvQ3dsaVdsWG1ZNFkxMWV5Z3l4eFUxenZHdTBaYmhTNVhIQkVRWHNxd0RWcWdXTGJBbUdoX1JvY1l0OEVQU2JQaU83eTJiNGJfS3FfTEczRmU2RlllTEpGazZySlQ5OTdmX0ItcjNWWTVxYjNPQnhTTWZvcEotR1lHOG5OY1NkSnFhX1Y4?oc=5",
-      "summary": "Liverpool XI vs Brentford: Confirmed team news, predicted lineup and injury latest for Premier League London Evening Standard",
-      "published_at": "2026-10-15T18:22:35+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 52,
-      "triage_reasons": [
-        "possible_concrete_development",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
       ]
     },
     {
@@ -1238,30 +1374,6 @@
       ]
     },
     {
-      "title": "Scout Selection: Best Fantasy team for Gameweek 7 - Premier League",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNzVqUmZMWW9CZlZaY2I0cF83ZHdXVmRwYk9ENGttQjh2WTZRV0Y1aVN0Q0pmU2NJSkdkeGRNT3oxeVotd0h2TWM0Y3NtTmMyODBaaWcyME9aMW1CcF8tZUVselFtaDJpZmJVSHZtMnJIVl90N0RZbm14OEJtZkhEdU1IbHA4RFJpU3VPc3JGd3RiQjJoeTNyTFdn?oc=5",
-      "summary": "Scout Selection: Best Fantasy team for Gameweek 7 Premier League",
-      "published_at": "2026-10-15T16:12:20+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 54,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
       "title": "Moore's Germany move inspired by Sancho and Bellingham",
       "url": "https://www.bbc.co.uk/sport/football/articles/c65yneln8wp0o?at_medium=RSS&at_campaign=rss",
       "summary": "Tottenham loanee Mikey Moore says the success of Jadon Sancho and Jude Bellingham in the Bundesliga influenced his decision to join Cologne.",
@@ -1303,26 +1415,6 @@
       ]
     },
     {
-      "title": "🧵Thread with more details from David Bell’s 69-page lawsuit. The allegations are disturbing: On May 14, 2025, David Bell underwent a pelvic MRI at the Cleveland Clinic that the lawsuit says showed no need for surgery. Five days later, Bell underwent another - X",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10NHlaUjRoX1NUYm9MMjhzVkdoRWZ0aVVMdjljMlMxd3RNTTdQVk1DcTB1ZlRDUGdlRy1qR2cwd0U5OS1UazNZcDdzU0o5NGYzZXN0b2RCQXQ1YW4wTm5aWXVUNlBpdw?oc=5",
-      "summary": "🧵Thread with more details from David Bell’s 69-page lawsuit. The allegations are disturbing: On May 14, 2025, David Bell underwent a pelvic MRI at the Cleveland Clinic that the lawsuit says showed no need for surgery. Five days later, Bell underwent another X",
-      "published_at": "2026-10-15T16:01:58+00:00",
-      "source": "Google News X Threads & Creator Discussions",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News X Threads & Creator Discussions"
-      ]
-    },
-    {
       "title": "Proof-based general-purpose computing with Magnetar",
       "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
       "summary": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security. The post Proof-based general-purpose computing with Magnetar appeared first on Microsoft Research .",
@@ -1341,6 +1433,27 @@
       "quality_flags": [],
       "sources_seen": [
         "Microsoft Research Blog"
+      ]
+    },
+    {
+      "title": "Chelsea XI vs Everton: Confirmed team news, predicted lineup and injury latest for Premier League - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWW9wNHFvZk91V1hGVVhIOW04THlCM2traW4ybmFnSmp2SjlkVWd6c0pSY2VZMWc5NzE1c2llbURTb3Q3TXlyRzV1U055TE1oT1o4dnU2dzI3RjVoOEQyV3pVbXlDQ2tFaDZSR3c3YTJLREFIYnNFbmJ0WGk3UUt4ZHBSVFctTFliYUlpaUY5eHplc2pscnhoaUg0U1loM2pvckZsd2RvREFWQ1BRZXRKTTFER3Zjdy1XcnUyVVZ5ajRDbkNaOUM1NkJFaw?oc=5",
+      "summary": "Chelsea XI vs Everton: Confirmed team news, predicted lineup and injury latest for Premier League London Evening Standard",
+      "published_at": "2026-10-15T15:38:29+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
       ]
     },
     {
@@ -1524,26 +1637,6 @@
       ]
     },
     {
-      "title": "Ryan Reynolds urged to launch transfer swoop for Premier League ace to save Wrexham's season - Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWDZpZldkdW1DTURBRENETjBQTlBaa280bTZoQy1peWJHVXNodmhlNFhNeUdOdmRvZ3pzeUx2RUZVdWRjME9pTVpjVWNGSVNmczl5SmhMa0U3TE5JcDNPanIyVGs5bGZUYUlXLUpfcTlXRFFJSDU5aUpia1piNzJSY2EzY3R6VDk4bGZnQW4xeVY?oc=5",
-      "summary": "Ryan Reynolds urged to launch transfer swoop for Premier League ace to save Wrexham's season Daily Star",
-      "published_at": "2026-10-15T13:43:50+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
       "title": "বঙ্গোপসাগরে চীনের মহাপরিকল্পনা, বাংলাদেশ কি যুক্ত হচ্ছে? Myanmar | ITV Explainer | Independent TV - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2Tzd1Z2ZpbE5PdVd0V3NXemFBeVFxNzZGOXJoVlQzWnNMN050bEZoYnRjVzNEZFNFamx3R1gweWZ1SUJMU2dnOW9LTUpkcVJMQ0Q5Y093?oc=5",
       "summary": "বঙ্গোপসাগরে চীনের মহাপরিকল্পনা, বাংলাদেশ কি যুক্ত হচ্ছে? Myanmar | ITV Explainer | Independent TV YouTube",
@@ -1581,46 +1674,6 @@
       "quality_flags": [],
       "sources_seen": [
         "BBC Sport Football"
-      ]
-    },
-    {
-      "title": "Mixed news for Hull City ahead of Premier League clash at Fulham as Tigers dealt double blow - Hull Live",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3E2RmljZnREenJheWhaNjJVQmNTazNJLXVZU3VnWlh1MjVMclU1OGZ4bEJVRmxKbjVmV3AwSmxmRU1CMDJnYnkwU1MtdEFaRWY5VzYxc2hidHltcjU2ZDdjajBNaVZxeTB3U3FWMTJZUlVtNXNKTHAyZVZWQWRaV1phTlhjejlVcHIybXpIS2YwMURJLV9wQVBVQ3U?oc=5",
-      "summary": "Mixed news for Hull City ahead of Premier League clash at Fulham as Tigers dealt double blow Hull Live",
-      "published_at": "2026-10-15T13:28:00+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
-      "title": "Is possession football dying? The tactical evolution transforming the Premier League - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazZCellEOW8tTDZESU0zbm54ZFkyMk91NDgyMG5XVE42UjJnbmZMWGxjb1plQ3ZOd2hFTF9UbVNmM19jbHRkRElNekw0V0hvZmRiNGtoV2ZFTFg5VlZ6TzVWU1VkMkMtTi1hYTlfNzNtRWREdC1OVjF6SjNNUmNTbWhoOXJ4Yk9Wc2hFeG1VSk5rSW1EUWwzZ0duUF9EenM?oc=5",
-      "summary": "Is possession football dying? The tactical evolution transforming the Premier League The Independent",
-      "published_at": "2026-10-15T12:55:00+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
       ]
     },
     {
@@ -1707,6 +1760,26 @@
       ]
     },
     {
+      "title": "Gareth Southgate has ruled out returning to management in the Premier League and revealed his desires for the game has changed - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQS01BTFlVTUQ4bWl3MUFlNWpUa3U4SVBHZzZaMzlDQUFLMnQ1SUV0WnplakdxLWxYMk1XdGFXci1DY2FxdVBmR2Nmemw3RGJ2Z21rT3YwaEdVQ2VsTnZDN2FONUZvZllqQzBtV3VneGc1aGowUDFmbnhfVVN4LVNmdU5XQ3dwOVNjR0dPT3I5MVdhYlpiVm5ibFM5R0R4eGlUSEdwM0RQOWpoM2tYWE1QcjBpV1VxNTNDWXJuQ2NCaGVSck1ueUJpMTJjbURCUlhLRDJQQldMSEtWNFVrN0FoVnl3bERfYjg4VDZFNDM1NE5SVGNJS3JLOGtNbXlCeTVpRmRyLV9RNA?oc=5",
+      "summary": "Gareth Southgate has ruled out returning to management in the Premier League and revealed his desires for the game has changed Sky Sports",
+      "published_at": "2026-10-15T10:47:54+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
       "title": "Brazil's Congress approves shorter working week in win for Lula",
       "url": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
       "summary": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
@@ -1745,26 +1818,6 @@
       "quality_flags": [],
       "sources_seen": [
         "Google News World Economy"
-      ]
-    },
-    {
-      "title": "SA News #Thread | 1/10 Skyscrapers look like the most fixed things in a city. In Japan, that is an illusion. Towers in Tokyo, Osaka and Yokohama are engineered to move, sway and dissipate energy when the ground shakes beneath them. Their secret is not rig - X",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9veVZ1Y1ZpRWgzYXRBSFBMTTc1bkRzdUd6MVhYN25oOXNyRUN2QWJ5dTZMZUFiS0doMGVscUl0MGI4TEJVc3FVSjUwQXFRcGJvTnRuTVRmSzZ5RGtzNERwUkg2Y2E?oc=5",
-      "summary": "SA News #Thread | 1/10 Skyscrapers look like the most fixed things in a city. In Japan, that is an illusion. Towers in Tokyo, Osaka and Yokohama are engineered to move, sway and dissipate energy when the ground shakes beneath them. Their secret is not rig X",
-      "published_at": "2026-10-15T09:12:04+00:00",
-      "source": "Google News X Threads & Creator Discussions",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News X Threads & Creator Discussions"
       ]
     },
     {
@@ -1808,26 +1861,6 @@
       ]
     },
     {
-      "title": "BARÇA GANG FC Barcelona x @spotify x Tyler, The Creator x GOLF WANG ⛳ Exclusive merch ⏳ https://t.co/HFQaFw4Awc - X",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nV3JZNWYtVHA1VGMwbjIzNERjWFFKUVhNc1I5Sy1EamVnMkdDWloycnE0aGJzb2RTa1hrcmZDRlg0VEsyNEtnR1lYV0l4ekRVZFlKc3FNX0hCWjFkcWRROF9B?oc=5",
-      "summary": "BARÇA GANG FC Barcelona x @spotify x Tyler, The Creator x GOLF WANG ⛳ Exclusive merch ⏳ https://t.co/HFQaFw4Awc X",
-      "published_at": "2026-10-15T07:23:29+00:00",
-      "source": "Google News X Threads & Creator Discussions",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News X Threads & Creator Discussions"
-      ]
-    },
-    {
       "title": "Tyler, The Creator is taking over FC Barcelona's jerseys for El Clásico against Real Madrid on October 25 ⚽️🚨 ▫️ His GOLF logo will appear on the team's jerseys, replacing Spotify's logo ▫️ Collaboration includes a GOLF WANG clothing collection, a Tyler-dir - X",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10MmRSUEZpMGs2c29EeWhKaGVqZTFwTTFQa0dEbUc3bWg4M2FxdmxPMmd6Vy1qb0c3VVl4UU5nUXlqYnRDT0xSbzJrMDhBTmRaVWJDU3RlN2pMUHM?oc=5",
       "summary": "Tyler, The Creator is taking over FC Barcelona's jerseys for El Clásico against Real Madrid on October 25 ⚽️🚨 ▫️ His GOLF logo will appear on the team's jerseys, replacing Spotify's logo ▫️ Collaboration includes a GOLF WANG clothing collection, a Tyler-dir X",
@@ -1865,26 +1898,6 @@
       "quality_flags": [],
       "sources_seen": [
         "Google News X Threads & Creator Discussions"
-      ]
-    },
-    {
-      "title": "Man City told size of points deduction they face as Premier League rivals left 'fuming' - Daily Express",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWE1XMmhNMUdmanhiTm9qWnFqa0F1TElqQUUzUElYSW80dU9hX1U4azRBQ05RZXlDbWpqcnV0UUhnOUgxc2ZHRkE0a2xtcXdiOC1WQVFDSkNTc0RkU0twZlk1MzNqaVdrX2k5ZXFwUnR5Z09kcFVXVjY1LWJJXzhnYUtZOXdVZ0Nyd0FHYzBCUnptRDBuNTZJUkhwS1nSAaIBQVVfeXFMUHJHejJ2S2lBUjVFZWk5TDZRbkJ3aXNoM3Q3NTFBaGM2R0xjRUlvMkhiUldmeGJfVkVfc1NxZkx3d2k1Tm1ZM3UyTkdQQlZJTUVjZzlLVHdCOXBPSkZ3M3FoMzZNY21CemV1a0tUc3dMd294eHFJZTFYRU5UYzA4R25mUDJCWHpsc1Q2bXQ2UkxaMXRPQmpxa2ZfaklRd1JLaU5R?oc=5",
-      "summary": "Man City told size of points deduction they face as Premier League rivals left 'fuming' Daily Express",
-      "published_at": "2026-10-15T06:36:00+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
       ]
     },
     {
@@ -1929,6 +1942,27 @@
       "quality_flags": [],
       "sources_seen": [
         "BBC Sport Football"
+      ]
+    },
+    {
+      "title": "Man City charges LIVE: UK Gov stance, Independent Football Regulator claim, new sanctions timeline - Manchester Evening News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORWlMMnpjLTJMZHAwRWlfc2tWZUIyZlY0V0VXVjBPMUFHc1dheEE1eHVVcURVbTdrRlNtaGF5Y0tmV2ozXzdHMjMwOE80NzRBQVZLMDZoWUFwMVhmZUJyVEM4T29rZ2hjVVhIa1V2ZDZPZHN6ajU2TVI2VjMtRW5FN0twWG9UbDRmejYyM29aT01XWk5UV0NsNWU0ek8yT2RqRG1JeQ?oc=5",
+      "summary": "Man City charges LIVE: UK Gov stance, Independent Football Regulator claim, new sanctions timeline Manchester Evening News",
+      "published_at": "2026-10-15T06:03:01+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
       ]
     },
     {
@@ -3159,26 +3193,6 @@
       "sources_seen": [
         "Google News TikTok & Short-form Video"
       ]
-    },
-    {
-      "title": "IMF raises its forecast for world growth this year but says economies will slow in 2027 - Bozeman Daily Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQcFNzakU2NFdCanFRTVo2Y3NSRmxZanFsNml1bzFtYkFtMTRlNGZvWWlRZjN6aDBzWU1kZFlOeG8xNUQ0Y3N0YTg2T1BYWXhURkFQaGR4ZWxTUzVac2NsLTRLcEdOZVVyN085ZnEyOEhIb1VTRFlSWHBDNlBDNXNrQmwzSWVNVXBKYlJaNmVvNXJHbUp6dHVNckY1b2VfTk1EaFQzYjJONTdjTGtVOEs1MnpsMHhSZTZmcGxFak92VlRzSF80LVhBdHFIdWxzSVJsYXVkcXhia0gzVXBtYkxOVVZ1UDZ4WktLOG1iMGxnLTJZbkR0YXVWZTIzbWZOeWdxUFpWRkRUY1J6TmhWeWpmaXZB?oc=5",
-      "summary": "IMF raises its forecast for world growth this year but says economies will slow in 2027 Bozeman Daily Chronicle",
-      "published_at": "2026-10-13T03:16:28+00:00",
-      "source": "Google News World Economy",
-      "source_feed": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
-      "triage_reasons": [
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News World Economy"
-      ]
     }
   ],
   "category_counts": {
@@ -3186,8 +3200,8 @@
     "world": 33,
     "trends": 20,
     "vietnam": 1,
-    "creator": 21,
-    "football": 30,
+    "creator": 20,
+    "football": 31,
     "water": 5
   },
   "source_errors": [],
@@ -3225,7 +3239,7 @@
       "feed_url": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 6
+      "items_selected_primary": 7
     },
     {
       "source": "Google News Premier League",
@@ -3246,14 +3260,14 @@
       "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 14
+      "items_selected_primary": 15
     },
     {
       "source": "Google News World Economy",
       "feed_url": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 5
+      "items_selected_primary": 4
     },
     {
       "source": "Google News AI Applications",
@@ -3372,21 +3386,21 @@
       "feed_url": "https://news.google.com/rss/search?q=site%3Ayoutube.com%2Fwatch+creator+OR+video+essay+OR+explainer&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 2
+      "items_selected_primary": 3
     },
     {
       "source": "Google News X Threads & Creator Discussions",
       "feed_url": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 11
+      "items_selected_primary": 8
     },
     {
       "source": "Google News TikTok & Short-form Video",
       "feed_url": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 6
+      "items_selected_primary": 7
     },
     {
       "source": "Threads Zuckerberg",

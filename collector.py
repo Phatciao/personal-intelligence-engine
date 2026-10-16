@@ -262,6 +262,10 @@ def classify_text(title, summary, fallback):
     """
     title_text = clean_html(title).lower()
 
+    # Preserve the intended lane for search-indexed discovery feeds.
+    if fallback in {"books", "creator"}:
+        return fallback
+
     if re.search(
         r"\barsenal\b|\bpremier league\b|\bepl\b|"
         r"\bfootball\b|\bsoccer\b|ngoại hạng anh|bóng đá|"

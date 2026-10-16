@@ -217,12 +217,9 @@ function classify(item){
   if(/water treatment|water filtration|chlorination|wastewater|water quality|desalination|pool filtration|reverse osmosis|heat pump|energy efficiency|electrolysis|xử lý nước|lọc nước|nước thải|nước sạch|hồ bơi|điện phân|tiết kiệm năng lượng/.test(title))return "water";
   if(/\bvietnam\b|\bviet nam\b|việt nam|hanoi|ha noi|ho chi minh|vietstock|vietnamnews|vietnamnet|vnexpress|báo chính phủ|chính phủ việt nam|cục thống kê/.test(title))return "vietnam";
   if(/arsenal|premier league|\bepl\b|football|soccer|ngoại hạng anh|bóng đá|manchester united|liverpool fc|champions league/.test(title))return "football";
-  // Không để nhãn của RSS lấn át nội dung; cần có tín hiệu chủ đề trong bài.
-  if(/openai|anthropic|hugging face|arxiv|artificial intelligence|machine learning|deep learning|\bllm\b|neural network|robotics|generative ai|trí tuệ nhân tạo|mô hình ngôn ngữ/.test(body))return "ai";
-  if(/water treatment|water filtration|chlorination|wastewater|water quality|desalination|pool filtration|reverse osmosis|heat pump|energy efficiency|electrolysis|xử lý nước|lọc nước|nước thải|nước sạch|hồ bơi|điện phân|tiết kiệm năng lượng/.test(body))return "water";
-  if(/\bvietnam\b|\bviet nam\b|việt nam|hanoi|ha noi|ho chi minh|vietstock|vietnamnews|vietnamnet|vnexpress|báo chính phủ|chính phủ việt nam/.test(body))return "vietnam";
-  if(/arsenal|premier league|\bepl\b|football|soccer|ngoại hạng anh|bóng đá|manchester united|liverpool fc|champions league/.test(body))return "football";
-  // Nội dung không đủ bằng chứng sẽ không bị ép vào danh mục riêng của nguồn.
+  // Summary chỉ bổ sung ngữ cảnh, không được ghi đè nhãn lĩnh vực của nguồn.
+  const sourceCategory=String(item.category||"").toLowerCase();
+  if(["ai","football","water","vietnam","world"].includes(sourceCategory))return sourceCategory;
   return "world";
 }
 const labels={all:"Tất cả",ai:"AI & Công nghệ",world:"Thế giới",vietnam:"Việt Nam",water:"Nước & Năng lượng",football:"Arsenal / EPL"};

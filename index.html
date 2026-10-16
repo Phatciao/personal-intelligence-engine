@@ -396,6 +396,58 @@ function setStatus(ok,text){
   $("statusText").textContent=text;
 }
 
+
+function renderEditorialFallback(data){
+  const state=$("editorialState"),stamp=$("editorialStamp"),top=$("editorialTopline"),cards=$("editorialCards"),bottom=$("editorialBottom");
+  top.replaceChildren();cards.replaceChildren();bottom.replaceChildren();
+  const items=Array.isArray(data.items)?data.items:[];
+  stamp.textContent="Tự tổng hợp từ batch hiện tại · "+(data.generated_at?dateText(Date.parse(data.generated_at)):"không rõ thời điểm");
+  state.style.color="var(--yellow)";
+  state.textContent="Bản biên tập viết riêng cho batch trước đã cũ. Đang dùng chế độ dự phòng: nhóm chủ đề theo từ khóa và bài có liên quan; đây không phải suy luận ngữ nghĩa của mô hình AI.";
+  const clusters=[
+    {domain:"AI & Công nghệ",title:"AI trong thiết bị cá nhân, trợ lý và quyền riêng tư",re:/\bbee\b|wearable|personal ai|ai agent|att(e|i)|surveillance|privacy|consent|recorder|ghi âm|quyền riêng tư|trợ lý ai/i,minimum:2,why:"Các bài cùng nhắc tới trợ lý, thiết bị hoặc dữ liệu cá nhân. Cần kiểm tra quyền truy cập, cách lưu/xóa dữ liệu và sự đồng thuận trước khi triển khai.",watch:"Thông số quyền riêng tư, tùy chọn tắt/xóa dữ liệu và bằng chứng người dùng thực sự sử dụng.",story:"AI càng hiện diện trong đời sống, câu hỏi về quyền kiểm soát dữ liệu càng trở thành một phần của chất lượng sản phẩm."},
+    {domain:"AI · Vốn & hạ tầng",title:"Chi phí tính toán, chip và trung tâm dữ liệu",re:/data cent(er|re)|compute|chip|semiconductor|infrastructure|anthropic|ipo|điện năng|power demand|ai-designed chip/i,minimum:2,why:"Nhóm bài có thể liên quan đến năng lực tính toán và chi phí mở rộng AI. Chưa thể suy ra tình hình tài chính hay bong bóng nếu thiếu số liệu vốn, doanh thu và chi phí.",watch:"Công bố tài chính chính thức, công suất điện, hợp đồng chip/compute và tiến độ cấp phép trung tâm dữ liệu.",story:"Nút thắt của AI có thể nằm ngoài mô hình: chip, điện, làm mát và khả năng chi trả."},
+    {domain:"Thế giới · Năng lượng",title:"An ninh địa chính trị và rủi ro với năng lượng/vận tải",re:/oil refinery|oil tanker|tanker|black sea|energy site|energy infrastructure|aramco|saudi arabia|biển đen|nhà máy lọc dầu|cơ sở năng lượng/i,minimum:2,why:"Chỉ khi sự cố ảnh hưởng dòng vận chuyển, nguồn cung hoặc bảo hiểm thì tác động kinh tế mới đáng kể; tiêu đề đơn lẻ không chứng minh giá năng lượng sẽ tăng.",watch:"Thông báo chính thức, dữ liệu vận tải và bảo hiểm, cùng giá dầu/khí theo thời gian.",story:"Cần theo dõi sự lan truyền từ rủi ro an ninh sang chi phí năng lượng và logistics."},
+    {domain:"Nước & Năng lượng",title:"Đầu tư và ứng dụng công nghệ xử lý nước",re:/water filtration|water treatment|desalination|wastewater|filtration kit|lọc nước|khử mặn|xử lý nước/i,minimum:2,why:"Các bài có nhắc đến lọc/xử lý nước nhưng có thể khác thị trường và mục tiêu. Chưa đủ để kết luận có cơ hội kinh doanh tại Việt Nam.",watch:"Ngân sách, hồ sơ mời thầu, thông số kỹ thuật, chi phí vận hành và bằng chứng nhu cầu của người dùng cuối.",story:"Phân biệt thông báo đầu tư với nhu cầu thị trường thực tế: ai trả tiền, xử lý loại nước nào và chi phí mỗi mét khối là bao nhiêu."},
+    {domain:"Arsenal / EPL",title:"Diễn biến bóng đá cần xác nhận từ nguồn chính thức",re:/arsenal|premier league|\bepl\b|manchester united|liverpool|injury|lineup|đội hình|chấn thương|transfer|chuyển nhượng/i,minimum:3,why:"Feed bóng đá thường trộn tin chính thức, dự đoán, nội dung giải trí và bài lặp. Ưu tiên thông báo CLB/giải đấu và bài có thông tin cụ thể.",watch:"Thông báo chính thức, danh sách thi đấu, phát biểu HLV và nguồn độc lập xác nhận tin chuyển nhượng.",story:"Chỉ nâng thành tín hiệu khi có thay đổi đội hình, chấn thương, quyết định chính thức hoặc nhiều nguồn độc lập."}
+  ];
+  const results=[];
+  clusters.forEach(c=>{
+    const found=items.filter(i=>c.re.test(String(i.title||"")+" "+String(i.summary||"")));
+    const distinct=new Set(found.map(i=>String(i.source||"").toLowerCase())).size;
+    if(found.length>=c.minimum)results.push({...c,items:found.slice(0,5),distinct});
+  });
+  results.slice(0,4).forEach((sig,index)=>{
+    const card=document.createElement("article");card.className="editorial-card";
+    const eye=document.createElement("div");eye.className="eyeline";
+    const domain=document.createElement("span");domain.className="pill";domain.textContent=sig.domain;
+    const conf=document.createElement("span");conf.textContent="Ứng viên · "+sig.items.length+" bài / "+sig.distinct+" nguồn";
+    eye.append(domain,conf);
+    const title=document.createElement("h4");title.textContent=sig.title;
+    const facts=document.createElement("p");facts.textContent="Bằng chứng trong feed: "+sig.items.map(i=>String(i.title||"").trim()).join(" · ");
+    const interp=document.createElement("p");interp.textContent=sig.why;
+    const watch=document.createElement("p");watch.textContent=sig.watch;
+    const story=document.createElement("div");story.className="story";story.textContent="Góc kể chuyện (giả thuyết): "+sig.story;
+    const fl=document.createElement("div");fl.className="subhead";fl.textContent="DỮ KIỆN ĐƯỢC NHÓM THEO TỪ KHÓA";
+    const il=document.createElement("div");il.className="subhead";il.textContent="DIỄN GIẢI THẬN TRỌNG";
+    const wl=document.createElement("div");wl.className="subhead";wl.textContent="CẦN THEO DÕI";
+    card.append(eye,title,fl,facts,il,interp,wl,watch,story);
+    const links=document.createElement("div");links.className="editorial-links";
+    sig.items.forEach(i=>{const url=safeUrl(i.url||i.link||"");if(url==="#")return;const a=document.createElement("a");a.href=url;a.target="_blank";a.rel="noopener noreferrer";a.textContent=String(i.source||"Mở nguồn")+" ↗";links.append(a);});
+    if(links.childElementCount)card.append(links);
+    cards.append(card);
+  });
+  if(!results.length){const empty=document.createElement("div");empty.className="editorial-note";empty.textContent="Batch hiện tại chưa có đủ bài cùng chủ đề để tạo một câu chuyện liên kết. Không ép các tin rời rạc thành xu hướng.";cards.append(empty);}
+  const notes=document.createElement("section");notes.className="editorial-note";
+  const nh=document.createElement("h4");nh.textContent="Giới hạn chế độ dự phòng";
+  const np=document.createElement("p");np.textContent="Nhóm theo từ khóa có thể bỏ sót bài hoặc gom nhầm sự kiện. Các cụm này là gợi ý đọc tiếp, không phải xác nhận xu hướng; bài trùng sự kiện vẫn cần được gộp/đối chiếu thủ công.";
+  notes.append(nh,np);
+  const acts=document.createElement("section");acts.className="editorial-note";
+  const ah=document.createElement("h4");ah.textContent="Cách dùng";
+  const ap=document.createElement("p");ap.textContent="Chọn cụm có nhiều nguồn độc lập, mở bài gốc, rồi kiểm tra dữ kiện và mốc thời gian trước khi đưa ra quyết định.";
+  acts.append(ah,ap);bottom.append(notes,acts);
+}
+
 function appendEditorialBlock(parent,label,text){
   if(!text)return;
   const title=document.createElement("div");title.className="subhead";title.textContent=label;
@@ -406,6 +458,7 @@ function renderEditorial(ed,data){
   top.replaceChildren();cards.replaceChildren();bottom.replaceChildren();
   if(!ed||!Array.isArray(ed.signals)){state.textContent="Không tải được lớp biên tập. Dòng tin gốc vẫn hoạt động.";return;}
   const generated=String(data.generated_at||""),matches=generated===String(ed.generated_for||"");
+  if(!matches){renderEditorialFallback(data);return;}
   const age=generated?Math.max(0,(Date.now()-Date.parse(generated))/3600000):99999;
   stamp.textContent="Biên tập theo batch: "+(generated?dateText(Date.parse(generated)):"không rõ thời điểm");
   state.textContent=matches?"Bản biên tập khớp chính xác với batch JSON hiện tại. Các diễn giải vẫn cần kiểm chứng ở nguồn gốc.":"CẢNH BÁO: Bản biên tập không khớp batch tin đang tải; không xem các nhận định này là bản tin mới nhất.";

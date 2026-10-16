@@ -1,113 +1,173 @@
 {
   "schema_version": 1,
-  "generated_for": "2026-10-16T01:52:07.738790+00:00",
-  "editorial_method": "Biên tập thủ công từ tiêu đề và tóm tắt trong data/latest.json. Đây là diễn giải sơ bộ, không phải xác minh độc lập; các nguồn Google News cần mở bài gốc trước khi kết luận.",
-  "top_line": "Hai câu chuyện đáng chú ý nhất trong batch hiện tại: AI đang tiến gần hơn tới thiết bị và công cụ người dùng tự tạo, trong khi quyền riêng tư trở thành điểm ma sát; đồng thời rủi ro địa chính trị tiếp tục gắn với hạ tầng năng lượng. Chưa đủ dữ liệu để kết luận đây là xu hướng dài hạn.",
+  "generated_for": "2026-10-16T03:12:21.314200+00:00",
+  "editorial_method": "FACT = tiêu đề/tóm tắt và metadata trong batch; INTERPRETATION = mối liên hệ cần kiểm chứng; CONFIDENCE phản ánh độ đầy đủ/độc lập của bằng chứng, không phải xác suất thống kê. Không có lịch sử đủ dài để khẳng định xu hướng. Điểm triage không được dùng như điểm quan trọng tuyệt đối.",
+  "top_line": "Batch hiện tại gợi ra ba câu chuyện đáng theo dõi: AI đang mở rộng từ mô hình sang tác nhân/công cụ và thiết bị, kéo theo câu hỏi về dữ liệu và chi phí hạ tầng; lạm phát Mỹ và rủi ro vĩ mô vẫn cần đặt cạnh nhau nhưng chưa đủ dữ liệu để kết luận triển vọng toàn cầu; trong sáng tạo nội dung, có dấu hiệu đáng nghiên cứu về cách phân phối/kiếm tiền và việc gắn nhãn nhạc AI. Chưa có bằng chứng đủ mạnh trong batch này cho một tín hiệu chiến lược riêng về Việt Nam, sách, nước tại Việt Nam hay Arsenal.",
   "signals": [
     {
-      "id": "ai-device-privacy",
+      "id": "ai-tools-agents-privacy",
       "priority": 1,
       "status": "Đáng chú tâm",
       "domain": "AI & Công nghệ",
-      "title": "AI rời khỏi chatbot: tiến vào thiết bị cá nhân và công cụ do người dùng tự tạo",
-      "facts": "Trong batch có tin Amazon Bee ra mắt hai thiết bị AI giá khởi điểm 74,99 USD; The Verge đưa tin Bluesky Attie mở rộng sang tạo ứng dụng xã hội nhỏ; một bài khác cảnh báo về việc trợ lý AI thu thập dữ liệu của cả những người xung quanh người dùng.",
-      "interpretation": "Các mẩu tin gợi ra một điểm giao đáng theo dõi: AI chuyển từ nơi người dùng chủ động nhập câu hỏi sang thiết bị ghi nhận đời sống và công cụ được chia sẻ rộng hơn. Giá trị tiện lợi đi cùng câu hỏi về sự đồng thuận, lưu trữ và quyền kiểm soát dữ liệu. Đây là liên kết phân tích giữa các bài, chưa phải bằng chứng rằng toàn thị trường đã chuyển dịch.",
-      "why_it_matters": "Với người dùng và doanh nghiệp nhỏ, cần đánh giá không chỉ khả năng của AI mà cả dữ liệu nào bị thu, ai có thể truy cập, và có thể tắt/xóa dữ liệu hay không. Với cơ hội ứng dụng, nên thử công cụ giải quyết một tác vụ cụ thể trước khi giao quyền truy cập rộng.",
-      "watch_next": "Thông số quyền riêng tư và chính sách lưu trữ của Bee/Attie; liệu sản phẩm có tùy chọn xử lý cục bộ, xóa dữ liệu và kiểm soát chia sẻ rõ ràng; phản hồi độc lập của người dùng.",
-      "falsifier": "Nếu các tính năng chủ yếu là thử nghiệm nhỏ, ít người dùng hoặc không tạo được nhu cầu lặp lại, chưa thể xem đây là chuyển dịch thị trường.",
+      "title": "AI đang dịch từ chatbot sang tác nhân, công cụ cá nhân và ứng dụng do người dùng tạo",
+      "facts": "Batch có tin Bluesky Attie cho phép tạo các ứng dụng xã hội nhỏ; một bài The Verge nêu rủi ro thiết bị/trợ lý AI thu thập dữ liệu của người xung quanh; feed AI cũng có các dự án mã nguồn mở về bộ nhớ tác nhân và sandbox. Hai bài về thiết bị/công cụ có tóm tắt cụ thể hơn, trong khi một số mục Hacker News chỉ là metadata.",
+      "interpretation": "Các mẩu tin gợi ý một hướng phát triển sản phẩm: AI không chỉ trả lời câu hỏi mà có thể duy trì ngữ cảnh, thực hiện tác vụ và xuất hiện trong thiết bị/công cụ chia sẻ. Cùng lúc, quyền truy cập, sự đồng thuận và khả năng kiểm soát dữ liệu trở thành điều kiện triển khai. Đây là một cụm tín hiệu trong batch, chưa phải bằng chứng về mức độ chấp nhận toàn thị trường.",
+      "why_it_matters": "Người dùng và doanh nghiệp nhỏ nên đánh giá giá trị theo tác vụ cụ thể, quyền dữ liệu và chi phí sửa lỗi — không chỉ theo demo. Cơ hội thử nghiệm chi phí thấp là một workflow hẹp, với dữ liệu không nhạy cảm và kết quả đo được.",
+      "watch_next": "Bản phát hành chính thức, tài liệu quyền riêng tư/lưu trữ, khả năng xóa dữ liệu, giới hạn thực tế của tác nhân, và bằng chứng người dùng quay lại sử dụng.",
+      "falsifier": "Nếu các công cụ chỉ là demo, không giải quyết tác vụ lặp lại hoặc cần giám sát/sửa lỗi quá nhiều, chưa thể xem đây là chuyển dịch có giá trị thực tế.",
       "confidence": "Trung bình",
-      "confidence_reason": "Nhiều bài trong cùng batch mô tả sản phẩm và lo ngại liên quan, nhưng chưa có dữ liệu sử dụng, doanh thu hay kiểm chứng độc lập.",
+      "confidence_reason": "Có nhiều bài khác nhau trong batch cùng đề cập công cụ/tác nhân và quyền riêng tư; chưa có dữ liệu sử dụng độc lập hoặc số liệu hiệu quả.",
       "source_links": [
         {
-          "label": "Amazon Bee ra mắt thiết bị AI",
-          "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
-        },
-        {
-          "label": "Bluesky Attie tạo ứng dụng nhỏ",
+          "label": "Bluesky Attie tạo ứng dụng xã hội",
           "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps"
         },
         {
-          "label": "Lo ngại về dữ liệu trong trợ lý AI",
+          "label": "Rủi ro dữ liệu từ trợ lý AI",
           "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent"
-        }
-      ],
-      "story_angle": "AI đang biến thành lớp ghi nhớ và hành động quanh ta — câu hỏi không chỉ là nó làm được gì, mà là ai đồng ý để nó quan sát."
-    },
-    {
-      "id": "energy-geopolitics",
-      "priority": 2,
-      "status": "Theo dõi sát",
-      "domain": "Thế giới · Địa chính trị & năng lượng",
-      "title": "Rủi ro an ninh đang chạm vào hạ tầng năng lượng và tuyến hàng hải",
-      "facts": "BBC đưa tin Ukraine tuyên bố chấm dứt tạm dừng tấn công các cơ sở năng lượng sau các cuộc tấn công mới của Nga; một bài khác nói tàu chở dầu bốc cháy ngoài khơi Romania sau một vụ tấn công bằng drone, với bảy thủy thủ mất tích. Một nguồn tổng hợp khác dẫn cảnh báo của IMF về tác động kinh tế từ các cuộc tấn công nhằm vào Saudi Arabia/Aramco.",
-      "interpretation": "Nếu các sự kiện được xác minh và tiếp diễn, tác động có thể lan từ chiến trường sang bảo hiểm hàng hải, chi phí vận chuyển và kỳ vọng giá năng lượng. Tuy nhiên, các bài trong feed không đủ để định lượng tác động hay khẳng định giá dầu chắc chắn tăng.",
-      "why_it_matters": "Đây là câu chuyện cần theo dõi bằng dữ liệu vận tải, giá dầu/khí, phí bảo hiểm và thông báo chính thức — không chỉ bằng diễn biến quân sự riêng lẻ.",
-      "watch_next": "Thông báo từ cơ quan hàng hải Romania; diễn biến an ninh tại Biển Đen; dữ liệu giá dầu và cước vận tải; xác nhận độc lập về các mục tiêu bị tấn công.",
-      "falsifier": "Nếu sự cố không làm gián đoạn dòng vận chuyển, không lan rộng và không tác động đến giá/chi phí bảo hiểm, ảnh hưởng kinh tế có thể hạn chế.",
-      "confidence": "Trung bình-thấp",
-      "confidence_reason": "Có nhiều tiêu đề liên quan nhưng một phần dựa trên nguồn tổng hợp; cần đọc bài gốc và kiểm tra dữ liệu thị trường.",
-      "source_links": [
-        {
-          "label": "Nga–Ukraine và các cơ sở năng lượng",
-          "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "label": "Tàu chở dầu ngoài khơi Romania",
-          "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss"
+          "label": "Open-source procedural memory cho AI agents",
+          "url": "https://github.com/TheWariend/MuscleMemory"
         }
       ],
-      "story_angle": "Rủi ro địa chính trị đáng kể không chỉ ở nơi xảy ra đòn tấn công, mà ở việc nó có làm tăng chi phí năng lượng và vận tải vượt khỏi khu vực hay không."
+      "story_angle": "AI càng chủ động làm việc thay người dùng, câu hỏi quan trọng càng chuyển từ “nó trả lời hay không” sang “nó được phép làm gì, dựa trên dữ liệu nào và ai kiểm soát hậu quả”."
     },
     {
-      "id": "ai-infrastructure-capital",
-      "priority": 3,
-      "status": "Cần kiểm chứng",
-      "domain": "AI · Vốn & hạ tầng",
-      "title": "Cuộc đua AI có hai mặt: sản phẩm mới tăng tốc, nhưng chi phí hạ tầng khiến nhà đầu tư thận trọng",
-      "facts": "BBC Business viết rằng Anthropic đang tiếp cận nhà đầu tư tiềm năng trước khả năng niêm yết và một số nhà đầu tư lo ngại mức chi cho hạ tầng AI. BBC cũng đưa tin phản ứng chính trị phản đối phát triển trung tâm dữ liệu tại Mỹ; TechCrunch đưa tin một startup đặt cược vào thiết kế chip bằng AI để giải bài toán năng lực tính toán.",
-      "interpretation": "Các bài gợi ra sự căng thẳng giữa nhu cầu mở rộng năng lực tính toán và chi phí/ảnh hưởng địa phương của hạ tầng. Nhưng feed chưa có số liệu vốn, công suất điện, tiến độ dự án hoặc điều khoản IPO để kết luận định giá hay bong bóng AI.",
-      "why_it_matters": "Khi đánh giá một công ty AI, cần nhìn đồng thời doanh thu và chi phí suy luận/đào tạo, khả năng tiếp cận chip, điện, làm mát và giấy phép địa phương — không chỉ chất lượng mô hình.",
-      "watch_next": "Hồ sơ công khai chính thức nếu có; mức đầu tư hạ tầng và hợp đồng năng lực tính toán; phản ứng cộng đồng/chính quyền với trung tâm dữ liệu; hiệu quả thực tế của chip và mô hình mới.",
-      "falsifier": "Nếu doanh thu tăng đủ nhanh, chi phí trên mỗi tác vụ giảm và dự án hạ tầng được chấp thuận, lo ngại về chi phí có thể giảm.",
+      "id": "ai-infrastructure-cost",
+      "priority": 2,
+      "status": "Theo dõi sát",
+      "domain": "AI · Hạ tầng & kinh tế",
+      "title": "Nút thắt AI có thể nằm ở chi phí tính toán, điện và sự chấp thuận của cộng đồng",
+      "facts": "Batch có bài BBC Business về phản ứng chính trị đối với các trung tâm dữ liệu ở Mỹ; bài về Anthropic tiếp cận nhà đầu tư; bài TechCrunch về thiết kế chip bằng AI; và bài về Meta/Apple chạy mô hình trên máy Mac. Đây là các bài về các phần khác nhau của chuỗi hạ tầng, không phải một bộ số liệu thống nhất.",
+      "interpretation": "Có thể đọc chúng như một câu hỏi hệ thống: năng lực mô hình và ứng dụng chỉ mở rộng được khi chip, điện, trung tâm dữ liệu, vốn và giấy phép cùng đáp ứng. Tuy nhiên, batch chưa có dữ liệu đồng nhất về công suất, chi phí mỗi tác vụ, doanh thu hay tiến độ dự án để kết luận đang thiếu cung hoặc có bong bóng.",
+      "why_it_matters": "Khi đánh giá một công cụ AI, nên theo dõi chi phí vận hành và khả năng chạy cục bộ bên cạnh tính năng. Với thị trường, tác động của AI có thể lan sang điện, làm mát, bất động sản công nghiệp và chính sách cấp phép.",
+      "watch_next": "Báo cáo tài chính/hồ sơ chính thức, số liệu công suất và giá điện, dự án trung tâm dữ liệu được phê duyệt hoặc đình hoãn, benchmark độc lập và chi phí thực trên tác vụ.",
+      "falsifier": "Nếu chi phí tính toán giảm nhanh, hiệu quả sử dụng tăng và dự án hạ tầng tiếp tục được phê duyệt mà không gặp trở ngại lớn, áp lực này có thể thấp hơn suy đoán hiện tại.",
       "confidence": "Trung bình-thấp",
-      "confidence_reason": "Đây là liên kết giữa các bài báo khác nhau, chưa có chuỗi số liệu định lượng và không phải xác nhận độc lập về tình hình tài chính.",
+      "confidence_reason": "Nhiều bài có liên hệ về chủ đề nhưng thiếu dữ liệu định lượng tương thích và kiểm chứng độc lập.",
       "source_links": [
+        {
+          "label": "Phản ứng với trung tâm dữ liệu ở Mỹ",
+          "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss"
+        },
         {
           "label": "Anthropic tiếp cận nhà đầu tư",
           "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "label": "Phản ứng với trung tâm dữ liệu tại Mỹ",
-          "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "label": "Startup thiết kế chip bằng AI",
+          "label": "Thiết kế chip bằng AI",
           "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
         }
       ],
-      "story_angle": "Bước nghẽn tiếp theo của AI có thể không chỉ là mô hình thông minh hơn, mà là ai trả tiền cho điện, chip và trung tâm dữ liệu."
+      "story_angle": "Muốn hiểu cuộc đua AI, hãy nhìn toàn bộ chuỗi từ mô hình đến chip, điện, làm mát và giấy phép — không chỉ nhìn bảng xếp hạng mô hình."
+    },
+    {
+      "id": "macro-inflation-risk",
+      "priority": 3,
+      "status": "Cần theo dõi, chưa kết luận",
+      "domain": "Thế giới · Kinh tế",
+      "title": "Lạm phát Mỹ tăng lên 3,7% trong bài BBC; rủi ro toàn cầu cần kiểm tra bằng dữ liệu gốc",
+      "facts": "Một bài BBC Business trong batch cho biết giá tiêu dùng Mỹ tăng 3,7% so với cùng kỳ đến tháng 9, với chi phí nhiên liệu là một yếu tố. Batch cũng có bài dẫn cảnh báo IMF về rủi ro từ điều chỉnh thị trường AI, chiến tranh và nợ; một bài khác nói IMF nâng dự báo tăng trưởng năm nay nhưng dự kiến kinh tế chậm lại năm 2027.",
+      "interpretation": "Các tiêu đề gợi ra bức tranh không đơn giản: lạm phát, nợ và rủi ro địa chính trị có thể gây sức ép trong khi dự báo tăng trưởng vẫn có thể được điều chỉnh lên. Không nên ghép các bài thành kết luận suy thoái; cần xem tài liệu IMF gốc, cấu phần CPI và dữ liệu cập nhật.",
+      "why_it_matters": "Đây là bối cảnh cho chi phí vốn, tiêu dùng, năng lượng và thương mại; với Việt Nam, tác động sẽ phụ thuộc vào tỷ giá, nhu cầu xuất khẩu, giá nhập khẩu và chính sách trong nước — batch hiện tại chưa đủ để định lượng.",
+      "watch_next": "Thông cáo CPI chính thức của Mỹ, cấu phần năng lượng/dịch vụ, tài liệu IMF gốc, diễn biến lợi suất và giá dầu, cùng số liệu thương mại Việt Nam.",
+      "falsifier": "Nếu các chỉ số lạm phát lõi hạ nhiệt và dữ liệu tăng trưởng/việc làm ổn định, nhận định về áp lực vĩ mô tăng thêm sẽ yếu đi.",
+      "confidence": "Trung bình-thấp",
+      "confidence_reason": "Có tiêu đề và tóm tắt báo chí trong batch nhưng chưa mở/xác minh tài liệu dữ liệu gốc; một phần là bài dẫn lại nguồn khác.",
+      "source_links": [
+        {
+          "label": "Bài BBC về lạm phát Mỹ",
+          "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "label": "IMF: rủi ro kinh tế toàn cầu (bài dẫn lại)",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXc4YzNuVFU1U2dtSjE1SG9xRUIxZTRlMU1xdXNodDkxMTRGaE9yQTJIVVVoeVJjdnFsbi0yeUJ6a09ZbGJ0Z3N5V1NiV1RGZlVDekptcUVqcTVtNGRsdDNpZkd1akEyN2hybUx5aFlXM05pZENOVFdfTXI3XzBxaGRMZ0NVcFFRVXZRbHlZYUNleHhiTTJ1UTN0dXJ6U0h2V3ZoWGdqOWp5SmdCMjFab1doZw?oc=5"
+        }
+      ],
+      "story_angle": "Câu chuyện không phải “kinh tế toàn cầu sắp xấu đi” mà là liệu lạm phát, nợ, chiến tranh và chi phí AI có cùng lúc làm giảm dư địa chính sách hay không."
+    },
+    {
+      "id": "creator-economy-proof",
+      "priority": 4,
+      "status": "Đáng nghiên cứu",
+      "domain": "Sáng tạo nội dung",
+      "title": "Tín hiệu thực dụng cho creator: phân phối qua influencer và minh bạch nội dung AI",
+      "facts": "TechCrunch đưa tin Cal AI đạt hơn 30 triệu USD doanh thu trong hai năm và được MyFitnessPal mua lại với giá không công bố; một bài khác cho biết YouTube Music triển khai nhãn cho nhạc được tạo hoàn toàn hoặc một phần bằng AI. Các bài này nói về hai vấn đề khác nhau: tăng trưởng qua phân phối và minh bạch nguồn gốc nội dung.",
+      "interpretation": "Một trường hợp thành công không chứng minh công thức có thể sao chép. Nhưng nó đặt ra câu hỏi đáng thử: influencer có tạo ra khách hàng phù hợp và doanh thu lặp lại không? Song song, nhãn AI có thể trở thành một phần của niềm tin và cách nền tảng tổ chức nội dung.",
+      "why_it_matters": "Với người làm nội dung, học được nhiều hơn từ cách chọn đối tượng, thông điệp, phân phối và đo chuyển đổi so với việc sao chép định dạng viral. Với nội dung AI, cần minh bạch và kiểm tra quy định nền tảng hiện hành.",
+      "watch_next": "Bài gốc và dữ liệu về kênh phân phối của Cal AI; điều kiện kinh tế đơn vị nếu được công bố; cách YouTube hiển thị nhãn, phạm vi áp dụng và phản hồi của người dùng.",
+      "falsifier": "Nếu thành công phụ thuộc vào ngân sách, thời điểm hoặc lợi thế riêng không thể lặp lại, đây chỉ là case study chứ không phải công thức chung.",
+      "confidence": "Trung bình",
+      "confidence_reason": "Có hai bài báo cụ thể trong batch; chưa có dữ liệu thô về chi phí thu hút khách hàng, tỷ lệ chuyển đổi hoặc tác động của nhãn AI.",
+      "source_links": [
+        {
+          "label": "TechCrunch: chiến lược influencer của Cal AI",
+          "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
+        },
+        {
+          "label": "TechCrunch: nhãn nhạc AI trên YouTube Music",
+          "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
+        }
+      ],
+      "story_angle": "Thay vì hỏi “làm sao viral?”, hãy hỏi “kênh phân phối nào mang đúng người xem đến, chuyển họ thành người dùng ra sao, và niềm tin được duy trì thế nào khi nội dung AI tăng lên?”"
+    },
+    {
+      "id": "google-trends-discovery",
+      "priority": 5,
+      "status": "Tín hiệu khám phá, chưa phải tín hiệu chiến lược",
+      "domain": "Google Trends",
+      "title": "Google Trends đã vào pipeline nhưng dữ liệu hiện tại chủ yếu là truy vấn rời rạc",
+      "facts": "Batch có 20 mục Trends từ Mỹ và Việt Nam. Ví dụ ở Việt Nam gồm “doanh thu”, “game online”, “VTVGO”, “Tesla Roadster” và tên người; ở Mỹ gồm truy vấn thể thao, Xbox Cloud Gaming và tên người. Feed hiện không cung cấp trong JSON tóm tắt đủ để xác định nguyên nhân, độ bền hoặc ý nghĩa của từng đợt tìm kiếm.",
+      "interpretation": "Trends hữu ích để phát hiện câu hỏi công chúng đang tìm, nhưng danh sách hiện tại pha trộn thể thao, người nổi tiếng, truy vấn chung và chủ đề sản phẩm. Không đủ căn cứ để coi đây là xu hướng xã hội hay nhu cầu mua hàng. Cần ghép từng truy vấn với tin tức, dữ liệu thời gian và nguồn chính thức.",
+      "why_it_matters": "Đây là kênh phát hiện độc lập với RSS tin tức, có thể giúp tìm chủ đề chưa được báo chí giải thích. Giá trị chỉ xuất hiện sau khi giải nghĩa truy vấn và kiểm tra bối cảnh.",
+      "watch_next": "Mở trang Trends theo khu vực; xác định truy vấn liên quan đến sự kiện nào; tìm nguồn báo chí/chính thức độc lập; ghi lại cùng một truy vấn qua nhiều ngày trước khi gọi là xu hướng.",
+      "falsifier": "Nếu truy vấn biến mất nhanh, chỉ phản ánh sự kiện giải trí đơn lẻ hoặc không có nguồn độc lập giải thích được, không nâng thành tín hiệu quan trọng.",
+      "confidence": "Cao về tình trạng dữ liệu; thấp về ý nghĩa của từng truy vấn",
+      "confidence_reason": "Số lượng và tên truy vấn được đọc trực tiếp từ batch; dữ liệu hiện thiếu chuỗi lịch sử và ngữ cảnh truy vấn.",
+      "source_links": [
+        {
+          "label": "Google Trends Việt Nam",
+          "url": "https://trends.google.com/trending?geo=VN"
+        },
+        {
+          "label": "Google Trends Hoa Kỳ",
+          "url": "https://trends.google.com/trending?geo=US"
+        }
+      ],
+      "story_angle": "Dùng Trends để tìm câu hỏi chưa được trả lời — không dùng nó như lá phiếu chứng minh câu trả lời."
     }
   ],
   "domain_notes": [
     {
       "domain": "Việt Nam",
-      "status": "Chưa đủ bằng chứng",
-      "note": "Feed có bài về xu hướng AI chi phí thấp và xuất khẩu công nghệ, nhưng tóm tắt quá mỏng để xác định dữ liệu, quy mô hay tác động trong nước. Không nâng thành tín hiệu chiến lược nếu chưa đọc bài gốc và tìm số liệu chính thức."
+      "status": "Thiếu dữ liệu nghiêm trọng",
+      "note": "Batch chỉ có 1 tin được phân loại Việt Nam: hợp tác Việt Nam–Phần Lan về khoa học, công nghệ và kinh tế xanh; tóm tắt chỉ lặp tiêu đề. Không đủ để dựng bức tranh kinh tế/chính sách trong nước. Cần tăng nguồn chính thức và nguồn kinh tế Việt Nam."
     },
     {
       "domain": "Nước & Năng lượng",
-      "status": "Tín hiệu yếu",
-      "note": "Các tin hiện có chủ yếu nói về thương vụ trong ngành xử lý nước và chương trình lọc/khử mặn ở Philippines. Chưa thấy bằng chứng đủ mạnh về nhu cầu hoặc chính sách tại Việt Nam trong batch này."
+      "status": "Tín hiệu yếu, địa lý chưa phù hợp",
+      "note": "Có tin về lọc nước toàn nhà, lọc nước mưa tại Philippines, lọc màu công nghiệp và thị trường bộ lọc. Đây là ý tưởng/công nghệ cần xem xét, nhưng chưa có bằng chứng nhu cầu, giá hoặc quy định tại Việt Nam."
     },
     {
       "domain": "Arsenal / EPL",
-      "status": "Nhiễu cao",
-      "note": "Có nhiều tin dự đoán, chuyển nhượng và bài lặp về khả năng cắt giảm nhân sự Arsenal; cần ưu tiên thông báo chính thức của CLB và nguồn giải đấu. Một số kết quả/tựa đề không phải tin mới hoặc chỉ là nội dung giải trí."
+      "status": "Nhiễu trung bình-cao",
+      "note": "Có tin tổng quan Premier League và nhiều bài dự đoán, gossip hoặc tiêu đề ngắn; chưa thấy trong batch này một thay đổi Arsenal đủ mạnh đã được xác nhận từ nguồn chính thức. Không nâng tin đồn thành tín hiệu."
+    },
+    {
+      "domain": "Sách & Tri thức",
+      "status": "Không có bằng chứng trong batch",
+      "note": "Không có mục nào được gắn category books trong JSON hiện tại. Dashboard không nên bịa ra một câu chuyện sách; cần cải thiện nguồn sách và tiêu chí nhận diện sách/luận điểm."
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "status": "Có tín hiệu nhưng nhiều nhiễu nền tảng",
+      "note": "Case Cal AI và nhãn nhạc AI có nội dung đáng nghiên cứu; nhiều kết quả TikTok/X/YouTube chỉ là tiêu đề hoặc hashtag, không đủ chất lượng cho phần phân tích chính."
     }
   ],
   "actions": [
-    "AI: trước khi dùng thiết bị/trợ lý AI ghi âm hoặc đọc dữ liệu, kiểm tra quyền truy cập, nơi lưu, thời hạn lưu và cách xóa dữ liệu.",
-    "Địa chính trị: theo dõi xác nhận hàng hải và dữ liệu giá năng lượng; không suy ra biến động giá chỉ từ một vụ tấn công.",
-    "Dữ liệu Việt Nam/nước: chưa ra quyết định từ các tiêu đề hiện tại; cần bài gốc, số liệu chính thức và bằng chứng nhu cầu."
+    "Ưu tiên 1 — Sửa nguồn và độ phủ trước khi tinh chỉnh điểm: tăng nguồn chính thức/độc lập cho Việt Nam, Arsenal/EPL và sách; hiển thị rõ lĩnh vực không đủ dữ liệu thay vì lấp bằng tin lệch chủ đề.",
+    "Ưu tiên 2 — Thử nghiệm nội dung nhỏ: chọn một case creator có bài gốc (Cal AI hoặc nhãn nhạc AI), bóc tách đối tượng, kênh phân phối, bằng chứng kết quả và điều kiện không thể sao chép; chưa xem doanh thu là cơ hội đã xác nhận.",
+    "Ưu tiên 3 — Theo dõi 3 chỉ báo trong các batch kế tiếp: cập nhật chính thức về AI agents/riêng tư; dữ liệu gốc về lạm phát/rủi ro vĩ mô; truy vấn Trends lặp lại qua nhiều ngày và được nguồn độc lập giải thích."
   ]
 }

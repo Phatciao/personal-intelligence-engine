@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_for": "2026-10-16T03:12:21.314200+00:00",
-  "editorial_method": "FACT = tiêu đề/tóm tắt và metadata trong batch; INTERPRETATION = mối liên hệ cần kiểm chứng; CONFIDENCE phản ánh độ đầy đủ/độc lập của bằng chứng, không phải xác suất thống kê. Không có lịch sử đủ dài để khẳng định xu hướng. Điểm triage không được dùng như điểm quan trọng tuyệt đối.",
-  "top_line": "Batch hiện tại gợi ra ba câu chuyện đáng theo dõi: AI đang mở rộng từ mô hình sang tác nhân/công cụ và thiết bị, kéo theo câu hỏi về dữ liệu và chi phí hạ tầng; lạm phát Mỹ và rủi ro vĩ mô vẫn cần đặt cạnh nhau nhưng chưa đủ dữ liệu để kết luận triển vọng toàn cầu; trong sáng tạo nội dung, có dấu hiệu đáng nghiên cứu về cách phân phối/kiếm tiền và việc gắn nhãn nhạc AI. Chưa có bằng chứng đủ mạnh trong batch này cho một tín hiệu chiến lược riêng về Việt Nam, sách, nước tại Việt Nam hay Arsenal.",
+  "generated_for": "2026-10-16T03:59:40.315643+00:00",
+  "editorial_method": "FACT = thông tin từ nguồn chính thức/nội dung công bố và batch hiện tại; INTERPRETATION = diễn giải cần kiểm tra; FORECAST = giả thuyết có điều kiện. Số liệu nền tảng không đại diện cho mọi thị trường và có thể mang thiên lệch chọn mẫu/tiếp thị. Với sách, giải thưởng là tín hiệu chọn lọc chứ không thay thế việc xem sách có hợp mục tiêu đọc hay không.",
+  "top_line": "Hai nội dung đáng đọc ngay: (1) sách khoa học và xã hội được hội đồng giải thưởng quốc tế chọn, đặc biệt là Bad Influence về cách Internet tác động đến sức khỏe và The Age of Alchemy về lịch sử hóa học; (2) tín hiệu creator năm 2026 đang nghiêng về nội dung chân thật, cộng đồng ngách, khám phá qua tìm kiếm và khán giả tham gia vào câu chuyện. YouTube ghi nhận hơn 250 triệu lượt xem cho video liên quan bento box trong nửa đầu 2026; TikTok nêu các mẫu Reali-Tea, Curiosity Detours và Emotional ROI. Đây là dữ liệu nền tảng và tín hiệu định hướng, chưa phải bằng chứng rằng mọi format sẽ thành công ở Việt Nam.",
   "signals": [
     {
       "id": "ai-tools-agents-privacy",
@@ -136,6 +136,68 @@
         }
       ],
       "story_angle": "Dùng Trends để tìm câu hỏi chưa được trả lời — không dùng nó như lá phiếu chứng minh câu trả lời."
+    },
+    {
+      "id": "books-current-reading",
+      "priority": 1,
+      "status": "Đáng đọc / chọn theo mục tiêu",
+      "domain": "Sách & Tri thức",
+      "title": "5 cuốn nên đưa vào danh sách đọc: 3 sách quốc tế mới và 2 lựa chọn có bản tiếng Việt",
+      "facts": "Royal Society Trivedi Science Book Prize 2026 chọn 6 sách khoa học phổ thông; The Age of Alchemy của Kit Chapman thắng giải. Danh sách đề cử gồm Bad Influence: How the Internet Hijacked Our Health của Deborah Cohen; How to Change a Memory của Steve Ramirez; Despite it All của Fred Pearce; Every Last Fish của Rose George; Hidden Guests của Lise Barnéoud. Ở Việt Nam, Alpha Books có trang giới thiệu và bán bản tiếng Việt Tư duy nhanh và chậm của Daniel Kahneman; thông tin ấn bản tiếng Việt của các sách mới trong danh sách Royal Society chưa được xác minh.",
+      "interpretation": "Đây là danh sách chọn theo chất lượng biên tập/giá trị chủ đề, không phải xếp hạng tuyệt đối. Bad Influence phù hợp để hiểu cách thông tin sức khỏe lan truyền trên mạng; The Age of Alchemy cho góc nhìn lịch sử và tính toàn cầu của khoa học; How to Change a Memory giúp tiếp cận nghiên cứu trí nhớ qua câu chuyện của nhà khoa học; Despite it All đặt khoa học khí hậu cạnh hy vọng và hành động; Every Last Fish kết nối hệ sinh thái, nghề cá và chuỗi thực phẩm. Tư duy nhanh và chậm hữu ích như nền tảng về thiên kiến nhận thức và chất lượng quyết định, nhưng nên đọc có phản biện vì một số nghiên cứu trong kinh tế học hành vi đã tiếp tục được tranh luận và cập nhật.",
+      "why_it_matters": "Các cuốn này tạo ra một chương trình đọc đa lĩnh vực: sức khỏe/thông tin, lịch sử khoa học, nhận thức, khí hậu và hệ thống thực phẩm. Nó giúp xây nền tri thức, đồng thời mở ra góc kể chuyện có nguồn thay vì chỉ đọc tóm tắt truyền cảm hứng.",
+      "watch_next": "Xác minh bản dịch tiếng Việt và nhà xuất bản từng cuốn qua trang nhà xuất bản/nhà sách có bản quyền; đọc mục lục và một bài đánh giá độc lập trước khi mua; ghi lại 3 luận điểm, 1 bằng chứng và 1 phản biện cho mỗi cuốn.",
+      "falsifier": "Giải thưởng là bộ lọc biên tập hữu ích nhưng không bảo đảm cuốn sách phù hợp với mọi độc giả; cần kiểm tra nội dung, độ sâu và mục tiêu đọc của chính bạn.",
+      "confidence": "Cao với danh sách/giải thưởng và bản tiếng Việt Tư duy nhanh và chậm; trung bình với đánh giá mức phù hợp; chưa xác minh bản dịch Việt của các sách mới",
+      "confidence_reason": "Nguồn chính thức Royal Society xác nhận danh sách và người thắng; Alpha Books xác nhận bản tiếng Việt Tư duy nhanh và chậm. Chưa tìm được bằng chứng đủ chắc về bản dịch tiếng Việt cho từng tựa mới trong danh sách.",
+      "source_links": [
+        {
+          "label": "Royal Society: người thắng giải sách khoa học 2026",
+          "url": "https://www.royalsociety.org/medals-and-prizes/science-book-prize/"
+        },
+        {
+          "label": "Royal Society: danh sách 6 sách được đề cử",
+          "url": "https://www.royalsociety.org/news/2026/06/shortlist-unveiled-for-royal-society-trivedi-science-book-prize-2026/"
+        },
+        {
+          "label": "Alpha Books: Tư duy nhanh và chậm — bản tiếng Việt",
+          "url": "https://shop.alphabooks.vn/tu-duy-nhanh-va-cham-kho-nho-p39108079.html"
+        }
+      ],
+      "story_angle": "Một danh sách đọc có ích không chỉ hỏi “cuốn nào nổi tiếng?” mà hỏi “cuốn nào giúp mình nhìn lại một giả định quan trọng — và bằng chứng nào có thể khiến mình đổi ý?”."
+    },
+    {
+      "id": "creator-trends-2026",
+      "priority": 2,
+      "status": "Tín hiệu có bằng chứng; dự báo còn cần kiểm chứng tại Việt Nam",
+      "domain": "Sáng tạo nội dung",
+      "title": "Xu hướng creator 2026: nội dung chân thật, cộng đồng ngách và khán giả cùng tham gia",
+      "facts": "YouTube Culture & Trends công bố nghiên cứu ngày 10/9/2026 cho rằng văn hóa đại chúng vẫn tồn tại nhưng ngày càng hình thành từ cộng đồng trực tuyến trước khi lan rộng; báo cáo nêu 63% người 14–29 tuổi được khảo sát đồng ý rằng cùng thích một điều với người khác khiến họ thấy thuộc về cộng đồng. YouTube cũng cho biết video có “bento box” hoặc #bentobox trong tiêu đề đạt hơn 250 triệu lượt xem toàn cầu trong nửa đầu 2026. Báo cáo TikTok Next 2026 nêu ba tín hiệu: Reali-Tea (chân thật/hậu trường), Curiosity Detours (khám phá từ tìm kiếm) và Emotional ROI (nội dung phải xứng đáng với thời gian/tiền bạc); một case BookTok của Audible được TikTok báo cáo có reach cao hơn 376% so với mức trung bình kênh.",
+      "interpretation": "Có hai kiểu tín hiệu khác nhau: bento box là ví dụ về một chủ đề/format có quy mô xem lớn trên YouTube; Reali-Tea, Curiosity Detours và Emotional ROI là khung xu hướng do nền tảng dự báo, không phải thống kê trung lập cho mọi quốc gia. Điểm giao nhau đáng thử là nội dung có ích hoặc tạo cảm giác thuộc về cộng đồng, thể hiện quá trình thật, mở đường cho người xem bình luận/remix và trả lời câu hỏi cụ thể mà họ đang tìm.",
+      "why_it_matters": "Thay vì sao chép một trend âm thanh, creator có thể sao chép cơ chế: một nhu cầu dễ nhận ra, hình ảnh/quy trình thỏa mãn thị giác, lời giải ngắn gọn, cộng đồng có thể đóng góp và phần bình luận trở thành nội dung tiếp theo. Những yếu tố này phù hợp với video ngắn, video dài giải thích, bài thread và nội dung dạng hỏi-đáp, nhưng cần bản địa hóa.",
+      "watch_next": "Theo dõi các video gốc và số liệu công khai theo từng nền tảng; so sánh tốc độ tăng lượt xem với tuổi video và mức thường thấy của creator; tìm cùng một cơ chế xuất hiện ở ít nhất 3 creator độc lập và nhiều hơn một tuần; đọc bình luận để xem người xem đang hỏi gì hoặc tự tạo phiên bản nào.",
+      "falsifier": "Nếu format chỉ được đẩy bởi một chiến dịch lớn, không được creator độc lập áp dụng, hoặc có lượt xem nhưng ít xem hết/bình luận/chia sẻ, không nên xem nó là xu hướng bền hay công thức có thể lặp lại.",
+      "confidence": "Trung bình-cao về tín hiệu toàn cầu được nền tảng công bố; trung bình-thấp về khả năng dự báo xu hướng Việt Nam",
+      "confidence_reason": "Có dữ liệu công bố từ YouTube và TikTok, nhưng đây là nguồn nền tảng và một phần mang mục tiêu tiếp thị. Chưa có chuỗi dữ liệu công khai đồng nhất từ Việt Nam để đo độ lan rộng xuyên nền tảng.",
+      "source_links": [
+        {
+          "label": "YouTube Culture & Trends: cộng đồng và văn hóa đại chúng, 10/9/2026",
+          "url": "https://blog.youtube/culture-and-trends/youtube-culture-trends-modern-mainstream-research/"
+        },
+        {
+          "label": "YouTube: hơn 250 triệu lượt xem video bento box trong nửa đầu 2026",
+          "url": "https://au.youtube.com/blog?entry=b4NbOdeOGM4"
+        },
+        {
+          "label": "TikTok Next 2026: báo cáo xu hướng chính thức",
+          "url": "https://ads.tiktok.com/business/en-US/next"
+        },
+        {
+          "label": "TikTok Newsroom: giới thiệu dự báo TikTok Next 2026",
+          "url": "https://newsroom.tiktok.com/introducing-tiktok-next-2026-our-trend-forecast-for-marketers-for-the-year-ahead?_hsmi=399120832&lang=en"
+        }
+      ],
+      "story_angle": "Câu hỏi không phải “trend nào để bắt chước?” mà là “nhu cầu nào đang nổi lên, cộng đồng nào đang tạo ý nghĩa cho nó, và làm sao tạo một phiên bản có ích cho khán giả của mình?”."
     }
   ],
   "domain_notes": [
@@ -156,18 +218,18 @@
     },
     {
       "domain": "Sách & Tri thức",
-      "status": "Không có bằng chứng trong batch",
-      "note": "Không có mục nào được gắn category books trong JSON hiện tại. Dashboard không nên bịa ra một câu chuyện sách; cần cải thiện nguồn sách và tiêu chí nhận diện sách/luận điểm."
+      "status": "Đã có danh sách đọc tham khảo; tình trạng bản dịch cần xác minh theo từng tựa",
+      "note": "Royal Society Trivedi Science Book Prize 2026 xác nhận The Age of Alchemy thắng giải và 5 sách khác trong shortlist. Có một lựa chọn đã xác minh bản tiếng Việt là Tư duy nhanh và chậm. Không mặc định các tựa quốc tế mới đã được dịch."
     },
     {
       "domain": "Sáng tạo nội dung",
-      "status": "Có tín hiệu nhưng nhiều nhiễu nền tảng",
-      "note": "Case Cal AI và nhãn nhạc AI có nội dung đáng nghiên cứu; nhiều kết quả TikTok/X/YouTube chỉ là tiêu đề hoặc hashtag, không đủ chất lượng cho phần phân tích chính."
+      "status": "Có tín hiệu toàn cầu; chưa có đo lường đủ mạnh riêng cho Việt Nam",
+      "note": "YouTube báo cáo 250M+ lượt xem cho video bento box trong nửa đầu 2026; nghiên cứu tháng 9 nói về cộng đồng ngách và văn hóa đại chúng mới. TikTok dự báo tính chân thật, khám phá và giá trị cảm xúc. Đây là cơ sở để thử nghiệm, không phải dự báo chắc chắn về viral ở Việt Nam."
     }
   ],
   "actions": [
-    "Ưu tiên 1 — Sửa nguồn và độ phủ trước khi tinh chỉnh điểm: tăng nguồn chính thức/độc lập cho Việt Nam, Arsenal/EPL và sách; hiển thị rõ lĩnh vực không đủ dữ liệu thay vì lấp bằng tin lệch chủ đề.",
-    "Ưu tiên 2 — Thử nghiệm nội dung nhỏ: chọn một case creator có bài gốc (Cal AI hoặc nhãn nhạc AI), bóc tách đối tượng, kênh phân phối, bằng chứng kết quả và điều kiện không thể sao chép; chưa xem doanh thu là cơ hội đã xác nhận.",
-    "Ưu tiên 3 — Theo dõi 3 chỉ báo trong các batch kế tiếp: cập nhật chính thức về AI agents/riêng tư; dữ liệu gốc về lạm phát/rủi ro vĩ mô; truy vấn Trends lặp lại qua nhiều ngày và được nguồn độc lập giải thích."
+    "Đọc trước: Bad Influence nếu muốn hiểu cách Internet ảnh hưởng đến niềm tin/sức khỏe; The Age of Alchemy nếu muốn lịch sử khoa học; Tư duy nhanh và chậm nếu muốn nền tảng về thiên kiến và quyết định. Xác minh bản dịch trước khi mua sách quốc tế mới.",
+    "Thử một nội dung creator không cần chi phí: lấy một câu hỏi đang được tìm kiếm, làm bản giải thích ngắn có ví dụ thật và nguồn, sau đó dùng bình luận để chọn phần tiếp theo. Đo retention nếu có, chia sẻ/lưu và câu hỏi có chất lượng thay vì chỉ đếm lượt xem.",
+    "Theo dõi 3 dấu hiệu trong 2–4 tuần: format xuất hiện ở nhiều creator độc lập; bình luận/remix do khán giả tạo ra; và nội dung giải quyết nhu cầu cụ thể được tìm kiếm. Chỉ khi nhiều dấu hiệu cùng xuất hiện mới nâng mức tin cậy dự báo."
   ]
 }

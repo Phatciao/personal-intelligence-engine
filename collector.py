@@ -263,8 +263,8 @@ def classify_text(title, summary, fallback):
     title_text = clean_html(title).lower()
 
     if re.search(
-        r"\\barsenal\\b|\\bpremier league\\b|\\bepl\\b|"
-        r"\\bfootball\\b|\\bsoccer\\b|ngoại hạng anh|bóng đá|"
+        r"\barsenal\b|\bpremier league\b|\bepl\b|"
+        r"\bfootball\b|\bsoccer\b|ngoại hạng anh|bóng đá|"
         r"manchester united|liverpool fc|champions league",
         title_text,
     ):
@@ -288,7 +288,7 @@ def classify_text(title, summary, fallback):
         return "books"
 
     if re.search(
-        r"youtube|tiktok|threads\\.net|x\\.com|twitter|content creator|"
+        r"youtube|tiktok|threads\.net|x\.com|twitter|content creator|"
         r"creator economy|video essay|short.form video|social media creator|"
         r"storytelling|viral video|influencer|youtuber|nhà sáng tạo nội dung|"
         r"sáng tạo nội dung|nội dung số",
@@ -297,7 +297,7 @@ def classify_text(title, summary, fallback):
         return "creator"
 
     if re.search(
-        r"\\bvietnam\\b|\\bviet nam\\b|việt nam|hanoi|ha noi|"
+        r"\bvietnam\b|\bviet nam\b|việt nam|hanoi|ha noi|"
         r"ho chi minh|vietnamnews|vietnamnet|vnexpress|"
         r"báo chính phủ|chính phủ việt nam",
         title_text,
@@ -306,9 +306,9 @@ def classify_text(title, summary, fallback):
 
     if re.search(
         r"openai|anthropic|hugging face|arxiv|artificial intelligence|"
-        r"machine learning|deep learning|\\bllm\\b|neural network|"
+        r"machine learning|deep learning|\bllm\b|neural network|"
         r"generative ai|robotics|trí tuệ nhân tạo|mô hình ngôn ngữ|"
-        r"\\bai model\\b|\\bai tools?\\b",
+        r"\bai model\b|\bai tools?\b",
         title_text,
     ):
         return "ai"

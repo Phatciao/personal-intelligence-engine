@@ -217,12 +217,12 @@ function classify(item){
   if(/water treatment|water filtration|chlorination|wastewater|water quality|desalination|pool filtration|reverse osmosis|heat pump|energy efficiency|electrolysis|xử lý nước|lọc nước|nước thải|nước sạch|hồ bơi|điện phân|tiết kiệm năng lượng/.test(title))return "water";
   if(/\bvietnam\b|\bviet nam\b|việt nam|hanoi|ha noi|ho chi minh|vietstock|vietnamnews|vietnamnet|vnexpress|báo chính phủ|chính phủ việt nam|cục thống kê/.test(title))return "vietnam";
   if(/arsenal|premier league|\bepl\b|football|soccer|ngoại hạng anh|bóng đá|manchester united|liverpool fc|champions league/.test(title))return "football";
-  // Tiêu đề chưa rõ: ưu tiên danh mục của collector trước khi dò phần tóm tắt.
-  if(["ai","water","vietnam","football","world"].includes(item.category))return item.category;
+  // Không để nhãn của RSS lấn át nội dung; cần có tín hiệu chủ đề trong bài.
   if(/openai|anthropic|hugging face|arxiv|artificial intelligence|machine learning|deep learning|\bllm\b|neural network|robotics|generative ai|trí tuệ nhân tạo|mô hình ngôn ngữ/.test(body))return "ai";
   if(/water treatment|water filtration|chlorination|wastewater|water quality|desalination|pool filtration|reverse osmosis|heat pump|energy efficiency|electrolysis|xử lý nước|lọc nước|nước thải|nước sạch|hồ bơi|điện phân|tiết kiệm năng lượng/.test(body))return "water";
   if(/\bvietnam\b|\bviet nam\b|việt nam|hanoi|ha noi|ho chi minh|vietstock|vietnamnews|vietnamnet|vnexpress|báo chính phủ|chính phủ việt nam/.test(body))return "vietnam";
   if(/arsenal|premier league|\bepl\b|football|soccer|ngoại hạng anh|bóng đá|manchester united|liverpool fc|champions league/.test(body))return "football";
+  // Nội dung không đủ bằng chứng sẽ không bị ép vào danh mục riêng của nguồn.
   return "world";
 }
 const labels={all:"Tất cả",ai:"AI & Công nghệ",world:"Thế giới",vietnam:"Việt Nam",water:"Nước & Năng lượng",football:"Arsenal / EPL"};
@@ -236,6 +236,14 @@ function priority(item){
   if(/rumour|rumor|opinion|speculation|unconfirmed|tin đồn|dự đoán/.test(raw))score-=8;
   if(item.url)score+=3;return Math.max(0,Math.min(100,score));
 }
+function isEditorialCandidate(item){
+  const title=clean(item.title),summary=clean(item.summary||item.description);
+  if(!title||!item.url||summary.length<100)return false;
+  if(/^Article URL:|^Comments URL:|^Show HN:|^Ask HN:/i.test(summary))return false;
+  if(/full match|highlights? from|live blog|live updates|predictions?:|tips and predictions/i.test(title))return false;
+  if(/201[0-9]\/1[0-9]|201[0-9]\/2[0-9]|2020\/21|2021\/22|2022\/23|2023\/24|2024\/25|2025\/26/.test(title))return false;
+  return true;
+}
 function bestForCategory(items,cat){return items.filter(i=>classify(i)===cat).sort((a,b)=>priority(b)-priority(a)||dateValue(b)-dateValue(a))[0]||null}
 function makeLink(item){const a=document.createElement("a");a.href=safeUrl(item.url||item.link||"");a.target="_blank";a.rel="noopener noreferrer";a.textContent=clean(item.title)||"Mở bài gốc";return a}
 function renderSituation(){
@@ -246,7 +254,7 @@ function renderSituation(){
     {id:"water",title:"NƯỚC & NĂNG LƯỢNG",desc:"Công nghệ · vận hành"},
     {id:"football",title:"ARSENAL / EPL",desc:"Đội bóng · giải đấu"}];
   const overview=$("briefOverview");overview.replaceChildren();const chosen=[],used=new Set();
-  const candidates=allItems.filter(i=>clean(i.summary).length>=100&&ageHours(i)<=72).sort((a,b)=>priority(b)-priority(a)||dateValue(b)-dateValue(a));
+  const candidates=allItems.filter(i=>isEditorialCandidate(i)&&ageHours(i)<=72).sort((a,b)=>priority(b)-priority(a)||dateValue(b)-dateValue(a));
   domains.forEach(d=>{const item=candidates.find(i=>classify(i)===d.id&&!used.has(i.url||i.title));if(item&&chosen.length<4){chosen.push({domain:d,item});used.add(item.url||item.title)}});
   chosen.forEach(entry=>{
     const item=entry.item,card=document.createElement("article");card.className="brief-card";
@@ -261,7 +269,7 @@ function renderSituation(){
   if(!chosen.length)overview.innerHTML='<div class="empty">Chưa có đủ tin mới kèm tóm tắt để tạo bức tranh nhanh.</div>';
   const map=$("domainMap");map.replaceChildren();
   domains.forEach(d=>{
-    const item=bestForCategory(allItems,d.id),card=document.createElement("article");card.className="domain-card";
+    const item=bestForCategory(allItems.filter(i=>isEditorialCandidate(i)&&ageHours(i)<=168),d.id),card=document.createElement("article");card.className="domain-card";
     const title=document.createElement("div");title.className="domain-title";title.textContent=d.title;
     const desc=document.createElement("div");desc.className="small";desc.textContent=d.desc;card.append(title,desc);
     if(item){const h=document.createElement("h4");h.appendChild(makeLink(item));const p=document.createElement("p"),summary=clean(item.summary);p.textContent=summary.slice(0,155)+(summary.length>155?"…":"");const m=document.createElement("div");m.className="brief-meta";m.textContent=clean(item.source)+" · "+dateText(dateValue(item));card.append(h,p,m)}
@@ -270,7 +278,7 @@ function renderSituation(){
   });
   const note=$("situationNote");note.replaceChildren();const strong=document.createElement("strong");strong.textContent="Cách đọc bức tranh này: ";
   const shortCount=allItems.filter(i=>clean(i.summary).length<100).length,oldCount=allItems.filter(i=>ageHours(i)>168).length,generated=Date.parse(lastData&&lastData.generated_at||"");
-  note.append(strong,document.createTextNode("Các thẻ trên là bài tiêu biểu theo lĩnh vực, chọn theo độ mới và độ đầy đủ của tóm tắt — không phải kết luận rằng chúng là sự kiện quan trọng nhất. Dữ liệu tạo lúc "+(generated?dateText(generated):"chưa rõ")+". Có "+shortCount+" tin tóm tắt ngắn và "+oldCount+" tin cũ hơn 7 ngày; chưa có chuỗi lịch sử để xác nhận xu hướng."));
+  note.append(strong,document.createTextNode("Các thẻ trên là bài đủ thông tin và còn mới để xem xét; chưa được coi là xếp hạng mức độ quan trọng. Tin có tóm tắt dạng metadata, bài phát lại hoặc tiêu đề quá cũ bị loại khỏi phần bức tranh nhanh. Dữ liệu tạo lúc "+(generated?dateText(generated):"chưa rõ")+". Có "+shortCount+" tin tóm tắt ngắn và "+oldCount+" tin cũ hơn 7 ngày; chưa có chuỗi lịch sử để xác nhận xu hướng."));
 }
 function interpretation(item){
   const cat=classify(item);

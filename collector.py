@@ -141,6 +141,37 @@ SOURCES = [
         "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
     },
 
+
+    # --- Sách và tri thức: discovery qua RSS tìm kiếm miễn phí ---
+    {
+        "name": "Google News Books & Publishing",
+        "category": "books",
+        "url": "https://news.google.com/rss/search?q=books+publishing+authors+nonfiction+new+books&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Google News Book Reviews & Ideas",
+        "category": "books",
+        "url": "https://news.google.com/rss/search?q=book+review+ideas+history+science+economics&hl=en-US&gl=US&ceid=US:en",
+    },
+
+    # --- Sáng tạo nội dung: tín hiệu công khai được công cụ tìm kiếm lập chỉ mục ---
+    # Đây là discovery feeds, không phải API chính thức hay bao phủ toàn bộ nền tảng.
+    {
+        "name": "Google News YouTube Videos & Creators",
+        "category": "creator",
+        "url": "https://news.google.com/rss/search?q=site%3Ayoutube.com%2Fwatch+creator+OR+video+essay+OR+explainer&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Google News X Threads & Creator Discussions",
+        "category": "creator",
+        "url": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Google News TikTok & Short-form Video",
+        "category": "creator",
+        "url": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
+    },
+
     # --- Threads: thử nghiệm, chưa bảo đảm hoạt động ---
     {
         "name": "Threads Zuckerberg",
@@ -150,7 +181,7 @@ SOURCES = [
     },
 ]
 
-VALID_CATEGORIES = {"ai", "football", "water", "vietnam", "world"}
+VALID_CATEGORIES = {"ai", "football", "water", "vietnam", "world", "books", "creator"}
 
 ATOM = "{http://www.w3.org/2005/Atom}"
 CONTENT = "{http://purl.org/rss/1.0/modules/content/}"
@@ -607,11 +638,13 @@ def select_items(items):
     )
 
     category_caps = {
-        "world": 75,
-        "ai": 45,
+        "world": 65,
+        "ai": 40,
         "football": 40,
-        "vietnam": 35,
-        "water": 30,
+        "vietnam": 30,
+        "water": 25,
+        "books": 25,
+        "creator": 30,
     }
 
     counts = {category: 0 for category in VALID_CATEGORIES}
@@ -656,7 +689,7 @@ def main():
     source_stats = []
     succeeded = 0
 
-    print("Personal Intelligence Engine — collector v3")
+    print("Personal Intelligence Engine — collector v4")
     print("Sources:", len(SOURCES))
 
     for index, source in enumerate(SOURCES, start=1):
@@ -731,7 +764,7 @@ def main():
             "duplicates_removed": len(collected) - len(unique_items),
         },
         "note": (
-            "Free RSS collection. NEWS is a neutral label, not an importance "
+            "Free RSS collection, including search-indexed discovery feeds for books and creators. NEWS is a neutral label, not an importance "
             "claim. triage_score is a transparent heuristic, not verified "
             "importance. Feed content has not been independently verified. "
             "quality_flags identify missing or potentially stale data."

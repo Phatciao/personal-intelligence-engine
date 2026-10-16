@@ -83,6 +83,28 @@ footer{border-top:1px solid var(--line);margin-top:35px;padding-top:18px;color:v
 a{color:var(--blue)}
 @media(max-width:850px){.layout{grid-template-columns:1fr}.side{grid-template-columns:1fr 1fr}.stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:540px){.wrap{padding:18px 12px 40px}.hero{padding:20px}.side{grid-template-columns:1fr}.info-grid{grid-template-columns:1fr}.card{padding:15px}.stats{gap:8px}.stat{padding:13px}}
+
+.editorial-wrap{margin:18px 0 26px}
+.editorial-topline{background:#17283e;border:1px solid #3a526e;border-radius:17px;padding:18px 20px;margin:12px 0 14px}
+.editorial-topline strong{display:block;color:var(--green);font-size:11px;letter-spacing:1px;text-transform:uppercase;margin-bottom:6px}
+.editorial-topline p{margin:0;color:#e0e9f7;font-size:15px}
+.editorial-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:13px}
+.editorial-card{background:#121d30;border:1px solid var(--line);border-radius:17px;padding:18px;min-width:0}
+.editorial-card h4{font-size:17px;line-height:1.4;margin:9px 0}
+.editorial-card p{font-size:13px;color:#c2cfe2;margin:6px 0 11px}
+.editorial-card .eyeline{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;color:var(--muted);font-size:11px}
+.editorial-card .subhead{font-size:11px;text-transform:uppercase;letter-spacing:.7px;color:var(--blue);font-weight:800;margin-top:13px}
+.editorial-card .story{border-left:2px solid var(--green);padding:9px 0 9px 12px;color:#e4edf9;font-size:13px;margin-top:12px}
+.editorial-links{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px;font-size:12px}
+.editorial-links a{border:1px solid #34465f;border-radius:8px;padding:5px 8px;text-decoration:none}
+.editorial-bottom{display:grid;grid-template-columns:1.2fr 1fr;gap:13px;margin-top:13px}
+.editorial-note{background:#101a2b;border:1px solid var(--line);border-radius:15px;padding:15px}
+.editorial-note h4{margin:0 0 8px;font-size:14px}
+.editorial-note p,.editorial-note li{font-size:12px;color:#bdc9dc}
+.editorial-note ul{padding-left:18px;margin:8px 0}
+.editorial-state{font-size:12px;color:var(--yellow);margin:8px 0}
+@media(max-width:650px){.editorial-grid,.editorial-bottom{grid-template-columns:1fr}}
+
 </style>
 </head>
 <body>
@@ -105,6 +127,17 @@ a{color:var(--blue)}
   <div class="eyebrow">Daily intelligence brief</div>
   <h2>Đừng chỉ đọc tin.<br>Hãy tìm tín hiệu có ích.</h2>
   <p>Ưu tiên tin mới, nhận diện chủ đề đáng theo dõi và biến mỗi tín hiệu thành một câu hỏi hoặc hành động có thể kiểm chứng. Bảng điều khiển không tự xác nhận tin đúng chỉ vì RSS đã đăng tin.</p>
+</section>
+
+<section id="editorialLayer" class="editorial-wrap">
+  <div class="section-head">
+    <div><h3>🧠 Lớp biên tập tổng hợp</h3><div class="hint">Từ các bài riêng lẻ → câu chuyện → điều cần theo dõi</div></div>
+    <div class="small" id="editorialStamp">Đang đối chiếu bản biên tập với dữ liệu tin…</div>
+  </div>
+  <div id="editorialState" class="editorial-state">Đang kiểm tra độ khớp giữa bản biên tập và batch tin hiện tại.</div>
+  <div id="editorialTopline" class="editorial-topline"><p>Đang tải phần tổng hợp…</p></div>
+  <section id="editorialCards" class="editorial-grid"></section>
+  <section id="editorialBottom" class="editorial-bottom"></section>
 </section>
 
 <div class="section-head">
@@ -362,6 +395,68 @@ function setStatus(ok,text){
   $("statusDot").className="dot"+(ok?" ok":"");
   $("statusText").textContent=text;
 }
+
+function appendEditorialBlock(parent,label,text){
+  if(!text)return;
+  const title=document.createElement("div");title.className="subhead";title.textContent=label;
+  const p=document.createElement("p");p.textContent=text;parent.append(title,p);
+}
+function renderEditorial(ed,data){
+  const state=$("editorialState"),stamp=$("editorialStamp"),top=$("editorialTopline"),cards=$("editorialCards"),bottom=$("editorialBottom");
+  top.replaceChildren();cards.replaceChildren();bottom.replaceChildren();
+  if(!ed||!Array.isArray(ed.signals)){state.textContent="Không tải được lớp biên tập. Dòng tin gốc vẫn hoạt động.";return;}
+  const generated=String(data.generated_at||""),matches=generated===String(ed.generated_for||"");
+  const age=generated?Math.max(0,(Date.now()-Date.parse(generated))/3600000):99999;
+  stamp.textContent="Biên tập theo batch: "+(generated?dateText(Date.parse(generated)):"không rõ thời điểm");
+  state.textContent=matches?"Bản biên tập khớp chính xác với batch JSON hiện tại. Các diễn giải vẫn cần kiểm chứng ở nguồn gốc.":"CẢNH BÁO: Bản biên tập không khớp batch tin đang tải; không xem các nhận định này là bản tin mới nhất.";
+  if(!matches){state.style.color="var(--yellow)";}else{state.style.color="var(--green)";}
+  if(age>24){state.textContent+=" Batch dữ liệu đã cũ hơn 24 giờ.";state.style.color="var(--yellow)";}
+  const strong=document.createElement("strong");strong.textContent="Bức tranh biên tập";
+  const p=document.createElement("p");p.textContent=ed.top_line||"Chưa có kết luận tổng quan.";
+  top.append(strong,p);
+  ed.signals.slice().sort((a,b)=>a.priority-b.priority).forEach(sig=>{
+    const card=document.createElement("article");card.className="editorial-card";
+    const eye=document.createElement("div");eye.className="eyeline";
+    const domain=document.createElement("span");domain.className="pill";domain.textContent=sig.domain||"Tín hiệu";
+    const conf=document.createElement("span");conf.textContent="Độ tin cậy: "+(sig.confidence||"chưa đánh giá");
+    eye.append(domain,conf);
+    const title=document.createElement("h4");title.textContent=sig.title||"Tín hiệu";
+    const status=document.createElement("div");status.className="eyeline";status.textContent="Ưu tiên "+sig.priority+" · "+(sig.status||"Theo dõi");
+    card.append(eye,title,status);
+    appendEditorialBlock(card,"DỮ KIỆN TRONG BATCH",sig.facts);
+    appendEditorialBlock(card,"DIỄN GIẢI",sig.interpretation);
+    appendEditorialBlock(card,"VÌ SAO QUAN TRỌNG",sig.why_it_matters);
+    appendEditorialBlock(card,"CẦN THEO DÕI",sig.watch_next);
+    appendEditorialBlock(card,"ĐIỀU CÓ THỂ BÁC BỎ",sig.falsifier);
+    const reason=document.createElement("p");reason.style.fontSize="11px";reason.style.color="var(--muted)";reason.textContent="Cơ sở độ tin cậy: "+(sig.confidence_reason||"chưa nêu");card.append(reason);
+    if(sig.story_angle){const story=document.createElement("div");story.className="story";story.textContent="Góc kể chuyện: "+sig.story_angle;card.append(story);}
+    const links=document.createElement("div");links.className="editorial-links";
+    (sig.source_links||[]).forEach(src=>{const a=document.createElement("a");a.href=safeUrl(src.url);a.target="_blank";a.rel="noopener noreferrer";a.textContent=src.label||"Nguồn gốc";links.append(a);});
+    if(links.childElementCount)card.append(links);
+    cards.append(card);
+  });
+  const notes=document.createElement("section");notes.className="editorial-note";
+  const nh=document.createElement("h4");nh.textContent="Các lĩnh vực chưa đủ bằng chứng";
+  const ul=document.createElement("ul");
+  (ed.domain_notes||[]).forEach(n=>{const li=document.createElement("li");li.textContent=(n.domain||"Lĩnh vực")+" — "+(n.status||"")+": "+(n.note||"");ul.append(li);});
+  notes.append(nh,ul);
+  const acts=document.createElement("section");acts.className="editorial-note";
+  const ah=document.createElement("h4");ah.textContent="Việc nên làm tiếp theo";
+  const al=document.createElement("ul");(ed.actions||[]).forEach(x=>{const li=document.createElement("li");li.textContent=x;al.append(li);});
+  const method=document.createElement("p");method.textContent="Phương pháp: "+(ed.editorial_method||"Không có mô tả phương pháp.");
+  acts.append(ah,al,method);bottom.append(notes,acts);
+}
+async function loadEditorial(data){
+  try{
+    const res=await fetch("data/editorial.json?t="+Date.now(),{cache:"no-store"});
+    if(!res.ok)throw new Error("HTTP "+res.status);
+    const ed=await res.json();renderEditorial(ed,data);
+  }catch(err){
+    $("editorialState").textContent="Chưa tải được data/editorial.json ("+err.message+"). Phần dòng tin gốc vẫn dùng được.";
+    $("editorialStamp").textContent="Lớp biên tập chưa khả dụng";
+  }
+}
+
 async function loadData(){
   const btn=$("refreshBtn");btn.disabled=true;btn.textContent="Đang tải…";
   try{
@@ -370,6 +465,7 @@ async function loadData(){
     const data=await res.json();
     if(!data||!Array.isArray(data.items))throw new Error("Cấu trúc JSON không đúng");
     lastData=data;allItems=data.items;
+    await loadEditorial(data);
     const gen=Date.parse(data.generated_at||"");
     $("updatedAt").textContent="Dữ liệu tạo lúc: "+(gen?dateText(gen):"chưa ghi thời gian")+" · Trạng thái: "+clean(data.status||"không rõ");
     const ok=data.status==="ok";

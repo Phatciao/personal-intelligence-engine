@@ -234,9 +234,9 @@ def classify_text(title, summary, fallback):
 
     if re.search(
         r"openai|anthropic|hugging face|arxiv|artificial intelligence|"
-        r"machine learning|deep learning|\\bllm\\b|neural network|"
+        r"machine learning|deep learning|\bllm\b|neural network|"
         r"generative ai|robotics|trí tuệ nhân tạo|mô hình ngôn ngữ|"
-        r"\\bai model\\b|\\bai tools?\\b",
+        r"\bai model\b|\bai tools?\b",
         title_text,
     ):
         return "ai"
@@ -251,7 +251,7 @@ def classify_text(title, summary, fallback):
         return "water"
 
     if re.search(
-        r"\\bvietnam\\b|\\bviet nam\\b|việt nam|hanoi|ha noi|"
+        r"\bvietnam\b|\bviet nam\b|việt nam|hanoi|ha noi|"
         r"ho chi minh|vnexpress|vietnamnews|vietnamnet|"
         r"báo chính phủ|chính phủ việt nam",
         title_text,
@@ -259,8 +259,8 @@ def classify_text(title, summary, fallback):
         return "vietnam"
 
     if re.search(
-        r"\\barsenal\\b|\\bpremier league\\b|\\bepl\\b|"
-        r"\\bfootball\\b|\\bsoccer\\b|ngoại hạng anh|bóng đá|"
+        r"\barsenal\b|\bpremier league\b|\bepl\b|"
+        r"\bfootball\b|\bsoccer\b|ngoại hạng anh|bóng đá|"
         r"manchester united|liverpool fc|champions league",
         title_text,
     ):
@@ -269,7 +269,7 @@ def classify_text(title, summary, fallback):
     # If title is ambiguous, use specific article terms; feed category is last fallback.
     if re.search(
         r"openai|anthropic|hugging face|arxiv|artificial intelligence|"
-        r"machine learning|deep learning|\\bllm\\b|neural network|"
+        r"machine learning|deep learning|\bllm\b|neural network|"
         r"generative ai|robotics|trí tuệ nhân tạo|mô hình ngôn ngữ",
         body_text,
     ):
@@ -285,7 +285,7 @@ def classify_text(title, summary, fallback):
         return "water"
 
     if re.search(
-        r"\\bvietnam\\b|\\bviet nam\\b|việt nam|hanoi|ha noi|"
+        r"\bvietnam\b|\bviet nam\b|việt nam|hanoi|ha noi|"
         r"ho chi minh|vnexpress|vietnamnews|vietnamnet|"
         r"báo chính phủ|chính phủ việt nam",
         body_text,
@@ -293,8 +293,8 @@ def classify_text(title, summary, fallback):
         return "vietnam"
 
     if re.search(
-        r"\\barsenal\\b|\\bpremier league\\b|\\bepl\\b|"
-        r"\\bfootball\\b|\\bsoccer\\b|ngoại hạng anh|bóng đá|"
+        r"\barsenal\b|\bpremier league\b|\bepl\b|"
+        r"\bfootball\b|\bsoccer\b|ngoại hạng anh|bóng đá|"
         r"manchester united|liverpool fc|champions league",
         body_text,
     ):

@@ -158,18 +158,47 @@ SOURCES = [
 
     # --- Sách và tri thức: discovery qua RSS tìm kiếm miễn phí ---
     {
+        "name": "Google News International Book Awards",
+        "category": "books",
+        "url": "https://news.google.com/rss/search?q=Booker+Prize+OR+Pulitzer+Prize+OR+National+Book+Award+shortlist+winner&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Google News Best Books & Nonfiction",
+        "category": "books",
+        "url": "https://news.google.com/rss/search?q=best+books+nonfiction+history+science+psychology+economics+book+review&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Google News Books Translated into Vietnamese",
+        "category": "books",
+        "url": "https://news.google.com/rss/search?q=%22bản+dịch+tiếng+Việt%22+OR+%22sách+dịch%22+OR+%22sách+mới%22+OR+%22sách+hay%22&hl=vi&gl=VN&ceid=VN:vi",
+    },
+    {
+        "name": "Google News Vietnamese Book Reviews",
+        "category": "books",
+        "url": "https://news.google.com/rss/search?q=%22điểm+sách%22+OR+%22giới+thiệu+sách%22+OR+%22sách+phi+hư+cấu%22+OR+%22sách+khoa+học%22&hl=vi&gl=VN&ceid=VN:vi",
+    },
+    {
         "name": "Google News Books & Publishing",
         "category": "books",
         "url": "https://news.google.com/rss/search?q=books+publishing+authors+nonfiction+new+books&hl=en-US&gl=US&ceid=US:en",
     },
-    {
-        "name": "Google News Book Reviews & Ideas",
-        "category": "books",
-        "url": "https://news.google.com/rss/search?q=book+review+ideas+history+science+economics&hl=en-US&gl=US&ceid=US:en",
-    },
 
-    # --- Sáng tạo nội dung: tín hiệu công khai được công cụ tìm kiếm lập chỉ mục ---
-    # Đây là discovery feeds, không phải API chính thức hay bao phủ toàn bộ nền tảng.
+    # --- Creator intelligence: discovery feeds, not complete platform analytics ---
+    {
+        "name": "YouTube Culture & Trends",
+        "category": "creator",
+        "url": "https://news.google.com/rss/search?q=site%3Ablog.youtube%2Fculture-and-trends+YouTube+trends+creators&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "TikTok Trend Reports & Viral Formats",
+        "category": "creator",
+        "url": "https://news.google.com/rss/search?q=site%3Anewsroom.tiktok.com+trend+report+viral+creator+trend&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Google News Viral Video Formats",
+        "category": "creator",
+        "url": "https://news.google.com/rss/search?q=viral+video+trend+format+storytelling+YouTube+TikTok+creator&hl=en-US&gl=US&ceid=US:en",
+    },
     {
         "name": "Google News YouTube Videos & Creators",
         "category": "creator",
@@ -676,8 +705,15 @@ def select_items(items):
         summary = item.get("summary", "").strip()
         if item.get("category") == "creator" and (len(summary) < 70 or re.search(r"#fyp|#fy\b|wait for it|we take it as a compliment|full match|dance #trend", title)):
             item["quality_flags"] = list(set(item.get("quality_flags", []) + ["likely_platform_noise"]))
-        if item.get("category") == "books" and not re.search(r"book|books|publishing|publisher|novel|literary|author|reading|sách|tác giả|xuất bản|điểm sách|booktok", title):
+        if item.get("category") == "books" and not re.search(r"book|books|publishing|publisher|novel|literary|author|reading|sách|tác giả|xuất bản|điểm sách|booktok|prize|award|booker|pulitzer", title):
             item["quality_flags"] = list(set(item.get("quality_flags", []) + ["weak_topic_match"]))
+        # Search-indexed platform items usually omit views, likes, shares and follower baselines.
+        # Keep them for discovery, but explicitly prevent them from being presented as proven viral hits.
+        if item.get("category") == "creator":
+            if len(summary) < 100:
+                item["quality_flags"] = list(set(item.get("quality_flags", []) + ["viral_metrics_missing"]))
+            if not re.search(r"\b(views?|likes?|shares?|engagement|watch time|subscribers|followers|million views|triệu lượt xem|lượt xem|lượt thích|chia sẻ)\b", (title + " " + summary).lower()):
+                item["quality_flags"] = list(set(item.get("quality_flags", []) + ["no_public_engagement_metrics"]))
 
     # Put stronger candidates first; date is only a tie-breaker.
     items.sort(

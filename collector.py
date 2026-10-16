@@ -251,14 +251,6 @@ def classify_text(title, summary, fallback):
         return "water"
 
     if re.search(
-        r"\bvietnam\b|\bviet nam\b|việt nam|hanoi|ha noi|"
-        r"ho chi minh|vietnamnews|vietnamnet|vnexpress|"
-        r"báo chính phủ|chính phủ việt nam",
-        title_text,
-    ):
-        return "vietnam"
-
-    if re.search(
         r"openai|anthropic|hugging face|arxiv|artificial intelligence|"
         r"machine learning|deep learning|\bllm\b|neural network|"
         r"generative ai|robotics|trí tuệ nhân tạo|mô hình ngôn ngữ|"
@@ -266,6 +258,14 @@ def classify_text(title, summary, fallback):
         title_text,
     ):
         return "ai"
+
+    if re.search(
+        r"\bvietnam\b|\bviet nam\b|việt nam|hanoi|ha noi|"
+        r"ho chi minh|vietnamnews|vietnamnet|vnexpress|"
+        r"báo chính phủ|chính phủ việt nam",
+        title_text,
+    ):
+        return "vietnam"
 
     if fallback in VALID_CATEGORIES:
         return fallback

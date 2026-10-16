@@ -75,7 +75,7 @@ footer{border-top:1px solid var(--line);margin-top:35px;padding-top:18px;color:v
 .brief-card{background:linear-gradient(150deg,#15243a,#111b2c);border:1px solid var(--line);border-radius:17px;padding:18px;min-width:0}
 .brief-card h4{font-size:16px;line-height:1.4;margin:9px 0 8px}.brief-card h4 a,.domain-card h4 a{color:var(--text);text-decoration:none}.brief-card h4 a:hover,.domain-card h4 a:hover{color:var(--blue)}
 .brief-card p{color:#bdc9dc;font-size:13px;margin:0 0 12px}.brief-meta{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;color:var(--muted);font-size:11px}
-.domain-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin:12px 0 25px}
+.domain-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:12px 0 25px}
 .domain-card{background:#111b2c;border:1px solid var(--line);border-radius:14px;padding:14px;min-width:0}.domain-card .domain-title{font-size:12px;color:var(--green);font-weight:800;margin-bottom:8px}
 .domain-card h4{font-size:13px;line-height:1.4;margin:8px 0}.domain-card p{font-size:12px;color:#bdc9dc;margin:0 0 9px}
 .situation-note{border:1px solid #3b506c;background:#101d30;border-radius:13px;padding:14px 16px;color:#c7d5e8;font-size:13px;margin:10px 0 22px}
@@ -160,6 +160,8 @@ a{color:var(--blue)}
   <button data-cat="vietnam">Việt Nam</button>
   <button data-cat="water">Nước & Năng lượng</button>
   <button data-cat="football">Arsenal / EPL</button>
+  <button data-cat="books">Sách & Tri thức</button>
+  <button data-cat="creator">Sáng tạo nội dung</button>
 </nav>
 
 <div class="controls">
@@ -191,6 +193,8 @@ a{color:var(--blue)}
       <div class="action"><b>AI & Công nghệ</b><p>Thử một tác vụ nhỏ bằng công cụ miễn phí. So sánh thời gian, độ chính xác và công sức sửa lỗi với cách làm hiện tại.</p></div>
       <div class="action"><b>Nước & Năng lượng</b><p>Tìm thông số kỹ thuật, chi phí vận hành và nhu cầu thực tế. Hỏi người dùng tiềm năng trước khi xây sản phẩm.</p></div>
       <div class="action"><b>Arsenal / EPL</b><p>Đối chiếu lịch, tỷ số và phát biểu với nguồn chính thức. Tách dữ kiện trận đấu khỏi bình luận và tin đồn chuyển nhượng.</p></div>
+      <div class="action"><b>Sách & Tri thức</b><p>Đọc luận điểm và bằng chứng, không chỉ dựa vào xếp hạng bán chạy hoặc trích dẫn quảng bá; tìm phản biện và bối cảnh của tác giả.</p></div>
+      <div class="action"><b>Sáng tạo nội dung</b><p>Xem video/bài gốc, ngày đăng và nguồn; coi lượt xem là tín hiệu nhu cầu chứ không phải bằng chứng đúng. Tìm góc kể chuyện có bằng chứng riêng.</p></div>
       <div class="action"><b>Kinh tế & Thế giới</b><p>Kiểm tra số liệu gốc, thời điểm công bố và bối cảnh. Đừng suy diễn xu hướng dài hạn từ một bài báo.</p></div>
     </section>
     <section class="card">
@@ -213,8 +217,8 @@ a{color:var(--blue)}
 </div>
 
 <footer>
-  Personal Intelligence Engine · RSS miễn phí · Không sử dụng API trả phí trong dashboard này.
-  <br>Thông tin được lấy từ nguồn bên ngoài; cần kiểm tra nguồn gốc trước khi sử dụng.
+  Personal Intelligence Engine · RSS miễn phí và nguồn discovery được lập chỉ mục công khai · Không sử dụng API trả phí trong dashboard này.
+  <br>Nguồn sách và nền tảng xã hội là discovery qua công cụ tìm kiếm/RSS công khai, không phải luồng đầy đủ hay API chính thức của YouTube, Threads, X hoặc TikTok. Cần mở bài/video gốc trước khi sử dụng.
 </footer>
 </div>
 
@@ -255,7 +259,7 @@ function classify(item){
   if(["ai","football","water","vietnam","world"].includes(sourceCategory))return sourceCategory;
   return "world";
 }
-const labels={all:"Tất cả",ai:"AI & Công nghệ",world:"Thế giới",vietnam:"Việt Nam",water:"Nước & Năng lượng",football:"Arsenal / EPL"};
+const labels={all:"Tất cả",ai:"AI & Công nghệ",world:"Thế giới",vietnam:"Việt Nam",water:"Nước & Năng lượng",football:"Arsenal / EPL",books:"Sách & Tri thức",creator:"Sáng tạo nội dung"};
 function priority(item){
   // Thứ tự đọc dựa trên độ mới và độ đầy đủ, không phải điểm xác thực hay tầm quan trọng.
   const raw=(clean(item.title)+" "+clean(item.summary)).toLowerCase();
@@ -282,10 +286,12 @@ function renderSituation(){
     {id:"ai",title:"AI & CÔNG NGHỆ",desc:"Năng lực · ứng dụng"},
     {id:"vietnam",title:"VIỆT NAM",desc:"Kinh tế · chính sách"},
     {id:"water",title:"NƯỚC & NĂNG LƯỢNG",desc:"Công nghệ · vận hành"},
-    {id:"football",title:"ARSENAL / EPL",desc:"Đội bóng · giải đấu"}];
+    {id:"football",title:"ARSENAL / EPL",desc:"Đội bóng · giải đấu"},
+    {id:"books",title:"SÁCH & TRI THỨC",desc:"Tác giả · luận điểm · sách mới"},
+    {id:"creator",title:"SÁNG TẠO NỘI DUNG",desc:"YouTube · Threads · X · TikTok"}];
   const overview=$("briefOverview");overview.replaceChildren();const chosen=[],used=new Set();
   const candidates=allItems.filter(i=>isEditorialCandidate(i)&&ageHours(i)<=72).sort((a,b)=>priority(b)-priority(a)||dateValue(b)-dateValue(a));
-  domains.forEach(d=>{const item=candidates.find(i=>classify(i)===d.id&&!used.has(i.url||i.title));if(item&&chosen.length<4){chosen.push({domain:d,item});used.add(item.url||item.title)}});
+  domains.forEach(d=>{const item=candidates.find(i=>classify(i)===d.id&&!used.has(i.url||i.title));if(item&&chosen.length<5){chosen.push({domain:d,item});used.add(item.url||item.title)}});
   chosen.forEach(entry=>{
     const item=entry.item,card=document.createElement("article");card.className="brief-card";
     const tag=document.createElement("span");tag.className="pill "+(ageHours(item)<=24?"fresh":"");tag.textContent=entry.domain.title;
@@ -405,6 +411,8 @@ function renderEditorialFallback(data){
   state.style.color="var(--yellow)";
   state.textContent="Bản biên tập viết riêng cho batch trước đã cũ. Đang dùng chế độ dự phòng: nhóm chủ đề theo từ khóa và bài có liên quan; đây không phải suy luận ngữ nghĩa của mô hình AI.";
   const clusters=[
+    {domain:"Sách & Tri thức",title:"Sách, tác giả và ý tưởng đáng đào sâu",re:/booktok|book review|new books|publishing|publisher|nonfiction book|novel|literary|author interview|reading list|sách|tác giả|xuất bản|điểm sách/i,minimum:2,why:"Các bài có thể gợi ý sách hoặc luận điểm đáng đọc, nhưng nội dung quảng bá không chứng minh chất lượng tri thức. Cần mở bài gốc, xem tác giả dựa vào bằng chứng nào và tìm phản biện.",watch:"Luận điểm chính, tài liệu tham khảo, bối cảnh xuất bản và các đánh giá độc lập có nội dung cụ thể.",story:"Một cuốn sách đáng chú ý khi giúp giải thích một vấn đề hiện tại tốt hơn — không chỉ vì đang được nhắc nhiều."},
+    {domain:"Sáng tạo nội dung",title:"Chủ đề và cách kể chuyện trên nền tảng xã hội",re:/youtube|tiktok|threads\\.net|x\\.com|twitter|content creator|creator economy|video essay|short.form video|social media creator|storytelling|viral video|influencer|youtuber|nhà sáng tạo nội dung|sáng tạo nội dung|nội dung số/i,minimum:2,why:"Tín hiệu từ nền tảng có thể cho thấy chủ đề hoặc định dạng đang thu hút chú ý; chưa đủ để kết luận xu hướng nếu thiếu dữ liệu trực tiếp và chuỗi thời gian.",watch:"Bài/video gốc, ngày đăng, mức độ tương tác có thể kiểm tra, nguồn dữ liệu và phản hồi của người xem.",story:"Tìm khoảng cách giữa điều mọi người đang nói và câu hỏi quan trọng chưa được giải thích tốt."},
     {domain:"AI & Công nghệ",title:"AI trong thiết bị cá nhân, trợ lý và quyền riêng tư",re:/\bbee\b|wearable|personal ai|ai agent|att(e|i)|surveillance|privacy|consent|recorder|ghi âm|quyền riêng tư|trợ lý ai/i,minimum:2,why:"Các bài cùng nhắc tới trợ lý, thiết bị hoặc dữ liệu cá nhân. Cần kiểm tra quyền truy cập, cách lưu/xóa dữ liệu và sự đồng thuận trước khi triển khai.",watch:"Thông số quyền riêng tư, tùy chọn tắt/xóa dữ liệu và bằng chứng người dùng thực sự sử dụng.",story:"AI càng hiện diện trong đời sống, câu hỏi về quyền kiểm soát dữ liệu càng trở thành một phần của chất lượng sản phẩm."},
     {domain:"AI · Vốn & hạ tầng",title:"Chi phí tính toán, chip và trung tâm dữ liệu",re:/data cent(er|re)|compute|chip|semiconductor|infrastructure|anthropic|ipo|điện năng|power demand|ai-designed chip/i,minimum:2,why:"Nhóm bài có thể liên quan đến năng lực tính toán và chi phí mở rộng AI. Chưa thể suy ra tình hình tài chính hay bong bóng nếu thiếu số liệu vốn, doanh thu và chi phí.",watch:"Công bố tài chính chính thức, công suất điện, hợp đồng chip/compute và tiến độ cấp phép trung tâm dữ liệu.",story:"Nút thắt của AI có thể nằm ngoài mô hình: chip, điện, làm mát và khả năng chi trả."},
     {domain:"Thế giới · Năng lượng",title:"An ninh địa chính trị và rủi ro với năng lượng/vận tải",re:/oil refinery|oil tanker|tanker|black sea|energy site|energy infrastructure|aramco|saudi arabia|biển đen|nhà máy lọc dầu|cơ sở năng lượng/i,minimum:2,why:"Chỉ khi sự cố ảnh hưởng dòng vận chuyển, nguồn cung hoặc bảo hiểm thì tác động kinh tế mới đáng kể; tiêu đề đơn lẻ không chứng minh giá năng lượng sẽ tăng.",watch:"Thông báo chính thức, dữ liệu vận tải và bảo hiểm, cùng giá dầu/khí theo thời gian.",story:"Cần theo dõi sự lan truyền từ rủi ro an ninh sang chi phí năng lượng và logistics."},
@@ -417,7 +425,7 @@ function renderEditorialFallback(data){
     const distinct=new Set(found.map(i=>String(i.source||"").toLowerCase())).size;
     if(found.length>=c.minimum)results.push({...c,items:found.slice(0,5),distinct});
   });
-  results.slice(0,4).forEach((sig,index)=>{
+  results.slice(0,6).forEach((sig,index)=>{
     const card=document.createElement("article");card.className="editorial-card";
     const eye=document.createElement("div");eye.className="eyeline";
     const domain=document.createElement("span");domain.className="pill";domain.textContent=sig.domain;

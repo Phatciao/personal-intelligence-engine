@@ -525,10 +525,9 @@ function renderEditorial(ed,data){
   top.replaceChildren();cards.replaceChildren();bottom.replaceChildren();
   if(!ed||!Array.isArray(ed.signals)){state.textContent="Không tải được lớp biên tập. Dòng tin gốc vẫn hoạt động.";return;}
   const generated=String(data.generated_at||""),matches=generated===String(ed.generated_for||"");
-  if(!matches){renderEditorialFallback(data);return;}
   const age=generated?Math.max(0,(Date.now()-Date.parse(generated))/3600000):99999;
-  stamp.textContent="Biên tập theo batch: "+(generated?dateText(Date.parse(generated)):"không rõ thời điểm");
-  state.textContent=matches?"Bản biên tập khớp chính xác với batch JSON hiện tại. Các diễn giải vẫn cần kiểm chứng ở nguồn gốc.":"CẢNH BÁO: Bản biên tập không khớp batch tin đang tải; không xem các nhận định này là bản tin mới nhất.";
+  stamp.textContent="Nội dung tham khảo: "+(ed.curated_as_of||"không rõ ngày")+" · batch tin: "+(generated?dateText(Date.parse(generated)):"không rõ thời điểm");
+  state.textContent=matches?"Bản biên tập khớp batch tin hiện tại. Các diễn giải vẫn cần kiểm chứng ở nguồn gốc.":"Đang hiển thị nội dung biên tập tham khảo mới nhất; các tín hiệu gắn với batch cũ đã được ẩn để tránh gây hiểu nhầm.";
   if(!matches){state.style.color="var(--yellow)";}else{state.style.color="var(--green)";}
   if(age>24){state.textContent+=" Batch dữ liệu đã cũ hơn 24 giờ.";state.style.color="var(--yellow)";}
   const strong=document.createElement("strong");strong.textContent="Bức tranh biên tập";
@@ -567,7 +566,7 @@ function renderEditorial(ed,data){
     if(section.forecast)appendEditorialBlock(card,"ĐIỀU CÓ THỂ ĐẾN TIẾP THEO — GIẢ THUYẾT",section.forecast);
     cards.append(card);
   });
-  ed.signals.slice().sort((a,b)=>a.priority-b.priority).forEach(sig=>{
+  (matches ? ed.signals : []).slice().sort((a,b)=>a.priority-b.priority).forEach(sig=>{
     const card=document.createElement("article");card.className="editorial-card";
     const eye=document.createElement("div");eye.className="eyeline";
     const domain=document.createElement("span");domain.className="pill";domain.textContent=sig.domain||"Tín hiệu";

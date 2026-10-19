@@ -291,7 +291,7 @@
       "domain": "CONTENT CREATOR",
       "status": "Có ví dụ và số liệu công bố; dự báo Việt Nam vẫn là giả thuyết",
       "title": "Điều đang thu hút người xem — và cơ chế có thể đứng phía sau",
-      "intro": "Phân biệt ba lớp: FACT là số liệu hoặc ví dụ được nguồn công bố; INTERPRETATION là cách giải thích hợp lý nhưng còn phải kiểm tra; FORECAST là hướng thử nghiệm, không phải lời hứa viral. Số liệu YouTube thường là toàn cầu; báo cáo TikTok là dự báo do nền tảng xây dựng.",
+      "intro": "Các ví dụ bên dưới có số liệu hoặc trường hợp cụ thể và nguồn gốc. Tách ba lớp: FACT là dữ liệu được nguồn công bố; INTERPRETATION là cách giải thích hợp lý nhưng cần kiểm tra; FORECAST là hướng thử nghiệm, không phải lời hứa viral. Số liệu YouTube thường là toàn cầu; TikTok Next là dự báo của chính nền tảng.",
       "patterns": [
         {
           "title": "1. Desk setup — biến không gian riêng thành nội dung thị giác",
@@ -303,43 +303,34 @@
           "link_label": "Nguồn: YouTube Culture & Trends, 02/09/2026 ↗"
         },
         {
-          "title": "2. Morning routine — một định dạng quen thuộc vẫn có thể tạo nhu cầu xem lớn",
-          "evidence": "YouTube ghi nhận hơn 450.000 video có “morning routine” hoặc “morningroutine” trong tiêu đề được tải lên toàn cầu trong nửa đầu 2026. Đây là số video được đăng, không phải số lượt xem hay bằng chứng mọi video đều thành công.",
-          "why": "Định dạng này cho người xem một cấu trúc dễ hiểu, các bước có thể bắt chước và cảm giác được quan sát một đời sống khác. Nó có thể mang sắc thái thư giãn, hài hước, tối giản hoặc thực tế — không nhất thiết phải là hình ảnh hoàn hảo.",
-          "try_it": "Thay vì dựng một routine lý tưởng, thử “buổi sáng thật trong 20 phút trước khi đi học/làm” hoặc “3 việc tôi bỏ vì không giúp ích”. Cụ thể, có giới hạn và có kết quả sẽ khác với video chỉ liệt kê thói quen.",
-          "test": "So sánh hai mở đầu: nêu kết quả ngay từ đầu so với bắt đầu bằng bối cảnh. Xem retention và bình luận có nhắc lại được mẹo cụ thể hay không; không dùng lượt xem đơn lẻ làm kết luận.",
-          "url": "https://blog.youtube/culture-and-trends/morning-routine-videos-creator-trends/",
-          "link_label": "Nguồn: YouTube Culture & Trends, 31/08/2026 ↗"
-        },
-        {
-          "title": "3. Cộng đồng ngách có thể trở thành văn hóa đại chúng",
-          "evidence": "Báo cáo YouTube/NRG ngày 10/09/2026 khảo sát người dùng online tại Mỹ; trong nhóm 14–29 tuổi, 63% nói rằng cùng thích một điều với người khác khiến họ cảm thấy thuộc về một cộng đồng. Báo cáo cũng dùng ví dụ cộng đồng fan phát triển câu chuyện Backrooms từ một hình ảnh thành nội dung do người hâm mộ mở rộng. Đây không phải số liệu riêng cho Việt Nam.",
-          "why": "Một nội dung có thể lan rộng không chỉ vì người xem thích video đầu tiên, mà vì họ có thể giải thích nó cho nhau, tạo giả thuyết, remix, thêm nhân vật hoặc tự sản xuất phần tiếp theo. Sự tham gia tạo nhiều điểm chạm hơn một lượt xem thụ động.",
-          "try_it": "Chọn một chủ đề kiến thức hẹp và tạo chuỗi có phần còn bỏ ngỏ: giải thích một khái niệm, mời người xem gửi câu hỏi hoặc ví dụ, rồi dùng phản hồi tốt nhất để làm phần tiếp theo. Không cần tạo tranh cãi giả.",
-          "test": "Tìm dấu hiệu tham gia: người xem đặt câu hỏi tiếp nối, tạo phiên bản riêng, dẫn nguồn cho nhau hoặc quay lại ở tập sau. Nếu chỉ một bài viral mà không có hoạt động tiếp nối, đó có thể là sự kiện đơn lẻ chứ chưa phải cộng đồng.",
+          "title": "2. Ngách có thể thành văn hóa đại chúng khi người xem cùng tham gia",
+          "evidence": "Trong nghiên cứu YouTube/NRG công bố ngày 10/09/2026, 69% người được khảo sát từng xem nội dung từ cộng đồng mà họ xem là ngách; 71% từng xem video giải thích câu chuyện trong một fandom/cộng đồng cụ thể. 63% người 14–29 tuổi đồng ý rằng cùng thích một điều với người khác khiến họ cảm thấy thuộc về một điều lớn hơn. Đây là khảo sát do YouTube công bố, không phải số liệu riêng cho Việt Nam.",
+          "why": "Một cộng đồng không chỉ xem nội dung mà còn giải thích, tạo giả thuyết, remix, làm phần tiếp theo và đưa câu chuyện tới người ngoài cộng đồng. Sự tham gia này tạo nhiều điểm tiếp xúc hơn một video đơn lẻ. Cơ hội là kể về một chủ đề đủ cụ thể để người xem có thể góp phần, nhưng vẫn có lối vào cho người mới.",
+          "try_it": "Chọn một câu hỏi hẹp, làm video giải thích phần nền tảng, rồi lấy câu hỏi có chất lượng từ bình luận để làm phần tiếp theo. Ghi rõ điều đã biết, điều còn tranh luận và nguồn tham khảo.",
+          "test": "Tìm dấu hiệu người xem quay lại, đặt câu hỏi nối tiếp, tạo ví dụ/remix hoặc chia sẻ cho người ngoài cộng đồng. Nếu chỉ có một video nhiều view mà không có hành vi tiếp nối, chưa đủ kết luận đã hình thành xu hướng.",
           "url": "https://blog.youtube/culture-and-trends/youtube-culture-trends-modern-mainstream-research/",
-          "link_label": "Nguồn: YouTube Culture & Trends, 10/09/2026 ↗"
+          "link_label": "Nguồn: YouTube Culture & Trends / NRG, 10/09/2026 ↗"
         },
         {
-          "title": "4. Tính chân thật, khám phá và “giá trị xứng đáng với thời gian”",
+          "title": "3. Case study Việt Nam: kể chuyện kiến thức bằng minh họa, thể thao bằng lập luận",
+          "evidence": "Trong chương trình TikTok Creator Spotlight tại Việt Nam (công bố 08/07/2026), TikTok giới thiệu Vẽ kể chuyện ở mảng kiến thức với minh họa vẽ tay về lịch sử, văn hóa và truyện dân gian; Anh Chân Gỗ ở mảng thể thao với phân tích/xếp hạng/bình luận bóng đá; Simon Review phân tích chi tiết và tầng nghĩa phim ảnh; Sammy kết hợp nấu ăn với hình ảnh và câu chuyện. Đây là ví dụ được nền tảng tuyển chọn, không phải bảng xếp hạng toàn thị trường.",
+          "why": "Các ví dụ cho thấy một chủ đề quen thuộc có thể có điểm khác biệt ở cách đóng gói: minh họa giúp hình dung, xếp hạng tạo cấu trúc tranh luận, phân tích chi tiết tạo giá trị khám phá, còn câu chuyện khiến quy trình ẩm thực có cá tính. Không thể kết luận một format tốt hơn format khác nếu chưa so sánh dữ liệu hiệu quả.",
+          "try_it": "Chọn một chủ đề bạn hiểu và làm ba bản thử với cùng nội dung: (A) giải thích bằng minh họa/ẩn dụ; (B) xếp hạng kèm tiêu chí minh bạch; (C) phân tích một chi tiết ít người chú ý. Không sao chép câu chữ hay video của creator khác.",
+          "test": "So sánh lượt xem với tuổi video, tỷ lệ xem hết nếu có, lưu/chia sẻ và bình luận có nội dung. Xem người xem nhắc lại được ý chính hay chỉ phản ứng với tiêu đề. Một danh sách spotlight không chứng minh format đó đang viral.",
+          "url": "https://newsroom.tiktok.com/tiktok-creator-spotlightVN?lang=vi-VN",
+          "link_label": "Nguồn: TikTok Creator Spotlight Việt Nam, 08/07/2026 ↗"
+        },
+        {
+          "title": "4. TikTok Next 2026: chân thật, khám phá sâu và giá trị xứng đáng với thời gian",
           "evidence": "TikTok Next 2026 nêu ba hướng dự báo cho marketer: Reali-TEA (sự chân thật/hậu trường), Curiosity Detours (khám phá sâu từ một mối quan tâm) và Emotional ROI (người xem cân nhắc giá trị cảm xúc/thực dụng nhận lại). Đây là khung dự báo của nền tảng, không phải thống kê độc lập về tỷ lệ thành công.",
           "why": "Ba hướng này gợi ý một cấu trúc nội dung có ích: mở bằng câu hỏi cụ thể, cho thấy quá trình thật, trả lời bằng ví dụ hoặc bằng chứng, rồi mở ra câu hỏi tiếp theo. Điều quan trọng không phải gắn nhãn “authentic” mà là cung cấp chi tiết có thể kiểm tra.",
           "try_it": "Làm một video 45–90 giây: câu hỏi cụ thể → thử/kiểm tra một điều → kết quả và giới hạn → câu hỏi tiếp theo. Dùng cùng một ý tưởng viết thành thread giải thích để xem nền tảng nào phù hợp hơn.",
           "test": "Nếu khán giả chỉ khen “hay” nhưng không lưu, chia sẻ, hỏi sâu hoặc xem phần tiếp theo, có thể nội dung chưa mang đủ giá trị. So sánh nhiều bài tương tự trong vài tuần thay vì đánh giá một bài.",
           "url": "https://newsroom.tiktok.com/tiktok-next-2026-our-trend-forecast-for-marketers-for-the-year-ahead?lang=en-AU",
           "link_label": "Nguồn: TikTok Next 2026 ↗"
-        },
-        {
-          "title": "5. Tín hiệu tại Việt Nam: các creator được TikTok chọn trong chương trình Creator Spotlight",
-          "evidence": "TikTok công bố bốn gương mặt tiêu biểu ở Việt Nam trong quý II/2026, thuộc giải trí, thể thao, ẩm thực và kể chuyện kiến thức. Đây là danh sách tuyển chọn của nền tảng, không phải bảng xếp hạng toàn thị trường hay bằng chứng họ có lượt xem cao nhất.",
-          "why": "Điểm đáng theo dõi là sự đa dạng của các thể loại: kiến thức có thể được kể bằng hình ảnh và câu chuyện; thể thao/ẩm thực có thể tạo nội dung quanh chuyên môn cụ thể. Không nên chỉ theo dõi trend quốc tế nếu mục tiêu là tạo nội dung cho người Việt.",
-          "try_it": "Chọn một creator trong lĩnh vực mình quan tâm, xem 5 nội dung gần nhất và ghi lại: hook 3 giây đầu, cấu trúc kể, bằng chứng/chuyên môn, câu hỏi người xem và cách tác giả nối thành chuỗi. Từ đó tạo bản thử của riêng mình, không sao chép nguyên video.",
-          "test": "Kiểm tra từng bài gốc và ngày đăng; so sánh hiệu suất giữa các bài cùng creator nếu số liệu công khai. Một danh sách spotlight không chứng minh một format đang viral toàn Việt Nam.",
-          "url": "https://newsroom.tiktok.com/tiktok-creator-spotlightVN?lang=vi-VN",
-          "link_label": "Nguồn: TikTok Creator Spotlight Việt Nam ↗"
         }
       ],
-      "forecast": "Dự báo để kiểm chứng trong 2–4 tuần tới: nội dung có thể bền hơn nếu kết hợp (1) chủ đề/ngách rõ, (2) một kết quả hoặc câu trả lời cụ thể, (3) dấu hiệu con người thật/quá trình thật, và (4) cơ hội cho người xem tham gia. Chỉ nâng độ tin cậy khi cùng một cơ chế xuất hiện ở nhiều creator độc lập, nhiều bài và qua thời gian. Bác bỏ dự báo nếu tín hiệu chỉ đến từ một chiến dịch, không lặp lại, hoặc không tạo ra xem hết/lưu/chia sẻ/bình luận có nội dung.",
+      "forecast": "Dự báo để kiểm chứng trong 2–4 tuần: nội dung có thể bền hơn nếu kết hợp (1) chủ đề/ngách rõ, (2) một câu trả lời hoặc kết quả cụ thể, (3) cách kể có cá tính và bằng chứng, (4) cơ hội cho khán giả tham gia. Chỉ nâng độ tin cậy khi cùng cơ chế xuất hiện ở nhiều creator độc lập, nhiều bài và qua thời gian. Bác bỏ dự báo nếu tín hiệu chỉ đến từ một chiến dịch, không lặp lại, hoặc không tạo ra xem hết/lưu/chia sẻ/bình luận có nội dung.",
       "reading_method": "Mỗi ví dụ cần có link gốc, ngày, chỉ số và mẫu so sánh. Với các nguồn hiện tại, hai số YouTube là số liệu nền tảng; TikTok Next là dự báo của nền tảng; chưa có bộ dữ liệu công khai đồng nhất đủ để tuyên bố những format này đang dẫn đầu Việt Nam."
     }
   ]

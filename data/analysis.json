@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T09:43:43.999632+00:00",
-  "input_generated_at": "2026-10-20T09:43:43.954470+00:00",
+  "generated_at": "2026-10-20T09:47:53.148215+00:00",
+  "input_generated_at": "2026-10-20T09:47:53.085941+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
-  "items_after_dedup": 133,
+  "items_after_dedup": 132,
   "signals": [
     {
-      "domain": "ai",
+      "domain": "AI & công nghệ",
       "category": "ai",
       "title": "Organizing LLM Inference for Aggregate Predictions from Behavioral Data",
       "summary": "arXiv:2610.23934v1 Announce Type: new Abstract: When using a large language model (LLM) to simulate a user population, how should we combine individual behavioral histories to predict the fraction of users who take a particular action? We study this question in e-commerce, predicting observed product-level conversion rates from browsing sessions without task-specific model training. We vary two design choices, each involving a bias-variance tradeoff. Summarizing a product's sessions before inference reduces cost but can discard predictive detail, adding bias, whereas predicting outcomes for individual sessions and averaging afterward preserves that detail but requires many calls to reduce variance. Evaluating products together in one prompt can help the model infer what is typical in the setting, reducing bias, but also makes each prediction depend on which other products appear alongside it, adding noise. We evaluate both choices across five LLMs and two datasets. Our main finding is that predictions from individual sessions outperform predictions from summaries when products are evaluated separately, but summaries lead when products are evaluated together. Comparative summaries a",
@@ -22,7 +22,7 @@
       "score": 37
     },
     {
-      "domain": "ai",
+      "domain": "AI & công nghệ",
       "category": "ai",
       "title": "Pack and Extract: An Effective Graph-Based Approach for Feature Selection",
       "summary": "arXiv:2610.23938v1 Announce Type: new Abstract: Many molecular biology data sets contain thousands of features, such as genes in single-cell experiments or other omics data. Standard predictive models often perform poorly in such settings, as they tend to retain a large number of features and fail to adequately handle correlations among them. Combinatorial approaches, such as feature selection based on the Independent Dominating Set (IDS) model, have shown promising results, but appear to have been largely overlooked, possibly due to their high computational complexity. In this paper, we propose an improvement to IDS-based feature selection that (i) favors features exhibiting greater diversity and (ii) generalizes the notion of independent dominating set to a node packing model. The resulting formulation is used as an intermediate step within the feature selection process. We evaluate our approach on five genetic data sets and compare the results with those obtained using existing methods. Our experimental results demonstrate notable improvements in predictive accuracy over traditional models, as well as increased stability of the selected feature sets.",
@@ -37,7 +37,7 @@
       "score": 37
     },
     {
-      "domain": "ai",
+      "domain": "AI & công nghệ",
       "category": "ai",
       "title": "A Group-Aware Comparative Study of Classical Machine Learning and Deep Learning Methods for Sensor-Based Human Activity Recognition",
       "summary": "arXiv:2610.23941v1 Announce Type: new Abstract: Human Activity Recognition (HAR) using wearable or smartphone inertial sensors is commonly evaluated with both classical machine learning and deep learning methods. However, reported performance can be strongly affected by sensor modality, dataset characteristics, and data-splitting strategy. This study presents a controlled comparative evaluation of four classical machine learning models and four deep learning models on two public HAR datasets, UCI-HAR and KU-HAR. Three sensor modalities were considered: accelerometer (ACC), gyroscope (GYRO), and their combination (ACC+GYRO). Classical machine learning models used handcrafted statistical features, while deep learning models operated directly on raw sensor sequences. The primary evaluation employed five-fold StratifiedGroupKFold cross-validation, with subject- or participant-level grouping to prevent group overlap between training and test folds. Macro-F1 was used as the primary performance metric. The results show that deep learning did not consistently outperform classical machine learning. On UCI-HAR, the evaluated deep learning models achieved slightly higher macro-F1 values, wher",
@@ -54,17 +54,17 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Tottenham beat Coventry to claim first Premier League win of season – as it happened - The Guardian",
-      "summary": "Tottenham beat Coventry to claim first Premier League win of season – as it happened The Guardian James Maddison marks first Tottenham start in nearly 18 months with stunning goal in first Premier League win of season Sky Sports Tottenham v Coventry City: How the players rated BBC",
+      "title": "Tottenham 3-1 Coventry: Spurs earn first Premier League win of season - BBC",
+      "summary": "Tottenham 3-1 Coventry: Spurs earn first Premier League win of season BBC Tottenham beat Coventry to claim first Premier League win of season – as it happened The Guardian James Maddison marks first Tottenham start in nearly 18 months with stunning goal in first Premier League win of season Sky Sports",
       "source": "Google News Premier League",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONXpFd0l0RUJLbTlRS0xHS2dnNGNBRnFOWFdSaVVfN2plOWZ6UmZzb2tZaFhwYVBQSU9PeG9KdFJZSk53Z1BaUk95bTktZ3lKM2VJSGdtMGU4M1pHdFlNYTRSUGpxcGpuT0NCN25tc05ENmNDb0pWdjVITktVV2ZCdXpwNXI1QWFXWmRtMGhKLUI1ZTBLNXpWc09n?oc=5",
-      "published_at": "2026-10-19T19:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpbFFLemx1TUJzaFBzdUV6VDRjcE1RY1N5QklmV1FxVG0xaFlSS2FWVDl6YjJFMVJxdmEzX3dqci1xWW5kMHhaQTFtR1A5Zkk0bTBVRTQ0VWNEYU9TT2ZrYjNKTlJUZw?oc=5",
+      "published_at": "2026-10-19T23:06:26+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 21
+      "score": 22
     },
     {
       "domain": "Sáng tạo nội dung",
@@ -245,11 +245,6 @@
     }
   ],
   "domain_notes": [
-    {
-      "domain": "AI & công nghệ",
-      "status": "Thiếu dữ liệu",
-      "note": "Chỉ 0 mục có tóm tắt dùng được; không tạo kết luận mạnh."
-    },
     {
       "domain": "Việt Nam",
       "status": "Thiếu dữ liệu",

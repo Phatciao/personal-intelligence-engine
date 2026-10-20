@@ -107,30 +107,38 @@ SOURCES = [
         "category": "ai",
         "url": "https://vnexpress.net/rss/khoa-hoc-cong-nghe.rss",
     },
+
+    # --- International newsrooms: Google News site-indexed RSS discovery ---
+    # These are discovery feeds restricted to named publishers, not their direct RSS endpoints.
     {
-        "name": "VTV Thế giới",
+        "name": "Reuters via Google News",
         "category": "world",
-        "url": "https://vtv.vn/rss/the-gioi/tin-tuc.rss",
+        "signal_source_type": "search_index",
+        "url": "https://news.google.com/rss/search?q=site%3Areuters.com+world+OR+business+OR+Asia&hl=en-US&gl=US&ceid=US:en",
     },
     {
-        "name": "VTV Kinh tế",
-        "category": "vietnam",
-        "url": "https://vtv.vn/rss/kinh-te.rss",
+        "name": "CNA via Google News",
+        "category": "world",
+        "signal_source_type": "search_index",
+        "url": "https://news.google.com/rss/search?q=site%3Achannelnewsasia.com+world+OR+Asia+OR+business&hl=en-US&gl=US&ceid=US:en",
     },
     {
-        "name": "VTV Công nghệ",
-        "category": "ai",
-        "url": "https://vtv.vn/rss/cong-nghe.rss",
+        "name": "The Straits Times via Google News",
+        "category": "world",
+        "signal_source_type": "search_index",
+        "url": "https://news.google.com/rss/search?q=site%3Astraitstimes.com+world+OR+Asia+OR+business&hl=en-US&gl=US&ceid=US:en",
     },
     {
-        "name": "VTV Trí tuệ nhân tạo",
-        "category": "ai",
-        "url": "https://vtv.vn/rss/cong-nghe/tri-tue-nhan-tao.rss",
+        "name": "Nikkei Asia via Google News",
+        "category": "world",
+        "signal_source_type": "search_index",
+        "url": "https://news.google.com/rss/search?q=site%3Aasia.nikkei.com+Asia+economy+OR+technology+OR+trade&hl=en-US&gl=US&ceid=US:en",
     },
     {
-        "name": "VTV Chuyện nhà nông",
-        "category": "vietnam",
-        "url": "https://vtv.vn/rss/chuong-trinh-da-phat-song/chuyen-nha-nong-voi-nong-nghiep.rss",
+        "name": "Financial Times via Google News",
+        "category": "world",
+        "signal_source_type": "search_index",
+        "url": "https://news.google.com/rss/search?q=site%3Aft.com+global+economy+OR+markets+OR+geopolitics&hl=en-US&gl=US&ceid=US:en",
     },
 
     # --- World: free publisher / institutional feeds; compare perspectives ---
@@ -399,7 +407,7 @@ def classify_text(title, summary, fallback):
         return "trends"
 
     # Search-indexed discovery feeds must pass a minimal topic-relevance check.
-    if fallback == "books" and re.search(r"book|books|publishing|publisher|novel|literary|author|reading|sách|tác giả|xuất bản|điểm sách|booktok", full_text):
+    if fallback == "books" and re.search(r"book|books|publishing|publisher|novel|literary|author|reading|\\bsách\\b|tác giả|xuất bản|điểm sách|booktok", full_text):
         return "books"
     if fallback == "creator" and re.search(r"youtube|tiktok|threads|x\.com|twitter|creator|video|storytelling|influencer|social media|content|booktok|nhà sáng tạo|nội dung số", full_text):
         return "creator"
@@ -424,7 +432,7 @@ def classify_text(title, summary, fallback):
     if re.search(
         r"booktok|book review|book reviews|new books|books about|"
         r"publishing|publisher|nonfiction book|novel|literary|"
-        r"author interview|reading list|sách|tác giả|xuất bản|điểm sách|phê bình sách",
+        r"author interview|reading list|\\bsách\\b|tác giả|xuất bản|điểm sách|phê bình sách",
         title_text,
     ):
         return "books"

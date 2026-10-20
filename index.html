@@ -760,7 +760,8 @@ async function loadData(){
     const data=await res.json();
     if(!data||!Array.isArray(data.items))throw new Error("Cấu trúc JSON không đúng");
     lastData=data;allItems=data.items;
-    await loadEditorial(data);\n    await loadEvidenceAnalysis();
+    await loadEditorial(data);
+    await loadEvidenceAnalysis();
     const gen=Date.parse(data.generated_at||"");
     $("updatedAt").textContent="Dữ liệu tạo lúc: "+(gen?dateText(gen):"chưa ghi thời gian")+" · Trạng thái: "+clean(data.status||"không rõ");
     const ok=data.status==="ok";

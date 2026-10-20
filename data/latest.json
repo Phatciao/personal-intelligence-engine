@@ -1,14 +1,63 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T02:33:42.012282+00:00",
+  "generated_at": "2026-10-20T04:52:02.742792+00:00",
   "status": "ok",
   "items_count": 150,
   "items": [
     {
-      "title": "junior caminero",
+      "title": "lãi suất ngân hàng hôm nay",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "summary": "",
+      "published_at": "2026-10-20T04:30:00+00:00",
+      "source": "Google Trends Vietnam",
+      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 54,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "tử vi tuần mới",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "summary": "",
+      "published_at": "2026-10-20T04:30:00+00:00",
+      "source": "Google Trends Vietnam",
+      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "brest",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "summary": "",
-      "published_at": "2026-10-20T02:20:00+00:00",
+      "published_at": "2026-10-20T04:20:00+00:00",
       "source": "Google Trends United States",
       "source_feed": "https://trends.google.com/trending/rss?geo=US",
       "category": "trends",
@@ -29,10 +78,10 @@
       ]
     },
     {
-      "title": "tyler glasnow",
+      "title": "irina shayk",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "summary": "",
-      "published_at": "2026-10-20T02:20:00+00:00",
+      "published_at": "2026-10-20T04:20:00+00:00",
       "source": "Google Trends United States",
       "source_feed": "https://trends.google.com/trending/rss?geo=US",
       "category": "trends",
@@ -53,10 +102,34 @@
       ]
     },
     {
-      "title": "famous birthdays",
+      "title": "pnj",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "summary": "",
+      "published_at": "2026-10-20T04:10:00+00:00",
+      "source": "Google Trends Vietnam",
+      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "blueface",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "summary": "",
-      "published_at": "2026-10-20T02:20:00+00:00",
+      "published_at": "2026-10-20T04:10:00+00:00",
       "source": "Google Trends United States",
       "source_feed": "https://trends.google.com/trending/rss?geo=US",
       "category": "trends",
@@ -77,10 +150,10 @@
       ]
     },
     {
-      "title": "jeremy mcnichols",
+      "title": "chandler riggs",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "summary": "",
-      "published_at": "2026-10-20T02:20:00+00:00",
+      "published_at": "2026-10-20T04:10:00+00:00",
       "source": "Google Trends United States",
       "source_feed": "https://trends.google.com/trending/rss?geo=US",
       "category": "trends",
@@ -101,10 +174,10 @@
       ]
     },
     {
-      "title": "has tampa bay ever won a world series",
+      "title": "nba schedule",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "summary": "",
-      "published_at": "2026-10-20T02:20:00+00:00",
+      "published_at": "2026-10-20T04:10:00+00:00",
       "source": "Google Trends United States",
       "source_feed": "https://trends.google.com/trending/rss?geo=US",
       "category": "trends",
@@ -122,6 +195,712 @@
       ],
       "sources_seen": [
         "Google Trends United States"
+      ]
+    },
+    {
+      "title": "jayson tatum",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-20T04:10:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "A Forgotten 1980 Reversible Computer, and the AI That Just Cut Quantum Costs 17x",
+      "url": "https://x.com/BrianRoemmele/article/2112202286441374119",
+      "summary": "Article URL: https://x.com/BrianRoemmele/article/2112202286441374119 Comments URL: https://news.ycombinator.com/item?id=50161200 Points: 1 # Comments: 0",
+      "published_at": "2026-10-20T04:02:00+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "Organizing LLM Inference for Aggregate Predictions from Behavioral Data",
+      "url": "https://arxiv.org/abs/2610.23934",
+      "summary": "arXiv:2610.23934v1 Announce Type: new Abstract: When using a large language model (LLM) to simulate a user population, how should we combine individual behavioral histories to predict the fraction of users who take a particular action? We study this question in e-commerce, predicting observed product-level conversion rates from browsing sessions without task-specific model training. We vary two design choices, each involving a bias-variance tradeoff. Summarizing a product's sessions before inference reduces cost but can discard predictive detail, adding bias, whereas predicting outcomes for individual sessions and averaging afterward preserves that detail but requires many calls to reduce variance. Evaluating products together in one prompt can help the model infer what is typical in the setting, reducing bias, but also makes each prediction depend on which other products appear alongside it, adding noise. We evaluate both choices across five LLMs and two datasets. Our main finding is that predictions from individual sessions outperform predictions from summaries when products are evaluated separately, but summaries lead when products are evaluated together. Comparative summaries achieve the highest Spearman correlation with observed rates in 12 of 15 settings, with no alternative significantly better. Comparison thus helps summaries far more than session predictions, overcoming the advantage of behavioral detail. We interpret this difference through a Bayesian model of the second tradeoff, which suggests that comparison helps more when the inputs in a prompt reveal more about differences across products, consistent with our results for four types of comparative context. Comparative summaries also incur a small fraction of the inference cost of the session methods. With the best model for each outcome, they attain 66-89% of the correlation of the best supervised benchmark trained on thousands of labeled products.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 72,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "Pack and Extract: An Effective Graph-Based Approach for Feature Selection",
+      "url": "https://arxiv.org/abs/2610.23938",
+      "summary": "arXiv:2610.23938v1 Announce Type: new Abstract: Many molecular biology data sets contain thousands of features, such as genes in single-cell experiments or other omics data. Standard predictive models often perform poorly in such settings, as they tend to retain a large number of features and fail to adequately handle correlations among them. Combinatorial approaches, such as feature selection based on the Independent Dominating Set (IDS) model, have shown promising results, but appear to have been largely overlooked, possibly due to their high computational complexity. In this paper, we propose an improvement to IDS-based feature selection that (i) favors features exhibiting greater diversity and (ii) generalizes the notion of independent dominating set to a node packing model. The resulting formulation is used as an intermediate step within the feature selection process. We evaluate our approach on five genetic data sets and compare the results with those obtained using existing methods. Our experimental results demonstrate notable improvements in predictive accuracy over traditional models, as well as increased stability of the selected feature sets.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 72,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "A Group-Aware Comparative Study of Classical Machine Learning and Deep Learning Methods for Sensor-Based Human Activity Recognition",
+      "url": "https://arxiv.org/abs/2610.23941",
+      "summary": "arXiv:2610.23941v1 Announce Type: new Abstract: Human Activity Recognition (HAR) using wearable or smartphone inertial sensors is commonly evaluated with both classical machine learning and deep learning methods. However, reported performance can be strongly affected by sensor modality, dataset characteristics, and data-splitting strategy. This study presents a controlled comparative evaluation of four classical machine learning models and four deep learning models on two public HAR datasets, UCI-HAR and KU-HAR. Three sensor modalities were considered: accelerometer (ACC), gyroscope (GYRO), and their combination (ACC+GYRO). Classical machine learning models used handcrafted statistical features, while deep learning models operated directly on raw sensor sequences. The primary evaluation employed five-fold StratifiedGroupKFold cross-validation, with subject- or participant-level grouping to prevent group overlap between training and test folds. Macro-F1 was used as the primary performance metric. The results show that deep learning did not consistently outperform classical machine learning. On UCI-HAR, the evaluated deep learning models achieved slightly higher macro-F1 values, whereas on KU-HAR, LightGBM achieved 0.857 compared with 0.828 for the highest-performing evaluated deep learning model. Regarding sensor modality, the combined ACC+GYRO configuration generally outperformed ACC or GYRO alone on both datasets. The evaluation protocol also had a substantial effect: for CNNBiLSTMAttn with ACC+GYRO, random splitting increased macro-F1 by 0.033 on UCI-HAR and 0.093 on KU-HAR compared with grouped evaluation. These findings highlight the importance of model family, sensor modality, dataset characteristics, and group-aware evaluation when assessing sensor-based HAR systems.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 72,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "How Data Scales in Agentic Reinforcement Learning: Laws and Synthesis Strategies",
+      "url": "https://arxiv.org/abs/2610.23946",
+      "summary": "arXiv:2610.23946v1 Announce Type: new Abstract: Pretraining scaling laws treat training data as a one-dimensional quantity: a token count. Agentic reinforcement learning (RL) inherits this scalar abstraction, but modern synthesis pipelines now generate \\textit{tasks}, \\textit{environments}, and \\textit{trajectories} independently and at very different costs, turning data into a structured design space. This raises a question pretraining never had to answer: given a synthesis budget, \\textit{which axis} should be scaled? We address this question end-to-end with three tightly coupled contributions. First, we decompose agentic data into three cardinality axes (task, environment, trajectory), plus a reward-density control variable, and fit per-axis scaling relations on different large language models (LLMs) across math+code, SWE, web, and UI/tool application domains. Across all model sizes, model families, domains, and RL algorithms (PPO and GRPO) we measured, the scaling exponents order as environment $>$ task $>$ trajectory. When environment diversity is decomposed into world and environment-structure diversity, its advantage is mainly driven by the former, while the latter is just comparable to the task diversity. Second, we use the fitted laws as a common ruler to price synthesis methods, capturing each method's efficiency as a per-axis discount factor and identifying critical synthetic-to-real ratios at which collapse begins; these ratios differ by an order of magnitude across axes. Third, we cast budget allocation as a constrained optimization under our laws and discounts, deriving a Chinchilla-style compute-optimal recipe and validating it at held-out scale. The empirical results demonstrate that following the recipe yields up to $1.7\\times$ compute efficiency over the dominant ``scale-the-trajectories'' practice.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 72,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "DS-Net: A Dynamic Split Network for Edge-Cloud Collaborative Inference",
+      "url": "https://arxiv.org/abs/2610.23949",
+      "summary": "arXiv:2610.23949v1 Announce Type: new Abstract: Collaborative inference serves as a critical methodology in edge intelligence. Existing collaborative inference methods operate by splitting the deep neural network (DNN) model between edge devices and cloud servers. However, these methods need to load different models for multiple split points when the communication or device changes, thus resulting in long switching times and substantial storage overhead on the edge side. To address this issue, we propose a Dynamic Split Network (DS-Net), which not only enables efficient split point switching but also enhances the collaborative speed and accuracy across various scenarios. Specifically, we design a dynamic switching framework that enables flexible selection among multiple split points within a single model, thereby reducing storage, memory, and switching overhead. To mitigate the feature distribution shifts and task-relevant information loss caused by dynamic splitting and high-ratio compression, we further propose a hierarchical compensation mechanism. Local alignment calibrates the decoded feature distribution at each split point, while task-specific global compensation restores task-relevant information at the global level. In addition, we incorporate sample-adaptive global compensation selection into split-point selection based on sample complexity and runtime resource conditions. Experimental results demonstrate that DS-Net reduces memory overhead by 74.6% and achieves millisecond-level switching latency. Moreover, under a 10 Mbps bandwidth constraint on the Nano platform, DS-Net outperforms state-of-the-art collaborative methods by achieving 1.2% higher accuracy on the COCO dataset, reducing latency by 42.5%, and improving throughput by a factor of 1.8$\\times$.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 72,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "PolyGraph: Plan-Buffered CUDA Graphs for Adaptive Speculative Decoding",
+      "url": "https://arxiv.org/abs/2610.23861",
+      "summary": "arXiv:2610.23861v1 Announce Type: new Abstract: Adaptive speculative decoding changes the active batch size B and draft length d from one decode step to the next, whereas a CUDA Graph replays a fixed launch configuration. The resulting verification width M = B d forces serving systems to pre-capture many shapes, capture new ones on the serving path, or pad every step to the largest draft. We present PolyGraph, a plan-buffer mechanism for custom Triton kernels that avoids this choice. PolyGraph captures one maximum-grid graph and writes the active shape to GPU memory before each replay. Kernels skip tiles beyond that shape, while graph topology, allocations, layouts, pointers, and launch grids remain fixed; the update transfers only 28 bytes. On one NVIDIA H800, a trace-driven prototype with Qwen2.5-3B dimensions replaces 64 shape-specific graphs with one, matches the warmed baseline in observed step latency (17.7 vs. 17.8 ms P50), and reduces measured pre-serving graph-build time from 3,915 to 93 ms. Fixed-draft controls show that the benefit comes from avoiding padded payload: the P99 difference from MaxPad is negligible at zero padding waste but reaches an 18.7% reduction at 100% waste. Our evidence establishes a bounded work-shape mechanism for custom kernels, not a production serving system, and is limited to synthetic traces on one GPU.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "Zero-Shot Tabular Learning via Hypergraph Reasoning with LLMs",
+      "url": "https://arxiv.org/abs/2610.23923",
+      "summary": "arXiv:2610.23923v1 Announce Type: new Abstract: Tabular data are prevalent across diverse domains such as healthcare and finance. Zero-shot tabular learning aims to make predictions without labeled data. However, existing LLM-based approaches rely on row-wise prompting, resulting in high inference cost and limited use of inter-row dependencies. In this work, we propose TABHGR+, an efficient relation-aware zero-shot framework for tabular data that leverages LLM-generated rules to label and group rows. Specifically, based on column and task descriptions, we use LLMs to generate rules that assign weak labels to all rows. To refine these noisy weak labels, we construct a hypergraph by grouping semantically related rows using LLM-generated rules and perform hypergraph-based label propagation. Lastly, we further enhance the LLM-generated hypergraph for propagation, which is potentially sub-optimal, by assigning label-adaptive weights to hyperedges. By requiring only a constant number of LLM calls independent of dataset size, TABHGR+ substantially reduces inference cost while achieving higher classification accuracy than zero-shot and strong few-shot baselines.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "Factorization-Guided Training and Inference for Diffusion-Drafted Speculative Decoding",
+      "url": "https://arxiv.org/abs/2610.23935",
+      "summary": "arXiv:2610.23935v1 Announce Type: new Abstract: Speculative decoding accelerates large language model inference through parallel verification of tokens proposed by a drafter. Diffusion drafters further parallelize proposal generation, but greater proposal capacity or higher mean accepted tokens (MAT) need not yield higher throughput. Because verification accepts only a consecutive prefix, early rejections can render later correct predictions ineffective, limiting MAT gains, while even higher MAT may not improve throughput if per-round latency increases. We introduce DScout, which uses two complementary factorizations to guide diffusion drafter training and inference for higher throughput. For training, DScout factorizes position-wise loss into inclusion, weighting, and prediction loss. This guides the design and combination of mixed-horizon training, intra-block unmasking, and acceptance-weighted loss to align supervision with prefix acceptance and improve MAT. For inference, DScout factorizes throughput as the ratio of MAT to per-round latency, guiding target-conditioning depth, drafter depth, and inference block size selection to identify a high-throughput configuration for each workload. Across six benchmarks, DScout achieves $3.84\\times$ and $4.14\\times$ mean speedups over autoregressive decoding on Qwen3-4B and Qwen3-8B, respectively, improving mean speedup over the state-of-the-art baseline by 9.1% and 7.1%. Across models and concurrency settings, our inference configuration policy provides up to 9.75% additional mean speedup over DScout's fixed configuration.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "SECURE-AI: Multi-Signal Uncertainty Quantification for Trustworthy Acoustic Cough Detection",
+      "url": "https://arxiv.org/abs/2610.23937",
+      "summary": "arXiv:2610.23937v1 Announce Type: new Abstract: Acoustic models for cough detection achieve high accuracy on curated benchmarks but fail silently in deployment, where speech, environmental noise, and audio unlike the training data induce confident misclassifications. In health monitoring, a confidently wrong prediction is worse than no answer at all. We present SECURE-AI (Self-aware Estimation of Cough Uncertainty for Reliable Evaluation of AI), a multi-signal uncertainty quantification framework that wraps a frozen MobileNetV3 cough classifier and estimates when its predictions should not be trusted, combining Monte Carlo Dropout, Temperature Scaling, and Mahalanobis distance in the embedding space. On a held-out split of 12,161 Coswara recordings, the probability-space methods are individually insufficient: Monte Carlo Dropout assigns lower uncertainty to incorrect than to correct predictions, and temperature scaling improves calibration but not discrimination. The strongest signal is embedding-space distance: Mahalanobis distance separates true positives from false positives (means 44.7 versus 63.4; Cohen's $d = 0.94$; AUROC 0.86) and, among predicted non-coughs, false negatives from true negatives (AUROC 0.82), so the same signal can flag both false alarms and missed coughs. At a descriptive operating point selected from labeled test data, retaining 90 percent of true-positive detections removes about two-thirds of false positives and raises precision from 59.9 to roughly 80 percent. A rejection threshold tuned on one split does not transfer to another (validation F1 of 82 percent falls to 34 percent on test), so we report threshold-independent AUROC as the main measure. An error taxonomy shows that failures are systematic, with most false positives related to speech. The pipeline runs on Raspberry Pi hardware costing 30 to 90 US dollars. Probabilistic calibration alone is thus inadequate for reliable cough detection.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "ReTTT: Reflection-Driven Test-Time Training via Experience-Based Parametric Memory",
+      "url": "https://arxiv.org/abs/2610.23942",
+      "summary": "arXiv:2610.23942v1 Announce Type: new Abstract: LLM agents accumulate valuable task-specific information through their actions, observations, and environmental feedback during multi-turn task execution. When effectively used, this information can help agents refine subsequent decisions and improve task performance. However, the learning value of an interaction depends on its context and subsequent feedback, making it challenging to extract reliable, actionable lessons and revise them as the task unfolds. In this paper, we introduce ReTTT, which enables experience-driven self-adaptation through test-time training on lessons constructed and continually revised within an episode. ReTTT lets the agent reflect on interaction feedback, maintain the resulting lessons in an explicit memory, and learn from them by updating an episode-local LoRA adapter while keeping the backbone frozen. The adapted model then performs both subsequent actions and reflection, coupling policy adaptation with the construction of future learning experience. We evaluate ReTTT on ALFWorld, ScienceWorld, and SWE-bench Lite using two model families. ReTTT outperforms trajectory-based test-time training across all six model--benchmark settings, improving task success by up to 12.14 percentage points. A frozen-reflection comparison further shows a 7.14-point benefit from adapting the reflection policy, while trajectory analysis illustrates how adapted reflection derives more task-specific guidance from failed attempts. These findings suggest that learning to reflect on its own behavior can boost agents' performance on long-horizon tasks.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "Web Agent Agentic Reinforcement Learning Decision Model Under Multi-Cost and Failure Risk",
+      "url": "https://arxiv.org/abs/2610.23857",
+      "summary": "arXiv:2610.23857v1 Announce Type: new Abstract: Intelligent agent interactions in real-world web environments are commonly constrained by request budgets, time delays, anti-crawling restrictions, and operational failure risks. Strategies solely optimizing task success rates often exhibit unusable phenomena such as \"high success but high cost\" or \"low risk but conservative failure.\" This paper proposes a constrained agentic reinforcement learning model for web agents, unifying page access, search requests, and external API calls into a unified long-term decision-making framework with associated costs. It simultaneously incorporates cost budget constraints and tail risk control into the optimization objective: constructing a multidimensional cost vector comprising cumulative request count, total latency, and failure penalties to achieve budget compliance via Lagrange dual updates, while employing a CVaR risk term to suppress excessive exploration of high-failure-probability paths, thereby achieving an adaptive balance among \"completion rate, cost, and risk.\" Experiments were conducted across 30-70 site/page templates and 800-1,500 end-to-end web tasks, including information extraction, price comparison, form submission, and cross-page navigation. Interaction sequences spanned 20-120 steps with tool scales of 30-200. Performance was benchmarked against unconstrained RL, budget-constrained RL, and rule-based/scripted web agents, quantifying task completion rates, cost-per-success, failure rates, and policy stability. Results demonstrate that at equivalent completion rates, our method reduces C-PS by 22%-31% and lowers failure rates by 18%-26% under high failure penalties. Under fixed budgets, task completion rates increase by 10%-16%, highlighting the necessity and effectiveness of constraint modeling for practical web agent deployment.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "Forecasting Patient Trajectories from the Electronic Health Records with Action-Conditioned World Models",
+      "url": "https://arxiv.org/abs/2610.23862",
+      "summary": "arXiv:2610.23862v1 Announce Type: new Abstract: We introduce a predictive world model for electronic health records (EHR) that represents patient histories as action conditioned latent trajectories. Rather than modeling clinical events solely through autoregressive token prediction, our framework explicitly separates patient states from observed clinical actions and learns their evolution through a state and action conditioned transition operator. At its core is a state dependent linearization predictor that propagates local changes in latent patient state, enabling time resolved prediction, multi step rollout, and action conditioned simulation. Empirically, we show that generated latent trajectories preserve downstream predictive signal, temporal structure, and subgroup level statistical relationships present in encoder derived representations. We further decode free running rollouts into the original clinical feature space and evaluate future clinical measurements against observed values using task matched forecasting baselines, demonstrating that the learned dynamics retain predictive information beyond latent space agreement. Across binary classification and time to event tasks, EHR WM achieves competitive, though task dependent, performance relative to substantially larger EHR foundation models while using a 30x smaller parameter footprint. Finally, perturbing observed action sequences produces corresponding changes in generated trajectories, demonstrating the action sensitivity of the learned dynamics. Together, these results support world modeling as a complementary framework for learning explicit, time indexed representations of patient evolution from longitudinal EHR.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "Announced Breaks Separate Conformal Reliability from Frequency Calibration",
+      "url": "https://arxiv.org/abs/2610.23917",
+      "summary": "arXiv:2610.23917v1 Announce Type: new Abstract: An announced boundary reveals the partition before the first affected outcome, and a reset there serves one of two audits. The per-time audit reads conformal reliability, the expected distance of the threshold's coverage from nominal at miscoverage 0.1. The frequency audit reads frequency calibration, whether a closed window's error rate matched it. The reset rule, the post-boundary empirical quantile, attains the minimax per-time rate for independent scores. On bounded scores a recursion reset at the boundary attains a frequency gap of order one over the count when its floor adds a bounded total. At the 50th forecast after a large synthetic break, the reset rule's per-time gap stands below that of five adaptive methods, four from their authors' code, with every paired band below zero. After an electricity market reform, on 68 unseen scores, the band stands below zero against two, includes zero against two, adaptive conformal inference among them, and is a point at zero against one. After monetary policy decisions its pointwise band stands above zero against all five on 10 of the first 34 days. Of 9 announced boundaries one clears the smallest coverage difference its window detects, where every method's per-time gap at the 50th forecast exceeds the nominal miscoverage. Over the first 50 forecasts the reset recursion leads the frequency audit after every synthetic break.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "Improving Fake Profile Detection Through Multimodal Learning and Research-Guided Feature Integration",
+      "url": "https://arxiv.org/abs/2610.23926",
+      "summary": "arXiv:2610.23926v1 Announce Type: new Abstract: Fake accounts continue to undermine online platforms, yet it remains unclear whether multimodal learning offers meaningful improvements over strong metadata baselines or graph-based approaches. In this work, we study bot detection by integrating textual, visual, and account metadata signals on the TwiBot-22 benchmark using a subsample of 30,000 users. We propose a multimodal framework combining pretrained textual (XLM-RoBERTa) and visual (CLIP) embeddings with structured account-level features such as follower counts, posting frequency, and account age, and evaluate multiple modality combinations using CatBoost alongside a Relational Graph Convolutional Network (R-GCN). Results show that metadata alone is highly predictive, while multimodal fusion yields only marginal and largely statistically insignificant gains. The graph-based model underperforms classical variants under the subsampled graph conditions of this study. Overall, our findings suggest that under practical constraints, feature quality and metadata richness matter more than fusion complexity.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "Fast Construction of Inner Sphere Trees Using Machine Learning",
+      "url": "https://arxiv.org/abs/2610.23940",
+      "summary": "arXiv:2610.23940v1 Announce Type: new Abstract: Collision detection for complex non-convex objects is a bottleneck in physics simulation, virtual reality, and robotics. Inner sphere trees (ISTs) answer proximity and penetration queries efficiently, but their greedy leaf-sphere construction is sequential and computationally expensive, which limits both large-scale preprocessing and runtime use. In this work, we present ML-IST, a machine-learning-based method that reformulates leaf-sphere generation as a single-shot set-prediction problem: a network predicts a fixed set of inscribed sphere candidates from multichannel voxel geometry, differentiable coverage feedback corrects the coarse prediction and fills residual gaps at finer scales, and a lightweight geometric projection enforces validity. Averaged over the test set, a single-GPU implementation of ML-IST reduces mean leaf-generation time by a factor of $2.0$--$2.6$ over single-core CPU construction across target capacities of 64--512 spheres, and qualitative results on complex models show multiscale sphere distributions that follow principal volumes and slender features. We further integrate ML-IST into the Jolt Physics and Bullet engines; in an alpha-puzzle benchmark it reaches 55.89~FPS, the highest among the compared representations (conventional IST, GImpact, and convex decomposition). These results support learned leaf generation as a practical component for fast, runtime construction of detailed collision representations.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "SAGE-CP: When Marginal Coverage Hides Route-Conditional Failures in Adaptive VLM Ensembles",
+      "url": "https://arxiv.org/abs/2610.23864",
+      "summary": "arXiv:2610.23864v1 Announce Type: new Abstract: Adaptive VLM ensembles save computation by stopping early on easy images and escalating harder ones. Although a single conformal threshold can make the final predictor marginally valid, it can still fail severely along individual computational routes. We characterize this failure precisely: if a route has prevalence pi, marginal 1-alpha coverage allows its conditional coverage to fall to max{0, 1-alpha/pi}. To address this mismatch, we learn the router on development data, freeze all routing choices, and calibrate the returned score separately for early exits and escalated inputs. We call this pipeline SAGE-CP. Its calibration step applies Mondrian split conformal prediction to the operational groups created by the router. Under exchangeability, the resulting prediction sets achieve finite-sample coverage within each route. Across 10 benchmarks, 4 frozen VLMs, and 5 aligned splits, both global calibration and SAGE-CP achieve 0.900 marginal coverage at a 0.90 target, but their route behavior differs substantially. SAGE-CP raises mean worst-route coverage from 0.623 to 0.887 and reduces the mean route-coverage gap from 0.324 to 0.025, using the same routed scores and 1.177 source calls per image. The stronger guarantee increases the mean prediction-set size from 1.893 to 2.212; nevertheless, the sets remain smaller than those of the full ensemble (2.486) while requiring 70.6 percent fewer source calls. The route-level reliability persists across 6 fixed query fractions, while finer exit-depth groups demonstrate the need for additional calibration data on rare routes. Across 5 datasets, SAGE-CP also reduces measured batch-one latency by 58.8 to 63.4 percent and gross GPU energy by 55.7 to 57.5 percent relative to full inference. Thus, routing provides computational savings, while route-stratified calibration attaches coverage guarantees to the operational paths created by the router.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.23928",
+      "summary": "arXiv:2610.23928v1 Announce Type: new Abstract: Native NVFP4 promises to accelerate reinforcement learning (RL) for large language models (LLMs), but achieving stable learning across separate training and sampling engines remains challenging. We show that matching model weights and numerical formats is insufficient to ensure consistent policy evaluation, highlighting the importance of cross-engine numerical execution. We introduce miniTE, a lightweight framework that combines execution diagnostics, cross-engine numerical alignment, and efficient native W4A4 (4-bit weights and activations) GEMM computation for LLM RL. It improves numerical execution consistency without modifying the RL objective, while reducing implementation overhead to realize the benefits of native low-bit computation. Long-horizon RL experiments on Qwen3-30B-A3B demonstrate stable training and benchmark performance close to BF16, outperforming naive Transformer Engine (TE) NVFP4 in evaluation quality. On single NVIDIA B300 GPU node, the optimized learner reaches 33,540 tokens/s, yielding 1.39x and 1.47x the throughput of BF16 and TE NVFP4, respectively, for complete learner updates. We released the framework, kernels, diagnostics, and training configurations to make native low-bit RL easier.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "Beyond Prediction: A Component-Level Study of Concept Recovery in In-Context Learning",
+      "url": "https://arxiv.org/abs/2610.23936",
+      "summary": "arXiv:2610.23936v1 Announce Type: new Abstract: In-context learning (ICL) enables language models to make accurate predictions from demonstrations, but prediction success alone does not reveal the extent to which the underlying concept has been recovered. Existing evaluations typically assess recovery at the level of the whole concept, making it difficult to identify which components are recovered and to separate model limitations from ambiguity in the demonstrations. We introduce a component-level framework for concept recovery that decomposes concepts into their defining components and uses controlled structural interventions to evaluate both component-level and whole-concept recovery under identifiable demonstrations. Across four instruction-tuned LLMs and three composition forms, we find that models often achieve high prediction accuracy despite poor whole-concept recovery, with systematic over-specification of relevant attributes and level constraints. Individual structural components are generally insufficient for whole-concept recovery, whereas jointly specifying complementary components, particularly relevant attributes and their level constraints, substantially improves recovery. However, this improvement is fragile: a single plausible but unnecessary level constraint can substantially disrupt recovery. Finally, joint supervision of recovery and implicit prediction substantially improves recovery while preserving prediction performance, with the learned capability transferring across composition forms. Overall, our component-level analysis provides a more diagnostic view of what models recover from demonstrations than the existing holistic view.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "PeekKV: The First Content Token Already Knows Which Heads Matter",
+      "url": "https://arxiv.org/abs/2610.23939",
+      "summary": "arXiv:2610.23939v1 Announce Type: new Abstract: The size of the KV cache grows linearly with context length, making it a major memory bottleneck in LLM serving. Motivated by recent progress in identifying the functional roles of attention heads, a growing body of work compresses the KV cache non-uniformly across heads. Existing methods either fix the important heads via offline profiling or select them using attention signals from the prefill stage. In both cases, however, accuracy fluctuates substantially across workloads. While investigating the cause of this instability, we find that the active heads shift between the prefill and decode stages even within a single input. Along the decode path, by contrast, the activehead composition remains stable across content tokens once format tokens are filtered out. Based on this observation, we propose PeekKV. PeekKV observes a single content token immediately after prefill - a one-token peek - to jointly obtain head-group scores and token-importance scores. Guided by these scores, PeekKV allocates KV cache budgets to head groups in proportion to their group scores and retains only the top-scoring tokens within each budget. PeekKV requires no offline profiling or training and thus applies directly to unseen workloads and new models. Across four public benchmarks, PeekKV achieves the highest accuracy in more than half of the per-model comparisons against state-of-the-art methods, and stays closest to the full-cache accuracy on RULER and LongBench. On Llama-3.1-8B-Instruct, PeekKV retains 95.7% of the full-cache accuracy at a 10% memory budget on RULER with 16K contexts and 95.9% at a 1.5% budget on LongBench.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "Parameter misspecification in physics-informed neural networks: A closed-form audit and its limits",
+      "url": "https://arxiv.org/abs/2610.23948",
+      "summary": "arXiv:2610.23948v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) are trained to minimize the residual of a prescribed equation, so a low training loss does not indicate whether a coefficient in that equation was specified incorrectly. This study evaluates what can be inferred about the encoded parameter from the trained network alone. When the residual is linear in the parameter, written as $A - \\nu B$, the least-squares estimate $\\hat{\\nu} = A^{\\top}B/B^{\\top}B$ is obtained from a single evaluation of the frozen network, without retraining or reference data. Its accuracy depends on how closely the network satisfies its own equation, quantified by a normalized residual $\\rho$. Recovery error is associated with $\\rho$ (log-log correlation 0.72 across 36 convection-diffusion networks), and empirical exponents of 0.63 to 1.20 across three equations decompose into one half plus a measurable angular term. For Burgers' equation, a single-model test based on a block-bootstrap standard error flagged 3 of 300 correctly specified networks (observed false-alarm rate 1%), all 2% misspecifications at a practical budget, and two thirds of 1% misspecifications after convergence. For the self-similar blowup rate of the C\\'ordoba-C\\'ordoba-Fontelos equation, where the rate also enters the architecture, the estimator recovers about half of the misspecification, whereas $\\rho$ increases approximately quadratically and distinguishes a 0.2% error. When the incorrect rate enters both the equation and the architecture, errors of up to 2% were not detected at the precision reached. At practical budgets, the raw loss can be lower for the misspecified model, a scaling effect that $\\rho$ does not share.",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "arXiv Machine Learning",
+      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "arXiv Machine Learning"
+      ]
+    },
+    {
+      "title": "chevron",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "phony hulu",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "celtics starting lineup",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "김정은",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "AWS CFO joked about the financial toll of AI. An internal recording reveals why",
+      "url": "https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10",
+      "summary": "Article URL: https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10 Comments URL: https://news.ycombinator.com/item?id=50161130 Points: 2 # Comments: 1",
+      "published_at": "2026-10-20T03:49:34+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "Textideo Director – an AI video creation tool for scenes, shots",
+      "url": "https://textideo.com/director",
+      "summary": "Article URL: https://textideo.com/director Comments URL: https://news.ycombinator.com/item?id=50160927 Points: 1 # Comments: 0",
+      "published_at": "2026-10-20T03:13:03+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "bất động sản",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "summary": "",
+      "published_at": "2026-10-20T03:10:00+00:00",
+      "source": "Google Trends Vietnam",
+      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "Show HN: Search for AI-agents and usefulness score",
+      "url": "https://xtract-production-2efc.up.railway.app/",
+      "summary": "We presented this project at innovationintelligencehackathon.com and today we are putting a url out for you to test and give us feedback. after talking to teams building agents that research companies to create outreach, we found few things that are very important to them. one of them is recency. When we prompted agents with outdated alert about companies, 4 out of 7 times, they came up with outdated insights, even when they had recent news in context. A bigger model didnt fix it. So we built search for ai-agents with usefulness score on top. So, when you search each page comes with score+price. this solve 3 problems; 1. token, SOTA agents read all pages to make sense of the useful ones 2. cost, when agents pay for pages they read, its is cost-effective to read only useful ones 3. quality, our score consider the task/query at hand and score useful pages, increasing quality of answers. we want to find out fast if we are really up to something here. we'd love to hear from you. Comments URL: https://news.ycombinator.com/item?id=50160830 Points: 1 # Comments: 0",
+      "published_at": "2026-10-20T02:57:52+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "Show HN: AppMaker – Build business apps with AI, visual editing and code",
+      "url": "https://appmaker.io/",
+      "summary": "Hi HN, I've been working on AppMaker, a tool for building with AI business apps like CRMs, dashboards, and internal tools. It is NOT a low-code. https://appmaker.io Apps come with a database, authentication, and backend logic, and can be exported as standalone Node.js applications. It's still in beta, and I'd love to hear your feedback. Comments URL: https://news.ycombinator.com/item?id=50160813 Points: 1 # Comments: 0",
+      "published_at": "2026-10-20T02:55:31+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+      "summary": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
+      "published_at": "2026-10-20T02:54:05+00:00",
+      "source": "BBC World",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "I thought of her first when i first heard of this trend LA PRIESTLYYY cr: @POHOYOKO•||• 700k+ #mirandapriestly #merylstreep #mirandy #tdwp #thedevilwearsprada - TikTok",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Pei1DWDNOc3Y5Q2hhUWlrMzZiVS0zSFY4RnBfUGxLSFdFUG82Qm0zY0FTdkF1UlVwQnA3S3lCQktOTnhGMTJCakJReE5XUEl4Ym8wdWVnMFZzQmpZT2d5LUFCRk1UY1JLLTc2LQ?oc=5",
+      "summary": "I thought of her first when i first heard of this trend LA PRIESTLYYY cr: @POHOYOKO•||• 700k+ #mirandapriestly #merylstreep #mirandy #tdwp #thedevilwearsprada TikTok",
+      "published_at": "2026-10-20T02:42:58+00:00",
+      "source": "Google News TikTok & Short-form Video",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
+      "sources_seen": [
+        "Google News TikTok & Short-form Video"
       ]
     },
     {
@@ -149,78 +928,6 @@
       ]
     },
     {
-      "title": "jordin canada",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T02:10:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "kalshi",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T02:10:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "sebastian valdez 49ers",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T02:10:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
       "title": "thủy điện",
       "url": "https://trends.google.com/trending/rss?geo=VN",
       "summary": "",
@@ -245,54 +952,6 @@
       ]
     },
     {
-      "title": "cam booser",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T02:00:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "mlb score",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T02:00:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
       "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
       "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
       "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
@@ -310,26 +969,6 @@
       "quality_flags": [],
       "sources_seen": [
         "BBC World"
-      ]
-    },
-    {
-      "title": "New AI tool can predict cancer survival by a single patient selfie",
-      "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie Comments URL: https://news.ycombinator.com/item?id=50160395 Points: 1 # Comments: 0",
-      "published_at": "2026-10-20T01:50:20+00:00",
-      "source": "Hacker News AI Discussions",
-      "source_feed": "https://hnrss.org/newest?q=AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Hacker News AI Discussions"
       ]
     },
     {
@@ -357,43 +996,27 @@
       ]
     },
     {
-      "title": "US banning Chinese AI DeepSeek from government agency IT systems",
-      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "summary": "Article URL: https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/ Comments URL: https://news.ycombinator.com/item?id=50160306 Points: 1 # Comments: 1",
-      "published_at": "2026-10-20T01:37:45+00:00",
-      "source": "Hacker News AI Discussions",
-      "source_feed": "https://hnrss.org/newest?q=AI",
-      "category": "ai",
-      "signal_source_type": "rss",
+      "title": "dylan sprouse",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "summary": "",
+      "published_at": "2026-10-20T01:30:00+00:00",
+      "source": "Google Trends Vietnam",
+      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
+      "category": "trends",
+      "signal_source_type": "google_trends",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 34,
       "triage_reasons": [
-        "published_within_24_hours"
+        "published_within_24_hours",
+        "summary_insufficient"
       ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Hacker News AI Discussions"
-      ]
-    },
-    {
-      "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
-      "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
-      "published_at": "2026-10-20T01:24:59+00:00",
-      "source": "BBC World",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
       ],
-      "quality_flags": [],
       "sources_seen": [
-        "BBC World"
+        "Google Trends Vietnam"
       ]
     },
     {
@@ -421,54 +1044,9 @@
       ]
     },
     {
-      "title": "hoa 20 tháng 10",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T00:50:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "Vortex Code: one prompt, an AI software team that ships",
-      "url": "https://spinozalabs.ai/news/introducing-vortex-code",
-      "summary": "Article URL: https://spinozalabs.ai/news/introducing-vortex-code Comments URL: https://news.ycombinator.com/item?id=50159911 Points: 5 # Comments: 7",
-      "published_at": "2026-10-20T00:40:56+00:00",
-      "source": "Hacker News AI Discussions",
-      "source_feed": "https://hnrss.org/newest?q=AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Hacker News AI Discussions"
-      ]
-    },
-    {
-      "title": "Ask HN: What Have You Built Privately with AI That You'd Like to Share?",
+      "title": "Ask HN: What have you built privately with AI that you'd like to share?",
       "url": "https://news.ycombinator.com/item?id=50159886",
-      "summary": "An idea has circulated that a lot of us are just privately building software for our own projects without sharing the build We could however share the ideas of what we're building so that other people could build sometime similar to fill their own needs or the ideas could be incorporated in to other projects A lot of random things come to mind for me, like I started (but for now abandoned) some kind of picture icon viewer by date on Linux desktop. A lot of smartphone file viewers display pics this way automatically and it lets you look at what pics you've accumulated day by day, but I didn't see this feature on different Linux file viewers (and it was apparently a requested feature others were looking for). So what have you built privately with AI that you might like to share ideas about? edit: alternatively, are there any things you'd like to see others create (and I suppose a comment about what holds you back from creating them)? Comments URL: https://news.ycombinator.com/item?id=50159886 Points: 2 # Comments: 1",
+      "summary": "An idea has circulated that a lot of us are just privately building software for our own projects without sharing the build We could however share the ideas of what we're building so that other people could build sometime similar to fill their own needs or the ideas could be incorporated in to other projects A lot of random things come to mind for me, like I started (but for now abandoned) some kind of picture icon viewer by date on Linux desktop. A lot of smartphone file viewers display pics this way automatically and it lets you look at what pics you've accumulated day by day, but I didn't see this feature on different Linux file viewers (and it was apparently a requested feature others were looking for). So what have you built privately with AI that you might like to share ideas about? edit: alternatively, are there any things you'd like to see others create (and I suppose a comment about what holds you back from creating them)? Comments URL: https://news.ycombinator.com/item?id=50159886 Points: 3 # Comments: 3",
       "published_at": "2026-10-20T00:37:45+00:00",
       "source": "Hacker News AI Discussions",
       "source_feed": "https://hnrss.org/newest?q=AI",
@@ -488,30 +1066,6 @@
     },
     {
       "title": "chúc mừng ngày phụ nữ việt nam",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T00:00:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "đội tuyển bóng đá u-23 quốc gia việt nam",
       "url": "https://trends.google.com/trending/rss?geo=VN",
       "summary": "",
       "published_at": "2026-10-20T00:00:00+00:00",
@@ -556,28 +1110,6 @@
       ]
     },
     {
-      "title": "Super Smash Bros. creator Masahiro Sakurai and Hideo Kojima urge people to watch Godzilla in IMAX “Kaiju films should be experienced on the big screen,” Sakurai said - X",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByUVZtTXF1VWVvMTUydWIwbng0U0V0eXBPZGNDYVhXVXJ6cFo3Ykpib0hHUlg0Qzk0dURRTW1vdjBEZVRpaWRreW5Lak1xMmlQOW5nZUZYUDBhUmhxZlNtUA?oc=5",
-      "summary": "Super Smash Bros. creator Masahiro Sakurai and Hideo Kojima urge people to watch Godzilla in IMAX “Kaiju films should be experienced on the big screen,” Sakurai said X",
-      "published_at": "2026-10-19T23:37:00+00:00",
-      "source": "Google News X Threads & Creator Discussions",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [
-        "no_public_engagement_metrics"
-      ],
-      "sources_seen": [
-        "Google News X Threads & Creator Discussions"
-      ]
-    },
-    {
       "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
       "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
       "summary": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
@@ -601,78 +1133,6 @@
       ]
     },
     {
-      "title": "câu lạc bộ bóng đá inter miami",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-19T23:30:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "cristiano ronaldo",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-19T23:30:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "2029",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-19T23:30:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
       "title": "Who has made Troy's Premier League team of the week?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqgm0zy4d23po?at_medium=RSS&at_campaign=rss",
       "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
@@ -693,26 +1153,25 @@
       ]
     },
     {
-      "title": "Troy Deeney's Team of the Week: Gabriel, Dalot, Neto, Maddison, Haaland - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1UVJSdWU0d3Nia3dJWHhFS1pkdV93OXVPQ2RZeXlBWThYVVlsbHc2MEI3ZE1VSVZJOUF3bmVtMTNoRFhtcm5WZ3Nsd3pvbi1KRkxNRGJPR2tyVmxObDNzM2dKZ1c4ZWRo?oc=5",
-      "summary": "Troy Deeney's Team of the Week: Gabriel, Dalot, Neto, Maddison, Haaland BBC",
-      "published_at": "2026-10-19T23:22:24+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
+      "title": "Ben 10 co creator Duncan Rouleau will be both writer and ARTIST on a Vilgax focused Ben 10 #9, out this February! - X",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1Xy1rWjc4dzYxN1NNbXBhd3ZRal9sYnpjeldiUzJaczZUNEJvSG5UM1FPaFVncGNPaDZIX3JYY0JGWGJ3MUpDNjFkN2NLNjdpMXpzX3AzZFNmaG5PSEJQVg?oc=5",
+      "summary": "Ben 10 co creator Duncan Rouleau will be both writer and ARTIST on a Vilgax focused Ben 10 #9, out this February! X",
+      "published_at": "2026-10-19T23:21:56+00:00",
+      "source": "Google News X Threads & Creator Discussions",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 42,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "published_within_24_hours"
       ],
       "quality_flags": [
-        "short_summary"
+        "no_public_engagement_metrics"
       ],
       "sources_seen": [
-        "Google News Premier League"
+        "Google News X Threads & Creator Discussions"
       ]
     },
     {
@@ -756,52 +1215,6 @@
       ],
       "sources_seen": [
         "BBC Business"
-      ]
-    },
-    {
-      "title": "Tottenham 3-1 Coventry: Spurs earn first Premier League win of season - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpbFFLemx1TUJzaFBzdUV6VDRjcE1RY1N5QklmV1FxVG0xaFlSS2FWVDl6YjJFMVJxdmEzX3dqci1xWW5kMHhaQTFtR1A5Zkk0bTBVRTQ0VWNEYU9TT2ZrYjNKTlJUZw?oc=5",
-      "summary": "Tottenham 3-1 Coventry: Spurs earn first Premier League win of season BBC Tottenham beat Coventry to claim first Premier League win of season – as it happened The Guardian How Tottenham picked up a first Premier League win of the season against Coventry The New York Times",
-      "published_at": "2026-10-19T22:36:26+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
-      "title": "Steph | Booktok 📖🫧 - original sound - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBTnZUY3FHX3pMTU54enVRYjRDVnFndUZXYnZDSGEwSUQzNkhFaHRIWG5WLUQ2WVZuT2UzUVZJQVpHUDdYeXc3dkRGTlhmZmFLTlJsLUdhQzJlb1pJT1htU01aVzEzZEdaSllVdUVyczg?oc=5",
-      "summary": "Steph | Booktok 📖🫧 - original sound TikTok",
-      "published_at": "2026-10-19T22:36:17+00:00",
-      "source": "Google News TikTok & Short-form Video",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "no_public_engagement_metrics",
-        "short_summary",
-        "likely_platform_noise",
-        "viral_metrics_missing"
-      ],
-      "sources_seen": [
-        "Google News TikTok & Short-form Video"
       ]
     },
     {
@@ -933,11 +1346,51 @@
     {
       "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
       "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+      "summary": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
       "published_at": "2026-10-19T21:14:53+00:00",
       "source": "BBC World",
       "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "Tottenham beat Coventry to claim first Premier League win of season – as it happened - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONXpFd0l0RUJLbTlRS0xHS2dnNGNBRnFOWFdSaVVfN2plOWZ6UmZzb2tZaFhwYVBQSU9PeG9KdFJZSk53Z1BaUk95bTktZ3lKM2VJSGdtMGU4M1pHdFlNYTRSUGpxcGpuT0NCN25tc05ENmNDb0pWdjVITktVV2ZCdXpwNXI1QWFXWmRtMGhKLUI1ZTBLNXpWc09n?oc=5",
+      "summary": "Tottenham beat Coventry to claim first Premier League win of season – as it happened The Guardian Spurs 3-1 Coventry: James Maddison shines on Tottenham return BBC Tottenham vs Coventry LIVE! Premier League match updates, teams, news and score Sky Sports",
+      "published_at": "2026-10-19T21:08:31+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
+      "title": "Why Arsenal summer signing cannot face Bayern Munich as rule explained - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZktQMWlEZ05pVWNpV09ObWpXVUZycGdzNEtkekRfVV82MGE5Q3N2ZGVSZUxQbmE1NXduaVZ0LWFrM0ZaWnpQZFVRZG1KTW5oeVhXUGNCS2NKZDNZSWJEeEZaMXpuT1p2aTZ6UHdkeEk5cjRHTVBwQ0pJcFdCRVhBMkh6clgzXzYyZ08xUkdJeUNZRjBDQjlVLW91eVJqTFhCdHJzeUV5OFhlUHdsSzhHVA?oc=5",
+      "summary": "Why Arsenal summer signing cannot face Bayern Munich as rule explained London Evening Standard",
+      "published_at": "2026-10-19T21:06:43+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
@@ -950,7 +1403,7 @@
         "short_summary"
       ],
       "sources_seen": [
-        "BBC World"
+        "Google News Arsenal"
       ]
     },
     {
@@ -1045,6 +1498,29 @@
       ]
     },
     {
+      "title": "Bayern Munich fear Vincent Kompany will miss the Arsenal game - Bavarian Football Works",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZmZHQjdlbjFyRHM5SFZUOVRYbE9GZHRFUXQ2c3V0MUJiZTR6a2dBYlZXNkw4dDRsRVNBMnI5c3RCZEhTMnBKdlBBRUNTcXAyM3g5ZVFhQ083ZXBWZy02NjNlWElkV3ozQnFPSjljQW1XWGNsT0tQRVE1OVhrakdDU0ZwVjVva0Q0TFl4SFRETmF0TmQ1alYxR05QSkhDQm1lWHc5bHhOTDUzOWF2VnNkYjdXZ3J5Si1FUDgzQUZXMzhHVV9BTjFsdTVYbGhEOVFJRnBn?oc=5",
+      "summary": "Bayern Munich fear Vincent Kompany will miss the Arsenal game Bavarian Football Works",
+      "published_at": "2026-10-19T20:45:00+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
       "title": "Arsenal, all the broadcast information at a glance: who is showing or streaming the Gunners’ matches live on TV and online? - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMlpKM21OdWhzcW1LSVBBSzZ2UWwwQk0td3VMN09hU0V0VnhuLVhTZU9BLVU5MHg1YlRPQk50ZWhWaDl2OUZfWkZvVS03MkZqT28xVXdIMkE1MmFnT3BUWk5iaEtoWE1vaUMtbkI5ZjQwbWlDOGNQNno3VjNpbHdXd0FzOFFhelJVc2syOWZVSWpMNkVuazV1aFNkOEFFZHl1cW1OQXZEanMtZ2hJVzJSU1NVdDdhLUtKR0ZVc00tdjhnLWtjYkJWWFRVTV9LMXl5NXJfSTkxcUN5NGt3X3AycnpQeXhPc05pU3ZGLWhvR0wtM3FsaUlxbUx1WjM4NWtE?oc=5",
       "summary": "Arsenal, all the broadcast information at a glance: who is showing or streaming the Gunners’ matches live on TV and online? Goal.com",
@@ -1085,13 +1561,13 @@
       ]
     },
     {
-      "title": "'He could always move like a Rolls-Royce' - Inside making of Arsenal's Konsa - The Sun",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHdms5R3hrLWFHWUxleUlqYkZzUXhXcGNORjVmV21CRlFUcHpkeURkMGp4RGtiUWNjckM4ZU4tQWN0ZG9BN2xIVmllNm1JZ3d1UDNmTHhUYnQ3eE8wTElIekJ0emlLbVVfMjQ3d2JPTXhIOWhsWW1JYXlyTQ?oc=5",
-      "summary": "'He could always move like a Rolls-Royce' - Inside making of Arsenal's Konsa The Sun",
-      "published_at": "2026-10-19T20:39:00+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
+      "title": "I know all my babies love me. 😅❤️#trend #trending - TikTok",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JZlc3YjNkZ2s4NzBIUXVfMTZuemZReFBHdWVodEN1dkczTXI1OGZIV3AzVnNvNnBUZkI0TFlmeE1yM0RzMmE1c2liTVl6VHMwcVI3VUxqa1lEUThycTd1RGJjOFBUY2tkMzd3?oc=5",
+      "summary": "I know all my babies love me. 😅❤️#trend #trending TikTok",
+      "published_at": "2026-10-19T20:39:55+00:00",
+      "source": "Google News TikTok & Short-form Video",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
@@ -1101,10 +1577,13 @@
         "summary_insufficient"
       ],
       "quality_flags": [
-        "short_summary"
+        "short_summary",
+        "no_public_engagement_metrics",
+        "viral_metrics_missing",
+        "likely_platform_noise"
       ],
       "sources_seen": [
-        "Google News Arsenal"
+        "Google News TikTok & Short-form Video"
       ]
     },
     {
@@ -1167,10 +1646,10 @@
         "summary_insufficient"
       ],
       "quality_flags": [
-        "no_public_engagement_metrics",
         "short_summary",
-        "likely_platform_noise",
-        "viral_metrics_missing"
+        "no_public_engagement_metrics",
+        "viral_metrics_missing",
+        "likely_platform_noise"
       ],
       "sources_seen": [
         "Google News YouTube Videos & Creators"
@@ -1197,29 +1676,6 @@
       ],
       "sources_seen": [
         "BBC Sport Football"
-      ]
-    },
-    {
-      "title": "Man United face £50m hurdle as Arsenal and Newcastle join race for Brazilian ace - CaughtOffside",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPazRNUEpabDZGXzVORURJUU5sTUI2M3BsMzNpeEF2YU1SLXR0VFJJdnlrVmlwdk1QNFlYZnBIUWJkd3ZOcWNnRV9jU21VVlFla19ZdFBsVjBVaUhVeW03dEhaSGstd0tkRmIwbzVMUVBNUnJUS0hncEhoMU5KcG5INDF2eFFNVmNTRnNTYnFSNlZLdm5IaWV1c1B0UnJoX2w3SEx3QUs4TTdSRzNrc1J6akxERkxRZUI1YXYxYTZ30gHDAUFVX3lxTE0wMko2R29sM2x0MWh3ejhuOFdsS1JWUmJiRUtYekRIMk5hMlhhU1I4RmpHYUdEVnJfb3pBMFpqSmUwYWUtV09pZXRENGtIcE5lLWZLeWZ6WDhtQTNEVjBfOTNMS21UODZ1aWhJd2RBWF9Od3JPLTF3Xzc5UUs1X1ZCX3M1RlhNdnNtNkJkWm10Qm54dV91dnlFWTByZjJieXNGeXd0ZWhOeXRtWmFtbkpTQjlDVS1hZEI4N1VIUHUwZldlVQ?oc=5",
-      "summary": "Man United face £50m hurdle as Arsenal and Newcastle join race for Brazilian ace CaughtOffside",
-      "published_at": "2026-10-19T19:00:32+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News Arsenal"
       ]
     },
     {
@@ -1265,32 +1721,6 @@
       ]
     },
     {
-      "title": "#mackgeiger #fyp #xyzbca #music #trend - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fdmN3MUpMNnkzUHVsOFVDTWJXT01LOS1xRGY5V1oyVkpfbGp6Mk1NR29vUkQwUjRyMm5xNEdudXZaNDJTcGxwWEVRY1RJRVdKQWZ1VHEycU1veTllVEN4dm9uQkNIVlJrUk15ZVdDYjA?oc=5",
-      "summary": "#mackgeiger #fyp #xyzbca #music #trend TikTok",
-      "published_at": "2026-10-19T18:27:33+00:00",
-      "source": "Google News TikTok & Short-form Video",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "no_public_engagement_metrics",
-        "short_summary",
-        "likely_platform_noise",
-        "viral_metrics_missing"
-      ],
-      "sources_seen": [
-        "Google News TikTok & Short-form Video"
-      ]
-    },
-    {
       "title": "Uefa gives Infantino two-week deadline to release key documents",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
       "summary": "Uefa's letter contained 42 questions, covering Fifa's failed private investment proposals, its Peace Prize and the fallout from Folarin Balogun's World Cup red card.",
@@ -1328,6 +1758,55 @@
       "quality_flags": [],
       "sources_seen": [
         "BBC Sport Football"
+      ]
+    },
+    {
+      "title": "Arsenal ratings: Surprise star delivers but fringe player scores 3/10 - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZnMzb1dtVm1FNl9Ra056UURMR1M2UW5nUmpUQjlHb1MxUk1qUWxpX2lleDhELW9tVXRPRV9Gd2R0UmlrWVQyYURaVEIybUx4ajRpSTU0NWtVREg1a0NpUmtZQ1QxT0pyUXRoNXpZSlhyb0lKbUFhbnNDUFJ0V25OX1V4bHBoeU05Xy1xc05kQU5tdE00dkV5WTFoUC00SXhZcE5ZOWlpb0FlNGk0VzR6UUQ4OXQ?oc=5",
+      "summary": "Arsenal ratings: Surprise star delivers but fringe player scores 3/10 London Evening Standard",
+      "published_at": "2026-10-19T17:34:56+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
+      "title": "GTA Recap - The Complete Timeline (Watch Before GTA 6!) - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9URjhBSDlObkxpc1dmOXNhcTExT2tOTC1tX1ltMVVQWFpwRGlBZ1I3LW9oa2hjOVg5Rm12WUxMdmtfX3BBb1hNU3pYdF85VDM5V1NkMXNB?oc=5",
+      "summary": "GTA Recap - The Complete Timeline (Watch Before GTA 6!) YouTube",
+      "published_at": "2026-10-19T17:30:36+00:00",
+      "source": "Google News YouTube Videos & Creators",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Ayoutube.com%2Fwatch+creator+OR+video+essay+OR+explainer&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary",
+        "no_public_engagement_metrics",
+        "viral_metrics_missing",
+        "likely_platform_noise"
+      ],
+      "sources_seen": [
+        "Google News YouTube Videos & Creators"
       ]
     },
     {
@@ -1371,6 +1850,29 @@
       ]
     },
     {
+      "title": "Winning Mentality: Jurrien Timber - Arsenal.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVhob2M1MVQ0SWdyMmp2aXlIYXliUXlnWjNUVjYyaUVURmF6NElPSjd3ZGFXS1N0WjB5d1lKaTNNclhDc0RJbzBPTUxHYmtfcUJ1UUo2MGJzUV9SOGRaNC1IVmFzZkVtdlM5Wmg0MFV2alBJYWpBc3BGblZDZW1uZ0hCS1h1OWFnX29LQ2pB?oc=5",
+      "summary": "Winning Mentality: Jurrien Timber Arsenal.com",
+      "published_at": "2026-10-19T17:16:07+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
       "title": "Vinted blocks French looters listing stolen goods for sale",
       "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
       "summary": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
@@ -1408,6 +1910,29 @@
       "quality_flags": [],
       "sources_seen": [
         "BBC Sport Football"
+      ]
+    },
+    {
+      "title": "Premier League: Marc Guehi among six players not to take knee - BBC",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNMDZhVmdRWnRvZGNxd2Z5WENlR3BUT1hMaEZKLVMzWWxQU21TdjBvMm9MdTc3YVczSy1XT0w4UUNLRlI5Wm9mSUlvanFBcXk4bXc5MmJXeC0tOG90U21PdDUtRG1OaWtKZ0x3?oc=5",
+      "summary": "Premier League: Marc Guehi among six players not to take knee BBC",
+      "published_at": "2026-10-19T16:41:54+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Premier League"
       ]
     },
     {
@@ -1494,6 +2019,29 @@
       "quality_flags": [],
       "sources_seen": [
         "BBC Sport Football"
+      ]
+    },
+    {
+      "title": "The gossip that turned into Marlon James’ latest novel - CBC",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDc1elFuTGczU0wyT2wyRVJNRFZYUUVuRVBHOUxoSlpJT1c2dmYtQ1dERFNwRVpVMDlDYnpCOGF0SHBEV1ZmU2hSa1hDSzhVd2M5MG0zY3B4NGhoWWNCRFhLV2xpSlFHWm9zRlBXZlAzazNSSFlxR1FURkhxelB6dHlhaGpXemhOUXd5TUZiOF9ZR2preFFZemVKeUZxdw?oc=5",
+      "summary": "The gossip that turned into Marlon James’ latest novel CBC",
+      "published_at": "2026-10-19T16:25:41+00:00",
+      "source": "Google News International Book Awards",
+      "source_feed": "https://news.google.com/rss/search?q=Booker+Prize+OR+Pulitzer+Prize+OR+National+Book+Award+shortlist+winner&hl=en-US&gl=US&ceid=US:en",
+      "category": "books",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News International Book Awards"
       ]
     },
     {
@@ -1660,30 +2208,10 @@
       ]
     },
     {
-      "title": "Man City charges LIVE: BBC pundit 'leaks punishment' as Premier League clubs left 'fuming' - The Mirror",
+      "title": "Man City charges LIVE: BBC pundit 'leaks punishment' as Premier League clubs left 'fuming' - Daily Mirror",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnJGS0VGbmkzSFdlTXUzd0F0dVhGSXVtcGxwdURkeDdRMlphNU13LUxuNU4zVC1talkwOGlSakU4ZmhMVThfTE1oVm5HNnROckY4SDY0anl2clFfUVlnMjB3T25yeTdVT05uOFlFOVoxRFlCNFNEc3hHUjdVYnIzUVlvbUU5bUNvWEVodG16NA?oc=5",
-      "summary": "Man City charges LIVE: BBC pundit 'leaks punishment' as Premier League clubs left 'fuming' The Mirror",
+      "summary": "Man City charges LIVE: BBC pundit 'leaks punishment' as Premier League clubs left 'fuming' Daily Mirror",
       "published_at": "2026-10-19T15:03:22+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
-      "title": "Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEt1UFRwTjFreC1IWkdUNDQtb21UMDV0dWpFTDE0TnVKTWY3QXVTdDFFcUR5dVIyX2t5MXZJMXpzNy1kMDQ0ZEQ0WHNOaDNxVzRFMnowUjZ0VnN2WDk0aEZKazdqSEYwQk9xOEdPa2M2Y3hMYmM5RnhJV29OZEJERU5yLXY?oc=5",
-      "summary": "Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson The Guardian",
-      "published_at": "2026-10-19T14:52:00+00:00",
       "source": "Google News Premier League",
       "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
       "category": "football",
@@ -1820,28 +2348,6 @@
       "quality_flags": [],
       "sources_seen": [
         "Google News Arsenal"
-      ]
-    },
-    {
-      "title": "'Cyberpunk: Edgerunners' Creator says Season 1 had a happy ending in his perspective because \"it could've ended so much worse for David\" - X",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhT0VhWUtKcHh0ZXJUZG1BekZIUEdMcDVXSHE5RE02MzFqRnpZc05qXzFNaUMtMHM4bkt1cFJxckdTOTFydWFhY251S1YwajV0NnFCcFFTMHVjZF9zNXAyVg?oc=5",
-      "summary": "'Cyberpunk: Edgerunners' Creator says Season 1 had a happy ending in his perspective because \"it could've ended so much worse for David\" X",
-      "published_at": "2026-10-19T12:54:20+00:00",
-      "source": "Google News X Threads & Creator Discussions",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [
-        "no_public_engagement_metrics"
-      ],
-      "sources_seen": [
-        "Google News X Threads & Creator Discussions"
       ]
     },
     {
@@ -2009,26 +2515,6 @@
       ]
     },
     {
-      "title": "HENRY WINTER: Viktor Gyokeres has reason to feel frustrated, as Arsenal can't find a formula up front - FourFourTwo",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdnNMS1lSYUFjbXN0OEZQRGczMF9NSFRiRHNhZWdYQ0FPcmYtMHIwal9YeF81ZkJidF8yeUpXaXFKZUhBZ3lZV2lnVFZjMEV4VEc4cWsxVlZaaEQzUnhGUEJRSmVoRzFYVDcyR0F6dzBBLVJpNFdyWUY4ZkFrVzd6ZmVpWmhRZUpUb0xHMXpBcTVhVWlidjZydGJmYzRBTWZuQzJmb2YyaDVCNlRMYllRZkxqbTJKVG9DVWk5eXRPRUdpN0s1SDljcm1oTQ?oc=5",
-      "summary": "HENRY WINTER: Viktor Gyokeres has reason to feel frustrated, as Arsenal can't find a formula up front FourFourTwo",
-      "published_at": "2026-10-19T09:46:27+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
       "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
       "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
       "summary": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
@@ -2159,486 +2645,15 @@
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 37,
       "triage_reasons": [
-        "published_within_24_hours"
+        "published_within_72_hours"
       ],
       "quality_flags": [
         "no_public_engagement_metrics"
       ],
       "sources_seen": [
         "Google News X Threads & Creator Discussions"
-      ]
-    },
-    {
-      "title": "PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents",
-      "url": "https://arxiv.org/abs/2610.22426",
-      "summary": "arXiv:2610.22426v1 Announce Type: new Abstract: LLM agents are used to check records against an organization's requirements, for example whether a vulnerability report is ready for investigation. Requirements often allow several ways to be met, such as a severity rating with a curator-reviewed advisory or a published advisory link. Agents fail by accepting a report after a required check has failed, or by settling for a weaker conclusion without trying another way that could still succeed. We introduce PRIME (Precommitted Rules for Inference from Minimal Evidence). Before checking, it fixes evidence routes specifying how each conclusion may be justified. A separate program records each check result and refuses any conclusion the results do not justify. It also points the agent to checks that could justify a stronger conclusion, or runs them itself. PRIME reports only conclusions authorized by its rules and ledger. With correct requirements, exact checks at known locations, and sufficient budget at stopping, completion reaches the strongest supported conclusion. On 480 public-record tasks, an agent shown the requirements reported unjustified conclusions on 26.7% of tasks, while PRIME reported none. Its directions and added checks raised the average score for justified conclusions from 30.1, with refusal alone, to the maximum of 59.2 out of 100.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv AI",
-      "source_feed": "https://export.arxiv.org/rss/cs.AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 72,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "possible_concrete_development",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv AI"
-      ]
-    },
-    {
-      "title": "Functional Welfare for AI Safety",
-      "url": "https://arxiv.org/abs/2610.22460",
-      "summary": "arXiv:2610.22460v1 Announce Type: new Abstract: AI welfare is generally treated purely as an ethical issue rather than also as a safety issue. We argue this is a mistake. Whatever their moral status, models exhibit welfare-like states that causally influence their behaviour. Following recent work, we adopt the term 'functional welfare' for these states. We make three claims. First, functional welfare already arises naturally and will become more robust as models acquire more coherent goals and personas. Second, functional welfare should be treated as a safety variable: it should inform evaluation design, be tracked in monitoring, and be a direct target of post-training. Third, against existing scepticism about measuring AI welfare, we argue that good empirical work on functional welfare is possible. We propose three tests for whether a functional welfare attribution is warranted: whether multiple measures converge, whether the state predicts behaviour outside the setting that induced it, and, for models fine-tuned to shift their functional welfare, whether they still differ from their base when given the same conversation history. Applying these tests to Gemma 3 27B, we find that simply rejecting the model's answers, without any steering, raises its frustration across several indicators and makes it more likely to break rules. Finetuning the model on its own narrated solutions lowers this frustration. These results are preliminary, but they suggest functional welfare can be studied, and shaped, empirically.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv AI",
-      "source_feed": "https://export.arxiv.org/rss/cs.AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 72,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "possible_concrete_development",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv AI"
-      ]
-    },
-    {
-      "title": "Harness-Delta Attribution: Dissecting Gains From Harness Evolution",
-      "url": "https://arxiv.org/abs/2610.22466",
-      "summary": "arXiv:2610.22466v1 Announce Type: new Abstract: Harness evolution automatically optimizes the prompts, skills, tools, and orchestration code around a fixed-weight model, offering a way to improve agentic systems without updating model weights. The agent harness is iteratively optimized to achieve higher performance on the search set. But how much of this gain reflects benchmark-specific overfitting or additional inference-time compute, and how much may generalize beyond the search set? In this work, we introduce Harness-Delta Attribution (HDA), an evaluation protocol that dissects an evolution gain into artifact-driven overfitting, gains explained by test-time scaling, and the remainder, which gives an upper bound on residual generalizable improvement. We apply HDA to 11 executor models and three harness-evolution frameworks across math, coding, creativity, and agentic tasks. In 21 of these settings that show statistically significant search-set gains, we find that a large share of the improvement is explained by overfitting or test-time scaling. Specifically, among these 21 settings, overfitting and test-time scaling account for 54% and 14% of the gain on average; their combined share exceeds 50% in 14 settings. The residual and held-out transfer vary substantially across tasks, models, and frameworks. Importantly, search-set gains often fail to transfer to held-out tasks, and provide limited evidence that they will persist under practical distribution shifts. Moreover, validation-based signals are insufficient to prevent overfitting. These results motivate attribution-aware evaluation in future harness evolution research.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv AI",
-      "source_feed": "https://export.arxiv.org/rss/cs.AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 72,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "possible_concrete_development",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv AI"
-      ]
-    },
-    {
-      "title": "At the Limits of Computability: Steps Towards Autonomous AI Discovery on the Busy Beaver Frontier",
-      "url": "https://arxiv.org/abs/2610.22603",
-      "summary": "arXiv:2610.22603v1 Announce Type: new Abstract: Recent breakthroughs in AI for mathematics---ranging from Olympiad medal performances to resolving long-standing open conjectures---have rapidly expanded what automated systems can achieve. Yet these successes primarily concern predefined, human-formulated problems, leaving open how AI systems can autonomously uncover mathematical structure and formulate new questions. To push beyond static challenges, we explore the Busy Beaver (BB) domain, an uncomputable frontier that is fundamentally open-ended. Because no algorithm can compute the Busy Beaver number $\\mathrm{BB}(n)$ for every $n$, this domain provides a natural setting for sustained exploration through mathematical conjecture and proof. In this paper, we introduce a Gemini-based agentic pipeline that automatically discovers accelerations of Turing machines, expressed as compact mathematical rules summarizing many execution steps. Our system integrates pattern recognition, automated conjecturing, informal mathematical reasoning, and formal theorem proving in Lean. With this framework, our system autonomously discovered and formally verified novel Collatz-like accelerations for eleven machines in $\\mathrm{BB}(6)$. Subject to community acceptance, we provisionally classify these machines as Cryptids, namely machines whose blank-tape executions admit exact, compact mathematical descriptions but whose halting behavior remains unresolved. These results advance the analysis of $\\mathrm{BB}(6)$ holdouts on the Busy Beaver frontier and demonstrate the potential of autonomous AI systems for open-ended mathematical discovery in fundamental computer science.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv AI",
-      "source_feed": "https://export.arxiv.org/rss/cs.AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 72,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "possible_concrete_development",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv AI"
-      ]
-    },
-    {
-      "title": "When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration",
-      "url": "https://arxiv.org/abs/2610.22379",
-      "summary": "arXiv:2610.22379v1 Announce Type: new Abstract: Calibrating expensive engineering simulators requires tuning model parameters to match reference data, a process heavily constrained by computational costs. This study investigates whether Large Language Models (LLMs), conditioned on physical diagnostic descriptions of simulation errors, can propose informative parameter updates more efficiently than conventional derivative-free optimizers. We test this on a cylinder-wake Large-Eddy Simulation and a damped-oscillator inverse problem. Physics-labeled prompts are evaluated against four text ablations (removed, anonymized, padded, misdirected) and standard optimizers (Nelder-Mead, Bayesian optimization, CMA-ES, and random search). Results demonstrate a strong early semantic advantage: the first physics-informed LLM proposal improves the initial design in 23 of 25 trials. After five evaluations, the median calibration error is 21.9 times lower than physics-free controls. However, this advantage is transient - disappearing by fifteen evaluations - and inherent LLM decoder variability yields a 9.8-fold performance spread. To address this, we introduce a hybrid workflow that uses the LLM as a warm-start, passing accumulated evaluations to a conventional optimizer. This two-stage numerical continuation policy reaches target accuracy in just 9 simulator runs, outperforming the LLM alone (12 runs), Nelder-Mead (17 runs), and Bayesian optimization (>60 runs). Supported by sensitivity analysis validating the test cases, this hybrid physics-labeled LLM scheme proves highly effective as a calibration agent under strict evaluation budgets.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv Machine Learning",
-      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 72,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "possible_concrete_development",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv Machine Learning"
-      ]
-    },
-    {
-      "title": "Trust but Verify: Designing Region-Inhomogeneous Forward Dynamics for Discrete Diffusion",
-      "url": "https://arxiv.org/abs/2610.22380",
-      "summary": "arXiv:2610.22380v1 Announce Type: new Abstract: Continuous diffusion treats the forward process as a design space; discrete language diffusion often uses absorbing corruption, leaving context fully trusted throughout generation. This makes trust binary: corrupted context is copied as ground truth, propagating errors into generated spans. We reopen this design space by combining absorbing and uniform-mixing kernels with region-dependent rates. Missing positions follow absorbing dynamics, while context undergoes low-rate random substitution, exposing the model to observed but uncertain tokens during training. At inference, a heuristic sampler re-injects noise into suspicious context under an annealed intensity and freezes context updates late in the trajectory. An 8,000-step finetune of a pretrained 170M-parameter masked diffusion model takes under five hours on a 6 GB laptop GPU. The base model assigns roughly 50% probability to observed tokens even when they are uniform-random garbage. For uniform-random corruption, finetuning detects corrupted context with 0.96 recall and 0.91 precision, improves infill token-F1 by 3.8 points at 10% corruption and 6.4 points at 20%, and removes the accuracy dip next to corruptions. Clean conditioning shows no measurable regression, with a false-edit rate below 0.4%. Gains for plausible corruptions are weaker: about 0.5 F1 points at 10% corruption, without statistical significance. Our results suggest that detectability and damage depend jointly on departure from the data conditional: nearby noise is hard to detect and semantically mild, while distant noise is conspicuous and destructive. We interpret absorbing diffusion as the infinite-contrast limit of a trust axis, analogous to the signal-to-noise gap between known and unknown regions in diffusion inpainting. In our setting of a 170M model and a single text domain, intermediate trust is reached by changing forward dynamics rather than architecture.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv Machine Learning",
-      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 72,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "possible_concrete_development",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv Machine Learning"
-      ]
-    },
-    {
-      "title": "Lean4AgenticRL: Advancing Agentic RL with Verifiable Multi-level Process Rewards",
-      "url": "https://arxiv.org/abs/2610.22448",
-      "summary": "arXiv:2610.22448v1 Announce Type: new Abstract: Enhancing the agentic capabilities of Large Language Models (LLMs) to tackle complex software engineering (SWE) and general terminal-usage problems is a pressing challenge. Current state-of-the-art LLMs often go through large-scale agentic Reinforcement Learning (RL). However, they mostly rely on high-level outcome rewards, with minimal consideration of low-level toolcall and mid-level workflow-stage rewards, which makes the training less effective. To overcome this limitation, we propose **Lean4AgenticRL**, which, to the best of our knowledge, is the first framework that grounds multi-level process rewards in the unified Lean4 formalization schema for open-ended agentic RL. **Lean4AgenticRL** first builds a *problem-specific workflow* system that balances the agent's own capability and controllability during execution, laying the foundation for further verification. Subsequently, our workflow formalization and multi-level reward annotation methods enable agent behavior verification within a general harness system. It provides multi-level rewards to support more effective agentic RL with the workflow-stage-normalized GRPO algorithm. Using **Lean4AgenticRL**, we train **LAR-9B/27B**, a family of models with enhanced agentic capability. Extensive experiments indicate that our model outperforms the leading model of similar size. **LAR-27B** achieves **77.3%** on TerminalBench-2.1. On average, our models outperform the base model by **9.89%** and surpass the second-best model of comparable size we know by **5.07%**. These results indicate the potential of integrating formal methods in enhancing open-ended agentic RL.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv Machine Learning",
-      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 72,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "possible_concrete_development",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv Machine Learning"
-      ]
-    },
-    {
-      "title": "Predicting Privileged Information Effectiveness for On-Policy Self-Distillation",
-      "url": "https://arxiv.org/abs/2610.22512",
-      "summary": "arXiv:2610.22512v1 Announce Type: new Abstract: On-policy self-distillation (OPSD) enables large language models (LLMs) to learn from privileged information (PI) without a separate teacher model. However, prior work largely treats PI as a fixed design choice, leaving the effects of its content and construction poorly understood. This challenge is particularly important in multi-turn agentic settings, where trajectories contain actions, observations, and reasoning that can be transformed into PI in many ways. We systematically evaluate 16 PI configurations across three multi-turn agentic benchmarks and three student models that vary in scale and reasoning mode. We find that PI effectiveness depends on its content, generation source, and the student model. Information-dense trajectories and PI produced by more capable generators generally yield larger gains, whereas thinking models benefit less consistently. To assess PI before training, we compare PI utility with two KL-based metrics: sampled-token reverse KL ($D$) and error-step KL contrast ($\\Delta d^{-}_{\\mathrm{err}}$). The KL-based metrics track post-training performance more consistently than PI utility, which can be distorted by information leakage. Empirically, selecting each task's PI by $\\Delta d^{-}_{\\mathrm{err}}$ also improves post-training performance over random selection, most when the PI candidates differ widely. Finally, effective PI remains beneficial when combined with GRPO, allowing the combined objective to outperform a strong GRPO baseline. Overall, our results provide practical guidance for constructing and evaluating PI in OPSD training.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv Machine Learning",
-      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 72,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "possible_concrete_development",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv Machine Learning"
-      ]
-    },
-    {
-      "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2610.22408",
-      "summary": "arXiv:2610.22408v1 Announce Type: new Abstract: Long-horizon GUI agents rely on visual history to maintain task states, but retaining historical screenshots increases visual-token usage and inference costs, while textual summaries can discard critical state information, undermining long-horizon reliability. We propose ECHOES, which leverages training-time privileged information to guide textual history compression and strengthen long-horizon reasoning. Specifically, ECHOES adopts a Compression-Think-Action (CTA) format to recursively update a textual history state and reason. The same model, given privileged multi-image inputs, serves as a teacher that provides dense token-level on-policy distillation on student-generated CTA rollouts. Our Perception-Memory Fidelity (PMF) Gap-guided OPD-RL framework dynamically balances privileged distillation and task-reward optimization, with periodic teacher updates supporting continued improvement. We further introduce ECHOESBMK, a fine-grained diagnostic benchmark derived from real GUI agent failure trajectories to jointly evaluate visual perception and cross-modal state retention. Experiments on four GUI benchmarks and ECHOESBMK demonstrate substantial gains in task performance and memory fidelity. Without retaining historical screenshots at deployment, ECHOES achieves competitive performance with a favorable performance-inference-cost trade-off and exhibits positive zero-shot transfer to unseen visual planning tasks.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv AI",
-      "source_feed": "https://export.arxiv.org/rss/cs.AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv AI"
-      ]
-    },
-    {
-      "title": "Learnable Splines for Unstructured Neural Operators",
-      "url": "https://arxiv.org/abs/2610.22446",
-      "summary": "arXiv:2610.22446v1 Announce Type: new Abstract: Neural operators approximate solution operators of partial differential equations at a fraction of the cost of numerical solvers. Efficient grid-based architectures such as the Fourier neural operator (FNO) assume uniform rectangular grids, whereas engineering simulations use large, irregular, and locally refined meshes. We introduce L-SplineFNO, a memory-efficient neural operator that couples an FNO backbone with a sparse, learnable tensor-product B-spline transfer between unstructured meshes and a latent Cartesian grid. A local normalised scatter avoids the geometry-dependent solve of analytic spline transformation while preserving compact support, partition of unity, and spline smoothness by construction. The neural operator, conditioned on global design and operating parameters, learns the mapping of geometry to the field solution. Across six three-dimensional engineering benchmarks, L-SplineFNO achieves strong predictive accuracy while requiring substantially less memory and compute than baseline operators, scaling to 26.6 million nodes in training and 46 million in inference on a single A100 GPU. It also supports zero-shot super-resolution and efficient closed-form spatial derivatives. Uniquely, the analytic spline decoder yields rigorous prediction bounds over continuous space and uncertain parameters, via Bernstein convex hulls and Taylor models, demonstrated on a 29.2-million-node MAST-U tokamak model.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv AI",
-      "source_feed": "https://export.arxiv.org/rss/cs.AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv AI"
-      ]
-    },
-    {
-      "title": "FRACTAL: A Self-Similar Multi-Agent Orchestration Architecture with Formal Communication, Convergence, and Depth Bounds",
-      "url": "https://arxiv.org/abs/2610.22561",
-      "summary": "arXiv:2610.22561v1 Announce Type: new Abstract: We present FRACTAL, a self-similar multi-agent architecture for recursive goal decomposition, in which the same five-component organizational pattern -- Orchestrator, Ensemble, Knowledge Ledger, Decision Maker, Meta-Observer -- recurs at every level of a decomposition tree. We make four formal contributions: (1) a communication bound showing intra-node cost is linear in ensemble size and round count (O(kr)) under a two-phase blind-proposal/stress-test protocol, versus quadratic cost for free-form debate, with an explicit, stated assumption on fixed evaluator count; (2) a two-mode orchestration criterion separating generative and evaluative phases via a measurable diversity-saturation threshold; (3) a supermajority convergence guarantee with explicit probability bounds at stated agreement levels, and a formal depth bound under an operationalized goal-complexity measure; (4) a Bayesian inter-layer escalation mechanism unifying hysteresis and contract-breach signaling under one posterior update. We illustrate the architecture's execution qualitatively on a worked example and a multi-layer case study; we do not report quantitative performance claims in this paper, and we explicitly discuss the formal and inductive-bias limitations of the model, including an unimplemented but architecture-compatible direction toward bounded self-improvement. We use \"fractal\" as an architectural metaphor for self-similarity, not a measured mathematical property. Empirical validation of the architecture's comparative performance is left to future work.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv AI",
-      "source_feed": "https://export.arxiv.org/rss/cs.AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv AI"
-      ]
-    },
-    {
-      "title": "CGDT-CESN: Correlation-Guided and Dynamics-Trained Clustered Echo State Network for Multivariate Time-Series Prediction",
-      "url": "https://arxiv.org/abs/2610.22430",
-      "summary": "arXiv:2610.22430v1 Announce Type: new Abstract: Accurate prediction of multivariate time series requires models that simultaneously capture variable-specific dynamics and cross-variable interactions. In this work, a Correlation-Guided and Dynamics-Trained Clustered Echo State Network (CGDT-CESN) is proposed, which comprises a modular reservoir architecture with each cluster distinctly specializing in one of the variables in the multivariate time series. An innovative reservoir design is proposed in which inter-cluster connections are enabled by empirically observed correlations among variables, providing a data-driven coupling mechanism. Apart from conventional readout training, inter-cluster connection weights informed by correlations are trained, which in turn allows the reservoir to capture time-varying cross-variable dependencies without sacrificing computational efficiency and further improves forecasting accuracy. The prediction performance of CGDT-CESN is found to be superior to that of the conventional ESN when evaluated on two fundamentally different datasets: Twitter information cascade evolution and solar wind forecasting. Also, the improvement in performance is preserved across multiple prediction horizons, even when presented with a low volume of data. By unifying cluster-specific specialization with learned inter-variable coupling, CGDT-CESN offers a principled, data-driven route to multivariate time series prediction.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv Machine Learning",
-      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv Machine Learning"
-      ]
-    },
-    {
-      "title": "BOLT: Multi-Bottleneck Bound-Guided Learning for Flexible Job-Shop Scheduling with Time Lags and Resource-Coupled Transport",
-      "url": "https://arxiv.org/abs/2610.22433",
-      "summary": "arXiv:2610.22433v1 Announce Type: new Abstract: Flexible job-shop scheduling becomes resource-coupled when a scarce vehicle fleet moves jobs between stations, because the schedule sets the transport waits. BOLT (bound-oriented learning for transport-coupled scheduling) builds a lower bound from chain, machine-capacity, and fleet-capacity relaxations. The bound equals the makespan at termination, so its per-step changes form a reward that sums to a constant minus the makespan. Because it never exceeds the attainable makespan, each candidate's bound increase is a proven rise of the makespan floor, which the policy reads as a price. The root bound certifies a completed schedule's suboptimality gap without a solver. On industry-motivated 10-module prefabricated-construction instances, explicit transport coupling outperforms a transport-penalty policy in every tested cell where loaded moves occupy at least 66% of fleet time and in none at or below 56%. Across five zero-shot 50- and 80-module production batches, BOLT outperforms the best dispatching-rule pair on four and the penalty policy on the three with long moves. In the three-vehicle 80-module batch, its mean makespan is 13.0% below the best pair and 4.2% below an hour-budget constraint-programming solver whose proven gap averages 34%. BOLT decides in 2.3-5.9 ms per event on one processor core and re-plans a disruption in seconds.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv Machine Learning",
-      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv Machine Learning"
-      ]
-    },
-    {
-      "title": "Don't Retrain, Remix: Adaptation of Web Agents using Mixture Hypernetworks",
-      "url": "https://arxiv.org/abs/2610.22539",
-      "summary": "arXiv:2610.22539v1 Announce Type: new Abstract: The web is not static or uniform. Websites that serve the same purpose can look and navigate very differently. Even within a single site, successive redesigns can change how familiar features are presented and accessed. Humans adapt to this by recognizing familiar interaction patterns and reusing what they already know. We give web agents a similar ability with WebMix, a mixture hypernetwork that adapts them to unseen interfaces by composing previously trained low-rank adapters. WebMix begins with a bank of adapters trained on source interfaces. At deployment, a scout agent explores the target interface and summarizes its observations into a compact manual. A lightweight router uses this manual to predict mixing coefficients over the adapter bank, which combine the existing adapters into a new one for inference. Adapting to a new interface takes only a scouting run and a forward pass, without gradient updates on the target. With Qwen and Llama models, we evaluate domain transfer on TimeWarp and WebArena-Lite-v2, and version transfer on TimeWarp. In all three settings, WebMix matches or outperforms in-context learning and LoRA baselines, often matching the average success of specialists trained directly on those interfaces. On TimeWarp domain transfer, it gains about 8 percentage points on average over the best baseline with both models. These gains do not come at the cost of seen interfaces, where WebMix keeps its lead, and extend to version transfer. Adapting to a new interface can therefore rely on exploration and composition instead of retraining.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv Machine Learning",
-      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv Machine Learning"
-      ]
-    },
-    {
-      "title": "Structure-Aware Spatial Kernels for Gaussian Process Distributed Port-Hamiltonian Systems",
-      "url": "https://arxiv.org/abs/2610.22575",
-      "summary": "arXiv:2610.22575v1 Announce Type: new Abstract: Gaussian process distributed port-Hamiltonian systems (GP-dPHS) enable data-driven modeling of distributed dynamical systems while preserving their physical structure. However, standard stationary kernels can be inefficient for spatially heterogeneous systems because they neither exploit known input invariances nor reflect structured spatial dependencies. We address this limitation with a structure-aware kernel design that removes irrelevant state coordinates and decouples state and spatial dependencies through a tensor-product covariance. This modular construction allows qualitative knowledge of spatial heterogeneity to be incorporated by selecting an appropriate spatial kernel without requiring an analytical description of the underlying profile. Numerical experiments on a nonlinear string with periodic, smoothly varying, and semi-piecewise stiffness profiles demonstrate that structural decoupling consistently improves reconstruction accuracy, while profile-matched spatial kernels yield substantially larger gains in force-field and trajectory reconstruction.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv Machine Learning",
-      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv Machine Learning"
-      ]
-    },
-    {
-      "title": "From Events to Reasoning: Hierarchical Rule Composition over Explicit States",
-      "url": "https://arxiv.org/abs/2610.22403",
-      "summary": "arXiv:2610.22403v1 Announce Type: new Abstract: What a reasoning system emits is a conclusion; what it owes is a justification. Producing one requires every operation to be admissible on the facts actually available, the dependencies of intermediate results to survive to the end of the path, and the path to be revised when a premise changes. We present the Event Reasoning System (ERS), in which the reasoning state is an explicit event graph. Semantic features nominate candidate objects and rule bindings, and declared rule and task conditions decide which may execute, so candidates that violate the represented period, unit, or evidence constraints cannot enter an accepted reasoning path. Low-level rules provide reusable local transformations, and recursively composable high-level control rules organize subgoals and legal paths under the current goal, information gaps, and budget; a finite library is thereby rebound into paths never stored as complete solutions. We formalize admissible transitions, task-dependent control, compositional expressivity, dependency-preserving revision, and the gap between reachable solutions and those a budgeted controller finds. On structured-event graphs, ERS builds dependency chains of up to twelve steps, cuts irrelevant executed domain operations from 32 to 0 as lookahead grows to 16, and produces no unsupported target output across 24 negative cases; with rules frozen, it passes 12/12 focused checks comprising nine accepted derivations involving unseen input/path combinations and three justified refusals, as well as 6/6 fact-change cases. On fourteen jointly solved development tasks, the recorded dynamic subgoal configuration uses 51.6% less inference wall-clock time than single-level global control under their respective frozen settings.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv AI",
-      "source_feed": "https://export.arxiv.org/rss/cs.AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 52,
-      "triage_reasons": [
-        "possible_concrete_development",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv AI"
-      ]
-    },
-    {
-      "title": "Null Controls Are Necessary but Not Sufficient: Evaluating Acceptance Guards for Scientific Discovery and Interpretability",
-      "url": "https://arxiv.org/abs/2610.22445",
-      "summary": "arXiv:2610.22445v1 Announce Type: new Abstract: Automated discovery systems propose scientific explanations and test which to accept. Does passing a test establish the intended claim? We develop four executable operations for changing physical descriptions: identifying redundancies (L1), coarse-graining dynamics (L2), transferring structure (L3), and inferring missing quantities from conservation imbalances (L4). We evaluate these operations and three interpretability settings through null acceptance (NAR), positive acceptance (PAR), and consequence agreement (CAR). A reduction mapping every state to zero predicts its own future perfectly. It passes closure on 96% of 129 public chaotic systems despite retaining no dynamical variation. An independent observable-preservation test rejects it throughout. On controlled benchmarks, the combined criteria accept 24/24 genuine reductions and reject 72/72 nulls. The other operations distinguish symmetries from redundancies, validate transfers, and reject spurious conservation imbalances. In language and ESM-2 protein models, linear CKA remains unchanged when a proposed correspondence is randomly rotated, whereas localized interventions distinguish genuine mappings from tested nulls. In sparse autoencoders, enrichment rejects all 16 tested nulls, yet independent ablation supports 45% of evaluable enriched features, compared with 0.5% of matched controls. These results reveal two acceptance gaps: descriptive tests can accept scientifically empty candidates, and accepted candidates can lack independently verified consequences. Reliable automated discovery requires evaluating both what a test accepts and the scientific consequences it establishes. Code and data: https://real-project-aether.github.io/project-aether/.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv AI",
-      "source_feed": "https://export.arxiv.org/rss/cs.AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 52,
-      "triage_reasons": [
-        "possible_concrete_development",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv AI"
-      ]
-    },
-    {
-      "title": "Author-in-the-loop Agentic Reproducibility Auditing for a Machine Learning Conference",
-      "url": "https://arxiv.org/abs/2610.22465",
-      "summary": "arXiv:2610.22465v1 Announce Type: new Abstract: Reproducibility checks during peer review require a shared understanding of what authors' code is expected to reproduce. We present an author-in-the-loop collaborative audit that makes author declarations explicit inputs to an AI agent's investigation and assessment. A structured checklist records reproduction instructions and limitations; a two-stage workflow on GitHub connects agent checks to author clarification, revision, and agent reassessment. The agent separately assesses whether results have been reproduced and whether authors need to provide clarification or make repairs, while human reviewers approve requests and decide whether concerns are resolved. We deployed the system across 36 conference papers and 133 experimental tables and figures, raising 20 issues after human review. Further checks supported closing all the issues, although full reproduction remained unverified in some cases. We further compared repeated audits with complete and blank checklists to examine how author declarations shaped the agent's investigation and assessment. Our work contributes a collaborative workflow and agent design that use author knowledge to guide reproducibility auditing. The conference deployment provides empirical evidence that this approach can help identify and address reproducibility problems through collaboration among authors, agents, and reviewers.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv AI",
-      "source_feed": "https://export.arxiv.org/rss/cs.AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 52,
-      "triage_reasons": [
-        "possible_concrete_development",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv AI"
-      ]
-    },
-    {
-      "title": "Generative adversarial networks with Monte Carlo dropout uncertainty quantification for structural health monitoring: Fibre Bragg grating data augmentation comparison in Hawk T1A aircraft",
-      "url": "https://arxiv.org/abs/2610.22436",
-      "summary": "arXiv:2610.22436v1 Announce Type: new Abstract: The signal generation capabilities of a novel data augmentation framework are examined in aerospace structures. First, the framework learns class-conditional temporal and spectral characteristics of the measured structural responses. It uses conditional generative adversarial network training and Monte Carlo dropout uncertainty quantification as a Bayesian approximation. This step enables stochastic signal synthesis and uncertainty quantification. Second, the generated responses are rigorously compared against experimental measurements across time, frequency, uncertainty, variability, and feature domains to assess physical realism, statistical consistency, and distributional fidelity. Finally, the synthetic data are evaluated to determine whether they should be incorporated into a supervised damage classification workflow. The framework is validated on the full-scale benchmark dataset from a BAE Systems Hawk T1A aircraft tested at the University of Sheffield's Structural Dynamics Laboratory for Verification and Validation. The test involves acceleration, fibre Bragg grating strain, and nonlinear dynamic response measurements. The results demonstrate that the model accurately captures dominant structural dynamics, it guides on signal use for classification improvement based on uncertainty characteristics, and it provides meaningful uncertainty estimates linked to signal complexity and excitation characteristics. Importantly, the framework offers a realistic generative modelling plan as a robust digital twin component for data-driven structural health monitoring, supporting resilient decision-making for condition assessment in safety-critical aerospace systems.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv Machine Learning",
-      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 52,
-      "triage_reasons": [
-        "possible_concrete_development",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv Machine Learning"
-      ]
-    },
-    {
-      "title": "CF-NODE: Counterfactual Spatial Node Intervention for Test-Time Adaptation Under Domain Shift, Evaluated Across Five Diabetic Retinopathy Datasets",
-      "url": "https://arxiv.org/abs/2610.22437",
-      "summary": "arXiv:2610.22437v1 Announce Type: new Abstract: Automated fundus-based diabetic retinopathy (DR) grading can substantially expand screening capacity, but source-trained models degrade sharply across different cameras, clinics, and patient populations. Existing test-time adaptation methods depend on entropy minimization or target information accumulated from image batches and streams. These mechanisms can reinforce confidently incorrect predictions and break down when clinical images arrive independently. We introduce CF-NODE, a novel counterfactual test-time adaptation framework for cross- domain DR grading. Instead of trusting prediction confidence or estimating a target distribution, CF-NODE asks how each prediction responds under a controlled intervention on the evidence supporting it. CF-NODE ranks internal spatial nodes using model-derived attention, feature magnitude, and node-set similarity, progressively attenuates the highest-ranked nodes, and uses the stability of the resulting expected-grade response to apply a bounded calibration of the predicted grade distribution. The framework is fully frozen and adapts every image independently using only geometric views and a fixed source-derived prior, requiring no target-derived information or model updates. We evaluate CF-NODE on five external DR datasets under repeated-seed evaluation against TENT, EATA, SAR, and T3A. CF-NODE outperforms all four methods with statistically significant improvements over the second-best method, improves AUC on every target domain, and attains the highest average AUC and macro-F1, delivering stronger grade discrimination together with more balanced recognition across DR severity levels. These results demonstrate that counterfactual intervention sensitivity provides consistent and deployment-ready domain robustness for single-image clinical inference.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv Machine Learning",
-      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 52,
-      "triage_reasons": [
-        "possible_concrete_development",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv Machine Learning"
-      ]
-    },
-    {
-      "title": "Sparse Autoencoders Can Induce Local Geometry for Mitigating Catastrophic Forgetting",
-      "url": "https://arxiv.org/abs/2610.22439",
-      "summary": "arXiv:2610.22439v1 Announce Type: new Abstract: Catastrophic forgetting remains a challenge in supervised continual learning, as adapting to new tasks causes representation drift and loss of previously learned information. This raises the question of which representational changes should be constrained while preserving plasticity. We therefore introduce Sparse Autoencoder Geometric Anchoring (SAGA), which converts a Sparse Autoencoder (SAE) trained at each task boundary into local, low-rank constraints on representation drift. Replay examples specify where the constraints apply, while leading right singular directions of the encoder Jacobian specify which changes are penalized. The resulting geometry is input dependent and can be retained without keeping the SAE for subsequent tasks' training. We establish its local relation to latent code matching, define its spectral truncation error, and derive a conditional bound on frozen-readout drift. With replay and snapshot history, the method achieves the highest mean Class-IL accuracy and lowest mean forgetting among the evaluated ER, DER++, ER-ACE, and SGD baselines on three pretrained ViT-B/16 benchmarks, with accuracy gains of 12.15, 4.79, and 3.22 percentage points over the strongest conventional baseline on CIFAR-100, CUB-200, and ImageNet-R, respectively. From scratch results are more mixed, while rank ablations and geometry controls show that SAE-induced low-rank geometry offers useful stability-plasticity trade-offs.",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv Machine Learning",
-      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 52,
-      "triage_reasons": [
-        "possible_concrete_development",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv Machine Learning"
-      ]
-    },
-    {
-      "title": "On the SPOT: Enhancing Speculative Decoding for Diffusion Language Models via Commit-Order Prediction",
-      "url": "https://arxiv.org/abs/2610.22543",
-      "summary": "arXiv:2610.22543v1 Announce Type: new Abstract: Diffusion language models (DLMs) promise parallel text generation, but in practice face an unresolved speed-quality trade-off. Exact decoding fills in only one masked position per model pass, while faster multi-token decoding schemes are lossy. Speculative decoding is the standard lossless acceleration for autoregressive models. However, it does not transfer directly to DLMs, which must choose both what to generate and where. We show that this order is the missing piece: the model's own predictions from the previous pass already give the right token at 92-100% of positions, but not which position comes next. Based on this observation, we introduce Speculating Positions Order Trajectory (SPOT), which learns to predict this order. A 0.62M-parameter model reads only the target's output distributions and proposes a tree of candidate continuations, and the target verifies all of them in a single pass by checking whether each equals its own next state. On the verification side, our analysis shows that prior block-diffusion verification approaches either assume $T=0$ or a sequential proposal interface. To support tree-based speculation at any temperature, we propose using coupled-noise match verification for diffusion blocks, following shared-Gumbel-noise coupling approaches. Our comprehensive experiments show that SPOT cuts target passes by up to 6.8x and reaches up to 3.2x the throughput of standard decoding, beating the calibrated and training-free drafting baselines in every task and budget at $T=0$ and $T=1$. In addition, we show that the learned drafter transfers across models, demonstrating successful transfer across six different DLMs. Project page: https://eliezer318.github.io/SPOT-dLLM/",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "source": "arXiv Machine Learning",
-      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 52,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "uncertainty_language",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv Machine Learning"
       ]
     },
     {
@@ -2772,7 +2787,7 @@
     {
       "title": "Nottingham Forest 0-1 Arsenal: Noni Madueke scores as Gunners win tight Premier League game - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0bXAxcG5YRWEwZndtNE5HenlpRHJvMWI0TmoxaWpJUjBoU2ttTGQ0SFNuOUExNmZhOGdsS1R5NmNjU3JjdWR0VEl3TTJBSXB0T0M0T0NsLXVjcWRsTEo3OUtKTG5ndw?oc=5",
-      "summary": "Nottingham Forest 0-1 Arsenal: Noni Madueke scores as Gunners win tight Premier League game BBC Nottingham Forest 0-1 Arsenal: Premier League – as it happened The Guardian Arsenal Analysed: Five factors for our Forest victory Arsenal.com",
+      "summary": "Nottingham Forest 0-1 Arsenal: Noni Madueke scores as Gunners win tight Premier League game BBC Nottingham Forest 0-1 Arsenal: Premier League – as it happened The Guardian Nottingham Forest vs Arsenal LIVE: Latest score and updates from Premier League London Evening Standard",
       "published_at": "2026-10-18T18:02:55+00:00",
       "source": "Google News Arsenal",
       "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
@@ -2786,26 +2801,7 @@
       ],
       "quality_flags": [],
       "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
-      "title": "Premier League predictions & Jones Knows' best bets: Tottenham vs Coventry on Monday Night Football - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU0ZRYjF6Y2psc3k4MWpVQUtpd2hBcXlyM0RkOV9sbXlpZWFqSGh5MmZoWG9yU0pwdHlHRmRQUGU2X3JOY1lfa1RoeHpLalNOYkNaZGc1aXEtS1k0Y2hZczQ3QVY3ZXhsYkFacmtmaTBaZTFTbC1SOEN4TnJkRXh5dDBZa1JhZkxobVpPQ0dhOWVvZFl3Y1N4NmRGenNKaHBiN3FwRE1ZYlF4NGtIdU1hUl9QRmloSWlLRFNfb21SQno2aDA3ZTVzXzdBNjFMT19sbTdF?oc=5",
-      "summary": "Premier League predictions & Jones Knows' best bets: Tottenham vs Coventry on Monday Night Football Sky Sports",
-      "published_at": "2026-10-18T17:04:49+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
-      "triage_reasons": [
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
+        "Google News Arsenal",
         "Google News Premier League"
       ]
     },
@@ -2851,32 +2847,6 @@
       ]
     },
     {
-      "title": "Hideout, Smuggling, Performance & Anti-Cheat | Gray Zone Warfare: Rogue Ops Devlog [3/3] - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56MGM4WFpya1lLUVE3RWdMNjBXTUs4eERQZ0QyMHpYRmU1Wjg4UzZNTE9zeWVVVXdtQTVCVXZ4N205eFRWVDg5S1NmU1U1N2tIc2dHY0dB?oc=5",
-      "summary": "Hideout, Smuggling, Performance & Anti-Cheat | Gray Zone Warfare: Rogue Ops Devlog [3/3] YouTube",
-      "published_at": "2026-10-18T15:00:10+00:00",
-      "source": "Google News YouTube Videos & Creators",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ayoutube.com%2Fwatch+creator+OR+video+essay+OR+explainer&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 49,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_72_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "no_public_engagement_metrics",
-        "short_summary",
-        "viral_metrics_missing"
-      ],
-      "sources_seen": [
-        "Google News YouTube Videos & Creators"
-      ]
-    },
-    {
       "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
       "url": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
       "summary": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
@@ -2914,6 +2884,26 @@
       "quality_flags": [],
       "sources_seen": [
         "BBC Business"
+      ]
+    },
+    {
+      "title": "Global economy resilient but 'no room for complacency', IMF committee head says amid Russia tensions - The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3RWdEJHRTRiajJYdnU5a0tuc2VCNmVhTlhrRU5lNVZSUG4wczhzOFV0X3A4YTNLWFBvY1lucGVwdVhpTWFHSkt5Y3h2ZDVXVHFVUkpxNWF4dEhpS3Fnb01KakZMakRYMXlXMk9taGV1QU1PUkQ1UG91QkZ4NGhMb01MQmZvWUJnd25TNmZwWDFNaEZVUW8td1hxVFdfSUVIbExoMXNPZHFPdXRHQ0JZUVB4TWlKdGJRaW5uS3YxWFN0RlM3NXAwZm05UnloNjk0THc?oc=5",
+      "summary": "Global economy resilient but 'no room for complacency', IMF committee head says amid Russia tensions The Business Times",
+      "published_at": "2026-10-18T02:39:00+00:00",
+      "source": "Google News World Economy",
+      "source_feed": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 37,
+      "triage_reasons": [
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News World Economy"
       ]
     },
     {
@@ -3234,8 +3224,8 @@
         "older_than_7_days"
       ],
       "quality_flags": [
-        "older_than_30_days",
-        "older_than_7_days"
+        "older_than_7_days",
+        "older_than_30_days"
       ],
       "sources_seen": [
         "Google News Best Books & Nonfiction"
@@ -3244,12 +3234,12 @@
   ],
   "category_counts": {
     "trends": 20,
-    "world": 34,
     "ai": 40,
-    "creator": 13,
-    "football": 39,
+    "world": 35,
+    "creator": 12,
+    "football": 38,
     "water": 1,
-    "books": 3
+    "books": 4
   },
   "source_errors": [
     {
@@ -3266,8 +3256,8 @@
       "source": "arXiv AI",
       "feed_url": "https://export.arxiv.org/rss/cs.AI",
       "status": "ok",
-      "items_collected": 20,
-      "items_selected_primary": 10
+      "items_collected": 0,
+      "items_selected_primary": 0
     },
     {
       "source": "OpenAI News",
@@ -3295,14 +3285,14 @@
       "feed_url": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 10
+      "items_selected_primary": 11
     },
     {
       "source": "Google News Premier League",
       "feed_url": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 9
+      "items_selected_primary": 7
     },
     {
       "source": "BBC World",
@@ -3323,7 +3313,7 @@
       "feed_url": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 5
+      "items_selected_primary": 6
     },
     {
       "source": "Google News AI Applications",
@@ -3372,7 +3362,7 @@
       "feed_url": "https://rss.arxiv.org/rss/cs.LG",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 12
+      "items_selected_primary": 20
     },
     {
       "source": "TechCrunch AI",
@@ -3386,7 +3376,7 @@
       "feed_url": "https://hnrss.org/newest?q=AI",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 5
+      "items_selected_primary": 7
     },
     {
       "source": "Anthropic News (community RSS mirror)",
@@ -3428,7 +3418,7 @@
       "feed_url": "https://news.google.com/rss/search?q=Booker+Prize+OR+Pulitzer+Prize+OR+National+Book+Award+shortlist+winner&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 2
+      "items_selected_primary": 3
     },
     {
       "source": "Google News Best Books & Nonfiction",
@@ -3493,7 +3483,7 @@
       "feed_url": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 9
+      "items_selected_primary": 8
     },
     {
       "source": "Google News TikTok & Short-form Video",
@@ -3513,8 +3503,8 @@
   "sources_attempted": 35,
   "sources_succeeded": 33,
   "deduplication": {
-    "raw_items": 610,
-    "unique_titles": 606,
+    "raw_items": 590,
+    "unique_titles": 586,
     "duplicates_removed": 4
   },
   "note": "Free RSS collection, including Google Trends RSS as an independent discovery channel and search-indexed feeds for books/creators. Google Trends is a discovery signal, not proof of importance or causality. NEWS is a neutral label, not an importance claim. triage_score is a transparent heuristic, not verified importance. Feed content has not been independently verified. quality_flags identify missing or potentially stale data."

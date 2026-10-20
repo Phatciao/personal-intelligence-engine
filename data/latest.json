@@ -1,9 +1,81 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T09:47:53.085941+00:00",
+  "generated_at": "2026-10-20T09:54:33.389516+00:00",
   "status": "ok",
   "items_count": 150,
   "items": [
+    {
+      "title": "spacex launch today",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-20T09:40:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "fitness",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-20T09:40:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "launch today",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-20T09:40:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
     {
       "title": "AI slop is a human problem",
       "url": "https://nishanth.blog/posts/ai-slop-is-a-human-problem/",
@@ -112,26 +184,6 @@
       ]
     },
     {
-      "title": "Transfer news LIVE: Kvaratskhelia to Arsenal; Chelsea beat Man Utd to signing; Liverpool latest - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZHpOci01ajd0bmFsejIzWUxEUnJreXk4aXRBS1UwLTh0R01OdFJxMV9XWU5RNGVpMEpnSkh2M04wWjIycGtRX2tuX0VGZ1N0SXJSTXlDajFSOW42eWFHWFlabG5XMEF0RmZhdjFtZ3p2VXd5Wm12M2lqOTBkdThFUE9qY1k5Z0hsUkREbm5iOGw0ZnNFRW9Ba3gzbWpqZzVKcUFueUMybWtISmhvX0RQSl9xa1RFNXpUXzJDUFBHenJ2M2M?oc=5",
-      "summary": "Transfer news LIVE: Kvaratskhelia to Arsenal; Chelsea beat Man Utd to signing; Liverpool latest London Evening Standard",
-      "published_at": "2026-10-20T09:27:45+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
       "title": "Everygen AI – AI Video, Image, Shorts and Ads Studio",
       "url": "https://www.everygens.com/",
       "summary": "Article URL: https://www.everygens.com/ Comments URL: https://news.ycombinator.com/item?id=50163425 Points: 1 # Comments: 0",
@@ -168,8 +220,8 @@
         "summary_insufficient"
       ],
       "quality_flags": [
-        "short_summary",
         "likely_platform_noise",
+        "short_summary",
         "viral_metrics_missing",
         "no_public_engagement_metrics"
       ],
@@ -359,7 +411,7 @@
     },
     {
       "title": "Sunderland news: Can Black Cats balance Europe with Premier League? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yYXNIeFFvTGxVZW5yLS1rRngxWWlKd09xWkRNV081ZXlveV9XdXg4ME9IUzJ1SmtzcG5LS3RNTlB1Q3VXM3Vadi1RVFRTaERvdTVjSml0YkhURnBjS0czV2t1TXYtYjVB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VTldUZDRzM0VEbmFfZVJMVWczUGVKYXlpTE9Xc1pLY29oWlI0LXBkY0pkZENzNl9PUE5zYS1oTTlNXzlOcFlYTk1tYy1zQ05qV3ZzMzBIWV82cVNlQnJHeUJJY3ZrV0c3NDJR?oc=5",
       "summary": "Sunderland news: Can Black Cats balance Europe with Premier League? BBC",
       "published_at": "2026-10-20T09:00:52+00:00",
       "source": "Google News Premier League",
@@ -445,6 +497,26 @@
       "quality_flags": [],
       "sources_seen": [
         "BBC World"
+      ]
+    },
+    {
+      "title": "Premier League predictions & Jones Knows' best bets: Tottenham vs Coventry on Monday Night Football - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU0ZRYjF6Y2psc3k4MWpVQUtpd2hBcXlyM0RkOV9sbXlpZWFqSGh5MmZoWG9yU0pwdHlHRmRQUGU2X3JOY1lfa1RoeHpLalNOYkNaZGc1aXEtS1k0Y2hZczQ3QVY3ZXhsYkFacmtmaTBaZTFTbC1SOEN4TnJkRXh5dDBZa1JhZkxobVpPQ0dhOWVvZFl3Y1N4NmRGenNKaHBiN3FwRE1ZYlF4NGtIdU1hUl9QRmloSWlLRFNfb21SQno2aDA3ZTVzXzdBNjFMT19sbTdF?oc=5",
+      "summary": "Premier League predictions & Jones Knows' best bets: Tottenham vs Coventry on Monday Night Football Sky Sports",
+      "published_at": "2026-10-20T08:56:53+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
       ]
     },
     {
@@ -535,6 +607,26 @@
       ]
     },
     {
+      "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday.",
+      "published_at": "2026-10-20T08:46:00+00:00",
+      "source": "BBC Business",
+      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Business"
+      ]
+    },
+    {
       "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
       "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
       "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
@@ -556,30 +648,6 @@
     },
     {
       "title": "daycare",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T08:40:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "revolut",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "summary": "",
       "published_at": "2026-10-20T08:40:00+00:00",
@@ -733,54 +801,6 @@
       ]
     },
     {
-      "title": "tesla cybertruck",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T08:20:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "southwest airlines new international routes",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T08:20:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
       "title": "Sources: Arsenal expected to demand more than €100m for player with “big personality” - CaughtOffside",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ1J6LUdqbV9xbFVSZVl0SHAyWTlod3oyakU0ZURqSGoweDlXWHVJXzBONEFnSUl5LUVYWThQWjdseWdNUUdpT3RWLS0wQjY4bW5MQl84MnNtSUdfeWdnRm0weVc5ZExuaThjQVpqWjFtX3JMS2szWDZWVzh3V0gydVpzSW9PbF84Q1VOVmFMLXptYWJ6elpfSmZoVzR4UkpPQmNj0gGoAUFVX3lxTE02ZWs5WlhBZjd5ZUgwUnViOVN5ZlZ4TnR5UWhKV21iYkZTS1FGRkM5V1pkY3kwTmpwa2tfazNkcDY2TGt2YjhjVm52UTJyaG1Yd2dvcEpsZmQtWHJ0aURQRTVxV2gtcHoyRUI0RkItNlV4XzRjMGtTdFB5Qnd0Tng4bFFRYzlmZ0RfWXF3SmhpdFlMZVR5YjRNRXJsek52X2xHNFB2U2swMQ?oc=5",
       "summary": "Sources: Arsenal expected to demand more than €100m for player with “big personality” CaughtOffside",
@@ -825,6 +845,29 @@
       ],
       "sources_seen": [
         "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "Why Arsenal summer signing cannot face Bayern Munich as rule explained - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZktQMWlEZ05pVWNpV09ObWpXVUZycGdzNEtkekRfVV82MGE5Q3N2ZGVSZUxQbmE1NXduaVZ0LWFrM0ZaWnpQZFVRZG1KTW5oeVhXUGNCS2NKZDNZSWJEeEZaMXpuT1p2aTZ6UHdkeEk5cjRHTVBwQ0pJcFdCRVhBMkh6clgzXzYyZ08xUkdJeUNZRjBDQjlVLW91eVJqTFhCdHJzeUV5OFhlUHdsSzhHVA?oc=5",
+      "summary": "Why Arsenal summer signing cannot face Bayern Munich as rule explained London Evening Standard",
+      "published_at": "2026-10-20T08:05:39+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Arsenal"
       ]
     },
     {
@@ -1047,6 +1090,29 @@
       ]
     },
     {
+      "title": "Scottish gossip: Moyes insider doubts potential Celtic move - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wZW10ODN1eDEyRFhMN2lvVUw0TURjVjBPNk1BUjUzMFBiQnNpUEpuZ3NnbUZ5Ukl0RmwzSi1rekNFcS1TUjFMWDZLTDlWZkE5dWNGWHJYNkhsN0ViM2ZhaVVjUk1odGdH?oc=5",
+      "summary": "Scottish gossip: Moyes insider doubts potential Celtic move BBC",
+      "published_at": "2026-10-20T06:52:44+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
       "title": "cổ tức",
       "url": "https://trends.google.com/trending/rss?geo=VN",
       "summary": "",
@@ -1068,6 +1134,26 @@
       ],
       "sources_seen": [
         "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "Transfer news LIVE: Kvaratskhelia to Arsenal; Chelsea beat Man Utd to signing; Liverpool latest - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZHpOci01ajd0bmFsejIzWUxEUnJreXk4aXRBS1UwLTh0R01OdFJxMV9XWU5RNGVpMEpnSkh2M04wWjIycGtRX2tuX0VGZ1N0SXJSTXlDajFSOW42eWFHWFlabG5XMEF0RmZhdjFtZ3p2VXd5Wm12M2lqOTBkdThFUE9qY1k5Z0hsUkREbm5iOGw0ZnNFRW9Ba3gzbWpqZzVKcUFueUMybWtISmhvX0RQSl9xa1RFNXpUXzJDUFBHenJ2M2M?oc=5",
+      "summary": "Transfer news LIVE: Kvaratskhelia to Arsenal; Chelsea beat Man Utd to signing; Liverpool latest London Evening Standard",
+      "published_at": "2026-10-20T06:24:33+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Arsenal"
       ]
     },
     {
@@ -1648,32 +1734,10 @@
       ]
     },
     {
-      "title": "Ben 10 co creator Duncan Rouleau will be both writer and ARTIST on a Vilgax focused Ben 10 #9, out this February! - X",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1Xy1rWjc4dzYxN1NNbXBhd3ZRal9sYnpjeldiUzJaczZUNEJvSG5UM1FPaFVncGNPaDZIX3JYY0JGWGJ3MUpDNjFkN2NLNjdpMXpzX3AzZFNmaG5PSEJQVg?oc=5",
-      "summary": "Ben 10 co creator Duncan Rouleau will be both writer and ARTIST on a Vilgax focused Ben 10 #9, out this February! X",
-      "published_at": "2026-10-19T23:21:56+00:00",
-      "source": "Google News X Threads & Creator Discussions",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [
-        "no_public_engagement_metrics"
-      ],
-      "sources_seen": [
-        "Google News X Threads & Creator Discussions"
-      ]
-    },
-    {
       "title": "Tottenham 3-1 Coventry: Spurs earn first Premier League win of season - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpbFFLemx1TUJzaFBzdUV6VDRjcE1RY1N5QklmV1FxVG0xaFlSS2FWVDl6YjJFMVJxdmEzX3dqci1xWW5kMHhaQTFtR1A5Zkk0bTBVRTQ0VWNEYU9TT2ZrYjNKTlJUZw?oc=5",
       "summary": "Tottenham 3-1 Coventry: Spurs earn first Premier League win of season BBC Tottenham beat Coventry to claim first Premier League win of season – as it happened The Guardian James Maddison marks first Tottenham start in nearly 18 months with stunning goal in first Premier League win of season Sky Sports",
-      "published_at": "2026-10-19T23:06:26+00:00",
+      "published_at": "2026-10-19T22:43:09+00:00",
       "source": "Google News Premier League",
       "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
       "category": "football",
@@ -1832,6 +1896,26 @@
       "quality_flags": [],
       "sources_seen": [
         "BBC World"
+      ]
+    },
+    {
+      "title": "Arsenal, all the broadcast information at a glance: who is showing or streaming the Gunners’ matches live on TV and online? - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMlpKM21OdWhzcW1LSVBBSzZ2UWwwQk0td3VMN09hU0V0VnhuLVhTZU9BLVU5MHg1YlRPQk50ZWhWaDl2OUZfWkZvVS03MkZqT28xVXdIMkE1MmFnT3BUWk5iaEtoWE1vaUMtbkI5ZjQwbWlDOGNQNno3VjNpbHdXd0FzOFFhelJVc2syOWZVSWpMNkVuazV1aFNkOEFFZHl1cW1OQXZEanMtZ2hJVzJSU1NVdDdhLUtKR0ZVc00tdjhnLWtjYkJWWFRVTV9LMXl5NXJfSTkxcUN5NGt3X3AycnpQeXhPc05pU3ZGLWhvR0wtM3FsaUlxbUx1WjM4NWtE?oc=5",
+      "summary": "Arsenal, all the broadcast information at a glance: who is showing or streaming the Gunners’ matches live on TV and online? Goal.com",
+      "published_at": "2026-10-19T20:43:14+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Arsenal"
       ]
     },
     {
@@ -2369,26 +2453,6 @@
       ]
     },
     {
-      "title": "Mikel Arteta's 'important' Arsenal tactic pays dividends in the Premier League title race - Football London",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0hORlA5ZUROODdkeW9Ea3BTNm5iU2RrcHR6SkpWeUNlcGJINy11N2JwNmpxd1Vaal9RWFNqdGljN21hdGh1VGQ5Y0VWTVRwQ0xEU0dBa1k1SXdHSUdpUzdTcmhmcDczYTRYS0RNbUVQUUYzZU5lVWt6YzR5eW1SVFRuVW1qenJyakdoMzF2Vm9YRFhuS0HSAZsBQVVfeXFMUDF4Q3pJX2c2STktQzlMZDJueDRFQmFQbFVHVjRrREs0VGhjdDBaRk4wWkFLZjE2REdCQjhhY2FST3NXRGRJQjQ5MUNGOEpWZmVMWWZmRVp3QUZQNHRPQ3Y2VXpCS1lRUjJHWk83M0NnSGVkdzJXNkRqOTNWZVZjXzB0a1dGcG4wbVhVNHJUNHVsaWx4TUQwNDV2WUE?oc=5",
-      "summary": "Mikel Arteta's 'important' Arsenal tactic pays dividends in the Premier League title race Football London",
-      "published_at": "2026-10-19T13:25:24+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
       "title": "'Cyberpunk: Edgerunners' Creator says Season 1 had a happy ending in his perspective because \"it could've ended so much worse for David\" - X",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhT0VhWUtKcHh0ZXJUZG1BekZIUEdMcDVXSHE5RE02MzFqRnpZc05qXzFNaUMtMHM4bkt1cFJxckdTOTFydWFhY251S1YwajV0NnFCcFFTMHVjZF9zNXAyVg?oc=5",
       "summary": "'Cyberpunk: Edgerunners' Creator says Season 1 had a happy ending in his perspective because \"it could've ended so much worse for David\" X",
@@ -2564,10 +2628,10 @@
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 52,
+      "triage_score": 47,
       "triage_reasons": [
         "possible_concrete_development",
-        "published_within_24_hours"
+        "published_within_72_hours"
       ],
       "quality_flags": [],
       "sources_seen": [
@@ -2765,29 +2829,9 @@
       ]
     },
     {
-      "title": "Arsenal star told what he must do to earn Arteta trust after poor performance - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaXZxc2JNMHYtU3NTbTFyRU9TUnRSZDZRSm9EandIRVhETVdHOHV1N2xneXRUNXZPZUFIR1F4ZkNBTTNoVkY0dnNUNFhZbXRFTWlTd05ZRlRfdFhkZERJbDlHNHN3Mm8zbWQ2b2o4UjBZY0xPY1NBTS1WcFU5UnRDMWt5YlNmclc3SGFwbA?oc=5",
-      "summary": "Arsenal star told what he must do to earn Arteta trust after poor performance London Evening Standard",
-      "published_at": "2026-10-18T18:17:19+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
-      "triage_reasons": [
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
       "title": "Nottingham Forest 0-1 Arsenal: Noni Madueke scores as Gunners win tight Premier League game - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0bXAxcG5YRWEwZndtNE5HenlpRHJvMWI0TmoxaWpJUjBoU2ttTGQ0SFNuOUExNmZhOGdsS1R5NmNjU3JjdWR0VEl3TTJBSXB0T0M0T0NsLXVjcWRsTEo3OUtKTG5ndw?oc=5",
-      "summary": "Nottingham Forest 0-1 Arsenal: Noni Madueke scores as Gunners win tight Premier League game BBC Every word from Arteta's post-Forest presser Arsenal.com Full match | Nottingham Forest v Arsenal Arsenal.com",
+      "summary": "Nottingham Forest 0-1 Arsenal: Noni Madueke scores as Gunners win tight Premier League game BBC Gallery: 48 snaps from our Forest victory Arsenal.com Full match | Nottingham Forest v Arsenal Arsenal.com",
       "published_at": "2026-10-18T18:02:55+00:00",
       "source": "Google News Arsenal",
       "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
@@ -2866,33 +2910,6 @@
       ]
     },
     {
-      "title": "Maybe next year? 🫣#contentcreatorawards #zayaanvids #zayaan - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YLUV3TFZsNVRHV2tsY1NiOXNSeGFrOTlvNWdDTXQwVENxSnhRNlR4dzktWm1CSURIYjNhbVFuaHBnVVBRT2V1RjdXRkdsT3h1cGstRGVWMlZhNmN4WVpibjA1dy1Kbjlv?oc=5",
-      "summary": "Maybe next year? 🫣#contentcreatorawards #zayaanvids #zayaan TikTok",
-      "published_at": "2026-10-17T22:41:54+00:00",
-      "source": "Google News TikTok & Short-form Video",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 49,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_72_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary",
-        "likely_platform_noise",
-        "viral_metrics_missing",
-        "no_public_engagement_metrics"
-      ],
-      "sources_seen": [
-        "Google News TikTok & Short-form Video"
-      ]
-    },
-    {
       "title": "Meta removes language that raised scraping and AI training concerns",
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
       "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
@@ -2911,26 +2928,6 @@
       "quality_flags": [],
       "sources_seen": [
         "TechCrunch AI"
-      ]
-    },
-    {
-      "title": "Europe is a blast – but more a curse than a blessing if you are not a Premier League super-club I Jonathan Wilson - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYV9EZnpIbGVFQWNaUGZqWkpVaFd3ZmRtZGhHam1USFlSYi1pWUdiN1JaN0MySGp6MnhSOXpaWTlqaWY3anZtZnR6Wk9FS3N5SFZFLXR4UTdHR0tRYUxuMGtUWHZPRGhpUkk4STctMk9KV0JmeG9NcnNvS3Q5NUhRWF84b2lfNjEyVFV6eGdPMXZLeXMwWlh1ZVJYZG1YbnZDR1hXY0ZpaFNUSHRwRzZaMnY4MFo1MDg4cFJoVkdEVy1qN0JNTEE?oc=5",
-      "summary": "Europe is a blast – but more a curse than a blessing if you are not a Premier League super-club I Jonathan Wilson The Guardian",
-      "published_at": "2026-10-17T19:02:00+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
-      "triage_reasons": [
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
       ]
     },
     {
@@ -3219,11 +3216,11 @@
     }
   ],
   "category_counts": {
-    "ai": 40,
-    "world": 37,
     "trends": 19,
-    "football": 39,
-    "creator": 12,
+    "ai": 40,
+    "world": 38,
+    "football": 40,
+    "creator": 10,
     "books": 3
   },
   "source_errors": [
@@ -3277,7 +3274,7 @@
       "feed_url": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 11
+      "items_selected_primary": 12
     },
     {
       "source": "BBC World",
@@ -3291,7 +3288,7 @@
       "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 14
+      "items_selected_primary": 15
     },
     {
       "source": "Google News World Economy",
@@ -3468,14 +3465,14 @@
       "feed_url": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 7
+      "items_selected_primary": 6
     },
     {
       "source": "Google News TikTok & Short-form Video",
       "feed_url": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 4
+      "items_selected_primary": 3
     },
     {
       "source": "Threads Zuckerberg",

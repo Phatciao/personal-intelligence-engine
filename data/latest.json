@@ -1,9 +1,370 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T09:57:02.847293+00:00",
+  "generated_at": "2026-10-20T10:08:04.883164+00:00",
   "status": "ok",
   "items_count": 150,
   "items": [
+    {
+      "title": "Đồng Nhân dân tệ lên mức cao nhất hơn 4 năm",
+      "url": "https://vtv.vn/dong-nhan-dan-te-len-muc-cao-nhat-hon-4-nam-10026102014091243.htm",
+      "summary": "VTV.vn - Phiên 20/10, đồng Nhân dân tệ của Trung Quốc tăng lên mức cao nhất trong hơn 4 năm, sau khi ngân hàng trung ương phát tín hiệu định hướng tỷ giá mạnh hơn.",
+      "published_at": "2026-10-20T16:39:00+00:00",
+      "source": "VTV Kinh tế",
+      "source_feed": "https://vtv.vn/rss/kinh-te.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Kinh tế"
+      ]
+    },
+    {
+      "title": "Lạm phát giá lương thực toàn cầu tăng tốc",
+      "url": "https://vtv.vn/lam-phat-gia-luong-thuc-toan-cau-tang-toc-100261020061919708.htm",
+      "summary": "VTV.vn - Dữ liệu của FAO cho thấy chỉ số giá lương thực thế giới đã chạm mức cao nhất trong gần bốn năm qua.",
+      "published_at": "2026-10-20T16:38:00+00:00",
+      "source": "VTV Kinh tế",
+      "source_feed": "https://vtv.vn/rss/kinh-te.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Kinh tế"
+      ]
+    },
+    {
+      "title": "Iran cảnh báo đáp trả mạnh mẽ nếu tiếp tục bị tấn công",
+      "url": "https://vtv.vn/iran-canh-bao-dap-tra-manh-me-neu-tiep-tuc-bi-tan-cong-100261020114616517.htm",
+      "summary": "VTV.vn - Giới chức Iran cảnh báo sẽ đáp trả mạnh hơn nếu nước này tiếp tục bị tấn công, trong bối cảnh căng thẳng tại Trung Đông gia tăng.",
+      "published_at": "2026-10-20T16:12:00+00:00",
+      "source": "VTV Thế giới",
+      "source_feed": "https://vtv.vn/rss/the-gioi/tin-tuc.rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Thế giới"
+      ]
+    },
+    {
+      "title": "Cảnh giác trước các hội nhóm mua bán \"SIM rác\" trên không gian mạng",
+      "url": "https://vtv.vn/canh-giac-truoc-cac-hoi-nhom-mua-ban-sim-rac-tren-khong-gian-mang-100261020135736207.htm",
+      "summary": "VTV.vn- Qua rà soát thông tin, Cục An ninh mạng ghi nhận nhiều nhóm rao bán SIM rác, SIM OTP và dịch vụ cho thuê SIM trực tuyến, trong đó có nhóm sở hữu hàng chục nghìn thành viên.",
+      "published_at": "2026-10-20T15:20:00+00:00",
+      "source": "VTV Công nghệ",
+      "source_feed": "https://vtv.vn/rss/cong-nghe.rss",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Công nghệ"
+      ]
+    },
+    {
+      "title": "Nhiều sinh viên quốc tế đối mặt rào cản visa với cơ hội làm việc tại Mỹ",
+      "url": "https://vtv.vn/nhieu-sinh-vien-quoc-te-doi-mat-rao-can-visa-voi-co-hoi-lam-viec-tai-my-100261020115045941.htm",
+      "summary": "VTV.vn - Những thay đổi về chính sách visa và đề xuất tăng phí đang khiến nhiều sinh viên quốc tế tại Mỹ phải tính lại kế hoạch nghề nghiệp sau tốt nghiệp.",
+      "published_at": "2026-10-20T14:53:00+00:00",
+      "source": "VTV Thế giới",
+      "source_feed": "https://vtv.vn/rss/the-gioi/tin-tuc.rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Thế giới"
+      ]
+    },
+    {
+      "title": "Pháp chính thức áp đặt lệnh giới nghiêm tại nhiều địa phương",
+      "url": "https://vtv.vn/phap-chinh-thuc-ap-dat-lenh-gioi-nghiem-tai-nhieu-dia-phuong-100261020095810212.htm",
+      "summary": "VTV.vn - Pháp đã áp đặt lệnh giới nghiêm tại một loạt thành phố sau các vụ bạo loạn xảy ra trên cả nước vào cuối tuần qua.",
+      "published_at": "2026-10-20T14:15:00+00:00",
+      "source": "VTV Thế giới",
+      "source_feed": "https://vtv.vn/rss/the-gioi/tin-tuc.rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Thế giới"
+      ]
+    },
+    {
+      "title": "Khu Kinh tế Dung Quất áp dụng cơ chế đặc thù",
+      "url": "https://vtv.vn/khu-kinh-te-dung-quat-ap-dung-co-che-dac-thu-100261020054757781.htm",
+      "summary": "VTV.vn - Các dự án lọc hóa dầu quy mô lớn tại Dung Quất có thể được hưởng thuế thu nhập doanh nghiệp 10% trong 30 năm.",
+      "published_at": "2026-10-20T13:53:00+00:00",
+      "source": "VTV Kinh tế",
+      "source_feed": "https://vtv.vn/rss/kinh-te.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Kinh tế"
+      ]
+    },
+    {
+      "title": "Cảnh báo nguy cơ xung đột leo thang tại Trung Đông",
+      "url": "https://vtv.vn/canh-bao-nguy-co-xung-dot-leo-thang-tai-trung-dong-100261020095414201.htm",
+      "summary": "VTV.vn - Mỹ và Iran vừa đưa ra những cảnh báo mới về nguy cơ xung đột leo thang tại Trung Đông trong bối cảnh tình hình an ninh khu vực phức tạp.",
+      "published_at": "2026-10-20T13:47:00+00:00",
+      "source": "VTV Thế giới",
+      "source_feed": "https://vtv.vn/rss/the-gioi/tin-tuc.rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Thế giới"
+      ]
+    },
+    {
+      "title": "Hàn Quốc tăng cường an toàn dịp Halloween",
+      "url": "https://vtv.vn/han-quoc-tang-cuong-an-toan-dip-halloween-100261020100357049.htm",
+      "summary": "VTV.vn - Seoul đang tăng cường các biện pháp bảo đảm an toàn đám đông trước lễ hội Halloween, đặc biệt tại khu vực Itaewon.",
+      "published_at": "2026-10-20T12:37:00+00:00",
+      "source": "VTV Thế giới",
+      "source_feed": "https://vtv.vn/rss/the-gioi/tin-tuc.rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Thế giới"
+      ]
+    },
+    {
+      "title": "Singapore thành lập lực lượng đặc nhiệm ứng phó khói mù",
+      "url": "https://vtv.vn/singapore-thanh-lap-luc-luong-dac-nhiem-ung-pho-khoi-mu-100261020100208704.htm",
+      "summary": "VTV.vn - Singapore đã thành lập lực lượng đặc nhiệm liên ngành ứng phó khói mù xuyên biên giới và tăng sức ép với các doanh nghiệp nghi liên quan đến cháy rừng.",
+      "published_at": "2026-10-20T12:23:00+00:00",
+      "source": "VTV Thế giới",
+      "source_feed": "https://vtv.vn/rss/the-gioi/tin-tuc.rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Thế giới"
+      ]
+    },
+    {
+      "title": "Mỹ bác tin ngừng chia sẻ tình báo với Ukraine",
+      "url": "https://vtv.vn/my-bac-tin-ngung-chia-se-tinh-bao-voi-ukraine-100261020100005188.htm",
+      "summary": "VTV.vn - Ngoại trưởng Mỹ Marco Rubio bác thông tin Washington tạm ngừng chia sẻ tình báo với Ukraine, khẳng định hoạt động này không bị gián đoạn.",
+      "published_at": "2026-10-20T11:33:00+00:00",
+      "source": "VTV Thế giới",
+      "source_feed": "https://vtv.vn/rss/the-gioi/tin-tuc.rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Thế giới"
+      ]
+    },
+    {
+      "title": "Houthi tấn công căn cứ quân sự tại Yemen khiến hơn 50 người thiệt mạng",
+      "url": "https://vtv.vn/houthi-tan-cong-can-cu-quan-su-tai-yemen-khien-hon-50-nguoi-thiet-mang-100261020095609421.htm",
+      "summary": "VTV.vn - Ít nhất 53 người đã thiệt mạng và hơn 200 người bị thương sau khi lực lượng Houthi tấn công căn cứ quân sự al-Alam tại Yemen ngày 19/10.",
+      "published_at": "2026-10-20T11:33:00+00:00",
+      "source": "VTV Thế giới",
+      "source_feed": "https://vtv.vn/rss/the-gioi/tin-tuc.rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Thế giới"
+      ]
+    },
+    {
+      "title": "Thị trường hoa 20/10: Từ trăm nghìn đến vài triệu, livestream hút khách",
+      "url": "https://vtv.vn/thi-truong-hoa-20-10-tu-tram-nghin-den-vai-trieu-livestream-hut-khach-100261019172540657.htm",
+      "summary": "VTV.vn - Dịp 20/10, ngày Phụ nữ Việt Nam, thị trường hoa tươi tại Hà Nội rộn ràng lên trông thấy do nhu cầu mua hoa làm quà tặng tăng cao.",
+      "published_at": "2026-10-20T10:40:00+00:00",
+      "source": "VTV Kinh tế",
+      "source_feed": "https://vtv.vn/rss/kinh-te.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Kinh tế"
+      ]
+    },
+    {
+      "title": "Phát triển thương hiệu trên TMĐT theo cách riêng: Hành trình của hai nữ doanh nhân Việt",
+      "url": "https://vtv.vn/phat-trien-thuong-hieu-tren-tmdt-theo-cach-rieng-hanh-trinh-cua-hai-nu-doanh-nhan-viet-100261019093450534.htm",
+      "summary": "VTV.vn - Ngày Phụ nữ Việt Nam 20/10, cùng lắng nghe chia sẻ của hai nhà sáng lập nữ đứng sau thương hiệu OLV và Nệm Sơn về hành trình phát triển kinh doanh trên thương mại điện tử.",
+      "published_at": "2026-10-20T10:23:00+00:00",
+      "source": "VTV Kinh tế",
+      "source_feed": "https://vtv.vn/rss/kinh-te.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Kinh tế"
+      ]
+    },
+    {
+      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+      "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+      "published_at": "2026-10-20T10:06:34+00:00",
+      "source": "BBC Business",
+      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Business"
+      ]
+    },
+    {
+      "title": "Study: New AI tool can predict cancer survival by a single patient selfie",
+      "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie Comments URL: https://news.ycombinator.com/item?id=50163691 Points: 1 # Comments: 0",
+      "published_at": "2026-10-20T10:01:28+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "Cuộc chiến đổ lỗi giữa bạo loạn tại Pháp",
+      "url": "https://vnexpress.net/cuoc-chien-do-loi-giua-bao-loan-tai-phap-5134572.html",
+      "summary": "Biểu tình bạo lực cuối tuần qua đẩy nước Pháp vào vòng xoáy đổ lỗi, khi chính phủ, phe cực tả và cực hữu tranh cãi về trách nhiệm.",
+      "published_at": "2026-10-20T10:00:00+00:00",
+      "source": "VnExpress Thế giới",
+      "source_feed": "https://vnexpress.net/rss/the-gioi.rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VnExpress Thế giới"
+      ]
+    },
+    {
+      "title": "Chống chuyển giá, trốn thuế: Nâng ngưỡng lập hồ sơ từ 200 lên 500 tỷ - Không phải cứ \"chuyển giá\" là \"trốn thuế\"",
+      "url": "https://vtv.vn/chong-chuyen-gia-tron-thue-nang-nguong-lap-ho-so-tu-200-len-500-ty-khong-phai-cu-chuyen-gia-la-tron-thue-100261019142519806.htm",
+      "summary": "VTV.vn - Tập đặc biệt Quốc Dân Hiểu Thuế phát sóng ngày 11/10/2026 phân tích vấn đề chống chuyển giá, trốn thuế và đề xuất nâng ngưỡng lập hồ sơ lên trên 500 tỷ đồng.",
+      "published_at": "2026-10-20T09:53:00+00:00",
+      "source": "VTV Kinh tế",
+      "source_feed": "https://vtv.vn/rss/kinh-te.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Kinh tế"
+      ]
+    },
     {
       "title": "Stateless Agents: How to make AI work for teams",
       "url": "https://busabase.com/blog/how-to-make-ai-work-for-teams",
@@ -25,81 +386,110 @@
       ]
     },
     {
-      "title": "spacex launch today",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T09:40:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
+      "title": "Amazon ra mắt công cụ phần mềm mới nhằm cạnh tranh với Nvidia trên thị trường AI",
+      "url": "https://vtv.vn/amazon-ra-mat-cong-cu-phan-mem-moi-nham-canh-tranh-voi-nvidia-tren-thi-truong-ai-100261020064536423.htm",
+      "summary": "VTV.vn - Amazon ra mắt công cụ TorchNeuron giúp chip AI Trainium chạy mã PyTorch mà không cần viết lại, nhằm giảm chi phí và cạnh tranh với hệ sinh thái phần mềm Cuda của Nvidia.",
+      "published_at": "2026-10-20T09:47:00+00:00",
+      "source": "VTV Công nghệ",
+      "source_feed": "https://vtv.vn/rss/cong-nghe.rss",
+      "category": "ai",
+      "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 42,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google Trends United States"
+        "VTV Công nghệ",
+        "VTV Trí tuệ nhân tạo"
       ]
     },
     {
-      "title": "fitness",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T09:40:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
+      "title": "Kallas: Russian Black Sea strikes deepen ‘perfect storm’ for world food supplies",
+      "url": "https://www.euronews.com/2026/10/20/kallas-russian-black-sea-strikes-deepen-perfect-storm-for-world-food-supplies",
+      "summary": "Ukraine is losing an estimated €60 million a day in export earnings as Moscow is accused of targetting the routes it uses to ship grain abroad.",
+      "published_at": "2026-10-20T09:44:04+00:00",
+      "source": "Euronews",
+      "source_feed": "https://www.euronews.com/rss",
+      "category": "world",
+      "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 42,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google Trends United States"
+        "Euronews"
       ]
     },
     {
-      "title": "launch today",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T09:40:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
+      "title": "Albertans reject referendum on independence from Canada",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss",
+      "summary": "Most voters in the Canadian province of Alberta have rejected a proposal to hold a referendum on independence.",
+      "published_at": "2026-10-20T09:42:04+00:00",
+      "source": "Al Jazeera English",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "category": "world",
+      "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 42,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google Trends United States"
+        "Al Jazeera English"
+      ]
+    },
+    {
+      "title": "Hackers steal 421,000 emails belonging to members of Germany's far-right AfD party",
+      "url": "https://www.euronews.com/2026/10/20/hackers-steal-421000-emails-belonging-to-members-of-germanys-far-right-afd-party",
+      "summary": "It remains unclear who was responsible for the attack and whether additional data has been compromised.",
+      "published_at": "2026-10-20T09:41:12+00:00",
+      "source": "Euronews",
+      "source_feed": "https://www.euronews.com/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Euronews"
+      ]
+    },
+    {
+      "title": "Nhà máy nhiệt điện Mặt Trời giữa sa mạc Gobi",
+      "url": "https://vtv.vn/nha-may-nhiet-dien-mat-troi-giua-sa-mac-gobi-100261020063714906.htm",
+      "summary": "VTV.vn - Từ nguyên lý vận hành, công nghệ đã được ứng dụng tại một nhà máy điện Mặt Trời giữa sa mạc Gobi, Trung Quốc.",
+      "published_at": "2026-10-20T09:40:00+00:00",
+      "source": "VTV Công nghệ",
+      "source_feed": "https://vtv.vn/rss/cong-nghe.rss",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Công nghệ"
       ]
     },
     {
       "title": "AI slop is a human problem",
       "url": "https://nishanth.blog/posts/ai-slop-is-a-human-problem/",
-      "summary": "Article URL: https://nishanth.blog/posts/ai-slop-is-a-human-problem/ Comments URL: https://news.ycombinator.com/item?id=50163516 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://nishanth.blog/posts/ai-slop-is-a-human-problem/ Comments URL: https://news.ycombinator.com/item?id=50163516 Points: 2 # Comments: 1",
       "published_at": "2026-10-20T09:38:19+00:00",
       "source": "Hacker News AI Discussions",
       "source_feed": "https://hnrss.org/newest?q=AI",
@@ -114,6 +504,66 @@
       "quality_flags": [],
       "sources_seen": [
         "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "Nga xây radar vượt đường chân trời, tầm 3.000 km giữa lòng NATO",
+      "url": "https://vnexpress.net/nga-xay-radar-vuot-duong-chan-troi-tam-3-000-km-giua-long-nato-5134668.html",
+      "summary": "Nga đang triển khai hệ thống radar khổng lồ, có khả năng phát hiện mục tiêu ở khoảng cách đến 3.200 km tại lãnh thổ hải ngoại Kaliningrad.",
+      "published_at": "2026-10-20T09:37:30+00:00",
+      "source": "VnExpress Thế giới",
+      "source_feed": "https://vnexpress.net/rss/the-gioi.rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VnExpress Thế giới"
+      ]
+    },
+    {
+      "title": "Công nghệ lưu trữ nhiệt bằng muối nóng chảy",
+      "url": "https://vtv.vn/cong-nghe-luu-tru-nhiet-bang-muoi-nong-chay-100261020064244057.htm",
+      "summary": "VTV.vn - Công nghệ lưu trữ nhiệt bằng muối nóng chảy giúp nhà máy điện Mặt Trời tiếp tục phát điện sau khi trời tối, nhờ tích trữ nhiệt năng và sử dụng khi cần thiết.",
+      "published_at": "2026-10-20T09:36:00+00:00",
+      "source": "VTV Công nghệ",
+      "source_feed": "https://vtv.vn/rss/cong-nghe.rss",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Công nghệ"
+      ]
+    },
+    {
+      "title": "Trung Quốc tăng tốc phát triển đồ gia dụng tích hợp AI",
+      "url": "https://vtv.vn/trung-quoc-tang-toc-phat-trien-do-gia-dung-tich-hop-ai-100261020063117074.htm",
+      "summary": "VTV.vn - Từ điều khiển giọng nói đến tối ưu năng lượng, các tính năng thông minh đang giúp hàng gia dụng Trung Quốc đáp ứng tốt hơn nhu cầu tại từng thị trường.",
+      "published_at": "2026-10-20T09:33:00+00:00",
+      "source": "VTV Công nghệ",
+      "source_feed": "https://vtv.vn/rss/cong-nghe.rss",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Công nghệ"
       ]
     },
     {
@@ -134,53 +584,6 @@
       "quality_flags": [],
       "sources_seen": [
         "BBC Business"
-      ]
-    },
-    {
-      "title": "mass lottery",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T09:30:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "Man City charges LIVE: Huge points deduction leaked as EFL 'ready to agree' punishment - Daily Mirror",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnJGS0VGbmkzSFdlTXUzd0F0dVhGSXVtcGxwdURkeDdRMlphNU13LUxuNU4zVC1talkwOGlSakU4ZmhMVThfTE1oVm5HNnROckY4SDY0anl2clFfUVlnMjB3T25yeTdVT05uOFlFOVoxRFlCNFNEc3hHUjdVYnIzUVlvbUU5bUNvWEVodG16NA?oc=5",
-      "summary": "Man City charges LIVE: Huge points deduction leaked as EFL 'ready to agree' punishment Daily Mirror",
-      "published_at": "2026-10-20T09:28:38+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News Premier League"
       ]
     },
     {
@@ -224,29 +627,23 @@
       ]
     },
     {
-      "title": "December go sweet .. @MUNII S #Emmyblaq #fyp #trend #vibess - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fcEZwcEd1SnBXX2M0UFVTODhfQXR6b2Jrdm9GN3VBQ0d3dkZlS2h5cU1uOXpIZU1lN25HMk5jZ3pRVnExNDZ3M3drWGlVTnFwMGg2aVdOWHVFRFAwMUl5cVptaTJKcUc1Ykl6aEZB?oc=5",
-      "summary": "December go sweet .. @MUNII S #Emmyblaq #fyp #trend #vibess TikTok",
-      "published_at": "2026-10-20T09:26:27+00:00",
-      "source": "Google News TikTok & Short-form Video",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
+      "title": "South Korea to pull more embassy staff from Ukraine after POW row",
+      "url": "https://www.aljazeera.com/news/2026/10/20/south-korea-to-pull-more-embassy-staff-from-ukraine-after-pow-row?traffic_source=rss",
+      "summary": "Earlier this month, South Korea recalled its ambassador from Kyiv after Zelenskyy disclosed the prisoner transfer.",
+      "published_at": "2026-10-20T09:26:02+00:00",
+      "source": "Al Jazeera English",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 42,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "short_summary",
-        "no_public_engagement_metrics",
-        "likely_platform_noise",
-        "viral_metrics_missing"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google News TikTok & Short-form Video"
+        "Al Jazeera English"
       ]
     },
     {
@@ -270,123 +667,45 @@
       ]
     },
     {
-      "title": "xổ số miền nam ngày 20 tháng 10",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T09:20:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
+      "title": "Canadian opera singer replaced after he raised Palestinian flag",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-calgary-opera-palestine-clip?traffic_source=rss",
+      "summary": "Calgary’s opera house has removed a singer from future performances after he raised a Palestinian flag on stage.",
+      "published_at": "2026-10-20T09:24:16+00:00",
+      "source": "Al Jazeera English",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "category": "world",
+      "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 52,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "possible_concrete_development",
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google Trends Vietnam"
+        "Al Jazeera English"
       ]
     },
     {
-      "title": "con giáp may mắn hôm nay",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T09:20:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
+      "title": "Japan launches mission to bring back samples from Mars’s moon Phobos",
+      "url": "https://www.euronews.com/video/2026/10/20/japan-launches-mission-to-bring-back-samples-from-marss-moon-phobos",
+      "summary": "Japan’s H3 rocket launched the MMX probe on Tuesday, starting a three-year mission to collect samples from Phobos and study the origins of the Solar System.",
+      "published_at": "2026-10-20T09:21:46+00:00",
+      "source": "Euronews",
+      "source_feed": "https://www.euronews.com/rss",
+      "category": "world",
+      "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 52,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "possible_concrete_development",
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "swimming",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T09:20:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "stefanos tsitsipas",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T09:10:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "nfl power rankings week 7",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T09:10:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
+        "Euronews"
       ]
     },
     {
@@ -410,13 +729,13 @@
       ]
     },
     {
-      "title": "Show HN: I built an AI tool that turns two photos into a dance video",
-      "url": "https://a2oliteai.com/",
-      "summary": "Article URL: https://a2oliteai.com/ Comments URL: https://news.ycombinator.com/item?id=50163258 Points: 2 # Comments: 0",
-      "published_at": "2026-10-20T09:06:42+00:00",
-      "source": "Hacker News AI Discussions",
-      "source_feed": "https://hnrss.org/newest?q=AI",
-      "category": "ai",
+      "title": "Cổ phiếu PNJ 'dậy sóng' trước phiên họp cổ đông bất thường",
+      "url": "https://vnexpress.net/co-phieu-pnj-day-song-truoc-phien-hop-co-dong-bat-thuong-5134706.html",
+      "summary": "PNJ tăng hết biên độ và dư mua hơn 4 triệu cổ phiếu chỉ một ngày trước phiên họp bất thường để bàn kế hoạch tái thiết sau sự cố kim cương.",
+      "published_at": "2026-10-20T09:04:46+00:00",
+      "source": "VnExpress Kinh doanh",
+      "source_feed": "https://vnexpress.net/rss/kinh-doanh.rss",
+      "category": "vietnam",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
@@ -426,30 +745,71 @@
       ],
       "quality_flags": [],
       "sources_seen": [
-        "Hacker News AI Discussions"
+        "VnExpress Kinh doanh"
       ]
     },
     {
-      "title": "Sunderland news: Can Black Cats balance Europe with Premier League? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VTldUZDRzM0VEbmFfZVJMVWczUGVKYXlpTE9Xc1pLY29oWlI0LXBkY0pkZENzNl9PUE5zYS1oTTlNXzlOcFlYTk1tYy1zQ05qV3ZzMzBIWV82cVNlQnJHeUJJY3ZrV0c3NDJR?oc=5",
-      "summary": "Sunderland news: Can Black Cats balance Europe with Premier League? BBC",
-      "published_at": "2026-10-20T09:00:52+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
+      "title": "Five European Commissioners push back against cuts to the EU’s global cooperation budget",
+      "url": "https://www.euronews.com/2026/10/20/five-european-commissioners-push-back-against-cuts-to-the-eus-global-cooperation-budget",
+      "summary": "Five Commissioners, including EU foreign policy chief Kaja Kallas, warn that Ireland’s proposed 17% cut to Global Europe would erode the EU’s influence and security, as Council President Costa readies a new compromise for a 26 November summit.",
+      "published_at": "2026-10-20T09:04:42+00:00",
+      "source": "Euronews",
+      "source_feed": "https://www.euronews.com/rss",
+      "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 62,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "potential_high_impact_topic",
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "short_summary"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google News Premier League"
+        "Euronews"
+      ]
+    },
+    {
+      "title": "German mortgage rates climb to highest since 2009 as Iran war stokes inflation fears",
+      "url": "https://www.euronews.com/2026/10/20/german-mortgage-rates-climb-to-highest-since-2009-as-iran-war-stokes-inflation-fears",
+      "summary": "Mortgages in Germany are now at their most expensive since 2009, with the average rate on ten-year loans nearing 4.5%, according to broker Interhyp, as inflation fears stoked by the Iran war push up borrowing costs.",
+      "published_at": "2026-10-20T09:04:04+00:00",
+      "source": "Euronews",
+      "source_feed": "https://www.euronews.com/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Euronews"
+      ]
+    },
+    {
+      "title": "Alberta voters reject plan for referendum to leave Canada",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, delivering a victory for the prime minister, Mark Carney, and supporters of Canadian unity. With more than 1.5m votes counted, 76% supported remaining in Canada, while close to 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta. Continue reading...",
+      "published_at": "2026-10-20T09:02:43+00:00",
+      "source": "The Guardian World",
+      "source_feed": "https://www.theguardian.com/world/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 72,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "The Guardian World"
       ]
     },
     {
@@ -475,27 +835,43 @@
       ]
     },
     {
-      "title": "victor marx",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T09:00:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
+      "title": "Coteccons đổi hướng tăng trưởng khi ngành xây dựng thêm đối thủ lớn",
+      "url": "https://vnexpress.net/coteccons-doi-huong-tang-truong-khi-nganh-xay-dung-them-doi-thu-lon-5134650.html",
+      "summary": "Coteccons xem sự xuất hiện của VinCons và Tân Minh Nhân là động lực nâng chuẩn ngành, đồng thời chuyển hướng từ tăng trưởng về quy mô sang hiệu quả.",
+      "published_at": "2026-10-20T09:00:01+00:00",
+      "source": "VnExpress Kinh doanh",
+      "source_feed": "https://vnexpress.net/rss/kinh-doanh.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 42,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google Trends United States"
+        "VnExpress Kinh doanh"
+      ]
+    },
+    {
+      "title": "Kiều hối về TP. Hồ Chí Minh tăng gần 40% trong quý III",
+      "url": "https://vtv.vn/kieu-hoi-ve-tp-ho-chi-minh-tang-gan-40-trong-quy-iii-100261020061411543.htm",
+      "summary": "VTV.vn - Kiều hối chuyển về TP. Hồ Chí Minh trong quý III/2026 đạt hơn 2,83 tỷ USD, tăng 39,5% so với quý trước và tăng 3,6% so với cùng kỳ năm 2025.",
+      "published_at": "2026-10-20T08:59:00+00:00",
+      "source": "VTV Kinh tế",
+      "source_feed": "https://vtv.vn/rss/kinh-te.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Kinh tế"
       ]
     },
     {
@@ -520,6 +896,26 @@
       ]
     },
     {
+      "title": "TP Hà Nội thí điểm chấm điểm giải ngân vốn đầu tư công",
+      "url": "https://vtv.vn/tp-ha-noi-thi-diem-cham-diem-giai-ngan-von-dau-tu-cong-100261020060653529.htm",
+      "summary": "VTV.vn - Việc chấm điểm được thực hiện định kỳ và công khai, làm cơ sở biểu dương các đơn vị thực hiện tốt, đồng thời đôn đốc những đơn vị chậm tiến độ.",
+      "published_at": "2026-10-20T08:58:00+00:00",
+      "source": "VTV Kinh tế",
+      "source_feed": "https://vtv.vn/rss/kinh-te.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Kinh tế"
+      ]
+    },
+    {
       "title": "Premier League predictions & Jones Knows' best bets: Tottenham vs Coventry on Monday Night Football - Sky Sports",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU0ZRYjF6Y2psc3k4MWpVQUtpd2hBcXlyM0RkOV9sbXlpZWFqSGh5MmZoWG9yU0pwdHlHRmRQUGU2X3JOY1lfa1RoeHpLalNOYkNaZGc1aXEtS1k0Y2hZczQ3QVY3ZXhsYkFacmtmaTBaZTFTbC1SOEN4TnJkRXh5dDBZa1JhZkxobVpPQ0dhOWVvZFl3Y1N4NmRGenNKaHBiN3FwRE1ZYlF4NGtIdU1hUl9QRmloSWlLRFNfb21SQno2aDA3ZTVzXzdBNjFMT19sbTdF?oc=5",
       "summary": "Premier League predictions & Jones Knows' best bets: Tottenham vs Coventry on Monday Night Football Sky Sports",
@@ -540,13 +936,13 @@
       ]
     },
     {
-      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-      "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-      "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
-      "published_at": "2026-10-20T08:55:02+00:00",
-      "source": "BBC Business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "category": "world",
+      "title": "Đề xuất cho tư nhân làm nhà máy điện hạt nhân module nhỏ",
+      "url": "https://vnexpress.net/de-xuat-cho-tu-nhan-lam-nha-may-dien-hat-nhan-module-nho-5134664.html",
+      "summary": "Chính phủ đề xuất tư nhân có thể tham gia đầu tư xây dựng và vận hành nhà máy điện hạt nhân sử dụng công nghệ lò phản ứng hạt nhân module nhỏ.",
+      "published_at": "2026-10-20T08:54:51+00:00",
+      "source": "VnExpress Kinh doanh",
+      "source_feed": "https://vnexpress.net/rss/kinh-doanh.rss",
+      "category": "vietnam",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
@@ -556,7 +952,27 @@
       ],
       "quality_flags": [],
       "sources_seen": [
-        "BBC Business"
+        "VnExpress Kinh doanh"
+      ]
+    },
+    {
+      "title": "Khai trương hệ thống cửa hàng miễn thuế Vietnam Duty Free tại Nội Bài: Đưa bản sắc Việt vào trải nghiệm mua sắm quốc tế",
+      "url": "https://vtv.vn/khai-truong-he-thong-cua-hang-mien-thue-vietnam-duty-free-tai-noi-bai-dua-ban-sac-viet-vao-trai-nghiem-mua-sam-quoc-te-10026101922542917.htm",
+      "summary": "VTV.vn - Khai trương ngày 15.10 tại Nhà ga quốc tế T2, Cảng HKQT Nội Bài, 4 cửa hàng miễn thuế Vietnam Duty Free mở ra 2.000m² không gian mua sắm rộng lớn tại cửa ngõ Thủ đô.",
+      "published_at": "2026-10-20T08:53:00+00:00",
+      "source": "VTV Kinh tế",
+      "source_feed": "https://vtv.vn/rss/kinh-te.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Kinh tế"
       ]
     },
     {
@@ -580,18 +996,19 @@
       ]
     },
     {
-      "title": "Arsenal opposition profile ahead of the Champions League clash - FC Bayern",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOUdaemg3N1dGX3E2UHh3enY2LU9FTlAyM1NLNXF1VF9HYXhIWE1GVzVTMFVRM3I0R1otUy1xcFpsZ09LRjJBajJadENpdzVnbkUxalFQbzR0NFFLcFR0ZUFZVXEyMmh2N3o4Z2pYVGFhcmZzaGpWQUJyS0xyb1I2bllHTUl0M0VvTFN0NGVWRVY?oc=5",
-      "summary": "Arsenal opposition profile ahead of the Champions League clash FC Bayern",
-      "published_at": "2026-10-20T08:51:00+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
+      "title": "French protests: Is it game over for Macron’s centrists before elections?",
+      "url": "https://www.aljazeera.com/news/2026/10/20/french-protests-is-it-game-over-for-macrons-centrists-before-elections?traffic_source=rss",
+      "summary": "The protests have further polarised the French and turned the youth into a key, angry, voting bloc.",
+      "published_at": "2026-10-20T08:46:25+00:00",
+      "source": "Al Jazeera English",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 54,
       "triage_reasons": [
+        "potential_high_impact_topic",
         "published_within_24_hours",
         "summary_insufficient"
       ],
@@ -599,41 +1016,17 @@
         "short_summary"
       ],
       "sources_seen": [
-        "Google News Arsenal"
+        "Al Jazeera English"
       ]
     },
     {
-      "title": "jasmine paolini",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T08:50:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday.",
-      "published_at": "2026-10-20T08:46:00+00:00",
-      "source": "BBC Business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "category": "world",
+      "title": "Đề xuất chặn truy cập phim vi phạm trên internet",
+      "url": "https://vnexpress.net/de-xuat-chan-truy-cap-phim-vi-pham-tren-internet-5134672.html",
+      "summary": "Chính phủ đề xuất quy định doanh nghiệp viễn thông chặn truy cập phim vi phạm theo yêu cầu của cơ quan có thẩm quyền, đồng thời siết trách nhiệm của các nền tảng phổ biến phim.",
+      "published_at": "2026-10-20T08:37:01+00:00",
+      "source": "VnExpress Thời sự",
+      "source_feed": "https://vnexpress.net/rss/thoi-su.rss",
+      "category": "vietnam",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
@@ -643,117 +1036,29 @@
       ],
       "quality_flags": [],
       "sources_seen": [
-        "BBC Business"
+        "VnExpress Thời sự"
       ]
     },
     {
-      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-      "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
-      "published_at": "2026-10-20T08:44:56+00:00",
-      "source": "BBC Business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "Israeli financial news outlet reveals €150 million warship deal with Cyprus",
+      "url": "https://www.euronews.com/2026/10/20/israeli-financial-news-outlet-reveals-150-million-warship-deal-with-cyprus",
+      "summary": "According to the Israeli financial newspaper Calcalist, an agreement is expected to be signed in the coming weeks, once the terms are finalised between the defence ministries of Israel and Cyprus.",
+      "published_at": "2026-10-20T08:29:26+00:00",
+      "source": "Euronews",
+      "source_feed": "https://www.euronews.com/rss",
       "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 72,
       "triage_reasons": [
+        "potential_high_impact_topic",
+        "possible_concrete_development",
         "published_within_24_hours"
       ],
       "quality_flags": [],
       "sources_seen": [
-        "BBC Business"
-      ]
-    },
-    {
-      "title": "daycare",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T08:40:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF",
-      "url": "https://chatgpt2notion.com/products/aiexporthub-hero/",
-      "summary": "Article URL: https://chatgpt2notion.com/products/aiexporthub-hero/ Comments URL: https://news.ycombinator.com/item?id=50163035 Points: 1 # Comments: 0",
-      "published_at": "2026-10-20T08:39:04+00:00",
-      "source": "Hacker News AI Discussions",
-      "source_feed": "https://hnrss.org/newest?q=AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Hacker News AI Discussions"
-      ]
-    },
-    {
-      "title": "What is the Budget and what could be in it?",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-      "published_at": "2026-10-20T08:31:36+00:00",
-      "source": "BBC Business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "BBC Business"
-      ]
-    },
-    {
-      "title": "Jonathan Tah praises 'underestimated' Arsenal star ahead of Bayern Munich clash - Metro.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNkQyaEhSQ0s1RURKZFNKTTZSVmxVMXd0dzJJM3IxaXN6ZXpRclk0ODVYb3dydE1uTGhHZi1rT19sNDE3NHNhTkdnc3Zwa01aZFM0ZE5Eak9MSlN2TzRRUHNPOXo3MV85cUtJYjlUU1BFbzdEUjZHSDI1QXhJZmlfUTRoLUhLSnR1c3NKOW1ZNG5Wa0Y4VC1lT2NIZ1ExR1FEbERUSzhfSEZ0VDF6WktfM3NYb2JKd9IBuwFBVV95cUxNY0Y2dXJlRURQRlVPVDV0aHlGVXhsRkV5ZHZzNFpoM1hzLWp0NW1kN0xSS3l6aTd0UndJTE1OZWpyaG5kZXFNQmRnOGNYT0VIbUNPT0hqalR0U2xLS0tUTHFibkhnWU5vVzVNV1k2YWRfa2E3OGlyamE4TWt4b2FZNEh4OVZsTmNOVGNvRUNwX0xpNnVNWkRLOWVWenloNGExSnRtU2JVbVpDSFM1Z3lHSkllUHFhN1I2Ym0w?oc=5",
-      "summary": "Jonathan Tah praises 'underestimated' Arsenal star ahead of Bayern Munich clash Metro.co.uk",
-      "published_at": "2026-10-20T08:26:00+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News Arsenal"
+        "Euronews"
       ]
     },
     {
@@ -777,13 +1082,13 @@
       ]
     },
     {
-      "title": "The chase is becoming an AI feature. In Portugal, nobody asks yet",
-      "url": "https://gil-neto.com/blog/the-chase-is-becoming-an-ai-feature/",
-      "summary": "Article URL: https://gil-neto.com/blog/the-chase-is-becoming-an-ai-feature/ Comments URL: https://news.ycombinator.com/item?id=50162912 Points: 2 # Comments: 0",
-      "published_at": "2026-10-20T08:24:35+00:00",
-      "source": "Hacker News AI Discussions",
-      "source_feed": "https://hnrss.org/newest?q=AI",
-      "category": "ai",
+      "title": "Đưa tinh thần Nghị quyết 10-NQ/TW vào thực tiễn phát triển kinh tế có vốn đầu tư nước ngoài",
+      "url": "https://vtv.vn/dua-tinh-than-nghi-quyet-10-nq-tw-vao-thuc-tien-phat-trien-kinh-te-co-von-dau-tu-nuoc-ngoai-100261020073319299.htm",
+      "summary": "VTV.vn - Nghị quyết 10-NQ/TW của Bộ Chính trị nhấn mạnh quan điểm kinh tế có vốn đầu tư nước ngoài là một bộ phận quan trọng của nền kinh tế quốc gia.",
+      "published_at": "2026-10-20T08:23:00+00:00",
+      "source": "VTV Kinh tế",
+      "source_feed": "https://vtv.vn/rss/kinh-te.rss",
+      "category": "vietnam",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
@@ -793,111 +1098,59 @@
       ],
       "quality_flags": [],
       "sources_seen": [
-        "Hacker News AI Discussions"
+        "VTV Kinh tế"
       ]
     },
     {
-      "title": "phong tỏa",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T08:20:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "Sources: Arsenal expected to demand more than €100m for player with “big personality” - CaughtOffside",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ1J6LUdqbV9xbFVSZVl0SHAyWTlod3oyakU0ZURqSGoweDlXWHVJXzBONEFnSUl5LUVYWThQWjdseWdNUUdpT3RWLS0wQjY4bW5MQl84MnNtSUdfeWdnRm0weVc5ZExuaThjQVpqWjFtX3JMS2szWDZWVzh3V0gydVpzSW9PbF84Q1VOVmFMLXptYWJ6elpfSmZoVzR4UkpPQmNj0gGoAUFVX3lxTE02ZWs5WlhBZjd5ZUgwUnViOVN5ZlZ4TnR5UWhKV21iYkZTS1FGRkM5V1pkY3kwTmpwa2tfazNkcDY2TGt2YjhjVm52UTJyaG1Yd2dvcEpsZmQtWHJ0aURQRTVxV2gtcHoyRUI0RkItNlV4XzRjMGtTdFB5Qnd0Tng4bFFRYzlmZ0RfWXF3SmhpdFlMZVR5YjRNRXJsek52X2xHNFB2U2swMQ?oc=5",
-      "summary": "Sources: Arsenal expected to demand more than €100m for player with “big personality” CaughtOffside",
-      "published_at": "2026-10-20T08:12:36+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
+      "title": "Germany news: Siemens warns on AI eliminating entry-level jobs",
+      "url": "https://www.dw.com/en/germany-news-siemens-warns-on-ai-eliminating-entry-level-jobs/live-79709090?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "Young people could lack essential capabilities if routine tasks are taken over by AI, industrial giant Siemens says. This comes Germany agrees to deepen cooperation on AI with US tech giant Nvidia. DW has more.",
+      "published_at": "2026-10-20T08:21:00+00:00",
+      "source": "Deutsche Welle World",
+      "source_feed": "https://rss.dw.com/xml/rss-en-all",
+      "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 62,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "potential_high_impact_topic",
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "short_summary"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google News Arsenal"
+        "Deutsche Welle World"
       ]
     },
     {
-      "title": "bộ giáo dục và đào tạo",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T08:10:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "Why Arsenal summer signing cannot face Bayern Munich as rule explained - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZktQMWlEZ05pVWNpV09ObWpXVUZycGdzNEtkekRfVV82MGE5Q3N2ZGVSZUxQbmE1NXduaVZ0LWFrM0ZaWnpQZFVRZG1KTW5oeVhXUGNCS2NKZDNZSWJEeEZaMXpuT1p2aTZ6UHdkeEk5cjRHTVBwQ0pJcFdCRVhBMkh6clgzXzYyZ08xUkdJeUNZRjBDQjlVLW91eVJqTFhCdHJzeUV5OFhlUHdsSzhHVA?oc=5",
-      "summary": "Why Arsenal summer signing cannot face Bayern Munich as rule explained London Evening Standard",
-      "published_at": "2026-10-20T08:05:39+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
+      "title": "Oil prices top $110 as traders weigh Middle East supply risks",
+      "url": "https://www.euronews.com/2026/10/20/oil-prices-top-110-as-traders-weigh-middle-east-risks",
+      "summary": "The price of Brent crude remained at a five-month high as uncertainty over when energy supplies will return to normal amid the war with Iran keeps oil inflated.",
+      "published_at": "2026-10-20T08:02:59+00:00",
+      "source": "Euronews",
+      "source_feed": "https://www.euronews.com/rss",
+      "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 62,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "potential_high_impact_topic",
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "short_summary"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google News Arsenal"
+        "Euronews"
       ]
     },
     {
-      "title": "Reducing the cognitive load of AI changes",
-      "url": "https://amoffat.github.io/blog/cognitive-load.html",
-      "summary": "Article URL: https://amoffat.github.io/blog/cognitive-load.html Comments URL: https://news.ycombinator.com/item?id=50162767 Points: 1 # Comments: 1",
-      "published_at": "2026-10-20T08:05:13+00:00",
-      "source": "Hacker News AI Discussions",
-      "source_feed": "https://hnrss.org/newest?q=AI",
-      "category": "ai",
+      "title": "Dự án sắp bàn giao bắt trúng “khẩu vị” thị trường",
+      "url": "https://vtv.vn/du-an-sap-ban-giao-bat-trung-khau-vi-thi-truong-100261019225949542.htm",
+      "summary": "Khi giá căn hộ ngày càng cao, Khải Hoàn Prime tại Nam Sài Gòn bắt trúng “khẩu vị” thị trường nhờ cân bằng chất lượng sống và khả năng chi trả.",
+      "published_at": "2026-10-20T07:53:00+00:00",
+      "source": "VTV Kinh tế",
+      "source_feed": "https://vtv.vn/rss/kinh-te.rss",
+      "category": "vietnam",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
@@ -907,41 +1160,17 @@
       ],
       "quality_flags": [],
       "sources_seen": [
-        "Hacker News AI Discussions"
+        "VTV Kinh tế"
       ]
     },
     {
-      "title": "vietlott power 6 55",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T07:50:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "Show HN: A practical framework for evaluating agentic AI systems",
-      "url": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/",
-      "summary": "Article URL: https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/ Comments URL: https://news.ycombinator.com/item?id=50162634 Points: 1 # Comments: 0",
-      "published_at": "2026-10-20T07:45:13+00:00",
-      "source": "Hacker News AI Discussions",
-      "source_feed": "https://hnrss.org/newest?q=AI",
-      "category": "ai",
+      "title": "Lửa Việt MICE và 30 năm tổ chức những đoàn quy mô lớn",
+      "url": "https://vtv.vn/lua-viet-mice-va-30-nam-to-chuc-nhung-doan-quy-mo-lon-100261019123826912.htm",
+      "summary": "VTV.vn - Lửa Việt Tours ra mắt Lửa Việt MICE, kế thừa hơn 30 năm kinh nghiệm, chuyên tổ chức hội nghị, sự kiện và du lịch khen thưởng với một đầu mối điều phối, một chuẩn dịch vụ.",
+      "published_at": "2026-10-20T07:53:00+00:00",
+      "source": "VTV Kinh tế",
+      "source_feed": "https://vtv.vn/rss/kinh-te.rss",
+      "category": "vietnam",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
@@ -951,17 +1180,38 @@
       ],
       "quality_flags": [],
       "sources_seen": [
-        "Hacker News AI Discussions"
+        "VTV Kinh tế"
       ]
     },
     {
-      "title": "I Talked to Workers at Amazon, Meta, & Microsoft About the AI Watching Them [video]",
-      "url": "https://www.youtube.com/watch?v=ca7ufSI1Qxg",
-      "summary": "Article URL: https://www.youtube.com/watch?v=ca7ufSI1Qxg Comments URL: https://news.ycombinator.com/item?id=50162633 Points: 2 # Comments: 0",
-      "published_at": "2026-10-20T07:45:05+00:00",
-      "source": "Hacker News AI Discussions",
-      "source_feed": "https://hnrss.org/newest?q=AI",
-      "category": "ai",
+      "title": "Ryanair CEO calls EU chief Ursula von der Leyen 'useless' and demands tax on US and Chinese airlines",
+      "url": "https://www.euronews.com/2026/10/20/ryanair-ceo-calls-eu-chief-ursula-von-der-leyen-useless-and-demands-tax-on-us-and-chinese-",
+      "summary": "Ryanair is cutting a million seats from Belgium this winter as Michael O’Leary warns of steep fare rises in 2027 and demands foreign airlines pay their share.",
+      "published_at": "2026-10-20T07:40:22+00:00",
+      "source": "Euronews",
+      "source_feed": "https://www.euronews.com/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Euronews"
+      ]
+    },
+    {
+      "title": "Đề xuất miễn thuế thu nhập 5 năm cho nhân tài",
+      "url": "https://vtv.vn/de-xuat-mien-thue-thu-nhap-5-nam-cho-nhan-tai-100261020060108927.htm",
+      "summary": "VTV.vn - Dự thảo đề xuất miễn thuế thu nhập cá nhân 5 năm cho nhân tài, doanh nghiệp được trừ thêm 50% chi phí lương, thưởng khi tính thuế.",
+      "published_at": "2026-10-20T07:26:00+00:00",
+      "source": "VTV Kinh tế",
+      "source_feed": "https://vtv.vn/rss/kinh-te.rss",
+      "category": "vietnam",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
@@ -971,68 +1221,64 @@
       ],
       "quality_flags": [],
       "sources_seen": [
-        "Hacker News AI Discussions"
+        "VTV Kinh tế"
       ]
     },
     {
-      "title": "Man City cheated because Premier League was built to be unfair - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQloxMkNqbXJGckZxYnlDbUQ1QXU0NjN6RU9nVTNzY2pkWno5NVNQeXBaMlY0cWRXQi1nWkN5UU9QU2NWNHYyX2hnajI2ZE9Kc0ZaZVJRVWhwWWFTRWxfTDhsQUdhSldLUTJ0MXlUdTBGOHlneWpGUzJHeGMxQkdNUW5rZHNqYjk4dEpGZ3Z5M0NlNElJbkdkR3N1d200dXpqQVE?oc=5",
-      "summary": "Man City cheated because Premier League was built to be unfair ESPN",
-      "published_at": "2026-10-20T07:32:00+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
+      "title": "Sun Group quảng bá du lịch MICE Phú Quốc tại ITB Asia 2026",
+      "url": "https://vnexpress.net/sun-group-quang-ba-du-lich-mice-phu-quoc-tai-itb-asia-2026-5134568.html",
+      "summary": "Sun Group giới thiệu tiềm năng du lịch MICE của Phú Quốc cùng hệ sinh thái hàng không, nghỉ dưỡng, du lịch số, trong lần đầu tham gia ITB Asia, ngày 21-23/10.",
+      "published_at": "2026-10-20T07:10:00+00:00",
+      "source": "VnExpress Kinh doanh",
+      "source_feed": "https://vnexpress.net/rss/kinh-doanh.rss",
+      "category": "vietnam",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 42,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "short_summary"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google News Premier League"
+        "VnExpress Kinh doanh"
       ]
     },
     {
-      "title": "Premier League: Picking every club's most underpaid player - Planet Football",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXdIZEl4Y2lpeUk2NmQzTy1OUV9SWWhHNkpVMnJpX2hXV3hyNWlfemNELUN0cmdYMW4xZG5YVVRoZEVLaGRZLWlyaHBmaHQ1aUdxbFJ4NkRsS3hnUW9uWGNpaDB0Zmx1Y2JRSVZJc19JTHJnMk42eldrdXh4R2dENXl6TURjeDBJWmIwRHpBZlFDYTd1dE5DTGh5NzVUUTFueDJhVHNnN0h4X2pF?oc=5",
-      "summary": "Premier League: Picking every club's most underpaid player Planet Football",
-      "published_at": "2026-10-20T07:07:00+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
+      "title": "Thủ tướng Pháp nói 'mạng lưới ngầm' gây bạo loạn để phá hoại bầu cử",
+      "url": "https://vnexpress.net/thu-tuong-phap-noi-mang-luoi-ngam-gay-bao-loan-de-pha-hoai-bau-cu-5134533.html",
+      "summary": "Thủ tướng Pháp cáo buộc một \"mạng lưới ngầm\" cực tả kích động bạo loạn trong biểu tình cuối tuần qua nhằm gây hỗn loạn trước bầu cử tổng thống 2027.",
+      "published_at": "2026-10-20T06:55:16+00:00",
+      "source": "VnExpress Thế giới",
+      "source_feed": "https://vnexpress.net/rss/the-gioi.rss",
+      "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 62,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "potential_high_impact_topic",
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "short_summary"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google News Premier League"
+        "VnExpress Thế giới"
       ]
     },
     {
-      "title": "Four Premier League games in December rearranged - Arsenal.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU1V2bEoxX0drOHhjNEZyanU5eEpONzBvM0lFT2YwUVYydlZZY0dNUHpucnlKMjhZVldLX2h2MmlCNzAwZmtOdzBZYTVZNGtuSDJFRXhiUGt2OHFkal9uTWFwbFU0SzFRQllBWGJnYzJTUUxvZk0yUWg0MkJBTlJoTGtZU1JNRmpwckd0cVc0bjRvWlhz?oc=5",
-      "summary": "Four Premier League games in December rearranged Arsenal.com",
-      "published_at": "2026-10-20T07:05:49+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
+      "title": "Alberta voters reject separation from Canada, early results show",
+      "url": "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show?traffic_source=rss",
+      "summary": "With more than one million votes counted, about 77 percent supported remaining in Canada.",
+      "published_at": "2026-10-20T06:37:32+00:00",
+      "source": "Al Jazeera English",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 44,
       "triage_reasons": [
+        "possible_concrete_development",
         "published_within_24_hours",
         "summary_insufficient"
       ],
@@ -1040,100 +1286,47 @@
         "short_summary"
       ],
       "sources_seen": [
-        "Google News Arsenal"
+        "Al Jazeera English"
       ]
     },
     {
-      "title": "The signs that things are starting to look up for Liverpool - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRWpDSVRRNkNfWUtocF9nSzg1LTcxRzAyUVVKRXFUN20zQnVXRXZnNHU5TkpKbEM1LTh2REU5d09USXFjTWVsZ3VucTZ0QlBSQTdwWS1Oek5tNGFOaHQ4SFpCS2k3WU9KNEYxTThZM1ZvY05KTXZXSV95UWYyc3I5M0NtbzRSdFBOeWxHbW5BemNxcHFqbkhNdzc5NUdUblo0Vmd4dGNBWnkwYlkt?oc=5",
-      "summary": "The signs that things are starting to look up for Liverpool The Telegraph",
-      "published_at": "2026-10-20T07:00:00+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
+      "title": "EU hỗ trợ Hà Nội 10 triệu EUR chuẩn bị dự án metro số 3 kéo dài đến Hoàng Mai",
+      "url": "https://vtv.vn/eu-ho-tro-ha-noi-10-trieu-eur-chuan-bi-du-an-metro-so-3-keo-dai-den-hoang-mai-100261019173301682.htm",
+      "summary": "VTV.vn - Liên minh châu Âu hỗ trợ 10 triệu EUR để nghiên cứu, chuẩn bị đầu tư đoạn kéo dài tuyến đường sắt đô thị số 3 (metro) từ ga Hà Nội đến Hoàng Mai.",
+      "published_at": "2026-10-20T06:32:00+00:00",
+      "source": "VTV Kinh tế",
+      "source_feed": "https://vtv.vn/rss/kinh-te.rss",
+      "category": "vietnam",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 42,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "short_summary"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google News Premier League"
+        "VTV Kinh tế"
       ]
     },
     {
-      "title": "Konsa: \"I had a lot of Arsenal kits\" - Arsenal.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObUhWeUY1c25NOHZMSTVibmNjUkxRcXpQeC1kRU5Ec0JFTWdCRkVoUVIzRjFrcUJpa0hybFg3NzVIb3ZsakZmYUFKN1lqb05YLUlOOVprd2xLSndPc3U0THFTbWd4dE9MR0stMnlmNG01bGVrMTNqV2EwUlFGTUIycg?oc=5",
-      "summary": "Konsa: \"I had a lot of Arsenal kits\" Arsenal.com",
-      "published_at": "2026-10-20T06:54:28+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
+      "title": "EVN khởi công nhà máy điện khí LNG hơn 40.000 tỷ đồng",
+      "url": "https://vnexpress.net/evn-khoi-cong-nha-may-dien-khi-lng-hon-40-000-ty-dong-5134576.html",
+      "summary": "Dự án điện LNG Quảng Trạch II có công suất gần 1.613 MW, tổng mức đầu tư hơn 40.000 tỷ đồng, dự kiến bổ sung sản lượng 9,5 tỷ kWh mỗi năm.",
+      "published_at": "2026-10-20T06:30:17+00:00",
+      "source": "VnExpress Kinh doanh",
+      "source_feed": "https://vnexpress.net/rss/kinh-doanh.rss",
+      "category": "vietnam",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 42,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "short_summary"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
-      "title": "Scottish gossip: Moyes insider doubts potential Celtic move - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wZW10ODN1eDEyRFhMN2lvVUw0TURjVjBPNk1BUjUzMFBiQnNpUEpuZ3NnbUZ5Ukl0RmwzSi1rekNFcS1TUjFMWDZLTDlWZkE5dWNGWHJYNkhsN0ViM2ZhaVVjUk1odGdH?oc=5",
-      "summary": "Scottish gossip: Moyes insider doubts potential Celtic move BBC",
-      "published_at": "2026-10-20T06:52:44+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
-      "title": "cổ tức",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T06:40:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
+        "VnExpress Kinh doanh"
       ]
     },
     {
@@ -1157,51 +1350,66 @@
       ]
     },
     {
-      "title": "litva",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T06:20:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
+      "title": "India news: Rubio set to hold talks with S Jaishankar",
+      "url": "https://www.dw.com/en/india-news-rubio-set-to-hold-talks-with-s-jaishankar/live-79708492?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "Marco Rubio's talks with Indian FM S Jaishankar come as the two countries struggle to finalise a trade deal. Follow DW for more.",
+      "published_at": "2026-10-20T06:22:00+00:00",
+      "source": "Deutsche Welle World",
+      "source_feed": "https://rss.dw.com/xml/rss-en-all",
+      "category": "world",
+      "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 62,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "potential_high_impact_topic",
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google Trends Vietnam"
+        "Deutsche Welle World"
       ]
     },
     {
-      "title": "sân vận động quốc gia mỹ đình",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T06:00:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
+      "title": "Egypt’s Hassan and Zico suspended over FIFA World Cup refereeing criticism",
+      "url": "https://www.aljazeera.com/sports/2026/10/20/egypts-hassan-and-zico-suspended-over-fifa-world-cup-refereeing-criticism?traffic_source=rss",
+      "summary": "FIFA punishes Egypt's head coach, forward and team manager for their comments after their World Cup loss to Argentina.",
+      "published_at": "2026-10-20T06:21:56+00:00",
+      "source": "Al Jazeera English",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "category": "world",
+      "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 62,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "potential_high_impact_topic",
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google Trends Vietnam"
+        "Al Jazeera English"
+      ]
+    },
+    {
+      "title": "Canada: Alberta rejects separation bid, CBC projects",
+      "url": "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "Voters have decisively rejected a proposal to begin the legal process toward Alberta's independence, dealing a major blow to a movement driven largely by economic grievances.",
+      "published_at": "2026-10-20T06:13:00+00:00",
+      "source": "Deutsche Welle World",
+      "source_feed": "https://rss.dw.com/xml/rss-en-all",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Deutsche Welle World"
       ]
     },
     {
@@ -1223,6 +1431,27 @@
       "quality_flags": [],
       "sources_seen": [
         "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "Israel’s elections 2026 explained in maps and charts",
+      "url": "https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts?traffic_source=rss",
+      "summary": "Israelis vote on October 27 in the sixth election since 2019. Here’s how the system works and who gets left out.",
+      "published_at": "2026-10-20T05:25:31+00:00",
+      "source": "Al Jazeera English",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Al Jazeera English"
       ]
     },
     {
@@ -1264,6 +1493,47 @@
       "quality_flags": [],
       "sources_seen": [
         "BBC Business"
+      ]
+    },
+    {
+      "title": "Xe tăng T1, thiết giáp XTC-03 sẽ được trưng bày tại triển lãm Quốc phòng 2026",
+      "url": "https://vnexpress.net/xe-tang-t1-thiet-giap-xtc-03-se-duoc-trung-bay-tai-trien-lam-quoc-phong-2026-5134510.html",
+      "summary": "Các vũ khí, trang bị mới do Việt Nam nghiên cứu sản xuất như xe tăng T1, thiết giáp XTC-03 dự kiến xuất hiện tại triển lãm Quốc phòng quốc tế tháng 12.",
+      "published_at": "2026-10-20T04:08:48+00:00",
+      "source": "VnExpress Thời sự",
+      "source_feed": "https://vnexpress.net/rss/thoi-su.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VnExpress Thời sự"
+      ]
+    },
+    {
+      "title": "Japan launches historic mission to bring back Mars moon samples",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
+      "summary": "Japan has launched a five-year uncrewed mission to collect samples from Phobos, one of Mars’ two moons.",
+      "published_at": "2026-10-20T04:08:33+00:00",
+      "source": "Al Jazeera English",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Al Jazeera English"
       ]
     },
     {
@@ -1587,6 +1857,108 @@
       ]
     },
     {
+      "title": "Ngã ra đường ở Hà Nội, cô gái bị xe buýt cán tử vong",
+      "url": "https://vnexpress.net/nga-ra-duong-o-ha-noi-co-gai-bi-xe-buyt-can-tu-vong-5134542.html",
+      "summary": "Va chạm với một xe máy trên đường Xuân Thủy, phường Cầu Giấy, và ngã ra đường, cô gái bị xe buýt cán tử vong, sáng 20/10.",
+      "published_at": "2026-10-20T03:58:25+00:00",
+      "source": "VnExpress Thời sự",
+      "source_feed": "https://vnexpress.net/rss/thoi-su.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VnExpress Thời sự"
+      ]
+    },
+    {
+      "title": "Christiane Amanpour to leave CNN after 43 years",
+      "url": "https://www.dw.com/en/christiane-amanpour-to-leave-cnn-after-43-years/a-79708034?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "Christiane Amanpour's announcement comes after Paramount Skydance's controversial merger with Warner Bros. Discovery, CNN's parent company.",
+      "published_at": "2026-10-20T03:45:00+00:00",
+      "source": "Deutsche Welle World",
+      "source_feed": "https://rss.dw.com/xml/rss-en-all",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Deutsche Welle World"
+      ]
+    },
+    {
+      "title": "Nhân viên ngân hàng 'săn' khách gửi tiền trước khi hạ lãi suất",
+      "url": "https://vnexpress.net/nhan-vien-ngan-hang-san-khach-gui-tien-truoc-khi-ha-lai-suat-5134398.html",
+      "summary": "Lấy lý do lãi suất huy động sắp giảm theo chỉ đạo của Ngân hàng Nhà nước, nhân viên nhiều nhà băng dồn dập đăng bài, gọi điện giục khách mở sổ \"phút chót\".",
+      "published_at": "2026-10-20T03:44:03+00:00",
+      "source": "VnExpress Kinh doanh",
+      "source_feed": "https://vnexpress.net/rss/kinh-doanh.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VnExpress Kinh doanh"
+      ]
+    },
+    {
+      "title": "Thanh Hóa nghiên cứu xây trung tâm hành chính mới",
+      "url": "https://vnexpress.net/thanh-hoa-nghien-cuu-xay-trung-tam-hanh-chinh-moi-5134493.html",
+      "summary": "Trung tâm chính trị, hành chính mới của tỉnh Thanh Hóa dự kiến được quy hoạch trên khu đất rộng khoảng 160 ha nằm ven bờ sông Mã.",
+      "published_at": "2026-10-20T03:41:10+00:00",
+      "source": "VnExpress Thời sự",
+      "source_feed": "https://vnexpress.net/rss/thoi-su.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VnExpress Thời sự"
+      ]
+    },
+    {
+      "title": "Phép thử với tham vọng AI của Elon Musk",
+      "url": "https://vnexpress.net/phep-thu-voi-tham-vong-ai-cua-elon-musk-5134469.html",
+      "summary": "Tuần này, SpaceX và Tesla sẽ công bố báo cáo tài chính, giúp nhà đầu tư có cái nhìn hiếm hoi về hai công ty của người giàu nhất thế giới.",
+      "published_at": "2026-10-20T03:38:20+00:00",
+      "source": "VnExpress Kinh doanh",
+      "source_feed": "https://vnexpress.net/rss/kinh-doanh.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VnExpress Kinh doanh"
+      ]
+    },
+    {
       "title": "Manchester United weigh up stunning move for Real Betis and ex-Tottenham forward Troy Parrott - Paper Talk - Sky Sports",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTGpkb0E0ZVExMTNkblBFYWhaMVlxemVxMG9jeEtBTHZndklhT0VVam9fdVQxZmlpUDR2ZjlQcm9wajBOdVVtUmhFRXV5Y2Nra1lRdERvOGpSb1pma2dEVDIzdHhsMVVBckpMaTV3QWxJR2ZEaW82YjlOSEo3cEFlVkxOb0xhOFBxQk1nX0dNZThLZFYtNzJDZlFCdWZrN3hKV2pHVTlpRnA0RlNWejlsekFXaS1TSlRTdVBLczZjZlNCZmctVkcxT3B6T0V3aTlBdHNRRGtEVHRvTFdaZzFVX3hqbnUtSnNoUTNaQkdWMERBT09kS2hXZHk2cGo?oc=5",
       "summary": "Manchester United weigh up stunning move for Real Betis and ex-Tottenham forward Troy Parrott - Paper Talk Sky Sports",
@@ -1608,13 +1980,13 @@
       ]
     },
     {
-      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
-      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
-      "published_at": "2026-10-20T03:10:39+00:00",
-      "source": "BBC World",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "category": "world",
+      "title": "PSG vs Barcelona: UEFA Champions League – Yamal, Torres, predictions, teams",
+      "url": "https://www.aljazeera.com/sports/2026/10/20/psg-vs-barcelona-uefa-champions-league-yamal-torres-predictions?traffic_source=rss",
+      "summary": "Lamine Yamal faces ex-teammate Ferran Torres as in-form Barcelona take on holders PSG in a spicy encounter in Paris.",
+      "published_at": "2026-10-20T02:52:50+00:00",
+      "source": "Al Jazeera English",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "category": "football",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
@@ -1624,17 +1996,17 @@
       ],
       "quality_flags": [],
       "sources_seen": [
-        "BBC World"
+        "Al Jazeera English"
       ]
     },
     {
-      "title": "Seventh day of violent clashes between Albanian protesters and police",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
-      "published_at": "2026-10-20T02:45:05+00:00",
-      "source": "BBC World",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "category": "world",
+      "title": "Bộ Chính trị yêu cầu đổi mới chính sách tiền lương theo hiệu quả công việc",
+      "url": "https://vnexpress.net/bo-chinh-tri-yeu-cau-doi-moi-chinh-sach-tien-luong-theo-hieu-qua-cong-viec-5134465.html",
+      "summary": "Bộ Chính trị yêu cầu từng bước trả lương, đãi ngộ theo vị trí việc làm, năng lực và kết quả công việc, khắc phục tình trạng coi trọng ngạch, bậc, thâm niên hơn hiệu quả.",
+      "published_at": "2026-10-20T02:50:22+00:00",
+      "source": "VnExpress Thời sự",
+      "source_feed": "https://vnexpress.net/rss/thoi-su.rss",
+      "category": "books",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
@@ -1644,7 +2016,7 @@
       ],
       "quality_flags": [],
       "sources_seen": [
-        "BBC World"
+        "VnExpress Thời sự"
       ]
     },
     {
@@ -1670,23 +2042,24 @@
       ]
     },
     {
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-      "published_at": "2026-10-20T01:52:43+00:00",
-      "source": "BBC World",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "category": "world",
+      "title": "Lãi suất tiết kiệm giảm đồng loạt",
+      "url": "https://vnexpress.net/lai-suat-tiet-kiem-giam-dong-loat-5134403.html",
+      "summary": "15 ngân hàng tư nhân cùng lúc giảm 0,5-0,7 điểm phần trăm lãi suất tiền gửi niêm yết từ 6 tháng trong ngày 19/10, ngay sau chỉ đạo của Ngân hàng Nhà nước.",
+      "published_at": "2026-10-19T23:32:24+00:00",
+      "source": "VnExpress Kinh doanh",
+      "source_feed": "https://vnexpress.net/rss/kinh-doanh.rss",
+      "category": "vietnam",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 62,
       "triage_reasons": [
+        "potential_high_impact_topic",
         "published_within_24_hours"
       ],
       "quality_flags": [],
       "sources_seen": [
-        "BBC World"
+        "VnExpress Kinh doanh"
       ]
     },
     {
@@ -1750,86 +2123,6 @@
       ]
     },
     {
-      "title": "Arsenal and Liverpool backed to take advantage of Barcelona's mad decision to sell best defender - talkSPORT",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaUNfcWdLbGZIUGJtY1lvQWJKZWR5eDdPRG0wdFVEa3BBWnoyM3hUSEtWY1MyZGtTLWRfYjIyUFQyWk5fdXR5bkZPODV1Wk12M1MzN3lWYjNsNFRGbHZuVzNLZndvQ0taZEdJS2RJaVQweE5reklXeE1PYzZhQVc5S2lhc2VvejNtRXJRWklaVTJONFE?oc=5",
-      "summary": "Arsenal and Liverpool backed to take advantage of Barcelona's mad decision to sell best defender talkSPORT",
-      "published_at": "2026-10-19T22:12:52+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
-      "title": "Liverpool and Man Utd eye Nmecha - Tuesday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crjwe6wyjeqwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Liverpool and Manchester United are interested in Borussia Dortmund midfielder Felix Nmecha, plus the rest of Tuesday's gossip.",
-      "published_at": "2026-10-19T22:01:39+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Sport Football"
-      ]
-    },
-    {
-      "title": "Ronaldo given 30-day suspension and £215 fine by Portuguese FA",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no?at_medium=RSS&at_campaign=rss",
-      "summary": "Cristiano Ronaldo is given a 30-day suspension by the Portuguese Football Federation after leaving his country's international camp last month.",
-      "published_at": "2026-10-19T21:34:06+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Sport Football"
-      ]
-    },
-    {
-      "title": "Spurs beat Coventry to earn first league win of the season",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9x28pyg05vyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tottenham Hotspur record their first Premier League win of the season and move off the bottom of the table with a home victory over Coventry City.",
-      "published_at": "2026-10-19T21:33:07+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Sport Football"
-      ]
-    },
-    {
       "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
       "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
       "summary": "The two top tennis pros married in 2021 and have one child together.",
@@ -1875,63 +2168,45 @@
       ]
     },
     {
-      "title": "Arsenal, all the broadcast information at a glance: who is showing or streaming the Gunners’ matches live on TV and online? - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMlpKM21OdWhzcW1LSVBBSzZ2UWwwQk0td3VMN09hU0V0VnhuLVhTZU9BLVU5MHg1YlRPQk50ZWhWaDl2OUZfWkZvVS03MkZqT28xVXdIMkE1MmFnT3BUWk5iaEtoWE1vaUMtbkI5ZjQwbWlDOGNQNno3VjNpbHdXd0FzOFFhelJVc2syOWZVSWpMNkVuazV1aFNkOEFFZHl1cW1OQXZEanMtZ2hJVzJSU1NVdDdhLUtKR0ZVc00tdjhnLWtjYkJWWFRVTV9LMXl5NXJfSTkxcUN5NGt3X3AycnpQeXhPc05pU3ZGLWhvR0wtM3FsaUlxbUx1WjM4NWtE?oc=5",
-      "summary": "Arsenal, all the broadcast information at a glance: who is showing or streaming the Gunners’ matches live on TV and online? Goal.com",
-      "published_at": "2026-10-19T20:43:14+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
+      "title": "Nhiều ngân hàng đồng loạt giảm lãi suất",
+      "url": "https://vtv.vn/nhieu-ngan-hang-dong-loat-giam-lai-suat-100261019172900854.htm",
+      "summary": "VTV.vn - Sau yêu cầu của Ngân hàng Nhà nước, nhiều ngân hàng đồng loạt giảm lãi suất huy động và lãi suất cho vay, hỗ trợ doanh nghiệp và người dân tiếp cận vốn.",
+      "published_at": "2026-10-19T20:26:00+00:00",
+      "source": "VTV Kinh tế",
+      "source_feed": "https://vtv.vn/rss/kinh-te.rss",
+      "category": "vietnam",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 62,
       "triage_reasons": [
+        "potential_high_impact_topic",
         "published_within_24_hours"
       ],
       "quality_flags": [],
       "sources_seen": [
-        "Google News Arsenal"
+        "VTV Kinh tế"
       ]
     },
     {
-      "title": "Building Lionesses 2.0 - Wiegman's new challenge awaits",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvze4w57746yo?at_medium=RSS&at_campaign=rss",
-      "summary": "England head coach Sarina Wiegman has changed women's football in the country, so what does she face after signing a contract extension?",
-      "published_at": "2026-10-19T20:15:48+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
+      "title": "Thống đốc yêu cầu xem xét giảm lãi suất với dư nợ hiện hữu và các khoản vay mới",
+      "url": "https://vtv.vn/thong-doc-yeu-cau-xem-xet-giam-lai-suat-voi-du-no-hien-huu-va-cac-khoan-vay-moi-100261019152646083.htm",
+      "summary": "VTV.vn - Thống đốc yêu cầu giảm lãi suất không thực hiện cào bằng mà cần lựa chọn đúng đối tượng, tập trung hỗ trợ các lĩnh vực sản xuất, kinh doanh và lĩnh vực ưu tiên.",
+      "published_at": "2026-10-19T20:16:00+00:00",
+      "source": "VTV Kinh tế",
+      "source_feed": "https://vtv.vn/rss/kinh-te.rss",
+      "category": "vietnam",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 62,
       "triage_reasons": [
+        "potential_high_impact_topic",
         "published_within_24_hours"
       ],
       "quality_flags": [],
       "sources_seen": [
-        "BBC Sport Football"
-      ]
-    },
-    {
-      "title": "Mission blasts off for Mars to grab a piece of its moon",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-      "published_at": "2026-10-19T19:45:46+00:00",
-      "source": "BBC World",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC World"
+        "VTV Kinh tế"
       ]
     },
     {
@@ -1956,6 +2231,48 @@
       ]
     },
     {
+      "title": "VietinBank triển khai các giải pháp giảm lãi suất cho vay tới 2%/năm, tiếp sức tăng trưởng kinh tế",
+      "url": "https://vtv.vn/vietinbank-trien-khai-cac-giai-phap-giam-lai-suat-cho-vay-toi-2-nam-tiep-suc-tang-truong-kinh-te-100261019163724361.htm",
+      "summary": "VTV.vn - Giảm lãi suất đến 2%/năm, VietinBank triển khai đồng bộ các giải pháp hỗ trợ hoạt động sản xuất kinh doanh của doanh nghiệp và người dân.",
+      "published_at": "2026-10-19T18:53:00+00:00",
+      "source": "VTV Kinh tế",
+      "source_feed": "https://vtv.vn/rss/kinh-te.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VTV Kinh tế"
+      ]
+    },
+    {
+      "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
+      "url": "https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "A Bulgarian court has issued arrest warrants for two young German nationals suspected of setting fire to Starlink antennas. The case is reminiscent of another in Poland, which Warsaw says was orchestrated by Russia.",
+      "published_at": "2026-10-19T18:45:00+00:00",
+      "source": "Deutsche Welle World",
+      "source_feed": "https://rss.dw.com/xml/rss-en-all",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Deutsche Welle World"
+      ]
+    },
+    {
       "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
       "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
       "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
@@ -1977,186 +2294,45 @@
       ]
     },
     {
-      "title": "US bans China's DeepSeek from government in race for AI dominance",
-      "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up.",
-      "published_at": "2026-10-19T18:21:54+00:00",
-      "source": "BBC Business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "Germany news: Emergency at Leipzig airport sparked by novice driver",
+      "url": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "Two men breached a fence at the Leipzig/Halle airport while practicing for a driving test. Meanwhile, German Chancellor Friedrich Merz announced an industrial AI partnership with Nvidia. DW has more.",
+      "published_at": "2026-10-19T17:26:00+00:00",
+      "source": "Deutsche Welle World",
+      "source_feed": "https://rss.dw.com/xml/rss-en-all",
       "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 52,
       "triage_reasons": [
+        "possible_concrete_development",
         "published_within_24_hours"
       ],
       "quality_flags": [],
       "sources_seen": [
-        "BBC Business"
+        "Deutsche Welle World"
       ]
     },
     {
-      "title": "Uefa gives Infantino two-week deadline to release key documents",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Uefa's letter contained 42 questions, covering Fifa's failed private investment proposals, its Peace Prize and the fallout from Folarin Balogun's World Cup red card.",
-      "published_at": "2026-10-19T18:20:39+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
+      "title": "Hà Nội ban hành danh mục 18 loài cây cấm trồng",
+      "url": "https://vnexpress.net/ha-noi-ban-hanh-danh-muc-18-loai-cay-cam-trong-5133551.html",
+      "summary": "Thành phố đưa ra danh mục cây cấm trồng, trong đó có trứng cá, dâu da, trúc đào, bồ hòn... do có độc tố, gây nghiện, có gai và cành giòn dễ gãy đổ.",
+      "published_at": "2026-10-19T17:00:00+00:00",
+      "source": "VnExpress Thời sự",
+      "source_feed": "https://vnexpress.net/rss/thoi-su.rss",
+      "category": "vietnam",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 52,
       "triage_reasons": [
+        "possible_concrete_development",
         "published_within_24_hours"
       ],
       "quality_flags": [],
       "sources_seen": [
-        "BBC Sport Football"
-      ]
-    },
-    {
-      "title": "Leicester to visit Oxford City in FA Cup first round - full draw",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o?at_medium=RSS&at_campaign=rss",
-      "summary": "Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round - five years after winning the competition.",
-      "published_at": "2026-10-19T18:13:52+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Sport Football"
-      ]
-    },
-    {
-      "title": "Arsenal: Jamie Carragher insists Gunners still 'team to beat' despite lack of 'star power' - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ2pfS3JIZFpoNkpWQnR2Ymd0WklsRURLMVprQ21xRjJvTFlaaUl3c3JjT3FEMl9Wc0c4dDhQMWVfTlA3cU5FMURxY3JqQ0hlUThER0xTR1NLWU1zZkRHNHB3ZFljQ0J3YVQ3TTVpRVUzcWRLNm5wNmRtTVNPUW1ja29Da2dWcDUxTDl1b1E0SHc1dFZBS2pCYjllSENaRHYtSmRiMXVCcWtmbHk1SU5MM3JXTGFDNzFydDlOY2RCcEVySGdpNVFkeFlRWHk0bW9x?oc=5",
-      "summary": "Arsenal: Jamie Carragher insists Gunners still 'team to beat' despite lack of 'star power' Sky Sports",
-      "published_at": "2026-10-19T17:23:56+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
-      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-      "published_at": "2026-10-19T17:18:04+00:00",
-      "source": "BBC World",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC World"
-      ]
-    },
-    {
-      "title": "Vinted blocks French looters listing stolen goods for sale",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
-      "published_at": "2026-10-19T16:46:35+00:00",
-      "source": "BBC World",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC World",
-        "BBC Business"
-      ]
-    },
-    {
-      "title": "Guehi among players not to take knee - is it time to 'move campaign along'?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxyvrndz49v7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Premier League clubs took the knee for the first time this season, but six players chose to remain standing.",
-      "published_at": "2026-10-19T16:41:54+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Sport Football"
-      ]
-    },
-    {
-      "title": "THREAD: Joined Senator Tillis today to host an update from President Zelenskyy with bipartisan colleagues—hearing from him highly alarmingly that intelligence sharing & Starshield access are still partially degraded. 1/ - X",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nVjYwNjlDNDI4N2hJWHgzZUR6TV9keFBZVW8zMEhTbTJpSm8tUHI0WWVoYURvQng1R3ZXc1R6RS1iUUxKbGFPejhtR045N2VRSml4VFNvY0IyZGoxV3FOcW5SRmk?oc=5",
-      "summary": "THREAD: Joined Senator Tillis today to host an update from President Zelenskyy with bipartisan colleagues—hearing from him highly alarmingly that intelligence sharing & Starshield access are still partially degraded. 1/ X",
-      "published_at": "2026-10-19T16:38:06+00:00",
-      "source": "Google News X Threads & Creator Discussions",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [
-        "no_public_engagement_metrics"
-      ],
-      "sources_seen": [
-        "Google News X Threads & Creator Discussions"
-      ]
-    },
-    {
-      "title": "Araujo the stopgap solution fixing Liverpool's problems",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck8dz7pp4089o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ronald Araujo has impressed since arriving at Liverpool from Barcelona. Could he prove a longer-term solution?",
-      "published_at": "2026-10-19T16:29:34+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Sport Football"
+        "VnExpress Thời sự"
       ]
     },
     {
@@ -2181,46 +2357,6 @@
       ]
     },
     {
-      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
-      "published_at": "2026-10-19T16:20:51+00:00",
-      "source": "BBC World",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC World"
-      ]
-    },
-    {
-      "title": "Obama blasts federal probe of Ilhan Omar as 'so appalling'",
-      "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
-      "published_at": "2026-10-19T16:16:51+00:00",
-      "source": "BBC World",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC World"
-      ]
-    },
-    {
       "title": "People are using AI to make their smart TVs dumb again",
       "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
       "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
@@ -2242,129 +2378,87 @@
       ]
     },
     {
-      "title": "Wabi 2.0 is live! personal agents are one person, one chat. but the parts of life that matter run on more than one person Wabi is an agent you use together. you talk to it, it does stuff, builds the apps you need, and anyone can join the thread - your partner, your b - X",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtTkhHOHZ3Xy1DWWlTMUVSNTMwcGI5NV91VDRMX0hNUVlOVjZSdjcydFdqcHh5OFc3R29HSUVpSWdQMmVGbU1iUkdSdy1wVVhieVdVYXhRREFQX3M?oc=5",
-      "summary": "Wabi 2.0 is live! personal agents are one person, one chat. but the parts of life that matter run on more than one person Wabi is an agent you use together. you talk to it, it does stuff, builds the apps you need, and anyone can join the thread - your partner, your b X",
-      "published_at": "2026-10-19T16:02:30+00:00",
-      "source": "Google News X Threads & Creator Discussions",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [
-        "no_public_engagement_metrics"
-      ],
-      "sources_seen": [
-        "Google News X Threads & Creator Discussions"
-      ]
-    },
-    {
-      "title": "Bikes 'not for jousting,' says Lime after duel video",
-      "url": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
-      "published_at": "2026-10-19T15:44:53+00:00",
-      "source": "BBC Business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+      "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+      "summary": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in one of the world’s worst cult-related disasters in recent history. Mackenzie was arrested in 2023 after police received a tipoff, and weeks later authorities began uncovering bodies in shallow graves in the Shakahola forest near the coast ⁠in south-eastern Kenya. Continue reading...",
+      "published_at": "2026-10-19T16:08:14+00:00",
+      "source": "The Guardian World",
+      "source_feed": "https://www.theguardian.com/world/rss",
       "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 52,
       "triage_reasons": [
+        "possible_concrete_development",
         "published_within_24_hours"
       ],
       "quality_flags": [],
       "sources_seen": [
-        "BBC Business"
+        "The Guardian World"
       ]
     },
     {
-      "title": "The creator of Clannad and Angel Beats, Jun Maeda, has been diagnosed with throat cancer He has chosen palliative care over active treatment so he can continue working on his projects - X",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yalpqaE1qNmtLaGtwTGRiMUgwZXNycXJNR2JOZ21HYzVzUjRCemxVMzlzSzlZWUNoZDV2VENQMGdtb2hoa3VSWktWUERORDFaV2swbi02MDdUX2pW?oc=5",
-      "summary": "The creator of Clannad and Angel Beats, Jun Maeda, has been diagnosed with throat cancer He has chosen palliative care over active treatment so he can continue working on his projects X",
-      "published_at": "2026-10-19T14:37:55+00:00",
-      "source": "Google News X Threads & Creator Discussions",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
+      "title": "Can diplomacy stop another Ethiopia-Eritrea war?",
+      "url": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "Ethiopia has installed a new administration in conflict-hit Tigray after federal forces pushed back Tigrayan fighters. But tensions with Eritrea continue to raise fears of a wider regional war.",
+      "published_at": "2026-10-19T15:07:00+00:00",
+      "source": "Deutsche Welle World",
+      "source_feed": "https://rss.dw.com/xml/rss-en-all",
+      "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 62,
       "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [
-        "no_public_engagement_metrics"
-      ],
-      "sources_seen": [
-        "Google News X Threads & Creator Discussions"
-      ]
-    },
-    {
-      "title": "Haaland a doubt, Semenyo out - what are Man City's options?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5djv21rkekwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Manchester City coach Enzo Maresca explores his attacking options for Tuesday's Champions League game against AEK Athens.",
-      "published_at": "2026-10-19T14:36:36+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
+        "potential_high_impact_topic",
         "published_within_24_hours"
       ],
       "quality_flags": [],
       "sources_seen": [
-        "BBC Sport Football"
+        "Deutsche Welle World"
       ]
     },
     {
-      "title": "Tiger Shroff Firing Case: From Juhu Shooting To Arrests In Rajasthan, Full Timeline Of Events - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UY0ktNnpEYWVtN2tmVURuRFNROEdubXgtbGlSLWhwNjJiWE9zTUhsTVd6d195bGhzZFdnQjh4NnZWcVNGbFFmM3RjZXFSN0dPN2NoaU9n?oc=5",
-      "summary": "Tiger Shroff Firing Case: From Juhu Shooting To Arrests In Rajasthan, Full Timeline Of Events YouTube",
-      "published_at": "2026-10-19T14:24:13+00:00",
-      "source": "Google News YouTube Videos & Creators",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ayoutube.com%2Fwatch+creator+OR+video+essay+OR+explainer&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
+      "title": "Công bố nguyên nhân vụ cháy căn cứ quân sự ở Canada",
+      "url": "https://vtv.vn/cong-bo-nguyen-nhan-vu-chay-can-cu-quan-su-o-canada-100261019125827374.htm",
+      "summary": "VTV.vn - Quân đội Canada đã công bố thông tin mới về vụ hỏa hoạn tại căn cứ Wainwright, khiến 4 binh sĩ thiệt mạng và 39 người bị thương.",
+      "published_at": "2026-10-19T15:00:00+00:00",
+      "source": "VTV Thế giới",
+      "source_feed": "https://vtv.vn/rss/the-gioi/tin-tuc.rss",
+      "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 52,
       "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [
-        "no_public_engagement_metrics"
-      ],
-      "sources_seen": [
-        "Google News YouTube Videos & Creators"
-      ]
-    },
-    {
-      "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
-      "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
-      "published_at": "2026-10-19T14:13:18+00:00",
-      "source": "BBC World",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
+        "possible_concrete_development",
         "published_within_24_hours"
       ],
       "quality_flags": [],
       "sources_seen": [
-        "BBC World"
+        "VTV Thế giới"
+      ]
+    },
+    {
+      "title": "Drone attack near market kills 80 in Sudan",
+      "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
+      "summary": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home. Ahmed Wadi, a witness, said the attack in the town of al-Dibab in West Kordofan state left “50 bodies who I helped bury, one of them my own brother Mohamed”. Continue reading...",
+      "published_at": "2026-10-19T14:45:53+00:00",
+      "source": "The Guardian World",
+      "source_feed": "https://www.theguardian.com/world/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "The Guardian World"
       ]
     },
     {
@@ -2389,85 +2483,24 @@
       ]
     },
     {
-      "title": "Which Premier League matches are available to watch and live stream with TNT Sports on HBO Max? - TNT Sports",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWXppMmlvaExVR3VSSGFzempfTUFQYUQ0TTFqcHZ1VTl6Vm85M2V4UHBKOUFlQjdIMkR4VUE0eENUWnUxcVJGS0NaOTlfQWlxLWVDeFN4N3hyR2VUTWxtZWRLQXpfbjY4UnlfRUhMV1BXUVNhYXVHYkd2Z2xrd3pTcEx2X05CdmVkMFlzaF92VklrWG9Cb1Q2WUhMbzdlMHh2S0lyMnkyc3QtMUNWTi1yNXUzbG1HUktIbHZTUFRSQVJlU05XWGFsT3pxbkN1RXNydnNwSzdyMkM?oc=5",
-      "summary": "Which Premier League matches are available to watch and live stream with TNT Sports on HBO Max? TNT Sports",
-      "published_at": "2026-10-19T14:00:00+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
-      "title": "Exiled critic of Rwandan president found beheaded",
-      "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
-      "summary": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
-      "published_at": "2026-10-19T13:42:41+00:00",
-      "source": "BBC World",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "title": "Israel ưu tiên tấn công phủ đầu trong học thuyết an ninh",
+      "url": "https://vtv.vn/israel-uu-tien-tan-cong-phu-dau-trong-hoc-thuyet-an-ninh-10026101909125774.htm",
+      "summary": "VTV.vn - Thủ tướng Israel Benjamin Netanyahu mới công bố học thuyết an ninh mới, nhấn mạnh chủ động ngăn chặn các mối đe dọa từ sớm.",
+      "published_at": "2026-10-19T14:01:00+00:00",
+      "source": "VTV Thế giới",
+      "source_feed": "https://vtv.vn/rss/the-gioi/tin-tuc.rss",
       "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 52,
       "triage_reasons": [
+        "possible_concrete_development",
         "published_within_24_hours"
       ],
       "quality_flags": [],
       "sources_seen": [
-        "BBC World"
-      ]
-    },
-    {
-      "title": "'Cyberpunk: Edgerunners' Creator says Season 1 had a happy ending in his perspective because \"it could've ended so much worse for David\" - X",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhT0VhWUtKcHh0ZXJUZG1BekZIUEdMcDVXSHE5RE02MzFqRnpZc05qXzFNaUMtMHM4bkt1cFJxckdTOTFydWFhY251S1YwajV0NnFCcFFTMHVjZF9zNXAyVg?oc=5",
-      "summary": "'Cyberpunk: Edgerunners' Creator says Season 1 had a happy ending in his perspective because \"it could've ended so much worse for David\" X",
-      "published_at": "2026-10-19T12:54:20+00:00",
-      "source": "Google News X Threads & Creator Discussions",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [
-        "no_public_engagement_metrics"
-      ],
-      "sources_seen": [
-        "Google News X Threads & Creator Discussions"
-      ]
-    },
-    {
-      "title": "Home sellers cut asking prices on 3,000 properties a day",
-      "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
-      "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
-      "published_at": "2026-10-19T12:54:03+00:00",
-      "source": "BBC Business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Business"
+        "VTV Thế giới"
       ]
     },
     {
@@ -2513,26 +2546,6 @@
       ]
     },
     {
-      "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
-      "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
-      "summary": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
-      "published_at": "2026-10-19T12:16:32+00:00",
-      "source": "BBC Business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Business"
-      ]
-    },
-    {
       "title": "Advancing coding in low‑resource programming languages",
       "url": "https://openai.com/index/low-resource-programming-languages",
       "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
@@ -2554,43 +2567,108 @@
       ]
     },
     {
-      "title": "Personal attacks fire up debate before Brazil's run-off vote",
-      "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
-      "published_at": "2026-10-19T11:41:24+00:00",
-      "source": "BBC World",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "title": "UN condemns deadly wave of drone strikes in war-torn Sudan",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168628",
+      "summary": "Drone strikes killed and injured dozens across Sudan on Monday as the ongoing war continues to cause soaring displacement and hunger.",
+      "published_at": "2026-10-19T12:00:00+00:00",
+      "source": "UN News",
+      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
       "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 62,
       "triage_reasons": [
+        "potential_high_impact_topic",
         "published_within_24_hours"
       ],
       "quality_flags": [],
       "sources_seen": [
-        "BBC World"
+        "UN News"
       ]
     },
     {
-      "title": "Everton legend Ferguson returns to management in Irish League",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq62yd157rjeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ex-Everton and Rangers striker Duncan Ferguson is named as the new manager of Irish Premiership club Glentoran.",
-      "published_at": "2026-10-19T10:06:10+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
+      "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168626",
+      "summary": "Armed groups in Haiti are adapting to intensified security operations, stepping up reprisals against civilians and extending their reach into rural areas, the UN warned the Security Council on Monday.",
+      "published_at": "2026-10-19T12:00:00+00:00",
+      "source": "UN News",
+      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 62,
       "triage_reasons": [
+        "potential_high_impact_topic",
         "published_within_24_hours"
       ],
       "quality_flags": [],
       "sources_seen": [
-        "BBC Sport Football"
+        "UN News"
+      ]
+    },
+    {
+      "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
+      "summary": "Israeli attacks on war-torn Gaza over the weekend killed at least six Palestinians, including children, despite a year-old ceasefire agreement. Meanwhile, in the occupied West Bank, settler violence continued through the ongoing olive harvest, with UN independent experts on Monday urging Israel to protect Palestinian farmers.",
+      "published_at": "2026-10-19T12:00:00+00:00",
+      "source": "UN News",
+      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "UN News"
+      ]
+    },
+    {
+      "title": "Gaza: Funding cuts leave half a million without food assistance",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168622",
+      "summary": "Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.",
+      "published_at": "2026-10-19T12:00:00+00:00",
+      "source": "UN News",
+      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "UN News"
+      ]
+    },
+    {
+      "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+      "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+      "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system. The category 2 hurricane remained roughly 100 miles (160km) south-west of the coast of Mexico, meaning the worst of the conditions stayed offshore. However, the US National Hurricane Center put coastal parts of the states of Jalisco, Michoacán and Colima under hurricane warnings, with sustained winds of up to 60-90mph forecast on Sunday. Rainfall totals of 100-150mm were likely for these areas, prompting warnings of flooding and landslides. Warnings also covered the risk of a dangerous storm surge accompanied by damaging waves in areas of onshore winds across the coast of south-western Mexico. By Monday morning, Trudy had weakened and been downgraded to a tropical storm, with coastal warnings being lifted. Continue reading...",
+      "published_at": "2026-10-19T10:07:09+00:00",
+      "source": "The Guardian World",
+      "source_feed": "https://www.theguardian.com/world/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 57,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "The Guardian World"
       ]
     },
     {
@@ -2615,130 +2693,6 @@
       ]
     },
     {
-      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
-      "published_at": "2026-10-19T09:11:42+00:00",
-      "source": "BBC World",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
-      "triage_reasons": [
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC World"
-      ]
-    },
-    {
-      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
-      "summary": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
-      "published_at": "2026-10-19T08:17:19+00:00",
-      "source": "BBC World",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
-      "triage_reasons": [
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC World"
-      ]
-    },
-    {
-      "title": "China's growth accelerates as AI boom helps boost exports",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
-      "published_at": "2026-10-19T06:08:02+00:00",
-      "source": "BBC Business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
-      "triage_reasons": [
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Business"
-      ]
-    },
-    {
-      "title": "Ultimately, precompiles and EVM are both the wrong place to put most cryptography support into Ethereum. The reason is that precompiles and EVM both operate on data that has to be included into the ethereum chain somehow, which realistically means incl - X",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtX3FxRUZtYmlCel8tUzNxQ3FVRVE2ZjhUZ29BbGpleVdsdXlrMkNRenpocl9MX040V1YwVUlMSUxZODNTdW84a2ZrdFo5OTBCMFhIZVNkcnZRYVEwczF3M2FtdkVzdw?oc=5",
-      "summary": "Ultimately, precompiles and EVM are both the wrong place to put most cryptography support into Ethereum. The reason is that precompiles and EVM both operate on data that has to be included into the ethereum chain somehow, which realistically means incl X",
-      "published_at": "2026-10-19T04:04:05+00:00",
-      "source": "Google News X Threads & Creator Discussions",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
-      "triage_reasons": [
-        "published_within_72_hours"
-      ],
-      "quality_flags": [
-        "no_public_engagement_metrics"
-      ],
-      "sources_seen": [
-        "Google News X Threads & Creator Discussions"
-      ]
-    },
-    {
-      "title": "Virtual Assistant for Public Officials in Lang Son: Enhancing Public Service Efficiency Through Artificial Intelligence Applications - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUtFT0Rza2dVQ2I2bXRWVmV1VmRBZ1VHdUwyTG52emxqVktoLTJUN0NwSVE4VjJFM1NuX2UwNVBqN2h0N2w1bGEwejNScnZESkxFUWs4YjVYMHFfdUUwVUFOZjlPdWJDeVYwMHNxNkpEV251R0RxbWdDRjVOaWFhS01CQnpLeWw2bm9DYmZqTVA5SlNfY0FqZFp4d3pyWEVCcy1PWXItX3hlaFlvNkFJZ0JPY0VWcEhSOVJnTw?oc=5",
-      "summary": "Virtual Assistant for Public Officials in Lang Son: Enhancing Public Service Efficiency Through Artificial Intelligence Applications Vietnam.vn",
-      "published_at": "2026-10-19T02:24:07+00:00",
-      "source": "Google News AI Applications",
-      "source_feed": "https://news.google.com/rss/search?q=artificial+intelligence+applications&hl=en-US&gl=US&ceid=US:en",
-      "category": "vietnam",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
-      "triage_reasons": [
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News AI Applications"
-      ]
-    },
-    {
-      "title": "Day 14/ Small quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and took way too long to get that one out. - X",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zSGctbVZsVUR1RGM1WTFjX0JTOUl6bk5NSGVkSHBQc2o1SHRVYmN3TWVYcE1mdXZXY3J6TXFOS3RIOGhPdUxDOXFUelp4OTlQWjBxVzlvR2NzU3FqSXgzaQ?oc=5",
-      "summary": "Day 14/ Small quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and took way too long to get that one out. X",
-      "published_at": "2026-10-19T01:18:10+00:00",
-      "source": "Google News X Threads & Creator Discussions",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
-      "triage_reasons": [
-        "published_within_72_hours"
-      ],
-      "quality_flags": [
-        "no_public_engagement_metrics"
-      ],
-      "sources_seen": [
-        "Google News X Threads & Creator Discussions"
-      ]
-    },
-    {
       "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
       "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
       "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
@@ -2752,26 +2706,6 @@
       "triage_score": 57,
       "triage_reasons": [
         "potential_high_impact_topic",
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Business"
-      ]
-    },
-    {
-      "title": "Don't fall for this - how to protect yourself from AI scams",
-      "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-      "published_at": "2026-10-18T23:24:59+00:00",
-      "source": "BBC Business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
-      "triage_reasons": [
         "published_within_72_hours"
       ],
       "quality_flags": [],
@@ -2825,26 +2759,6 @@
       ]
     },
     {
-      "title": "Nottingham Forest 0-1 Arsenal: Noni Madueke scores as Gunners win tight Premier League game - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0bXAxcG5YRWEwZndtNE5HenlpRHJvMWI0TmoxaWpJUjBoU2ttTGQ0SFNuOUExNmZhOGdsS1R5NmNjU3JjdWR0VEl3TTJBSXB0T0M0T0NsLXVjcWRsTEo3OUtKTG5ndw?oc=5",
-      "summary": "Nottingham Forest 0-1 Arsenal: Noni Madueke scores as Gunners win tight Premier League game BBC Gallery: 48 snaps from our Forest victory Arsenal.com Full match | Nottingham Forest v Arsenal Arsenal.com",
-      "published_at": "2026-10-18T18:02:55+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
-      "triage_reasons": [
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
       "title": "Disney agrees to hire the majority of Character AI’s workforce",
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
@@ -2863,46 +2777,6 @@
       "quality_flags": [],
       "sources_seen": [
         "TechCrunch AI"
-      ]
-    },
-    {
-      "title": "[LIVESTREAM]TV!!] Arsenal FC vs Nottingham Forest Live Free Stream Today - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQRHU5VWxRX1dtei1MUTY3cGwyQ0h2RWN4SG16MEZiV0FieEZrLUpSbm90M20weXVZNlN2Z0pGdjhvN1pCS1hwRkZwSUk3TlIzSGVZOXdQak1mN1FsRjI3TjV1UWVtelE0a014V3ZKMFUzMHhaTE1tN2dQa3A3R1VaN1pfeC1FZm52THBaOW55akxMbDVrSy10Sm0yS2lDMmFvYi02ZnpicVlBMWlMTzJTTFNLTUlCV0xTNDY3aEdfSE1tZXU2bklZbW9icEJuRmViZnQ5ajVZX1h5Vng0SWxlZVNkYy1nenAxcUxaQUtjWEtPLXhUR2I0eF92TmVtSHhZeHhWYWNMU0FYNWVzYVlJQ3E2aHoyV002Yi1FMHVycWRaakh5XzAwbE12bWVIRUlmYjhlM1RoaVFpMW1YcWVpRWVOUWtyUWhSX3VWeWlsWERIS1Z6d1lIOGFROA?oc=5",
-      "summary": "[LIVESTREAM]TV!!] Arsenal FC vs Nottingham Forest Live Free Stream Today Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-18T16:23:57+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
-      "triage_reasons": [
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
-      "title": "There's a crackdown on sports piracy - but is it already out of control?",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
-      "published_at": "2026-10-18T00:11:09+00:00",
-      "source": "BBC Business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
-      "triage_reasons": [
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Business"
       ]
     },
     {
@@ -2948,23 +2822,65 @@
       ]
     },
     {
-      "title": "Ghana set to overtake Ethiopia as Africa’s eighth-largest economy, leading by $1.49 billion in latest IMF projections - Business Insider Africa",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYnBOWmV6QXBZS0VUQUhZejdQdV9CbkVkdUFzY05fSmxxVFJLRjRIY1hqLTAyYm9CcU1Cd092RUwyY0c0V2RxMG9tbU9OSE1MS3JUNlpfb3dZRGRYcmdZVy1SeVF3QkdaTmJiSnBrbGYtU3RHaWVzZWVpbnRrQTJGbTB4YU50MlFZNV9tNzY1a2Z0XzdDbXB0cVItMmMzbHVaUExNVzQwbDNuLTRMaFRsMTJocTRJem9EYWlfQ2hmOUgyQm1ualU1dFhqeTdBVENIQ0E2VVhZTnB1dw?oc=5",
-      "summary": "Ghana set to overtake Ethiopia as Africa’s eighth-largest economy, leading by $1.49 billion in latest IMF projections Business Insider Africa",
-      "published_at": "2026-10-17T17:46:10+00:00",
-      "source": "Google News World Economy",
-      "source_feed": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
+      "title": "COP17: The world has a plan to save nature. Is it working?",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168618",
+      "summary": "The UN Secretary-General has called for an end to the “war on nature”. On Monday, governments gathering in Yerevan, Armenia, will have to confront a more practical question: are they doing enough to win the peace and put the world’s biodiversity goals back on track?",
+      "published_at": "2026-10-17T12:00:00+00:00",
+      "source": "UN News",
+      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
       "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
+      "triage_score": 57,
       "triage_reasons": [
+        "potential_high_impact_topic",
         "published_within_72_hours"
       ],
       "quality_flags": [],
       "sources_seen": [
-        "Google News World Economy"
+        "UN News"
+      ]
+    },
+    {
+      "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168619",
+      "summary": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold and rain that threatens to cause flooding as families struggle to survive in tattered tents and damaged buildings.",
+      "published_at": "2026-10-17T12:00:00+00:00",
+      "source": "UN News",
+      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 57,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "UN News"
+      ]
+    },
+    {
+      "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
+      "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
+      "summary": "Beijing warns against ‘discriminatory’ step after France drops opposition to British role in Made in Europe package No 10 has left the door open to imposing tariffs on Chinese-made electric vehicles as part of the Made in Europe package, prompting a warning from Beijing that such a move would be “discriminatory”. Downing Street said on Friday that it would “welcome the objective to have the UK included in the Industrial Accelerator Act” after France dropped its opposition to Britain joining the scheme . Continue reading...",
+      "published_at": "2026-10-16T18:09:34+00:00",
+      "source": "The Guardian World",
+      "source_feed": "https://www.theguardian.com/world/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 50,
+      "triage_reasons": [
+        "potential_high_impact_topic"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "The Guardian World"
       ]
     },
     {
@@ -3008,26 +2924,124 @@
       ]
     },
     {
-      "title": "World economy’s ‘resilience’ surprising, says Fed’s Warsh - The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcW1USGsyTUM4ckU0RU00b0RyV0F3YVljTlJjVDg0b0FUUDUxcjF6LUM4dzBKZzZPLWpPRUVoelBkaTFhdlB6S1FlZUF2RmdnenoxenNQeUxGMkdJb1EtTDN4dWE4eW00ZTlMem9QVXFrd2tNYUVTLWZ6WmVWN0NJZEpRSjBMdlNlUVdaSFE1V1NpMVhuMm1kcUVFbVo2ZU1ONkliUGlIQlpHWGI4NDRRdlFtVGdndkNQT0ZYZndn0gHDAUFVX3lxTE85RUR2dk1pdkRJam5rUDlGT19sbGRJWWdNcFBfbFJSYlNTZXd3ZFRwNUp2M1h0a1FGVVNtRW1mQ0NRSTM4UkdhcktBS1dybG5KMVl2a2hHcXI5M3VaR0V3WnVSWi1nbklUVjFlcjhxOXdxbGpSVzU3U0dqLWFUbXEyRkNlSk5HSlRCX3JWdFV4T3BMelJvN1pZc0gxYVh5a2Nqb252c05hVFNXYUdhTmlBU1V3VzMxdHE1eEVuZTZ0WGYzdw?oc=5",
-      "summary": "World economy’s ‘resilience’ surprising, says Fed’s Warsh The Manila Times",
-      "published_at": "2026-10-16T16:13:00+00:00",
-      "source": "Google News World Economy",
-      "source_feed": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
+      "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168611",
+      "summary": "A little over one year since a ceasefire agreement was announced between Hamas fighters and Israel, more than 340 children have been reported killed and hundreds more injured, the UN Children’s Fund (UNICEF) said on Friday.",
+      "published_at": "2026-10-16T12:00:00+00:00",
+      "source": "UN News",
+      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
       "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 60,
       "triage_reasons": [
         "potential_high_impact_topic",
-        "summary_insufficient"
+        "possible_concrete_development"
       ],
-      "quality_flags": [
-        "short_summary"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google News World Economy"
+        "UN News"
+      ]
+    },
+    {
+      "title": "As disasters mount, next UN climate summit faces a test of trust",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168617",
+      "summary": "Less than a month before the UN climate conference COP31 opens in Antalya, Türkiye, representatives of three successive summit presidencies gathered to address a pressing question: How can the world restore trust in climate action when the consequences of a warming planet are already being felt?",
+      "published_at": "2026-10-16T12:00:00+00:00",
+      "source": "UN News",
+      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 50,
+      "triage_reasons": [
+        "potential_high_impact_topic"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "UN News"
+      ]
+    },
+    {
+      "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168612",
+      "summary": "As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis. Ambassadors are expected to press yet again for a ceasefire, safe aid access and an end to the weapons flows fuelling the brutal conflict.",
+      "published_at": "2026-10-16T12:00:00+00:00",
+      "source": "UN News",
+      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 50,
+      "triage_reasons": [
+        "potential_high_impact_topic"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "UN News"
+      ]
+    },
+    {
+      "title": "Could your brain data be used against you? UN calls for limits on neurotechnology",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168609",
+      "summary": "Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.",
+      "published_at": "2026-10-15T12:00:00+00:00",
+      "source": "UN News",
+      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 50,
+      "triage_reasons": [
+        "potential_high_impact_topic"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "UN News"
+      ]
+    },
+    {
+      "title": "The world is waging a ‘war on nature’ as progress on biodiversity targets lags",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168607",
+      "summary": "Fewer than half of the national targets set to protect the world’s plants, animals and ecosystems are on track, the UN warns in a new report, days before countries gather in Yerevan, Armenia, for the COP17 biodiversity conference.",
+      "published_at": "2026-10-15T12:00:00+00:00",
+      "source": "UN News",
+      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 50,
+      "triage_reasons": [
+        "potential_high_impact_topic"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "UN News"
+      ]
+    },
+    {
+      "title": "AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168604",
+      "summary": "Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.",
+      "published_at": "2026-10-15T12:00:00+00:00",
+      "source": "UN News",
+      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 50,
+      "triage_reasons": [
+        "potential_high_impact_topic"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "UN News"
       ]
     },
     {
@@ -3048,29 +3062,6 @@
       "quality_flags": [],
       "sources_seen": [
         "OpenAI News"
-      ]
-    },
-    {
-      "title": "IMF flags risks to global economy from AI market correction, war and debt - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXc4YzNuVFU1U2dtSjE1SG9xRUIxZTRtMU1xdXNodDkxMTRGaE9yQTJIVVVoeVJjdnFsbi0yeUJ6a09ZbGJ0Z3N5V1NiV1RGZlVDekptcUVqcTVtNGRsdDNpZkd1akEyN2hybUx5aFlXM05pZENOVFdfTXI3XzBxaGRMZ0NVcFFRVXZRbHlZYUNleHhiTTJ1UTN0dXJ6U0h2V3ZoWGdqOWp5SmdCMjFab1doZw?oc=5",
-      "summary": "IMF flags risks to global economy from AI market correction, war and debt Reuters",
-      "published_at": "2026-10-13T16:15:03+00:00",
-      "source": "Google News World Economy",
-      "source_feed": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News World Economy"
       ]
     },
     {
@@ -3116,111 +3107,25 @@
       "sources_seen": [
         "Threads Zuckerberg"
       ]
-    },
-    {
-      "title": "Three international bodies warn of risks of rising debt and soaring borrowing in major economies - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNHB6TmVYd0xCRDB2clFtQkdKbXZVUEkzVWJJN1p0RVE2WXNfSWk5NnpKY09TdFNQVExkazczbDRoSU5vTzJDOGtLVG5Ld0FTMTd0TjkzZkVKbzZTS3A0WDNINVZYVlFnQWMzN0NCYVc2ZWpIUHZNejBEcy00cXI5bzdSRUpZa21Talc5NldGSlQ?oc=5",
-      "summary": "Three international bodies warn of risks of rising debt and soaring borrowing in major economies The Guardian",
-      "published_at": "2026-09-23T07:00:00+00:00",
-      "source": "Google News World Economy",
-      "source_feed": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 38,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "older_than_7_days"
-      ],
-      "quality_flags": [
-        "older_than_7_days"
-      ],
-      "sources_seen": [
-        "Google News World Economy"
-      ]
-    },
-    {
-      "title": "Marlon James and Douglas Stuart have chance to become 5th multiple winner of Booker Prize book award - The Killeen Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUEVoeGozOHNUSmNHZ2VVU2xmQ0dDd2k3SDI4Y1JHc3NxMXk1X0RwVmJwd2JyWVQtZC1lMC1wd2piTVBtWXJTOUxmaFJJdWVkY3VtenBiTFoyNm9hWm5sWUhJbE0taEVOaWItT0pjUXdFSDhQR1JVc000NTNSQU1lekMtV1pjMWdhblRtR09ESmNEeGcxSFdTREdILVVxa0RsWnRNZVVCQUx2LTFyZEVhLUFhREVxQnFPcVBpS0xVNE1fTXcyeHVqeDFTaUVNa18xUVZYeGJNazRhODIwckZQQ1ZDNEZtS0dHYzBvUXpyUElZMnJRaThJcXpOUDJVUQ?oc=5",
-      "summary": "Marlon James and Douglas Stuart have chance to become 5th multiple winner of Booker Prize book award The Killeen Daily Herald",
-      "published_at": "2026-09-22T18:01:26+00:00",
-      "source": "Google News International Book Awards",
-      "source_feed": "https://news.google.com/rss/search?q=Booker+Prize+OR+Pulitzer+Prize+OR+National+Book+Award+shortlist+winner&hl=en-US&gl=US&ceid=US:en",
-      "category": "books",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 38,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "older_than_7_days"
-      ],
-      "quality_flags": [
-        "older_than_7_days"
-      ],
-      "sources_seen": [
-        "Google News International Book Awards"
-      ]
-    },
-    {
-      "title": "Marlon James and Douglas Stuart have chance to become 5th multiple winner of Booker Prize book award - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYWFZSjl5bFlVb0JVa0hySEdvSmtBdTA1SVFpMVp0ZzdXcFJZZXJYUVR2NEFMQjEwVGRBZ0wyU1NVVUlub2gxWEhMSmJZWTNSN0xueFgxMDFhRDJRbVlYdm5CYllpZS11YklNeU5TcGFQcVNkRllhdnhJSXpzWk5xZWRVTzhNZUdLX3RLUUs1YldhaGdZLUpzbUJwemhGRTJ4OWc?oc=5",
-      "summary": "Marlon James and Douglas Stuart have chance to become 5th multiple winner of Booker Prize book award AP News",
-      "published_at": "2026-09-22T07:00:00+00:00",
-      "source": "Google News International Book Awards",
-      "source_feed": "https://news.google.com/rss/search?q=Booker+Prize+OR+Pulitzer+Prize+OR+National+Book+Award+shortlist+winner&hl=en-US&gl=US&ceid=US:en",
-      "category": "books",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 38,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "older_than_7_days"
-      ],
-      "quality_flags": [
-        "older_than_7_days"
-      ],
-      "sources_seen": [
-        "Google News International Book Awards"
-      ]
-    },
-    {
-      "title": "Stories Are Weapons: Psychological Warfare and the American Mind - Washington Independent Review of Books",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNGE1Nlp0NUR6RzlkNTJGNk1udWFILTRfUGpyd3FKNnluS3VER3M2bTh5YWkwSVlyUDZBMzJzSGRaamNWRWJyTU5FN282UkFFOGhDd1h3d0hlU3NwQnJNNTcxM1RyZFFGaHhMd0pKYUhZZE5QcFIxODF2dUNpTkpXUHZSMDJySlpwczltV19TLVgzUHdoUlRsOTI1M3kzWWhyd25DUDUzT3RNdnhMdkFoaTFabG81SFMxRXpKekNWclRMeDQ?oc=5",
-      "summary": "Stories Are Weapons: Psychological Warfare and the American Mind Washington Independent Review of Books",
-      "published_at": "2024-06-12T07:00:00+00:00",
-      "source": "Google News Best Books & Nonfiction",
-      "source_feed": "https://news.google.com/rss/search?q=best+books+nonfiction+history+science+psychology+economics+book+review&hl=en-US&gl=US&ceid=US:en",
-      "category": "books",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 38,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "older_than_7_days"
-      ],
-      "quality_flags": [
-        "older_than_7_days",
-        "older_than_30_days"
-      ],
-      "sources_seen": [
-        "Google News Best Books & Nonfiction"
-      ]
     }
   ],
   "category_counts": {
+    "vietnam": 30,
+    "world": 65,
     "ai": 40,
-    "trends": 18,
-    "world": 38,
-    "football": 40,
-    "creator": 10,
-    "vietnam": 1,
-    "books": 3
+    "creator": 2,
+    "football": 12,
+    "books": 1
   },
   "source_errors": [
+    {
+      "source": "VTV Chuyện nhà nông",
+      "error": "RuntimeError: All feed endpoints failed: https://vtv.vn/rss/chuong-trinh-da-phat-song/chuyen-nha-nong-voi-nong-nghiep.rss -> HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "source": "World Bank Blogs",
+      "error": "RuntimeError: All feed endpoints failed: https://blogs.worldbank.org/en/feed -> HTTPError: HTTP Error 404: Not Found"
+    },
     {
       "source": "Google News Books Translated into Vietnamese",
       "error": "RuntimeError: All feed endpoints failed: https://news.google.com/rss/search?q=%22bản+dịch+tiếng+Việt%22+OR+%22sách+dịch%22+OR+%22sách+mới%22+OR+%22sách+hay%22&hl=vi&gl=VN&ceid=VN:vi -> UnicodeEncodeError: 'ascii' codec can't encode character '\\u1ea3' in position 2"
@@ -3257,55 +3162,169 @@
       "feed_url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 15
+      "items_selected_primary": 5
     },
     {
       "source": "Google News Arsenal",
       "feed_url": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 12
+      "items_selected_primary": 2
     },
     {
       "source": "Google News Premier League",
       "feed_url": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 12
+      "items_selected_primary": 4
     },
     {
       "source": "BBC World",
       "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 18
+      "items_selected_primary": 5
     },
     {
       "source": "BBC Business",
       "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 15
+      "items_selected_primary": 5
     },
     {
       "source": "Google News World Economy",
       "feed_url": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 6
+      "items_selected_primary": 2
     },
     {
       "source": "Google News AI Applications",
       "feed_url": "https://news.google.com/rss/search?q=artificial+intelligence+applications&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 1
+      "items_selected_primary": 0
     },
     {
       "source": "Google News Vietnam",
       "feed_url": "https://news.google.com/rss/search?q=Vietnam+economy+technology&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "VnExpress Thời sự",
+      "feed_url": "https://vnexpress.net/rss/thoi-su.rss",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 6
+    },
+    {
+      "source": "VnExpress Kinh doanh",
+      "feed_url": "https://vnexpress.net/rss/kinh-doanh.rss",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 8
+    },
+    {
+      "source": "VnExpress Thế giới",
+      "feed_url": "https://vnexpress.net/rss/the-gioi.rss",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 3
+    },
+    {
+      "source": "VnExpress Khoa học công nghệ",
+      "feed_url": "https://vnexpress.net/rss/khoa-hoc-cong-nghe.rss",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "VTV Thế giới",
+      "feed_url": "https://vtv.vn/rss/the-gioi/tin-tuc.rss",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 10
+    },
+    {
+      "source": "VTV Kinh tế",
+      "feed_url": "https://vtv.vn/rss/kinh-te.rss",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 17
+    },
+    {
+      "source": "VTV Công nghệ",
+      "feed_url": "https://vtv.vn/rss/cong-nghe.rss",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 5
+    },
+    {
+      "source": "VTV Trí tuệ nhân tạo",
+      "feed_url": "https://vtv.vn/rss/cong-nghe/tri-tue-nhan-tao.rss",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "VTV Chuyện nhà nông",
+      "feed_url": "https://vtv.vn/rss/chuong-trinh-da-phat-song/chuyen-nha-nong-voi-nong-nghiep.rss",
+      "status": "error",
+      "items_collected": 0,
+      "items_selected_primary": 0,
+      "error": "RuntimeError: All feed endpoints failed: https://vtv.vn/rss/chuong-trinh-da-phat-song/chuyen-nha-nong-voi-nong-nghiep.rss -> HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "source": "Al Jazeera English",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 9
+    },
+    {
+      "source": "Deutsche Welle World",
+      "feed_url": "https://rss.dw.com/xml/rss-en-all",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 7
+    },
+    {
+      "source": "The Guardian World",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 5
+    },
+    {
+      "source": "Euronews",
+      "feed_url": "https://www.euronews.com/rss",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 8
+    },
+    {
+      "source": "UN News",
+      "feed_url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 12
+    },
+    {
+      "source": "World Bank Blogs",
+      "feed_url": "https://blogs.worldbank.org/en/feed",
+      "status": "error",
+      "items_collected": 0,
+      "items_selected_primary": 0,
+      "error": "RuntimeError: All feed endpoints failed: https://blogs.worldbank.org/en/feed -> HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "source": "Google News indexed Gan Jing World",
+      "feed_url": "https://news.google.com/rss/search?q=site%3Aganjingworld.com%2Fnews&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "items_collected": 2,
       "items_selected_primary": 0
     },
     {
@@ -3355,7 +3374,7 @@
       "feed_url": "https://hnrss.org/newest?q=AI",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 12
+      "items_selected_primary": 7
     },
     {
       "source": "Anthropic News (community RSS mirror)",
@@ -3383,28 +3402,28 @@
       "feed_url": "https://trends.google.com/trending/rss?geo=VN",
       "status": "ok",
       "items_collected": 10,
-      "items_selected_primary": 8
+      "items_selected_primary": 0
     },
     {
       "source": "Google Trends United States",
       "feed_url": "https://trends.google.com/trending/rss?geo=US",
       "status": "ok",
       "items_collected": 10,
-      "items_selected_primary": 10
+      "items_selected_primary": 0
     },
     {
       "source": "Google News International Book Awards",
       "feed_url": "https://news.google.com/rss/search?q=Booker+Prize+OR+Pulitzer+Prize+OR+National+Book+Award+shortlist+winner&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 2
+      "items_selected_primary": 0
     },
     {
       "source": "Google News Best Books & Nonfiction",
       "feed_url": "https://news.google.com/rss/search?q=best+books+nonfiction+history+science+psychology+economics+book+review&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 1
+      "items_selected_primary": 0
     },
     {
       "source": "Google News Books Translated into Vietnamese",
@@ -3455,21 +3474,21 @@
       "feed_url": "https://news.google.com/rss/search?q=site%3Ayoutube.com%2Fwatch+creator+OR+video+essay+OR+explainer&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 1
+      "items_selected_primary": 0
     },
     {
       "source": "Google News X Threads & Creator Discussions",
       "feed_url": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 6
+      "items_selected_primary": 0
     },
     {
       "source": "Google News TikTok & Short-form Video",
       "feed_url": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 3
+      "items_selected_primary": 2
     },
     {
       "source": "Threads Zuckerberg",
@@ -3479,12 +3498,12 @@
       "items_selected_primary": 1
     }
   ],
-  "sources_attempted": 35,
-  "sources_succeeded": 33,
+  "sources_attempted": 51,
+  "sources_succeeded": 47,
   "deduplication": {
-    "raw_items": 590,
-    "unique_titles": 586,
-    "duplicates_removed": 4
+    "raw_items": 852,
+    "unique_titles": 842,
+    "duplicates_removed": 10
   },
   "note": "Free RSS collection, including Google Trends RSS as an independent discovery channel and search-indexed feeds for books/creators. Google Trends is a discovery signal, not proof of importance or causality. NEWS is a neutral label, not an importance claim. triage_score is a transparent heuristic, not verified importance. Feed content has not been independently verified. quality_flags identify missing or potentially stale data."
 }

@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T09:57:02.909211+00:00",
-  "input_generated_at": "2026-10-20T09:57:02.847293+00:00",
+  "generated_at": "2026-10-20T10:08:04.935738+00:00",
+  "input_generated_at": "2026-10-20T10:08:04.883164+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
-  "items_after_dedup": 133,
+  "items_after_dedup": 150,
   "signals": [
     {
       "domain": "AI & công nghệ",
@@ -52,6 +52,51 @@
       "score": 37
     },
     {
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+      "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system. The category 2 hurricane remained roughly 100 miles (160km) south-west of the coast of Mexico, meaning the worst of the conditions stayed offshore. However, the US National Hurricane Center put coastal parts of the states of Jalisco, Michoacán and Colima under hurricane warnings, with sustained winds of up to 60-90mph forecast on Sunday. Rainfall totals of 100-150mm were likely for these areas, prompting warnings of flooding and landslides. Warnings also covered the risk of a dangerous storm surge accompanied by damaging waves in areas of onshore winds across the coast of south-western Mexico. By Monday morning, Trudy had weakened and been downgraded to a tropical storm, with coastal warnings being lifted. Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+      "published_at": "2026-10-19T10:07:09+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 34
+    },
+    {
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+      "summary": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in one of the world’s worst cult-related disasters in recent history. Mackenzie was arrested in 2023 after police received a tipoff, and weeks later authorities began uncovering bodies in shallow graves in the Shakahola forest near the coast ⁠in south-eastern Kenya. Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+      "published_at": "2026-10-19T16:08:14+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 30
+    },
+    {
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "Alberta voters reject plan for referendum to leave Canada",
+      "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, delivering a victory for the prime minister, Mark Carney, and supporters of Canadian unity. With more than 1.5m votes counted, 76% supported remaining in Canada, while close to 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta. Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "published_at": "2026-10-20T09:02:43+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 28
+    },
+    {
       "domain": "Arsenal & Premier League",
       "category": "football",
       "title": "Tottenham 3-1 Coventry: Spurs earn first Premier League win of season - BBC",
@@ -82,34 +127,19 @@
       "score": 20
     },
     {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "Wabi 2.0 is live! personal agents are one person, one chat. but the parts of life that matter run on more than one person Wabi is an agent you use together. you talk to it, it does stuff, builds the apps you need, and anyone can join the thread - your partner, your b - X",
-      "summary": "Wabi 2.0 is live! personal agents are one person, one chat. but the parts of life that matter run on more than one person Wabi is an agent you use together. you talk to it, it does stuff, builds the apps you need, and anyone can join the thread - your partner, your b X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtTkhHOHZ3Xy1DWWlTMUVSNTMwcGI5NV91VDRMX0hNUVlOVjZSdjcydFdqcHh5OFc3R29HSUVpSWdQMmVGbU1iUkdSdy1wVVhieVdVYXhRREFQX3M?oc=5",
-      "published_at": "2026-10-19T16:02:30+00:00",
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Phát triển thương hiệu trên TMĐT theo cách riêng: Hành trình của hai nữ doanh nhân Việt",
+      "summary": "VTV.vn - Ngày Phụ nữ Việt Nam 20/10, cùng lắng nghe chia sẻ của hai nhà sáng lập nữ đứng sau thương hiệu OLV và Nệm Sơn về hành trình phát triển kinh doanh trên thương mại điện tử.",
+      "source": "VTV Kinh tế",
+      "url": "https://vtv.vn/phat-trien-thuong-hieu-tren-tmdt-theo-cach-rieng-hanh-trinh-cua-hai-nu-doanh-nhan-viet-100261019093450534.htm",
+      "published_at": "2026-10-20T10:23:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "THREAD: Joined Senator Tillis today to host an update from President Zelenskyy with bipartisan colleagues—hearing from him highly alarmingly that intelligence sharing & Starshield access are still partially degraded. 1/ - X",
-      "summary": "THREAD: Joined Senator Tillis today to host an update from President Zelenskyy with bipartisan colleagues—hearing from him highly alarmingly that intelligence sharing & Starshield access are still partially degraded. 1/ X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nVjYwNjlDNDI4N2hJWHgzZUR6TV9keFBZVW8zMEhTbTJpSm8tUHI0WWVoYURvQng1R3ZXc1R6RS1iUUxKbGFPejhtR045N2VRSml4VFNvY0IyZGoxV3FOcW5SRmk?oc=5",
-      "published_at": "2026-10-19T16:38:06+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 19
+      "score": 18
     },
     {
       "domain": "Arsenal & Premier League",
@@ -127,13 +157,13 @@
       "score": 18
     },
     {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "How is the US economy really doing under President Trump?",
-      "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-20T05:00:45+00:00",
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Đồng Nhân dân tệ lên mức cao nhất hơn 4 năm",
+      "summary": "VTV.vn - Phiên 20/10, đồng Nhân dân tệ của Trung Quốc tăng lên mức cao nhất trong hơn 4 năm, sau khi ngân hàng trung ương phát tín hiệu định hướng tỷ giá mạnh hơn.",
+      "source": "VTV Kinh tế",
+      "url": "https://vtv.vn/dong-nhan-dan-te-len-muc-cao-nhat-hon-4-nam-10026102014091243.htm",
+      "published_at": "2026-10-20T16:39:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -142,13 +172,13 @@
       "score": 17
     },
     {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
-      "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-20T03:10:39+00:00",
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Chống chuyển giá, trốn thuế: Nâng ngưỡng lập hồ sơ từ 200 lên 500 tỷ - Không phải cứ \"chuyển giá\" là \"trốn thuế\"",
+      "summary": "VTV.vn - Tập đặc biệt Quốc Dân Hiểu Thuế phát sóng ngày 11/10/2026 phân tích vấn đề chống chuyển giá, trốn thuế và đề xuất nâng ngưỡng lập hồ sơ lên trên 500 tỷ đồng.",
+      "source": "VTV Kinh tế",
+      "url": "https://vtv.vn/chong-chuyen-gia-tron-thue-nang-nguong-lap-ho-so-tu-200-len-500-ty-khong-phai-cu-chuyen-gia-la-tron-thue-100261019142519806.htm",
+      "published_at": "2026-10-20T09:53:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -157,13 +187,13 @@
       "score": 17
     },
     {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-19T20:49:00+00:00",
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "I thought of her first when i first heard of this trend LA PRIESTLYYY cr: @POHOYOKO•||• 700k+ #mirandapriestly #merylstreep #mirandy #tdwp #thedevilwearsprada - TikTok",
+      "summary": "I thought of her first when i first heard of this trend LA PRIESTLYYY cr: @POHOYOKO•||• 700k+ #mirandapriestly #merylstreep #mirandy #tdwp #thedevilwearsprada TikTok",
+      "source": "Google News TikTok & Short-form Video",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Pei1DWDNOc3Y5Q2hhUWlrMzZiVS0zSFY4RnBfUGxLSFdFUG82Qm0zY0FTdkF1UlVwQnA3S3lCQktOTnhGMTJCakJReE5XUEl4Ym8wdWVnMFZzQmpZT2d5LUFCRk1UY1JLLTc2LQ?oc=5",
+      "published_at": "2026-10-20T02:42:58+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -187,87 +217,79 @@
       "score": 17
     },
     {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Virtual Assistant for Public Officials in Lang Son: Enhancing Public Service Efficiency Through Artificial Intelligence Applications - Vietnam.vn",
-      "summary": "Virtual Assistant for Public Officials in Lang Son: Enhancing Public Service Efficiency Through Artificial Intelligence Applications Vietnam.vn",
-      "source": "Google News AI Applications",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUtFT0Rza2dVQ2I2bXRWVmV1VmRBZ1VHdUwyTG52emxqVktoLTJUN0NwSVE4VjJFM1NuX2UwNVBqN2h0N2w1bGEwejNScnZESkxFUWs4YjVYMHFfdUUwVUFOZjlPdWJDeVYwMHNxNkpEV251R0RxbWdDRjVOaWFhS01CQnpLeWw2bm9DYmZqTVA5SlNfY0FqZFp4d3pyWEVCcy1PWXItX3hlaFlvNkFJZ0JPY0VWcEhSOVJnTw?oc=5",
-      "published_at": "2026-10-19T02:24:07+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 13
-    },
-    {
       "domain": "Sách",
       "category": "books",
-      "title": "Marlon James and Douglas Stuart have chance to become 5th multiple winner of Booker Prize book award - The Killeen Daily Herald",
-      "summary": "Marlon James and Douglas Stuart have chance to become 5th multiple winner of Booker Prize book award The Killeen Daily Herald",
-      "source": "Google News International Book Awards",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUEVoeGozOHNUSmNHZ2VVU2xmQ0dDd2k3SDI4Y1JHc3NxMXk1X0RwVmJwd2JyWVQtZC1lMC1wd2piTVBtWXJTOUxmaFJJdWVkY3VtenBiTFoyNm9hWm5sWUhJbE0taEVOaWItT0pjUXdFSDhQR1JVc000NTNSQU1lekMtV1pjMWdhblRtR09ESmNEeGcxSFdTREdILVVxa0RsWnRNZVVCQUx2LTFyZEVhLUFhREVxQnFPcVBpS0xVNE1fTXcyeHVqeDFTaUVNa18xUVZYeGJNazRhODIwckZQQ1ZDNEZtS0dHYzBvUXpyUElZMnJRaThJcXpOUDJVUQ?oc=5",
-      "published_at": "2026-09-22T18:01:26+00:00",
+      "title": "Bộ Chính trị yêu cầu đổi mới chính sách tiền lương theo hiệu quả công việc",
+      "summary": "Bộ Chính trị yêu cầu từng bước trả lương, đãi ngộ theo vị trí việc làm, năng lực và kết quả công việc, khắc phục tình trạng coi trọng ngạch, bậc, thâm niên hơn hiệu quả.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/bo-chinh-tri-yeu-cau-doi-moi-chinh-sach-tien-luong-theo-hieu-qua-cong-viec-5134465.html",
+      "published_at": "2026-10-20T02:50:22+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 11
-    },
-    {
-      "domain": "Sách",
-      "category": "books",
-      "title": "Marlon James and Douglas Stuart have chance to become 5th multiple winner of Booker Prize book award - AP News",
-      "summary": "Marlon James and Douglas Stuart have chance to become 5th multiple winner of Booker Prize book award AP News",
-      "source": "Google News International Book Awards",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYWFZSjl5bFlVb0JVa0hySEdvSmtBdTA1SVFpMVp0ZzdXcFJZZXJYUVR2NEFMQjEwVGRBZ0wyU1NVVUlub2gxWEhMSmJZWTNSN0xueFgxMDFhRDJRbVlYdm5CYllpZS11YklNeU5TcGFQcVNkRllhdnhJSXpzWk5xZWRVTzhNZUdLX3RLUUs1YldhaGdZLUpzbUJwemhGRTJ4OWc?oc=5",
-      "published_at": "2026-09-22T07:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 10
-    },
-    {
-      "domain": "Sách",
-      "category": "books",
-      "title": "Stories Are Weapons: Psychological Warfare and the American Mind - Washington Independent Review of Books",
-      "summary": "Stories Are Weapons: Psychological Warfare and the American Mind Washington Independent Review of Books",
-      "source": "Google News Best Books & Nonfiction",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNGE1Nlp0NUR6RzlkNTJGNk1udWFILTRfUGpyd3FKNnluS3VER3M2bTh5YWkwSVlyUDZBMzJzSGRaamNWRWJyTU5FN282UkFFOGhDd1h3d0hlU3NwQnJNNTcxM1RyZFFGaHhMd0pKYUhZZE5QcFIxODF2dUNpTkpXUHZSMDJySlpwczltV19TLVgzUHdoUlRsOTI1M3kzWWhyd25DUDUzT3RNdnhMdkFoaTFabG81SFMxRXpKekNWclRMeDQ?oc=5",
-      "published_at": "2024-06-12T07:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 10
+      "score": 17
     }
   ],
   "links": [
     {
-      "a": "THREAD: Joined Senator Tillis today to host an update from President Zelenskyy with bipartisan colleagues—hearing from him highly alarmingly that intelligence sharing & Starshield access are still partially degraded. 1/ - X",
-      "b": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "a": "Organizing LLM Inference for Aggregate Predictions from Behavioral Data",
+      "b": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
       "terms": [
-        "intelligence",
-        "sharing"
+        "across",
+        "also"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Pack and Extract: An Effective Graph-Based Approach for Feature Selection",
+      "b": "Alberta voters reject plan for referendum to leave Canada",
+      "terms": [
+        "process",
+        "results"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "A Group-Aware Comparative Study of Classical Machine Learning and Deep Learning Methods for Sensor-Based Human Activity Recognition",
+      "b": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+      "terms": [
+        "activity",
+        "however",
+        "while"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "A Group-Aware Comparative Study of Classical Machine Learning and Deep Learning Methods for Sensor-Based Human Activity Recognition",
+      "b": "Alberta voters reject plan for referendum to leave Canada",
+      "terms": [
+        "results",
+        "while"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Phát triển thương hiệu trên TMĐT theo cách riêng: Hành trình của hai nữ doanh nhân Việt",
+      "b": "Bộ Chính trị yêu cầu đổi mới chính sách tiền lương theo hiệu quả công việc",
+      "terms": [
+        "hiệu",
+        "theo"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }
   ],
   "domain_notes": [
     {
-      "domain": "Việt Nam",
-      "status": "Thiếu dữ liệu",
-      "note": "Chỉ 1 mục có tóm tắt dùng được; không tạo kết luận mạnh."
-    },
-    {
       "domain": "Nước & năng lượng",
       "status": "Thiếu dữ liệu",
       "note": "Chỉ 0 mục có tóm tắt dùng được; không tạo kết luận mạnh."
+    },
+    {
+      "domain": "Sách",
+      "status": "Thiếu dữ liệu",
+      "note": "Chỉ 1 mục có tóm tắt dùng được; không tạo kết luận mạnh."
     },
     {
       "domain": "Google Trends",

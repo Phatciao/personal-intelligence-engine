@@ -565,6 +565,63 @@ function renderEditorialFallback(data){
   acts.append(ah,ap);bottom.append(notes,acts);
 }
 
+
+function renderLiveSignalStrip(data,parent){
+  const items=(Array.isArray(data.items)?data.items:[]).filter(i=>{
+    const summary=clean(i.summary||i.description||"");
+    return summary.length>=90 && ageHours(i)<=168 && isEditorialCandidate(i) && classify(i)!=="trends";
+  });
+  const groups=[
+    {id:"ai",title:"AI & công nghệ",why:"Kiểm tra xem bài nói về năng lực đã phát hành, thử nghiệm hay chỉ là thông báo/ý tưởng. Giá trị thực tế phụ thuộc vào tác vụ, chi phí và giới hạn.",watch:"Bản phát hành/tài liệu chính thức, benchmark độc lập hoặc kết quả sử dụng thực tế."},
+    {id:"world",title:"Thế giới & kinh tế",why:"Một diễn biến chỉ thành tín hiệu hệ thống khi có cơ chế tác động rõ tới chính sách, thương mại, năng lượng, tài chính hoặc chuỗi cung ứng.",watch:"Số liệu gốc, quyết định chính thức và ít nhất một nguồn độc lập."},
+    {id:"vietnam",title:"Việt Nam",why:"Tách thông tin áp dụng trực tiếp tại Việt Nam khỏi bài bình luận hoặc tin quốc tế chỉ có liên hệ gián tiếp.",watch:"Văn bản/số liệu chính thức, phạm vi áp dụng và ngày hiệu lực."},
+    {id:"water",title:"Nước & năng lượng",why:"Không suy ra cơ hội kinh doanh chỉ từ tin công nghệ. Cần xác định loại vấn đề, người mua, chi phí vận hành và hiệu quả đo được.",watch:"Thông số kỹ thuật, chi phí vòng đời, hồ sơ dự án và bằng chứng nhu cầu."},
+    {id:"football",title:"Arsenal / Premier League",why:"Phân biệt thông báo chính thức, tin báo chí có nguồn và suy đoán chuyển nhượng; nhiều bài sao chép không đồng nghĩa nhiều nguồn độc lập.",watch:"Thông báo CLB/giải đấu, phát biểu trực tiếp và nguồn độc lập."},
+    {id:"creator",title:"Sáng tạo nội dung",why:"Bài về nền tảng hoặc creator không tự chứng minh một format đang viral. Cần có nội dung gốc, mốc thời gian và dữ liệu tương tác.",watch:"Video/thread gốc, chỉ số có thể kiểm tra và ví dụ từ nhiều creator độc lập."},
+    {id:"books",title:"Sách & tri thức",why:"Ưu tiên sách có luận điểm, bằng chứng và giá trị giải thích vấn đề; tin quảng bá hoặc danh sách bestseller chưa đủ để đánh giá chất lượng.",watch:"Mục lục/nội dung mẫu, tài liệu tham khảo, phản biện và tình trạng bản dịch tiếng Việt."}
+  ];
+  const candidates=[];
+  groups.forEach(g=>{
+    const found=items.filter(i=>classify(i)===g.id)
+      .sort((a,b)=>priority(b)-priority(a)||dateValue(b)-dateValue(a));
+    if(!found.length)return;
+    const distinct=new Set(found.map(i=>clean(i.source).toLowerCase()).filter(Boolean)).size;
+    candidates.push({g,found:found.slice(0,3),distinct,score:priority(found[0])});
+  });
+  candidates.sort((a,b)=>b.score-a.score||b.distinct-a.distinct);
+  const head=document.createElement("div");head.className="editorial-topline";
+  const strong=document.createElement("strong");strong.textContent="Tín hiệu hiện tại — tuyển chọn từ batch mới";
+  const p=document.createElement("p");p.textContent="Các nhóm dưới đây được lọc từ bài có tóm tắt và còn mới. Đây là bước sàng lọc có quy tắc, chưa phải phân tích ngữ nghĩa bằng mô hình AI; độ quan trọng vẫn cần kiểm tra ở nguồn gốc.";
+  head.append(strong,p);parent.append(head);
+  if(!candidates.length){
+    const empty=document.createElement("article");empty.className="editorial-note";
+    empty.textContent="Batch hiện tại chưa có đủ bài mới kèm tóm tắt để tạo tín hiệu có ngữ cảnh. Không thay bằng truy vấn Trends trống hoặc bài cũ.";
+    parent.append(empty);return;
+  }
+  candidates.slice(0,5).forEach(entry=>{
+    const card=document.createElement("article");card.className="editorial-card";
+    const eye=document.createElement("div");eye.className="eyeline";
+    const domain=document.createElement("span");domain.className="pill";domain.textContent=entry.g.title;
+    const confidence=document.createElement("span");confidence.textContent=entry.distinct>=3?"Nhiều nguồn trong feed":entry.distinct===2?"Một số nguồn trong feed":"Một nguồn trong feed";
+    eye.append(domain,confidence);
+    const title=document.createElement("h4");title.textContent=entry.found.length>=2?"Điểm cần theo dõi: "+entry.g.title:"Bài đáng kiểm tra: "+clean(entry.found[0].title);
+    card.append(eye,title);
+    appendEditorialBlock(card,"DỮ KIỆN ĐANG CÓ",entry.found.map(i=>clean(i.title)+" — "+clean(i.summary).slice(0,300)).join("\n\n"));
+    appendEditorialBlock(card,"DIỄN GIẢI THẬN TRỌNG",entry.g.why);
+    appendEditorialBlock(card,"CẦN KIỂM CHỨNG TIẾP",entry.g.watch);
+    const links=document.createElement("div");links.className="editorial-links";
+    entry.found.forEach(i=>{
+      const url=safeUrl(i.url||i.link||"");if(url==="#")return;
+      const a=document.createElement("a");a.href=url;a.target="_blank";a.rel="noopener noreferrer";
+      a.textContent=(clean(i.source)||"Nguồn gốc")+" ↗";links.append(a);
+    });
+    if(links.childElementCount)card.append(links);
+    const caveat=document.createElement("p");caveat.className="small";
+    caveat.textContent="Lưu ý: số bài và số nguồn phản ánh batch RSS này, không phải mức độ quan trọng hay bằng chứng độc lập đã xác nhận.";
+    card.append(caveat);parent.append(card);
+  });
+}
+
 function appendEditorialBlock(parent,label,text){
   if(!text)return;
   const title=document.createElement("div");title.className="subhead";title.textContent=label;
@@ -583,6 +640,7 @@ function renderEditorial(ed,data){
   const strong=document.createElement("strong");strong.textContent="Bức tranh biên tập";
   const p=document.createElement("p");p.textContent=ed.top_line||"Chưa có kết luận tổng quan.";
   top.append(strong,p);
+  renderLiveSignalStrip(data,cards);
   const curated=Array.isArray(ed.curated_sections)?ed.curated_sections:[];
   curated.forEach(section=>{
     const card=document.createElement("article");card.className="editorial-card";

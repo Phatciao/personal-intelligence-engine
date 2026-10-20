@@ -407,7 +407,7 @@ def classify_text(title, summary, fallback):
         return "trends"
 
     # Search-indexed discovery feeds must pass a minimal topic-relevance check.
-    if fallback == "books" and re.search(r"book|books|publishing|publisher|novel|literary|author|reading|\\bsách\\b|tác giả|xuất bản|điểm sách|booktok", full_text):
+    if fallback == "books" and re.search(r"book|books|publishing|publisher|novel|literary|author|reading|\bsách\b|tác giả|xuất bản|điểm sách|booktok", full_text):
         return "books"
     if fallback == "creator" and re.search(r"youtube|tiktok|threads|x\.com|twitter|creator|video|storytelling|influencer|social media|content|booktok|nhà sáng tạo|nội dung số", full_text):
         return "creator"
@@ -432,7 +432,7 @@ def classify_text(title, summary, fallback):
     if re.search(
         r"booktok|book review|book reviews|new books|books about|"
         r"publishing|publisher|nonfiction book|novel|literary|"
-        r"author interview|reading list|\\bsách\\b|tác giả|xuất bản|điểm sách|phê bình sách",
+        r"author interview|reading list|\bsách\b|tác giả|xuất bản|điểm sách|phê bình sách",
         title_text,
     ):
         return "books"
@@ -801,7 +801,7 @@ def select_items(items):
         summary = item.get("summary", "").strip()
         if item.get("category") == "creator" and (len(summary) < 70 or re.search(r"#fyp|#fy\b|wait for it|we take it as a compliment|full match|dance #trend", title)):
             item["quality_flags"] = list(set(item.get("quality_flags", []) + ["likely_platform_noise"]))
-        if item.get("category") == "books" and not re.search(r"book|books|publishing|publisher|novel|literary|author|reading|sách|tác giả|xuất bản|điểm sách|booktok|prize|award|booker|pulitzer", title):
+        if item.get("category") == "books" and not re.search(r"book|books|publishing|publisher|novel|literary|author|reading|\bsách\b|tác giả|xuất bản|điểm sách|booktok|prize|award|booker|pulitzer", title):
             item["quality_flags"] = list(set(item.get("quality_flags", []) + ["weak_topic_match"]))
         # Search-indexed platform items usually omit views, likes, shares and follower baselines.
         # Keep them for discovery, but explicitly prevent them from being presented as proven viral hits.

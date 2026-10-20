@@ -1,9 +1,29 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T09:54:33.389516+00:00",
+  "generated_at": "2026-10-20T09:57:02.847293+00:00",
   "status": "ok",
   "items_count": 150,
   "items": [
+    {
+      "title": "Stateless Agents: How to make AI work for teams",
+      "url": "https://busabase.com/blog/how-to-make-ai-work-for-teams",
+      "summary": "Article URL: https://busabase.com/blog/how-to-make-ai-work-for-teams Comments URL: https://news.ycombinator.com/item?id=50163588 Points: 1 # Comments: 0",
+      "published_at": "2026-10-20T09:49:33+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
     {
       "title": "spacex launch today",
       "url": "https://trends.google.com/trending/rss?geo=US",
@@ -79,7 +99,7 @@
     {
       "title": "AI slop is a human problem",
       "url": "https://nishanth.blog/posts/ai-slop-is-a-human-problem/",
-      "summary": "Article URL: https://nishanth.blog/posts/ai-slop-is-a-human-problem/ Comments URL: https://news.ycombinator.com/item?id=50163516 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://nishanth.blog/posts/ai-slop-is-a-human-problem/ Comments URL: https://news.ycombinator.com/item?id=50163516 Points: 2 # Comments: 0",
       "published_at": "2026-10-20T09:38:19+00:00",
       "source": "Hacker News AI Discussions",
       "source_feed": "https://hnrss.org/newest?q=AI",
@@ -220,10 +240,10 @@
         "summary_insufficient"
       ],
       "quality_flags": [
-        "likely_platform_noise",
         "short_summary",
-        "viral_metrics_missing",
-        "no_public_engagement_metrics"
+        "no_public_engagement_metrics",
+        "likely_platform_noise",
+        "viral_metrics_missing"
       ],
       "sources_seen": [
         "Google News TikTok & Short-form Video"
@@ -955,26 +975,6 @@
       ]
     },
     {
-      "title": "Will developing nations be able to handle AI agents?",
-      "url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/",
-      "summary": "Article URL: https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/ Comments URL: https://news.ycombinator.com/item?id=50162608 Points: 1 # Comments: 0",
-      "published_at": "2026-10-20T07:40:14+00:00",
-      "source": "Hacker News AI Discussions",
-      "source_feed": "https://hnrss.org/newest?q=AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Hacker News AI Discussions"
-      ]
-    },
-    {
       "title": "Man City cheated because Premier League was built to be unfair - ESPN",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQloxMkNqbXJGckZxYnlDbUQ1QXU0NjN6RU9nVTNzY2pkWno5NVNQeXBaMlY0cWRXQi1nWkN5UU9QU2NWNHYyX2hnajI2ZE9Kc0ZaZVJRVWhwWWFTRWxfTDhsQUdhSldLUTJ0MXlUdTBGOHlneWpGUzJHeGMxQkdNUW5rZHNqYjk4dEpGZ3Z5M0NlNElJbkdkR3N1d200dXpqQVE?oc=5",
       "summary": "Man City cheated because Premier League was built to be unfair ESPN",
@@ -1182,30 +1182,6 @@
     },
     {
       "title": "sân vận động quốc gia mỹ đình",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T06:00:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "donald trump",
       "url": "https://trends.google.com/trending/rss?geo=VN",
       "summary": "",
       "published_at": "2026-10-20T06:00:00+00:00",
@@ -2721,6 +2697,26 @@
       ]
     },
     {
+      "title": "Virtual Assistant for Public Officials in Lang Son: Enhancing Public Service Efficiency Through Artificial Intelligence Applications - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUtFT0Rza2dVQ2I2bXRWVmV1VmRBZ1VHdUwyTG52emxqVktoLTJUN0NwSVE4VjJFM1NuX2UwNVBqN2h0N2w1bGEwejNScnZESkxFUWs4YjVYMHFfdUUwVUFOZjlPdWJDeVYwMHNxNkpEV251R0RxbWdDRjVOaWFhS01CQnpLeWw2bm9DYmZqTVA5SlNfY0FqZFp4d3pyWEVCcy1PWXItX3hlaFlvNkFJZ0JPY0VWcEhSOVJnTw?oc=5",
+      "summary": "Virtual Assistant for Public Officials in Lang Son: Enhancing Public Service Efficiency Through Artificial Intelligence Applications Vietnam.vn",
+      "published_at": "2026-10-19T02:24:07+00:00",
+      "source": "Google News AI Applications",
+      "source_feed": "https://news.google.com/rss/search?q=artificial+intelligence+applications&hl=en-US&gl=US&ceid=US:en",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 37,
+      "triage_reasons": [
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News AI Applications"
+      ]
+    },
+    {
       "title": "Day 14/ Small quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and took way too long to get that one out. - X",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zSGctbVZsVUR1RGM1WTFjX0JTOUl6bk5NSGVkSHBQc2o1SHRVYmN3TWVYcE1mdXZXY3J6TXFOS3RIOGhPdUxDOXFUelp4OTlQWjBxVzlvR2NzU3FqSXgzaQ?oc=5",
       "summary": "Day 14/ Small quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and took way too long to get that one out. X",
@@ -3207,8 +3203,8 @@
         "older_than_7_days"
       ],
       "quality_flags": [
-        "older_than_30_days",
-        "older_than_7_days"
+        "older_than_7_days",
+        "older_than_30_days"
       ],
       "sources_seen": [
         "Google News Best Books & Nonfiction"
@@ -3216,11 +3212,12 @@
     }
   ],
   "category_counts": {
-    "trends": 19,
     "ai": 40,
+    "trends": 18,
     "world": 38,
     "football": 40,
     "creator": 10,
+    "vietnam": 1,
     "books": 3
   },
   "source_errors": [
@@ -3302,7 +3299,7 @@
       "feed_url": "https://news.google.com/rss/search?q=artificial+intelligence+applications&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 0
+      "items_selected_primary": 1
     },
     {
       "source": "Google News Vietnam",
@@ -3386,7 +3383,7 @@
       "feed_url": "https://trends.google.com/trending/rss?geo=VN",
       "status": "ok",
       "items_collected": 10,
-      "items_selected_primary": 9
+      "items_selected_primary": 8
     },
     {
       "source": "Google Trends United States",

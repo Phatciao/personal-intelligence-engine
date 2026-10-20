@@ -30,7 +30,10 @@ jobs:
       - name: Collect feeds
         run: python collector.py
 
-      - name: Build evidence-linked analysis layer\n        run: python build_analysis.py\n\n      - name: Save latest data safely
+      - name: Build evidence-linked analysis layer
+        run: python build_analysis.py
+
+      - name: Save latest data safely
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

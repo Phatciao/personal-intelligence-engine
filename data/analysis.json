@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T10:08:04.935738+00:00",
-  "input_generated_at": "2026-10-20T10:08:04.883164+00:00",
-  "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia. Có thêm cụm chủ đề tự động dựa trên từ khóa; cụm chỉ là giả thuyết khám phá, không chứng minh quan hệ nhân quả.",
+  "generated_at": "2026-10-20T10:19:04.981747+00:00",
+  "input_generated_at": "2026-10-20T10:19:04.919971+00:00",
+  "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
   "items_after_dedup": 150,
   "signals": [
@@ -100,7 +100,7 @@
       "domain": "Arsenal & Premier League",
       "category": "football",
       "title": "Tottenham 3-1 Coventry: Spurs earn first Premier League win of season - BBC",
-      "summary": "Tottenham 3-1 Coventry: Spurs earn first Premier League win of season BBC Tottenham beat Coventry to claim first Premier League win of season – as it happened The Guardian James Maddison marks first Tottenham start in nearly 18 months with stunning goal in first Premier League win of season Sky Sports",
+      "summary": "Tottenham 3-1 Coventry: Spurs earn first Premier League win of season BBC Tottenham beat Coventry to claim first Premier League win of season – as it happened The Guardian Maddison and Kulusevski bring feel-good factor back to Spurs The Telegraph",
       "source": "Google News Premier League",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpbFFLemx1TUJzaFBzdUV6VDRjcE1RY1N5QklmV1FxVG0xaFlSS2FWVDl6YjJFMVJxdmEzX3dqci1xWW5kMHhaQTFtR1A5Zkk0bTBVRTQ0VWNEYU9TT2ZrYjNKTlJUZw?oc=5",
       "published_at": "2026-10-19T22:43:09+00:00",
@@ -109,7 +109,7 @@
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 22
+      "score": 20
     },
     {
       "domain": "Sáng tạo nội dung",
@@ -187,13 +187,13 @@
       "score": 17
     },
     {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "I thought of her first when i first heard of this trend LA PRIESTLYYY cr: @POHOYOKO•||• 700k+ #mirandapriestly #merylstreep #mirandy #tdwp #thedevilwearsprada - TikTok",
-      "summary": "I thought of her first when i first heard of this trend LA PRIESTLYYY cr: @POHOYOKO•||• 700k+ #mirandapriestly #merylstreep #mirandy #tdwp #thedevilwearsprada TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Pei1DWDNOc3Y5Q2hhUWlrMzZiVS0zSFY4RnBfUGxLSFdFUG82Qm0zY0FTdkF1UlVwQnA3S3lCQktOTnhGMTJCakJReE5XUEl4Ym8wdWVnMFZzQmpZT2d5LUFCRk1UY1JLLTc2LQ?oc=5",
-      "published_at": "2026-10-20T02:42:58+00:00",
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Maddison's magic moment for Spurs - 18 months in the making",
+      "summary": "On his first start since May 2025, James Maddison provided the moment of magic Tottenham were waiting for in their 3-1 victory against Coventry, writes Phil McNulty.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwz0v8le7y3eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-19T22:35:55+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -202,13 +202,13 @@
       "score": 17
     },
     {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Maddison's magic moment for Spurs - 18 months in the making",
-      "summary": "On his first start since May 2025, James Maddison provided the moment of magic Tottenham were waiting for in their 3-1 victory against Coventry, writes Phil McNulty.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwz0v8le7y3eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-19T22:35:55+00:00",
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "I thought of her first when i first heard of this trend LA PRIESTLYYY cr: @POHOYOKO•||• 700k+ #mirandapriestly #merylstreep #mirandy #tdwp #thedevilwearsprada - TikTok",
+      "summary": "I thought of her first when i first heard of this trend LA PRIESTLYYY cr: @POHOYOKO•||• 700k+ #mirandapriestly #merylstreep #mirandy #tdwp #thedevilwearsprada TikTok",
+      "source": "Google News TikTok & Short-form Video",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Pei1DWDNOc3Y5Q2hhUWlrMzZiVS0zSFY4RnBfUGxLSFdFUG82Qm0zY0FTdkF1UlVwQnA3S3lCQktOTnhGMTJCakJReE5XUEl4Ym8wdWVnMFZzQmpZT2d5LUFCRk1UY1JLLTc2LQ?oc=5",
+      "published_at": "2026-10-20T02:42:58+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -230,6 +230,226 @@
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
       "score": 17
+    }
+  ],
+  "themes": [
+    {
+      "id": "prices_energy",
+      "title": "Giá cả, lạm phát và năng lượng",
+      "status": "Mẫu hình cần kiểm chứng",
+      "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
+      "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
+      "evidence_count": 4,
+      "source_count": 4,
+      "source_note": "Có nhiều nguồn trong batch",
+      "evidence": [
+        {
+          "title": "Factorization-Guided Training and Inference for Diffusion-Drafted Speculative Decoding",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2610.23935",
+          "published_at": "2026-10-20T04:00:00+00:00",
+          "summary": "arXiv:2610.23935v1 Announce Type: new Abstract: Speculative decoding accelerates large language model inference through parallel verification of tokens proposed by a drafter. Diffusion drafters further parallelize proposal generation, but greater proposal capacity or higher mean accepted tokens (MAT) need not yield higher throughput. Because verification accepts only a consecutive prefix, early rejections can render later correct predictions ineffective, limiting MAT gains, while even higher MAT"
+        },
+        {
+          "title": "German mortgage rates climb to highest since 2009 as Iran war stokes inflation fears",
+          "source": "Euronews",
+          "url": "https://www.euronews.com/2026/10/20/german-mortgage-rates-climb-to-highest-since-2009-as-iran-war-stokes-inflation-fears",
+          "published_at": "2026-10-20T09:04:04+00:00",
+          "summary": "Mortgages in Germany are now at their most expensive since 2009, with the average rate on ten-year loans nearing 4.5%, according to broker Interhyp, as inflation fears stoked by the Iran war push up borrowing costs."
+        },
+        {
+          "title": "Đồng Nhân dân tệ lên mức cao nhất hơn 4 năm",
+          "source": "VTV Kinh tế",
+          "url": "https://vtv.vn/dong-nhan-dan-te-len-muc-cao-nhat-hon-4-nam-10026102014091243.htm",
+          "published_at": "2026-10-20T16:39:00+00:00",
+          "summary": "VTV.vn - Phiên 20/10, đồng Nhân dân tệ của Trung Quốc tăng lên mức cao nhất trong hơn 4 năm, sau khi ngân hàng trung ương phát tín hiệu định hướng tỷ giá mạnh hơn."
+        },
+        {
+          "title": "Trung Quốc tăng tốc phát triển đồ gia dụng tích hợp AI",
+          "source": "VTV Công nghệ",
+          "url": "https://vtv.vn/trung-quoc-tang-toc-phat-trien-do-gia-dung-tich-hop-ai-100261020063117074.htm",
+          "published_at": "2026-10-20T09:33:00+00:00",
+          "summary": "VTV.vn - Từ điều khiển giọng nói đến tối ưu năng lượng, các tính năng thông minh đang giúp hàng gia dụng Trung Quốc đáp ứng tốt hơn nhu cầu tại từng thị trường."
+        }
+      ]
+    },
+    {
+      "id": "ai_work",
+      "title": "AI đi từ năng lực mô hình sang vận hành và công việc",
+      "status": "Mẫu hình cần kiểm chứng",
+      "reading": "Các bài về mô hình, suy luận và công việc có thể cho thấy AI đang được đánh giá theo chi phí triển khai và kết quả vận hành, không chỉ theo khả năng trình diễn. Cần phân biệt nghiên cứu thử nghiệm với sản phẩm đã được triển khai.",
+      "falsifier": "Bác bỏ nếu bài chỉ mô tả nghiên cứu hoặc tuyên bố của doanh nghiệp mà không có kết quả triển khai độc lập.",
+      "evidence_count": 4,
+      "source_count": 1,
+      "source_note": "Chỉ một nguồn xuất bản trong batch",
+      "evidence": [
+        {
+          "title": "Organizing LLM Inference for Aggregate Predictions from Behavioral Data",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2610.23934",
+          "published_at": "2026-10-20T04:00:00+00:00",
+          "summary": "arXiv:2610.23934v1 Announce Type: new Abstract: When using a large language model (LLM) to simulate a user population, how should we combine individual behavioral histories to predict the fraction of users who take a particular action? We study this question in e-commerce, predicting observed product-level conversion rates from browsing sessions without task-specific model training. We vary two design choices, each involving a bias-variance tradeoff. Summarizing a product's sessions before infer"
+        },
+        {
+          "title": "How Data Scales in Agentic Reinforcement Learning: Laws and Synthesis Strategies",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2610.23946",
+          "published_at": "2026-10-20T04:00:00+00:00",
+          "summary": "arXiv:2610.23946v1 Announce Type: new Abstract: Pretraining scaling laws treat training data as a one-dimensional quantity: a token count. Agentic reinforcement learning (RL) inherits this scalar abstraction, but modern synthesis pipelines now generate \\textit{tasks}, \\textit{environments}, and \\textit{trajectories} independently and at very different costs, turning data into a structured design space. This raises a question pretraining never had to answer: given a synthesis budget, \\textit{whic"
+        },
+        {
+          "title": "DS-Net: A Dynamic Split Network for Edge-Cloud Collaborative Inference",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2610.23949",
+          "published_at": "2026-10-20T04:00:00+00:00",
+          "summary": "arXiv:2610.23949v1 Announce Type: new Abstract: Collaborative inference serves as a critical methodology in edge intelligence. Existing collaborative inference methods operate by splitting the deep neural network (DNN) model between edge devices and cloud servers. However, these methods need to load different models for multiple split points when the communication or device changes, thus resulting in long switching times and substantial storage overhead on the edge side. To address this issue, w"
+        },
+        {
+          "title": "Zero-Shot Tabular Learning via Hypergraph Reasoning with LLMs",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2610.23923",
+          "published_at": "2026-10-20T04:00:00+00:00",
+          "summary": "arXiv:2610.23923v1 Announce Type: new Abstract: Tabular data are prevalent across diverse domains such as healthcare and finance. Zero-shot tabular learning aims to make predictions without labeled data. However, existing LLM-based approaches rely on row-wise prompting, resulting in high inference cost and limited use of inter-row dependencies. In this work, we propose TABHGR+, an efficient relation-aware zero-shot framework for tabular data that leverages LLM-generated rules to label and group "
+        }
+      ]
+    },
+    {
+      "id": "trade_geopolitics",
+      "title": "Thương mại, xung đột và rủi ro chuỗi cung ứng",
+      "status": "Mẫu hình cần kiểm chứng",
+      "reading": "Các diễn biến chính trị và thương mại có thể ảnh hưởng đến vận tải, giá đầu vào hoặc quyết định đầu tư. Chưa thể suy ra tác động tới Việt Nam nếu chưa biết tuyến hàng, mặt hàng và mức độ phơi nhiễm.",
+      "falsifier": "Bác bỏ nếu chưa có thay đổi chính sách/luồng hàng thực tế hoặc mặt hàng liên quan không gắn với Việt Nam.",
+      "evidence_count": 4,
+      "source_count": 3,
+      "source_note": "Có nhiều nguồn trong batch",
+      "evidence": [
+        {
+          "title": "A Group-Aware Comparative Study of Classical Machine Learning and Deep Learning Methods for Sensor-Based Human Activity Recognition",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2610.23941",
+          "published_at": "2026-10-20T04:00:00+00:00",
+          "summary": "arXiv:2610.23941v1 Announce Type: new Abstract: Human Activity Recognition (HAR) using wearable or smartphone inertial sensors is commonly evaluated with both classical machine learning and deep learning methods. However, reported performance can be strongly affected by sensor modality, dataset characteristics, and data-splitting strategy. This study presents a controlled comparative evaluation of four classical machine learning models and four deep learning models on two public HAR datasets, UC"
+        },
+        {
+          "title": "Drone attack near market kills 80 in Sudan",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
+          "published_at": "2026-10-19T14:45:53+00:00",
+          "summary": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home. Ahmed Wadi, a witness, said the attack in the town of al-Dibab in West Kordofan state left “50 bodies who I helped bury, one of them my own brother Mohamed”. Continue reading..."
+        },
+        {
+          "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
+          "published_at": "2026-10-16T18:09:34+00:00",
+          "summary": "Beijing warns against ‘discriminatory’ step after France drops opposition to British role in Made in Europe package No 10 has left the door open to imposing tariffs on Chinese-made electric vehicles as part of the Made in Europe package, prompting a warning from Beijing that such a move would be “discriminatory”. Downing Street said on Friday that it would “welcome the objective to have the UK included in the Industrial Accelerator Act” after France dropped its opposition to Britain joining the "
+        },
+        {
+          "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
+          "published_at": "2026-10-19T12:00:00+00:00",
+          "summary": "Israeli attacks on war-torn Gaza over the weekend killed at least six Palestinians, including children, despite a year-old ceasefire agreement. Meanwhile, in the occupied West Bank, settler violence continued through the ongoing olive harvest, with UN independent experts on Monday urging Israel to protect Palestinian farmers."
+        }
+      ]
+    },
+    {
+      "id": "vietnam_business",
+      "title": "Việt Nam: chính sách và điều kiện kinh doanh",
+      "status": "Mẫu hình cần kiểm chứng",
+      "reading": "Chỉ đáng nâng thành tín hiệu khi có văn bản hoặc số liệu gốc, phạm vi áp dụng và nhóm chịu tác động xác định được. Tin kinh doanh đơn lẻ chưa đủ để kết luận xu hướng kinh tế Việt Nam.",
+      "falsifier": "Bác bỏ nếu không có văn bản/số liệu gốc hoặc nội dung không tạo thay đổi đáng kể với doanh nghiệp.",
+      "evidence_count": 4,
+      "source_count": 1,
+      "source_note": "Chỉ một nguồn xuất bản trong batch",
+      "evidence": [
+        {
+          "title": "Phát triển thương hiệu trên TMĐT theo cách riêng: Hành trình của hai nữ doanh nhân Việt",
+          "source": "VTV Kinh tế",
+          "url": "https://vtv.vn/phat-trien-thuong-hieu-tren-tmdt-theo-cach-rieng-hanh-trinh-cua-hai-nu-doanh-nhan-viet-100261019093450534.htm",
+          "published_at": "2026-10-20T10:23:00+00:00",
+          "summary": "VTV.vn - Ngày Phụ nữ Việt Nam 20/10, cùng lắng nghe chia sẻ của hai nhà sáng lập nữ đứng sau thương hiệu OLV và Nệm Sơn về hành trình phát triển kinh doanh trên thương mại điện tử."
+        },
+        {
+          "title": "Đồng Nhân dân tệ lên mức cao nhất hơn 4 năm",
+          "source": "VTV Kinh tế",
+          "url": "https://vtv.vn/dong-nhan-dan-te-len-muc-cao-nhat-hon-4-nam-10026102014091243.htm",
+          "published_at": "2026-10-20T16:39:00+00:00",
+          "summary": "VTV.vn - Phiên 20/10, đồng Nhân dân tệ của Trung Quốc tăng lên mức cao nhất trong hơn 4 năm, sau khi ngân hàng trung ương phát tín hiệu định hướng tỷ giá mạnh hơn."
+        },
+        {
+          "title": "Chống chuyển giá, trốn thuế: Nâng ngưỡng lập hồ sơ từ 200 lên 500 tỷ - Không phải cứ \"chuyển giá\" là \"trốn thuế\"",
+          "source": "VTV Kinh tế",
+          "url": "https://vtv.vn/chong-chuyen-gia-tron-thue-nang-nguong-lap-ho-so-tu-200-len-500-ty-khong-phai-cu-chuyen-gia-la-tron-thue-100261019142519806.htm",
+          "published_at": "2026-10-20T09:53:00+00:00",
+          "summary": "VTV.vn - Tập đặc biệt Quốc Dân Hiểu Thuế phát sóng ngày 11/10/2026 phân tích vấn đề chống chuyển giá, trốn thuế và đề xuất nâng ngưỡng lập hồ sơ lên trên 500 tỷ đồng."
+        },
+        {
+          "title": "TP Hà Nội thí điểm chấm điểm giải ngân vốn đầu tư công",
+          "source": "VTV Kinh tế",
+          "url": "https://vtv.vn/tp-ha-noi-thi-diem-cham-diem-giai-ngan-von-dau-tu-cong-100261020060653529.htm",
+          "published_at": "2026-10-20T08:58:00+00:00",
+          "summary": "VTV.vn - Việc chấm điểm được thực hiện định kỳ và công khai, làm cơ sở biểu dương các đơn vị thực hiện tốt, đồng thời đôn đốc những đơn vị chậm tiến độ."
+        }
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "category": "ai",
+      "domain": "AI & công nghệ",
+      "items": 40,
+      "usable": 40,
+      "sources": 8
+    },
+    {
+      "category": "world",
+      "domain": "Thế giới",
+      "items": 65,
+      "usable": 65,
+      "sources": 10
+    },
+    {
+      "category": "vietnam",
+      "domain": "Việt Nam",
+      "items": 30,
+      "usable": 30,
+      "sources": 3
+    },
+    {
+      "category": "water",
+      "domain": "Nước & năng lượng",
+      "items": 0,
+      "usable": 0,
+      "sources": 0
+    },
+    {
+      "category": "football",
+      "domain": "Arsenal & Premier League",
+      "items": 12,
+      "usable": 12,
+      "sources": 4
+    },
+    {
+      "category": "books",
+      "domain": "Sách",
+      "items": 1,
+      "usable": 1,
+      "sources": 1
+    },
+    {
+      "category": "creator",
+      "domain": "Sáng tạo nội dung",
+      "items": 2,
+      "usable": 2,
+      "sources": 1
+    },
+    {
+      "category": "trends",
+      "domain": "Google Trends",
+      "items": 0,
+      "usable": 0,
+      "sources": 0
     }
   ],
   "links": [
@@ -301,225 +521,5 @@
     "Đọc nguồn gốc và xác minh dữ kiện cụ thể trước khi kết luận.",
     "Chỉ nâng ưu tiên khi có nguồn chính thức hoặc nguồn độc lập xác nhận.",
     "Bổ sung feed cho lĩnh vực thiếu dữ liệu; không lấp khoảng trống bằng tin cũ."
-  ],
-  "themes": [
-    {
-      "id": "prices_energy",
-      "title": "Giá cả, lạm phát và năng lượng",
-      "status": "Mẫu hình cần kiểm chứng",
-      "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
-      "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
-      "evidence_count": 4,
-      "source_count": 3,
-      "source_note": "Nhiều nguồn trong batch",
-      "evidence": [
-        {
-          "title": "Factorization-Guided Training and Inference for Diffusion-Drafted Speculative Decoding",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.23935",
-          "published_at": "2026-10-20T04:00:00+00:00",
-          "summary": "arXiv:2610.23935v1 Announce Type: new Abstract: Speculative decoding accelerates large language model inference through parallel verification of tokens proposed by a drafter. Diffusion drafters further parallelize proposal generation, but greater proposal capacity or higher mean accepted tokens (MAT) need not yield higher throughput. Because verification accepts only a consecutive prefix, early rejections can render later correct predictions ineffective, limiting MAT gains, while even higher MAT"
-        },
-        {
-          "title": "Đồng Nhân dân tệ lên mức cao nhất hơn 4 năm",
-          "source": "VTV Kinh tế",
-          "url": "https://vtv.vn/dong-nhan-dan-te-len-muc-cao-nhat-hon-4-nam-10026102014091243.htm",
-          "published_at": "2026-10-20T16:39:00+00:00",
-          "summary": "VTV.vn - Phiên 20/10, đồng Nhân dân tệ của Trung Quốc tăng lên mức cao nhất trong hơn 4 năm, sau khi ngân hàng trung ương phát tín hiệu định hướng tỷ giá mạnh hơn."
-        },
-        {
-          "title": "Lạm phát giá lương thực toàn cầu tăng tốc",
-          "source": "VTV Kinh tế",
-          "url": "https://vtv.vn/lam-phat-gia-luong-thuc-toan-cau-tang-toc-100261020061919708.htm",
-          "published_at": "2026-10-20T16:38:00+00:00",
-          "summary": "VTV.vn - Dữ liệu của FAO cho thấy chỉ số giá lương thực thế giới đã chạm mức cao nhất trong gần bốn năm qua."
-        },
-        {
-          "title": "Trung Quốc tăng tốc phát triển đồ gia dụng tích hợp AI",
-          "source": "VTV Công nghệ",
-          "url": "https://vtv.vn/trung-quoc-tang-toc-phat-trien-do-gia-dung-tich-hop-ai-100261020063117074.htm",
-          "published_at": "2026-10-20T09:33:00+00:00",
-          "summary": "VTV.vn - Từ điều khiển giọng nói đến tối ưu năng lượng, các tính năng thông minh đang giúp hàng gia dụng Trung Quốc đáp ứng tốt hơn nhu cầu tại từng thị trường."
-        }
-      ]
-    },
-    {
-      "id": "ai_work",
-      "title": "AI đi từ năng lực mô hình sang vận hành và công việc",
-      "status": "Mẫu hình cần kiểm chứng",
-      "reading": "Các bài về mô hình, suy luận và công việc có thể cho thấy AI đang được đánh giá theo chi phí triển khai và kết quả vận hành, không chỉ theo khả năng trình diễn. Cần phân biệt nghiên cứu thử nghiệm với sản phẩm đã được triển khai.",
-      "falsifier": "Bác bỏ nếu bài chỉ mô tả nghiên cứu hoặc tuyên bố của doanh nghiệp mà không có kết quả triển khai độc lập.",
-      "evidence_count": 4,
-      "source_count": 2,
-      "source_note": "Nhiều nguồn trong batch",
-      "evidence": [
-        {
-          "title": "Ask HN: How do you decide to cut scope when AI makes it so easy to add?",
-          "source": "Hacker News AI Discussions",
-          "url": "https://news.ycombinator.com/item?id=50161914",
-          "published_at": "2026-10-20T05:59:33+00:00",
-          "summary": "I've been having this conversation with my co-founder for months. It's so easy to add incremental features nowadays, and most seem useful. There's nothing obviously wrong with them. On top of that, people are using the software, and they appreciate how complete it is. The UX is cluttered, but 99% of interactions don't use it, so who cares. How do you decide to cut scope when in the current setup there's nothing to lose? Am I simply to old school? For context, this is the project: https://github."
-        },
-        {
-          "title": "Organizing LLM Inference for Aggregate Predictions from Behavioral Data",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.23934",
-          "published_at": "2026-10-20T04:00:00+00:00",
-          "summary": "arXiv:2610.23934v1 Announce Type: new Abstract: When using a large language model (LLM) to simulate a user population, how should we combine individual behavioral histories to predict the fraction of users who take a particular action? We study this question in e-commerce, predicting observed product-level conversion rates from browsing sessions without task-specific model training. We vary two design choices, each involving a bias-variance tradeoff. Summarizing a product's sessions before infer"
-        },
-        {
-          "title": "How Data Scales in Agentic Reinforcement Learning: Laws and Synthesis Strategies",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.23946",
-          "published_at": "2026-10-20T04:00:00+00:00",
-          "summary": "arXiv:2610.23946v1 Announce Type: new Abstract: Pretraining scaling laws treat training data as a one-dimensional quantity: a token count. Agentic reinforcement learning (RL) inherits this scalar abstraction, but modern synthesis pipelines now generate \\textit{tasks}, \\textit{environments}, and \\textit{trajectories} independently and at very different costs, turning data into a structured design space. This raises a question pretraining never had to answer: given a synthesis budget, \\textit{whic"
-        },
-        {
-          "title": "DS-Net: A Dynamic Split Network for Edge-Cloud Collaborative Inference",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.23949",
-          "published_at": "2026-10-20T04:00:00+00:00",
-          "summary": "arXiv:2610.23949v1 Announce Type: new Abstract: Collaborative inference serves as a critical methodology in edge intelligence. Existing collaborative inference methods operate by splitting the deep neural network (DNN) model between edge devices and cloud servers. However, these methods need to load different models for multiple split points when the communication or device changes, thus resulting in long switching times and substantial storage overhead on the edge side. To address this issue, w"
-        }
-      ]
-    },
-    {
-      "id": "trade_geopolitics",
-      "title": "Thương mại, xung đột và rủi ro chuỗi cung ứng",
-      "status": "Mẫu hình cần kiểm chứng",
-      "reading": "Các diễn biến chính trị và thương mại có thể ảnh hưởng đến vận tải, giá đầu vào hoặc quyết định đầu tư. Chưa thể suy ra tác động tới Việt Nam nếu chưa biết tuyến hàng, mặt hàng và mức độ phơi nhiễm.",
-      "falsifier": "Bác bỏ nếu chưa có thay đổi chính sách/luồng hàng thực tế hoặc mặt hàng liên quan không gắn với Việt Nam.",
-      "evidence_count": 4,
-      "source_count": 3,
-      "source_note": "Nhiều nguồn trong batch",
-      "evidence": [
-        {
-          "title": "A Group-Aware Comparative Study of Classical Machine Learning and Deep Learning Methods for Sensor-Based Human Activity Recognition",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.23941",
-          "published_at": "2026-10-20T04:00:00+00:00",
-          "summary": "arXiv:2610.23941v1 Announce Type: new Abstract: Human Activity Recognition (HAR) using wearable or smartphone inertial sensors is commonly evaluated with both classical machine learning and deep learning methods. However, reported performance can be strongly affected by sensor modality, dataset characteristics, and data-splitting strategy. This study presents a controlled comparative evaluation of four classical machine learning models and four deep learning models on two public HAR datasets, UC"
-        },
-        {
-          "title": "Drone attack near market kills 80 in Sudan",
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-          "published_at": "2026-10-19T14:45:53+00:00",
-          "summary": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home. Ahmed Wadi, a witness, said the attack in the town of al-Dibab in West Kordofan state left “50 bodies who I helped bury, one of them my own brother Mohamed”. Continue reading..."
-        },
-        {
-          "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
-          "published_at": "2026-10-19T12:00:00+00:00",
-          "summary": "Israeli attacks on war-torn Gaza over the weekend killed at least six Palestinians, including children, despite a year-old ceasefire agreement. Meanwhile, in the occupied West Bank, settler violence continued through the ongoing olive harvest, with UN independent experts on Monday urging Israel to protect Palestinian farmers."
-        },
-        {
-          "title": "COP17: The world has a plan to save nature. Is it working?",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168618",
-          "published_at": "2026-10-17T12:00:00+00:00",
-          "summary": "The UN Secretary-General has called for an end to the “war on nature”. On Monday, governments gathering in Yerevan, Armenia, will have to confront a more practical question: are they doing enough to win the peace and put the world’s biodiversity goals back on track?"
-        }
-      ]
-    },
-    {
-      "id": "vietnam_business",
-      "title": "Việt Nam: chính sách và điều kiện kinh doanh",
-      "status": "Mẫu hình cần kiểm chứng",
-      "reading": "Chỉ đáng nâng thành tín hiệu khi có văn bản hoặc số liệu gốc, phạm vi áp dụng và nhóm chịu tác động xác định được. Tin kinh doanh đơn lẻ chưa đủ để kết luận xu hướng kinh tế Việt Nam.",
-      "falsifier": "Bác bỏ nếu không có văn bản/số liệu gốc hoặc nội dung không tạo thay đổi đáng kể với doanh nghiệp.",
-      "evidence_count": 4,
-      "source_count": 1,
-      "source_note": "Chỉ một nguồn xuất bản trong batch",
-      "evidence": [
-        {
-          "title": "Đồng Nhân dân tệ lên mức cao nhất hơn 4 năm",
-          "source": "VTV Kinh tế",
-          "url": "https://vtv.vn/dong-nhan-dan-te-len-muc-cao-nhat-hon-4-nam-10026102014091243.htm",
-          "published_at": "2026-10-20T16:39:00+00:00",
-          "summary": "VTV.vn - Phiên 20/10, đồng Nhân dân tệ của Trung Quốc tăng lên mức cao nhất trong hơn 4 năm, sau khi ngân hàng trung ương phát tín hiệu định hướng tỷ giá mạnh hơn."
-        },
-        {
-          "title": "Khu Kinh tế Dung Quất áp dụng cơ chế đặc thù",
-          "source": "VTV Kinh tế",
-          "url": "https://vtv.vn/khu-kinh-te-dung-quat-ap-dung-co-che-dac-thu-100261020054757781.htm",
-          "published_at": "2026-10-20T13:53:00+00:00",
-          "summary": "VTV.vn - Các dự án lọc hóa dầu quy mô lớn tại Dung Quất có thể được hưởng thuế thu nhập doanh nghiệp 10% trong 30 năm."
-        },
-        {
-          "title": "Thị trường hoa 20/10: Từ trăm nghìn đến vài triệu, livestream hút khách",
-          "source": "VTV Kinh tế",
-          "url": "https://vtv.vn/thi-truong-hoa-20-10-tu-tram-nghin-den-vai-trieu-livestream-hut-khach-100261019172540657.htm",
-          "published_at": "2026-10-20T10:40:00+00:00",
-          "summary": "VTV.vn - Dịp 20/10, ngày Phụ nữ Việt Nam, thị trường hoa tươi tại Hà Nội rộn ràng lên trông thấy do nhu cầu mua hoa làm quà tặng tăng cao."
-        },
-        {
-          "title": "Phát triển thương hiệu trên TMĐT theo cách riêng: Hành trình của hai nữ doanh nhân Việt",
-          "source": "VTV Kinh tế",
-          "url": "https://vtv.vn/phat-trien-thuong-hieu-tren-tmdt-theo-cach-rieng-hanh-trinh-cua-hai-nu-doanh-nhan-viet-100261019093450534.htm",
-          "published_at": "2026-10-20T10:23:00+00:00",
-          "summary": "VTV.vn - Ngày Phụ nữ Việt Nam 20/10, cùng lắng nghe chia sẻ của hai nhà sáng lập nữ đứng sau thương hiệu OLV và Nệm Sơn về hành trình phát triển kinh doanh trên thương mại điện tử."
-        }
-      ]
-    }
-  ],
-  "coverage": [
-    {
-      "category": "ai",
-      "domain": "AI & Công nghệ",
-      "items": 40,
-      "usable": 40,
-      "sources": 7
-    },
-    {
-      "category": "world",
-      "domain": "Thế giới",
-      "items": 65,
-      "usable": 65,
-      "sources": 10
-    },
-    {
-      "category": "vietnam",
-      "domain": "Việt Nam",
-      "items": 30,
-      "usable": 30,
-      "sources": 3
-    },
-    {
-      "category": "water",
-      "domain": "Nước & Năng lượng",
-      "items": 0,
-      "usable": 0,
-      "sources": 0
-    },
-    {
-      "category": "football",
-      "domain": "Arsenal & Premier League",
-      "items": 12,
-      "usable": 12,
-      "sources": 4
-    },
-    {
-      "category": "books",
-      "domain": "Sách",
-      "items": 1,
-      "usable": 1,
-      "sources": 1
-    },
-    {
-      "category": "creator",
-      "domain": "Sáng tạo nội dung",
-      "items": 2,
-      "usable": 2,
-      "sources": 1
-    },
-    {
-      "category": "trends",
-      "domain": "Google Trends",
-      "items": 0,
-      "usable": 0,
-      "sources": 0
-    }
   ]
 }

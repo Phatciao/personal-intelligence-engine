@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T10:08:04.883164+00:00",
+  "generated_at": "2026-10-20T10:19:04.919971+00:00",
   "status": "ok",
   "items_count": 150,
   "items": [
@@ -286,6 +286,46 @@
       ]
     },
     {
+      "title": "Uzbekistan's $12bn business drive gathers pace during Rubio visit",
+      "url": "https://www.euronews.com/2026/10/20/uzbekistans-12bn-business-drive-gathers-pace-during-rubio-visit",
+      "summary": "The package covers railways, critical minerals, finance and technology, with major US firms involved. Uzbek President Mirziyoyev outlined measures to attract investors, while business executives told Euronews that commercial activity is growing.",
+      "published_at": "2026-10-20T10:17:36+00:00",
+      "source": "Euronews",
+      "source_feed": "https://www.euronews.com/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Euronews"
+      ]
+    },
+    {
+      "title": "Trump’s approval ratings plummet: what that means for the US midterms",
+      "url": "https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss",
+      "summary": "Sitting presidents usually see a dip in approval ratings before midterms, but Trump's ratings are at a historic low.",
+      "published_at": "2026-10-20T10:13:19+00:00",
+      "source": "Al Jazeera English",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Al Jazeera English"
+      ]
+    },
+    {
       "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
       "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
       "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
@@ -323,6 +363,26 @@
       "quality_flags": [],
       "sources_seen": [
         "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "Latest news bulletin | October 20th, 2026 – Midday",
+      "url": "https://www.euronews.com/video/2026/10/20/latest-news-bulletin-october-20th-2026-midday",
+      "summary": "Catch up with the most important stories from around Europe and beyond this October 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "published_at": "2026-10-20T10:00:15+00:00",
+      "source": "Euronews",
+      "source_feed": "https://www.euronews.com/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Euronews"
       ]
     },
     {
@@ -567,13 +627,13 @@
       ]
     },
     {
-      "title": "Jobless rate falls but small firms cut back hiring",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-      "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
-      "published_at": "2026-10-20T09:31:29+00:00",
-      "source": "BBC Business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "category": "world",
+      "title": "Nhật Bản phóng tàu lấy mẫu vật mặt trăng Sao Hỏa",
+      "url": "https://vnexpress.net/nhat-ban-phong-tau-lay-mau-vat-mat-trang-sao-hoa-5134573.html",
+      "summary": "Tàu vũ trụ của Nhật Bản cất cánh thành công, bắt đầu hành trình 10 tháng tới Sao Hỏa để lấy mẫu vật mặt trăng Phobos, mang về Trái Đất vào năm 2031.",
+      "published_at": "2026-10-20T09:29:20+00:00",
+      "source": "VnExpress Khoa học công nghệ",
+      "source_feed": "https://vnexpress.net/rss/khoa-hoc-cong-nghe.rss",
+      "category": "ai",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
@@ -583,27 +643,7 @@
       ],
       "quality_flags": [],
       "sources_seen": [
-        "BBC Business"
-      ]
-    },
-    {
-      "title": "Transcript: Jamie Dimon on the Biggest Risks Facing the Global Economy – WSJ Leadership Institute - The Singju Post",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlpZZ2tNR1lLTUhKT2k2V0JpQmxXVUE4RG1jNGZHbVhmSkpWV1RYUWYzVEZFYXVVX1libHFJNms1Zk8tM2hBaHBwaWoxdHQ0aHl1X2gzTi1FQkJGbmtORWoxM0hqZzZwM3lTa2piMEJmdk03VHRUdVBrX3h6QTc2NDNtWmlWanVPbU53QXBVOV9NZ0FBNEEwYzFxT1RfLXlOc0Q0T1RTSXJ2VWRTQng2WWVQdmhNNnpCWkE?oc=5",
-      "summary": "Transcript: Jamie Dimon on the Biggest Risks Facing the Global Economy – WSJ Leadership Institute The Singju Post",
-      "published_at": "2026-10-20T09:28:11+00:00",
-      "source": "Google News World Economy",
-      "source_feed": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News World Economy"
+        "VnExpress Khoa học công nghệ"
       ]
     },
     {
@@ -624,26 +664,6 @@
       "quality_flags": [],
       "sources_seen": [
         "Hacker News AI Discussions"
-      ]
-    },
-    {
-      "title": "South Korea to pull more embassy staff from Ukraine after POW row",
-      "url": "https://www.aljazeera.com/news/2026/10/20/south-korea-to-pull-more-embassy-staff-from-ukraine-after-pow-row?traffic_source=rss",
-      "summary": "Earlier this month, South Korea recalled its ambassador from Kyiv after Zelenskyy disclosed the prisoner transfer.",
-      "published_at": "2026-10-20T09:26:02+00:00",
-      "source": "Al Jazeera English",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Al Jazeera English"
       ]
     },
     {
@@ -709,23 +729,27 @@
       ]
     },
     {
-      "title": "Show HN: Sandkiln – Fast Firecracker MicroVM sandboxes for AI-generated code",
-      "url": "https://sandkiln.vercel.app/",
-      "summary": "Article URL: https://sandkiln.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50163287 Points: 1 # Comments: 0",
-      "published_at": "2026-10-20T09:09:46+00:00",
-      "source": "Hacker News AI Discussions",
-      "source_feed": "https://hnrss.org/newest?q=AI",
-      "category": "ai",
+      "title": "Arsenal XI vs Bayern: Confirmed team news and predicted lineup - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTmduWU5RRU5CYVA3OFFyU1NaRXV0cUFLTG9IT3dkSzNDMk5ET1BBVndCOXk3THpCd2VrdDZVQmFjUFNxeXdlcy0wT2xLVTRfcWR1UFlzWkFieG1UMjBvM0ZtTi1CM3VYVmVvZTE3amR5WmVTZXJjZkdHVTl3bktjZEJydy1abDFDUk5mQWNyajR6RXVkaWQ2TFBSYzhGX0hTenRkS3dhMThONVZNUG1PQkVsTGNUbFF6dGJJQm9uMDhuQmFvcjFfeXZmTlI0LUZqS0hZakszUHAtOHhFMlZud2tyYUoxcG8?oc=5",
+      "summary": "Arsenal XI vs Bayern: Confirmed team news and predicted lineup London Evening Standard",
+      "published_at": "2026-10-20T09:07:04+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 44,
       "triage_reasons": [
-        "published_within_24_hours"
+        "possible_concrete_development",
+        "published_within_24_hours",
+        "summary_insufficient"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "short_summary"
+      ],
       "sources_seen": [
-        "Hacker News AI Discussions"
+        "Google News Arsenal"
       ]
     },
     {
@@ -1059,26 +1083,6 @@
       "quality_flags": [],
       "sources_seen": [
         "Euronews"
-      ]
-    },
-    {
-      "title": "Ex-Premier League chairman picks 'bigger and worse offenders' than Man City after 114 charges - Manchester Evening News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWHRZUS1MNVhDWHVUNzd3c0VaSHdFakFIWFNsOFdMWUk5TGVnMHluSm1ELUh1T015bnY2Z1pReEdyTktvelNDTmU3S0pNcXhWbkNFV095NEhqQ21TaGRqUzlRNjRoMnBSa2lod0s5d0Z6RVNleGVQTVVvTFlWMmFxTWo5T2c3dEM5VFN4dmxiSXZkTG05d18xSFQzcGZGUTVpUGdLQkJrc2TSAa4BQVVfeXFMTm5CMUZaa2VqZk5LZFpEVXp0bk1WeUxQUXM1b1dqMk9ybkQ4cU5XdEpYZmk0RmR4T01nd1Z2SElLVGxhaHMtOFBxNVVCUE5RNlh4d3poa3ZfakNiZF9wRldFLTYya0lhbmVYOHZleGNyRDJDbGZlR1lXTWdLWGdOUHg3VXBUZ09uTWxHanFjZG0zNkFDUEJyV3dNOGE3S3c3R1B3dzhCSVJWdHFTaGtn?oc=5",
-      "summary": "Ex-Premier League chairman picks 'bigger and worse offenders' than Man City after 114 charges Manchester Evening News",
-      "published_at": "2026-10-20T08:25:00+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
       ]
     },
     {
@@ -2085,7 +2089,7 @@
     {
       "title": "Tottenham 3-1 Coventry: Spurs earn first Premier League win of season - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpbFFLemx1TUJzaFBzdUV6VDRjcE1RY1N5QklmV1FxVG0xaFlSS2FWVDl6YjJFMVJxdmEzX3dqci1xWW5kMHhaQTFtR1A5Zkk0bTBVRTQ0VWNEYU9TT2ZrYjNKTlJUZw?oc=5",
-      "summary": "Tottenham 3-1 Coventry: Spurs earn first Premier League win of season BBC Tottenham beat Coventry to claim first Premier League win of season – as it happened The Guardian James Maddison marks first Tottenham start in nearly 18 months with stunning goal in first Premier League win of season Sky Sports",
+      "summary": "Tottenham 3-1 Coventry: Spurs earn first Premier League win of season BBC Tottenham beat Coventry to claim first Premier League win of season – as it happened The Guardian Maddison and Kulusevski bring feel-good factor back to Spurs The Telegraph",
       "published_at": "2026-10-19T22:43:09+00:00",
       "source": "Google News Premier League",
       "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
@@ -3113,8 +3117,8 @@
     "vietnam": 30,
     "world": 65,
     "ai": 40,
-    "creator": 2,
     "football": 12,
+    "creator": 2,
     "books": 1
   },
   "source_errors": [
@@ -3169,14 +3173,14 @@
       "feed_url": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 2
+      "items_selected_primary": 3
     },
     {
       "source": "Google News Premier League",
       "feed_url": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 4
+      "items_selected_primary": 3
     },
     {
       "source": "BBC World",
@@ -3190,14 +3194,14 @@
       "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 5
+      "items_selected_primary": 4
     },
     {
       "source": "Google News World Economy",
       "feed_url": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 2
+      "items_selected_primary": 1
     },
     {
       "source": "Google News AI Applications",
@@ -3239,7 +3243,7 @@
       "feed_url": "https://vnexpress.net/rss/khoa-hoc-cong-nghe.rss",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 0
+      "items_selected_primary": 1
     },
     {
       "source": "VTV Thế giới",
@@ -3303,7 +3307,7 @@
       "feed_url": "https://www.euronews.com/rss",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 8
+      "items_selected_primary": 10
     },
     {
       "source": "UN News",
@@ -3374,7 +3378,7 @@
       "feed_url": "https://hnrss.org/newest?q=AI",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 7
+      "items_selected_primary": 6
     },
     {
       "source": "Anthropic News (community RSS mirror)",

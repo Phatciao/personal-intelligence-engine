@@ -17,7 +17,7 @@ for x in items:
  k=u or " ".join(t.lower().split())
  if k not in unique or len(s(x.get("summary")))>len(s(unique[k].get("summary"))):unique[k]=x
 items=list(unique.values())
-names={"AI":"AI & công nghệ","world":"Thế giới","Vietnam":"Việt Nam","water":"Nước & năng lượng","football":"Arsenal & Premier League","books":"Sách","creator":"Sáng tạo nội dung","trends":"Google Trends"}
+names={"ai":"AI & công nghệ","world":"Thế giới","vietnam":"Việt Nam","water":"Nước & năng lượng","football":"Arsenal & Premier League","books":"Sách","creator":"Sáng tạo nội dung","trends":"Google Trends"}
 groups={}
 for x in items:groups.setdefault(s(x.get("category")) or "other",[]).append(x)
 def score(x):

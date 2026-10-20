@@ -86,6 +86,94 @@ SOURCES = [
         "category": "vietnam",
         "url": "https://news.google.com/rss/search?q=Vietnam+economy+technology&hl=en-US&gl=US&ceid=US:en",
     },
+    # --- Vietnam: RSS trực tiếp từ cơ quan báo chí; miễn phí ---
+    {
+        "name": "VnExpress Thời sự",
+        "category": "vietnam",
+        "url": "https://vnexpress.net/rss/thoi-su.rss",
+    },
+    {
+        "name": "VnExpress Kinh doanh",
+        "category": "vietnam",
+        "url": "https://vnexpress.net/rss/kinh-doanh.rss",
+    },
+    {
+        "name": "VnExpress Thế giới",
+        "category": "world",
+        "url": "https://vnexpress.net/rss/the-gioi.rss",
+    },
+    {
+        "name": "VnExpress Khoa học công nghệ",
+        "category": "ai",
+        "url": "https://vnexpress.net/rss/khoa-hoc-cong-nghe.rss",
+    },
+    {
+        "name": "VTV Thế giới",
+        "category": "world",
+        "url": "https://vtv.vn/rss/the-gioi/tin-tuc.rss",
+    },
+    {
+        "name": "VTV Kinh tế",
+        "category": "vietnam",
+        "url": "https://vtv.vn/rss/kinh-te.rss",
+    },
+    {
+        "name": "VTV Công nghệ",
+        "category": "ai",
+        "url": "https://vtv.vn/rss/cong-nghe.rss",
+    },
+    {
+        "name": "VTV Trí tuệ nhân tạo",
+        "category": "ai",
+        "url": "https://vtv.vn/rss/cong-nghe/tri-tue-nhan-tao.rss",
+    },
+    {
+        "name": "VTV Chuyện nhà nông",
+        "category": "vietnam",
+        "url": "https://vtv.vn/rss/chuong-trinh-da-phat-song/chuyen-nha-nong-voi-nong-nghiep.rss",
+    },
+
+    # --- World: free publisher / institutional feeds; compare perspectives ---
+    {
+        "name": "Al Jazeera English",
+        "category": "world",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    },
+    {
+        "name": "Deutsche Welle World",
+        "category": "world",
+        "url": "https://rss.dw.com/xml/rss-en-all",
+    },
+    {
+        "name": "The Guardian World",
+        "category": "world",
+        "url": "https://www.theguardian.com/world/rss",
+    },
+    {
+        "name": "Euronews",
+        "category": "world",
+        "url": "https://www.euronews.com/rss",
+    },
+    {
+        "name": "UN News",
+        "category": "world",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+    },
+    {
+        "name": "World Bank Blogs",
+        "category": "world",
+        "url": "https://blogs.worldbank.org/en/feed",
+    },
+
+    # --- Gan Jing World: Google News index discovery, not a direct GJW RSS feed ---
+    # Keep as an additional viewpoint; corroborate claims with primary/independent sources.
+    {
+        "name": "Google News indexed Gan Jing World",
+        "category": "world",
+        "signal_source_type": "search_index",
+        "url": "https://news.google.com/rss/search?q=site%3Aganjingworld.com%2Fnews&hl=en-US&gl=US&ceid=US:en",
+    },
+
     {
         "name": "Google News Water Technology",
         "category": "water",

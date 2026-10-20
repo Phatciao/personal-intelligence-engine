@@ -1,63 +1,34 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T04:52:02.742792+00:00",
+  "generated_at": "2026-10-20T09:43:43.954470+00:00",
   "status": "ok",
   "items_count": 150,
   "items": [
     {
-      "title": "lãi suất ngân hàng hôm nay",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T04:30:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
+      "title": "Jobless rate falls but small firms cut back hiring",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+      "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
+      "published_at": "2026-10-20T09:31:29+00:00",
+      "source": "BBC Business",
+      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 54,
+      "triage_score": 42,
       "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours",
-        "summary_insufficient"
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google Trends Vietnam"
+        "BBC Business"
       ]
     },
     {
-      "title": "tử vi tuần mới",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T04:30:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "brest",
+      "title": "mass lottery",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "summary": "",
-      "published_at": "2026-10-20T04:20:00+00:00",
+      "published_at": "2026-10-20T09:30:00+00:00",
       "source": "Google Trends United States",
       "source_feed": "https://trends.google.com/trending/rss?geo=US",
       "category": "trends",
@@ -78,14 +49,14 @@
       ]
     },
     {
-      "title": "irina shayk",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T04:20:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
+      "title": "Man City charges LIVE: Huge points deduction leaked as EFL 'ready to agree' punishment - Daily Mirror",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnJGS0VGbmkzSFdlTXUzd0F0dVhGSXVtcGxwdURkeDdRMlphNU13LUxuNU4zVC1talkwOGlSakU4ZmhMVThfTE1oVm5HNnROckY4SDY0anl2clFfUVlnMjB3T25yeTdVT05uOFlFOVoxRFlCNFNEc3hHUjdVYnIzUVlvbUU5bUNvWEVodG16NA?oc=5",
+      "summary": "Man City charges LIVE: Huge points deduction leaked as EFL 'ready to agree' punishment Daily Mirror",
+      "published_at": "2026-10-20T09:28:38+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
       "triage_score": 34,
@@ -94,138 +65,37 @@
         "summary_insufficient"
       ],
       "quality_flags": [
-        "missing_summary",
         "short_summary"
       ],
       "sources_seen": [
-        "Google Trends United States"
+        "Google News Premier League"
       ]
     },
     {
-      "title": "pnj",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T04:10:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
+      "title": "Transcript: Jamie Dimon on the Biggest Risks Facing the Global Economy – WSJ Leadership Institute - The Singju Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlpZZ2tNR1lLTUhKT2k2V0JpQmxXVUE4RG1jNGZHbVhmSkpWV1RYUWYzVEZFYXVVX1libHFJNms1Zk8tM2hBaHBwaWoxdHQ0aHl1X2gzTi1FQkJGbmtORWoxM0hqZzZwM3lTa2piMEJmdk03VHRUdVBrX3h6QTc2NDNtWmlWanVPbU53QXBVOV9NZ0FBNEEwYzFxT1RfLXlOc0Q0T1RTSXJ2VWRTQng2WWVQdmhNNnpCWkE?oc=5",
+      "summary": "Transcript: Jamie Dimon on the Biggest Risks Facing the Global Economy – WSJ Leadership Institute The Singju Post",
+      "published_at": "2026-10-20T09:28:11+00:00",
+      "source": "Google News World Economy",
+      "source_feed": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
+      "category": "world",
+      "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 42,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google Trends Vietnam"
+        "Google News World Economy"
       ]
     },
     {
-      "title": "blueface",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T04:10:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "chandler riggs",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T04:10:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "nba schedule",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T04:10:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "jayson tatum",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T04:10:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "A Forgotten 1980 Reversible Computer, and the AI That Just Cut Quantum Costs 17x",
-      "url": "https://x.com/BrianRoemmele/article/2112202286441374119",
-      "summary": "Article URL: https://x.com/BrianRoemmele/article/2112202286441374119 Comments URL: https://news.ycombinator.com/item?id=50161200 Points: 1 # Comments: 0",
-      "published_at": "2026-10-20T04:02:00+00:00",
+      "title": "Everygen AI – AI Video, Image, Shorts and Ads Studio",
+      "url": "https://www.everygens.com/",
+      "summary": "Article URL: https://www.everygens.com/ Comments URL: https://news.ycombinator.com/item?id=50163425 Points: 1 # Comments: 0",
+      "published_at": "2026-10-20T09:26:56+00:00",
       "source": "Hacker News AI Discussions",
       "source_feed": "https://hnrss.org/newest?q=AI",
       "category": "ai",
@@ -239,6 +109,1075 @@
       "quality_flags": [],
       "sources_seen": [
         "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "December go sweet .. @MUNII S #Emmyblaq #fyp #trend #vibess - TikTok",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fcEZwcEd1SnBXX2M0UFVTODhfQXR6b2Jrdm9GN3VBQ0d3dkZlS2h5cU1uOXpIZU1lN25HMk5jZ3pRVnExNDZ3M3drWGlVTnFwMGg2aVdOWHVFRFAwMUl5cVptaTJKcUc1Ykl6aEZB?oc=5",
+      "summary": "December go sweet .. @MUNII S #Emmyblaq #fyp #trend #vibess TikTok",
+      "published_at": "2026-10-20T09:26:27+00:00",
+      "source": "Google News TikTok & Short-form Video",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "likely_platform_noise",
+        "viral_metrics_missing",
+        "no_public_engagement_metrics",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News TikTok & Short-form Video"
+      ]
+    },
+    {
+      "title": "HAR 1.0: The open harness for AI coding workflows you can trust and verify",
+      "url": "https://github.com/os-factory/har",
+      "summary": "Article URL: https://github.com/os-factory/har Comments URL: https://news.ycombinator.com/item?id=50163417 Points: 1 # Comments: 0",
+      "published_at": "2026-10-20T09:25:59+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "con giáp may mắn hôm nay",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "summary": "",
+      "published_at": "2026-10-20T09:20:00+00:00",
+      "source": "Google Trends Vietnam",
+      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "swimming",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-20T09:20:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "stefanos tsitsipas",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-20T09:10:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "nfl power rankings week 7",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-20T09:10:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "Show HN: Sandkiln – Fast Firecracker MicroVM sandboxes for AI-generated code",
+      "url": "https://sandkiln.vercel.app/",
+      "summary": "Article URL: https://sandkiln.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50163287 Points: 1 # Comments: 0",
+      "published_at": "2026-10-20T09:09:46+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "Show HN: I built an AI tool that turns two photos into a dance video",
+      "url": "https://a2oliteai.com/",
+      "summary": "Article URL: https://a2oliteai.com/ Comments URL: https://news.ycombinator.com/item?id=50163258 Points: 2 # Comments: 0",
+      "published_at": "2026-10-20T09:06:42+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "Sunderland news: Can Black Cats balance Europe with Premier League? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VTldUZDRzM0VEbmFfZVJMVWczUGVKYXlpTE9Xc1pLY29oWlI0LXBkY0pkZENzNl9PUE5zYS1oTTlNXzlOcFlYTk1tYy1zQ05qV3ZzMzBIWV82cVNlQnJHeUJJY3ZrV0c3NDJR?oc=5",
+      "summary": "Sunderland news: Can Black Cats balance Europe with Premier League? BBC",
+      "published_at": "2026-10-20T09:00:52+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
+      "title": "The DIY lip‑plump trend doing the most... Stacey Dooley and Dr Alex George take a look at the claims taking over your FYP… and find out what’s legit and what’s just clickbait. Watch on @BBC YouTube and iPlayer #ClickbaitClinic #ClickbaitClinicQ&A - TikTok",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBdmhSU0RVVzh5eFE4UGpSOENEdmprWTdVbDk4dHUtMGVsZUZhYktHUGx3N3dOTkZFWVV6ckxyUEtEbmNXVFVTdmdiT1lyRzgyUE5WMkwxMmFJVVktNXhtSFNxTQ?oc=5",
+      "summary": "The DIY lip‑plump trend doing the most... Stacey Dooley and Dr Alex George take a look at the claims taking over your FYP… and find out what’s legit and what’s just clickbait. Watch on @BBC YouTube and iPlayer #ClickbaitClinic #ClickbaitClinicQ&A TikTok",
+      "published_at": "2026-10-20T09:00:48+00:00",
+      "source": "Google News TikTok & Short-form Video",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
+      "sources_seen": [
+        "Google News TikTok & Short-form Video"
+      ]
+    },
+    {
+      "title": "victor marx",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-20T09:00:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "Suspect arrested after historic town hall set alight during disorder - French media",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+      "published_at": "2026-10-20T08:58:26+00:00",
+      "source": "BBC World",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+      "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+      "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
+      "published_at": "2026-10-20T08:55:02+00:00",
+      "source": "BBC Business",
+      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Business"
+      ]
+    },
+    {
+      "title": "PSG v Barcelona - Europe's most exciting match-up?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c820vw7velvro?at_medium=RSS&at_campaign=rss",
+      "summary": "Paris St-Germain and Barcelona, the current top two in this season's Champions League, meet on Tuesday.",
+      "published_at": "2026-10-20T08:52:56+00:00",
+      "source": "BBC Sport Football",
+      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
+    },
+    {
+      "title": "Arsenal opposition profile ahead of the Champions League clash - FC Bayern",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOUdaemg3N1dGX3E2UHh3enY2LU9FTlAyM1NLNXF1VF9HYXhIWE1GVzVTMFVRM3I0R1otUy1xcFpsZ09LRjJBajJadENpdzVnbkUxalFQbzR0NFFLcFR0ZUFZVXEyMmh2N3o4Z2pYVGFhcmZzaGpWQUJyS0xyb1I2bllHTUl0M0VvTFN0NGVWRVY?oc=5",
+      "summary": "Arsenal opposition profile ahead of the Champions League clash FC Bayern",
+      "published_at": "2026-10-20T08:51:00+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
+      "title": "jasmine paolini",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-20T08:50:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+      "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+      "published_at": "2026-10-20T08:44:56+00:00",
+      "source": "BBC Business",
+      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Business"
+      ]
+    },
+    {
+      "title": "daycare",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-20T08:40:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "revolut",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-20T08:40:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF",
+      "url": "https://chatgpt2notion.com/products/aiexporthub-hero/",
+      "summary": "Article URL: https://chatgpt2notion.com/products/aiexporthub-hero/ Comments URL: https://news.ycombinator.com/item?id=50163035 Points: 1 # Comments: 0",
+      "published_at": "2026-10-20T08:39:04+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "What is the Budget and what could be in it?",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "published_at": "2026-10-20T08:31:36+00:00",
+      "source": "BBC Business",
+      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "BBC Business"
+      ]
+    },
+    {
+      "title": "Jonathan Tah praises 'underestimated' Arsenal star ahead of Bayern Munich clash - Metro.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNkQyaEhSQ0s1RURKZFNKTTZSVmxVMXd0dzJJM3IxaXN6ZXpRclk0ODVYb3dydE1uTGhHZi1rT19sNDE3NHNhTkdnc3Zwa01aZFM0ZE5Eak9MSlN2TzRRUHNPOXo3MV85cUtJYjlUU1BFbzdEUjZHSDI1QXhJZmlfUTRoLUhLSnR1c3NKOW1ZNG5Wa0Y4VC1lT2NIZ1ExR1FEbERUSzhfSEZ0VDF6WktfM3NYb2JKd9IBuwFBVV95cUxNY0Y2dXJlRURQRlVPVDV0aHlGVXhsRkV5ZHZzNFpoM1hzLWp0NW1kN0xSS3l6aTd0UndJTE1OZWpyaG5kZXFNQmRnOGNYT0VIbUNPT0hqalR0U2xLS0tUTHFibkhnWU5vVzVNV1k2YWRfa2E3OGlyamE4TWt4b2FZNEh4OVZsTmNOVGNvRUNwX0xpNnVNWkRLOWVWenloNGExSnRtU2JVbVpDSFM1Z3lHSkllUHFhN1I2Ym0w?oc=5",
+      "summary": "Jonathan Tah praises 'underestimated' Arsenal star ahead of Bayern Munich clash Metro.co.uk",
+      "published_at": "2026-10-20T08:26:00+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
+      "title": "Ex-Premier League chairman picks 'bigger and worse offenders' than Man City after 114 charges - Manchester Evening News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWHRZUS1MNVhDWHVUNzd3c0VaSHdFakFIWFNsOFdMWUk5TGVnMHluSm1ELUh1T015bnY2Z1pReEdyTktvelNDTmU3S0pNcXhWbkNFV095NEhqQ21TaGRqUzlRNjRoMnBSa2lod0s5d0Z6RVNleGVQTVVvTFlWMmFxTWo5T2c3dEM5VFN4dmxiSXZkTG05d18xSFQzcGZGUTVpUGdLQkJrc2TSAa4BQVVfeXFMTm5CMUZaa2VqZk5LZFpEVXp0bk1WeUxQUXM1b1dqMk9ybkQ4cU5XdEpYZmk0RmR4T01nd1Z2SElLVGxhaHMtOFBxNVVCUE5RNlh4d3poa3ZfakNiZF9wRldFLTYya0lhbmVYOHZleGNyRDJDbGZlR1lXTWdLWGdOUHg3VXBUZ09uTWxHanFjZG0zNkFDUEJyV3dNOGE3S3c3R1B3dzhCSVJWdHFTaGtn?oc=5",
+      "summary": "Ex-Premier League chairman picks 'bigger and worse offenders' than Man City after 114 charges Manchester Evening News",
+      "published_at": "2026-10-20T08:25:00+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
+      "title": "The chase is becoming an AI feature. In Portugal, nobody asks yet",
+      "url": "https://gil-neto.com/blog/the-chase-is-becoming-an-ai-feature/",
+      "summary": "Article URL: https://gil-neto.com/blog/the-chase-is-becoming-an-ai-feature/ Comments URL: https://news.ycombinator.com/item?id=50162912 Points: 2 # Comments: 0",
+      "published_at": "2026-10-20T08:24:35+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "phong tỏa",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "summary": "",
+      "published_at": "2026-10-20T08:20:00+00:00",
+      "source": "Google Trends Vietnam",
+      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "tesla cybertruck",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-20T08:20:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "southwest airlines new international routes",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-20T08:20:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "Sources: Arsenal expected to demand more than €100m for player with “big personality” - CaughtOffside",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ1J6LUdqbV9xbFVSZVl0SHAyWTlod3oyakU0ZURqSGoweDlXWHVJXzBONEFnSUl5LUVYWThQWjdseWdNUUdpT3RWLS0wQjY4bW5MQl84MnNtSUdfeWdnRm0weVc5ZExuaThjQVpqWjFtX3JMS2szWDZWVzh3V0gydVpzSW9PbF84Q1VOVmFMLXptYWJ6elpfSmZoVzR4UkpPQmNj0gGoAUFVX3lxTE02ZWs5WlhBZjd5ZUgwUnViOVN5ZlZ4TnR5UWhKV21iYkZTS1FGRkM5V1pkY3kwTmpwa2tfazNkcDY2TGt2YjhjVm52UTJyaG1Yd2dvcEpsZmQtWHJ0aURQRTVxV2gtcHoyRUI0RkItNlV4XzRjMGtTdFB5Qnd0Tng4bFFRYzlmZ0RfWXF3SmhpdFlMZVR5YjRNRXJsek52X2xHNFB2U2swMQ?oc=5",
+      "summary": "Sources: Arsenal expected to demand more than €100m for player with “big personality” CaughtOffside",
+      "published_at": "2026-10-20T08:12:36+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
+      "title": "bộ giáo dục và đào tạo",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "summary": "",
+      "published_at": "2026-10-20T08:10:00+00:00",
+      "source": "Google Trends Vietnam",
+      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "Reducing the cognitive load of AI changes",
+      "url": "https://amoffat.github.io/blog/cognitive-load.html",
+      "summary": "Article URL: https://amoffat.github.io/blog/cognitive-load.html Comments URL: https://news.ycombinator.com/item?id=50162767 Points: 1 # Comments: 1",
+      "published_at": "2026-10-20T08:05:13+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "vietlott power 6 55",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "summary": "",
+      "published_at": "2026-10-20T07:50:00+00:00",
+      "source": "Google Trends Vietnam",
+      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "Show HN: A practical framework for evaluating agentic AI systems",
+      "url": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/",
+      "summary": "Article URL: https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/ Comments URL: https://news.ycombinator.com/item?id=50162634 Points: 1 # Comments: 0",
+      "published_at": "2026-10-20T07:45:13+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "I Talked to Workers at Amazon, Meta, & Microsoft About the AI Watching Them [video]",
+      "url": "https://www.youtube.com/watch?v=ca7ufSI1Qxg",
+      "summary": "Article URL: https://www.youtube.com/watch?v=ca7ufSI1Qxg Comments URL: https://news.ycombinator.com/item?id=50162633 Points: 2 # Comments: 0",
+      "published_at": "2026-10-20T07:45:05+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "Will developing nations be able to handle AI agents?",
+      "url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/",
+      "summary": "Article URL: https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/ Comments URL: https://news.ycombinator.com/item?id=50162608 Points: 1 # Comments: 0",
+      "published_at": "2026-10-20T07:40:14+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "Man City cheated because Premier League was built to be unfair - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQloxMkNqbXJGckZxYnlDbUQ1QXU0NjN6RU9nVTNzY2pkWno5NVNQeXBaMlY0cWRXQi1nWkN5UU9QU2NWNHYyX2hnajI2ZE9Kc0ZaZVJRVWhwWWFTRWxfTDhsQUdhSldLUTJ0MXlUdTBGOHlneWpGUzJHeGMxQkdNUW5rZHNqYjk4dEpGZ3Z5M0NlNElJbkdkR3N1d200dXpqQVE?oc=5",
+      "summary": "Man City cheated because Premier League was built to be unfair ESPN",
+      "published_at": "2026-10-20T07:32:00+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
+      "title": "Premier League: Picking every club's most underpaid player - Planet Football",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXdIZEl4Y2lpeUk2NmQzTy1OUV9SWWhHNkpVMnJpX2hXV3hyNWlfemNELUN0cmdYMW4xZG5YVVRoZEVLaGRZLWlyaHBmaHQ1aUdxbFJ4NkRsS3hnUW9uWGNpaDB0Zmx1Y2JRSVZJc19JTHJnMk42eldrdXh4R2dENXl6TURjeDBJWmIwRHpBZlFDYTd1dE5DTGh5NzVUUTFueDJhVHNnN0h4X2pF?oc=5",
+      "summary": "Premier League: Picking every club's most underpaid player Planet Football",
+      "published_at": "2026-10-20T07:07:00+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
+      "title": "Four Premier League games in December rearranged - Arsenal.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU1V2bEoxX0drOHhjNEZyanU5eEpONzBvM0lFT2YwUVYydlZZY0dNUHpucnlKMjhZVldLX2h2MmlCNzAwZmtOdzBZYTVZNGtuSDJFRXhiUGt2OHFkal9uTWFwbFU0SzFRQllBWGJnYzJTUUxvZk0yUWg0MkJBTlJoTGtZU1JNRmpwckd0cVc0bjRvWlhz?oc=5",
+      "summary": "Four Premier League games in December rearranged Arsenal.com",
+      "published_at": "2026-10-20T07:05:49+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "summary": "Article URL: https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/ Comments URL: https://news.ycombinator.com/item?id=50162329 Points: 2 # Comments: 0",
+      "published_at": "2026-10-20T07:02:41+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "The signs that things are starting to look up for Liverpool - The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRWpDSVRRNkNfWUtocF9nSzg1LTcxRzAyUVVKRXFUN20zQnVXRXZnNHU5TkpKbEM1LTh2REU5d09USXFjTWVsZ3VucTZ0QlBSQTdwWS1Oek5tNGFOaHQ4SFpCS2k3WU9KNEYxTThZM1ZvY05KTXZXSV95UWYyc3I5M0NtbzRSdFBOeWxHbW5BemNxcHFqbkhNdzc5NUdUblo0Vmd4dGNBWnkwYlkt?oc=5",
+      "summary": "The signs that things are starting to look up for Liverpool The Telegraph",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
+      "title": "Konsa: \"I had a lot of Arsenal kits\" - Arsenal.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObUhWeUY1c25NOHZMSTVibmNjUkxRcXpQeC1kRU5Ec0JFTWdCRkVoUVIzRjFrcUJpa0hybFg3NzVIb3ZsakZmYUFKN1lqb05YLUlOOVprd2xLSndPc3U0THFTbWd4dE9MR0stMnlmNG01bGVrMTNqV2EwUlFGTUIycg?oc=5",
+      "summary": "Konsa: \"I had a lot of Arsenal kits\" Arsenal.com",
+      "published_at": "2026-10-20T06:54:28+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
+      "title": "cổ tức",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "summary": "",
+      "published_at": "2026-10-20T06:40:00+00:00",
+      "source": "Google Trends Vietnam",
+      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "Transfer news LIVE: Kvaratskhelia to Arsenal; Chelsea beat Man Utd to signing; Liverpool latest - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZHpOci01ajd0bmFsejIzWUxEUnJreXk4aXRBS1UwLTh0R01OdFJxMV9XWU5RNGVpMEpnSkh2M04wWjIycGtRX2tuX0VGZ1N0SXJSTXlDajFSOW42eWFHWFlabG5XMEF0RmZhdjFtZ3p2VXd5Wm12M2lqOTBkdThFUE9qY1k5Z0hsUkREbm5iOGw0ZnNFRW9Ba3gzbWpqZzVKcUFueUMybWtISmhvX0RQSl9xa1RFNXpUXzJDUFBHenJ2M2M?oc=5",
+      "summary": "Transfer news LIVE: Kvaratskhelia to Arsenal; Chelsea beat Man Utd to signing; Liverpool latest London Evening Standard",
+      "published_at": "2026-10-20T06:24:33+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
+      "title": "litva",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "summary": "",
+      "published_at": "2026-10-20T06:20:00+00:00",
+      "source": "Google Trends Vietnam",
+      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "sân vận động quốc gia mỹ đình",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "summary": "",
+      "published_at": "2026-10-20T06:00:00+00:00",
+      "source": "Google Trends Vietnam",
+      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "donald trump",
+      "url": "https://trends.google.com/trending/rss?geo=VN",
+      "summary": "",
+      "published_at": "2026-10-20T06:00:00+00:00",
+      "source": "Google Trends Vietnam",
+      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 34,
+      "triage_reasons": [
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends Vietnam"
+      ]
+    },
+    {
+      "title": "Ask HN: How do you decide to cut scope when AI makes it so easy to add?",
+      "url": "https://news.ycombinator.com/item?id=50161914",
+      "summary": "I've been having this conversation with my co-founder for months. It's so easy to add incremental features nowadays, and most seem useful. There's nothing obviously wrong with them. On top of that, people are using the software, and they appreciate how complete it is. The UX is cluttered, but 99% of interactions don't use it, so who cares. How do you decide to cut scope when in the current setup there's nothing to lose? Am I simply to old school? For context, this is the project: https://github.com/desplega-ai/agent-swarm Comments URL: https://news.ycombinator.com/item?id=50161914 Points: 2 # Comments: 8",
+      "published_at": "2026-10-20T05:59:33+00:00",
+      "source": "Hacker News AI Discussions",
+      "source_feed": "https://hnrss.org/newest?q=AI",
+      "category": "ai",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Hacker News AI Discussions"
+      ]
+    },
+    {
+      "title": "Mikel Arteta could make five Arsenal changes for Bayern Munich Champions League clash - Football London",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ3pkSENzUDB0NnRfZlpSRGZraVcyWUJ1dkk5SW5RRlNleklCWUQxS1RVWjNIaVZ3TmZZbmYyN2g0TkRaQWJCa2diVlJtUXBBNExtcDZBbE9IdDVBazRtWkZ4LW1QM1BBNE9JSF9XTHRnQVA0Z2RLejdYeGJkY3V5VGNHQzc5YXVlZU80XzRfNDZCQmJybm1qRQ?oc=5",
+      "summary": "Mikel Arteta could make five Arsenal changes for Bayern Munich Champions League clash Football London",
+      "published_at": "2026-10-20T05:02:24+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
+      "title": "How is the US economy really doing under President Trump?",
+      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
+      "published_at": "2026-10-20T05:00:45+00:00",
+      "source": "BBC Business",
+      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Business"
       ]
     },
     {
@@ -562,13 +1501,34 @@
       ]
     },
     {
-      "title": "SAGE-CP: When Marginal Coverage Hides Route-Conditional Failures in Adaptive VLM Ensembles",
-      "url": "https://arxiv.org/abs/2610.23864",
-      "summary": "arXiv:2610.23864v1 Announce Type: new Abstract: Adaptive VLM ensembles save computation by stopping early on easy images and escalating harder ones. Although a single conformal threshold can make the final predictor marginally valid, it can still fail severely along individual computational routes. We characterize this failure precisely: if a route has prevalence pi, marginal 1-alpha coverage allows its conditional coverage to fall to max{0, 1-alpha/pi}. To address this mismatch, we learn the router on development data, freeze all routing choices, and calibrate the returned score separately for early exits and escalated inputs. We call this pipeline SAGE-CP. Its calibration step applies Mondrian split conformal prediction to the operational groups created by the router. Under exchangeability, the resulting prediction sets achieve finite-sample coverage within each route. Across 10 benchmarks, 4 frozen VLMs, and 5 aligned splits, both global calibration and SAGE-CP achieve 0.900 marginal coverage at a 0.90 target, but their route behavior differs substantially. SAGE-CP raises mean worst-route coverage from 0.623 to 0.887 and reduces the mean route-coverage gap from 0.324 to 0.025, using the same routed scores and 1.177 source calls per image. The stronger guarantee increases the mean prediction-set size from 1.893 to 2.212; nevertheless, the sets remain smaller than those of the full ensemble (2.486) while requiring 70.6 percent fewer source calls. The route-level reliability persists across 6 fixed query fractions, while finer exit-depth groups demonstrate the need for additional calibration data on rare routes. Across 5 datasets, SAGE-CP also reduces measured batch-one latency by 58.8 to 63.4 percent and gross GPU energy by 55.7 to 57.5 percent relative to full inference. Thus, routing provides computational savings, while route-stratified calibration attaches coverage guarantees to the operational paths created by the router.",
-      "published_at": "2026-10-20T04:00:00+00:00",
-      "source": "arXiv Machine Learning",
-      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-      "category": "ai",
+      "title": "Manchester United weigh up stunning move for Real Betis and ex-Tottenham forward Troy Parrott - Paper Talk - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTGpkb0E0ZVExMTNkblBFYWhaMVlxemVxMG9jeEtBTHZndklhT0VVam9fdVQxZmlpUDR2ZjlQcm9wajBOdVVtUmhFRXV5Y2Nra1lRdERvOGpSb1pma2dEVDIzdHhsMVVBckpMaTV3QWxJR2ZEaW82YjlOSEo3cEFlVkxOb0xhOFBxQk1nX0dNZThLZFYtNzJDZlFCdWZrN3hKV2pHVTlpRnA0RlNWejlsekFXaS1TSlRTdVBLczZjZlNCZmctVkcxT3B6T0V3aTlBdHNRRGtEVHRvTFdaZzFVX3hqbnUtSnNoUTNaQkdWMERBT09kS2hXZHk2cGo?oc=5",
+      "summary": "Manchester United weigh up stunning move for Real Betis and ex-Tottenham forward Troy Parrott - Paper Talk Sky Sports",
+      "published_at": "2026-10-20T03:15:06+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
+      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+      "published_at": "2026-10-20T03:10:39+00:00",
+      "source": "BBC World",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
@@ -578,294 +1538,14 @@
       ],
       "quality_flags": [],
       "sources_seen": [
-        "arXiv Machine Learning"
+        "BBC World"
       ]
     },
     {
-      "title": "miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.23928",
-      "summary": "arXiv:2610.23928v1 Announce Type: new Abstract: Native NVFP4 promises to accelerate reinforcement learning (RL) for large language models (LLMs), but achieving stable learning across separate training and sampling engines remains challenging. We show that matching model weights and numerical formats is insufficient to ensure consistent policy evaluation, highlighting the importance of cross-engine numerical execution. We introduce miniTE, a lightweight framework that combines execution diagnostics, cross-engine numerical alignment, and efficient native W4A4 (4-bit weights and activations) GEMM computation for LLM RL. It improves numerical execution consistency without modifying the RL objective, while reducing implementation overhead to realize the benefits of native low-bit computation. Long-horizon RL experiments on Qwen3-30B-A3B demonstrate stable training and benchmark performance close to BF16, outperforming naive Transformer Engine (TE) NVFP4 in evaluation quality. On single NVIDIA B300 GPU node, the optimized learner reaches 33,540 tokens/s, yielding 1.39x and 1.47x the throughput of BF16 and TE NVFP4, respectively, for complete learner updates. We released the framework, kernels, diagnostics, and training configurations to make native low-bit RL easier.",
-      "published_at": "2026-10-20T04:00:00+00:00",
-      "source": "arXiv Machine Learning",
-      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv Machine Learning"
-      ]
-    },
-    {
-      "title": "Beyond Prediction: A Component-Level Study of Concept Recovery in In-Context Learning",
-      "url": "https://arxiv.org/abs/2610.23936",
-      "summary": "arXiv:2610.23936v1 Announce Type: new Abstract: In-context learning (ICL) enables language models to make accurate predictions from demonstrations, but prediction success alone does not reveal the extent to which the underlying concept has been recovered. Existing evaluations typically assess recovery at the level of the whole concept, making it difficult to identify which components are recovered and to separate model limitations from ambiguity in the demonstrations. We introduce a component-level framework for concept recovery that decomposes concepts into their defining components and uses controlled structural interventions to evaluate both component-level and whole-concept recovery under identifiable demonstrations. Across four instruction-tuned LLMs and three composition forms, we find that models often achieve high prediction accuracy despite poor whole-concept recovery, with systematic over-specification of relevant attributes and level constraints. Individual structural components are generally insufficient for whole-concept recovery, whereas jointly specifying complementary components, particularly relevant attributes and their level constraints, substantially improves recovery. However, this improvement is fragile: a single plausible but unnecessary level constraint can substantially disrupt recovery. Finally, joint supervision of recovery and implicit prediction substantially improves recovery while preserving prediction performance, with the learned capability transferring across composition forms. Overall, our component-level analysis provides a more diagnostic view of what models recover from demonstrations than the existing holistic view.",
-      "published_at": "2026-10-20T04:00:00+00:00",
-      "source": "arXiv Machine Learning",
-      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv Machine Learning"
-      ]
-    },
-    {
-      "title": "PeekKV: The First Content Token Already Knows Which Heads Matter",
-      "url": "https://arxiv.org/abs/2610.23939",
-      "summary": "arXiv:2610.23939v1 Announce Type: new Abstract: The size of the KV cache grows linearly with context length, making it a major memory bottleneck in LLM serving. Motivated by recent progress in identifying the functional roles of attention heads, a growing body of work compresses the KV cache non-uniformly across heads. Existing methods either fix the important heads via offline profiling or select them using attention signals from the prefill stage. In both cases, however, accuracy fluctuates substantially across workloads. While investigating the cause of this instability, we find that the active heads shift between the prefill and decode stages even within a single input. Along the decode path, by contrast, the activehead composition remains stable across content tokens once format tokens are filtered out. Based on this observation, we propose PeekKV. PeekKV observes a single content token immediately after prefill - a one-token peek - to jointly obtain head-group scores and token-importance scores. Guided by these scores, PeekKV allocates KV cache budgets to head groups in proportion to their group scores and retains only the top-scoring tokens within each budget. PeekKV requires no offline profiling or training and thus applies directly to unseen workloads and new models. Across four public benchmarks, PeekKV achieves the highest accuracy in more than half of the per-model comparisons against state-of-the-art methods, and stays closest to the full-cache accuracy on RULER and LongBench. On Llama-3.1-8B-Instruct, PeekKV retains 95.7% of the full-cache accuracy at a 10% memory budget on RULER with 16K contexts and 95.9% at a 1.5% budget on LongBench.",
-      "published_at": "2026-10-20T04:00:00+00:00",
-      "source": "arXiv Machine Learning",
-      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv Machine Learning"
-      ]
-    },
-    {
-      "title": "Parameter misspecification in physics-informed neural networks: A closed-form audit and its limits",
-      "url": "https://arxiv.org/abs/2610.23948",
-      "summary": "arXiv:2610.23948v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) are trained to minimize the residual of a prescribed equation, so a low training loss does not indicate whether a coefficient in that equation was specified incorrectly. This study evaluates what can be inferred about the encoded parameter from the trained network alone. When the residual is linear in the parameter, written as $A - \\nu B$, the least-squares estimate $\\hat{\\nu} = A^{\\top}B/B^{\\top}B$ is obtained from a single evaluation of the frozen network, without retraining or reference data. Its accuracy depends on how closely the network satisfies its own equation, quantified by a normalized residual $\\rho$. Recovery error is associated with $\\rho$ (log-log correlation 0.72 across 36 convection-diffusion networks), and empirical exponents of 0.63 to 1.20 across three equations decompose into one half plus a measurable angular term. For Burgers' equation, a single-model test based on a block-bootstrap standard error flagged 3 of 300 correctly specified networks (observed false-alarm rate 1%), all 2% misspecifications at a practical budget, and two thirds of 1% misspecifications after convergence. For the self-similar blowup rate of the C\\'ordoba-C\\'ordoba-Fontelos equation, where the rate also enters the architecture, the estimator recovers about half of the misspecification, whereas $\\rho$ increases approximately quadratically and distinguishes a 0.2% error. When the incorrect rate enters both the equation and the architecture, errors of up to 2% were not detected at the precision reached. At practical budgets, the raw loss can be lower for the misspecified model, a scaling effect that $\\rho$ does not share.",
-      "published_at": "2026-10-20T04:00:00+00:00",
-      "source": "arXiv Machine Learning",
-      "source_feed": "https://rss.arxiv.org/rss/cs.LG",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv Machine Learning"
-      ]
-    },
-    {
-      "title": "chevron",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T04:00:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "phony hulu",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T04:00:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "celtics starting lineup",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T04:00:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "김정은",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "summary": "",
-      "published_at": "2026-10-20T04:00:00+00:00",
-      "source": "Google Trends United States",
-      "source_feed": "https://trends.google.com/trending/rss?geo=US",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends United States"
-      ]
-    },
-    {
-      "title": "AWS CFO joked about the financial toll of AI. An internal recording reveals why",
-      "url": "https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10",
-      "summary": "Article URL: https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10 Comments URL: https://news.ycombinator.com/item?id=50161130 Points: 2 # Comments: 1",
-      "published_at": "2026-10-20T03:49:34+00:00",
-      "source": "Hacker News AI Discussions",
-      "source_feed": "https://hnrss.org/newest?q=AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Hacker News AI Discussions"
-      ]
-    },
-    {
-      "title": "Textideo Director – an AI video creation tool for scenes, shots",
-      "url": "https://textideo.com/director",
-      "summary": "Article URL: https://textideo.com/director Comments URL: https://news.ycombinator.com/item?id=50160927 Points: 1 # Comments: 0",
-      "published_at": "2026-10-20T03:13:03+00:00",
-      "source": "Hacker News AI Discussions",
-      "source_feed": "https://hnrss.org/newest?q=AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Hacker News AI Discussions"
-      ]
-    },
-    {
-      "title": "bất động sản",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T03:10:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "Show HN: Search for AI-agents and usefulness score",
-      "url": "https://xtract-production-2efc.up.railway.app/",
-      "summary": "We presented this project at innovationintelligencehackathon.com and today we are putting a url out for you to test and give us feedback. after talking to teams building agents that research companies to create outreach, we found few things that are very important to them. one of them is recency. When we prompted agents with outdated alert about companies, 4 out of 7 times, they came up with outdated insights, even when they had recent news in context. A bigger model didnt fix it. So we built search for ai-agents with usefulness score on top. So, when you search each page comes with score+price. this solve 3 problems; 1. token, SOTA agents read all pages to make sense of the useful ones 2. cost, when agents pay for pages they read, its is cost-effective to read only useful ones 3. quality, our score consider the task/query at hand and score useful pages, increasing quality of answers. we want to find out fast if we are really up to something here. we'd love to hear from you. Comments URL: https://news.ycombinator.com/item?id=50160830 Points: 1 # Comments: 0",
-      "published_at": "2026-10-20T02:57:52+00:00",
-      "source": "Hacker News AI Discussions",
-      "source_feed": "https://hnrss.org/newest?q=AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Hacker News AI Discussions"
-      ]
-    },
-    {
-      "title": "Show HN: AppMaker – Build business apps with AI, visual editing and code",
-      "url": "https://appmaker.io/",
-      "summary": "Hi HN, I've been working on AppMaker, a tool for building with AI business apps like CRMs, dashboards, and internal tools. It is NOT a low-code. https://appmaker.io Apps come with a database, authentication, and backend logic, and can be exported as standalone Node.js applications. It's still in beta, and I'd love to hear your feedback. Comments URL: https://news.ycombinator.com/item?id=50160813 Points: 1 # Comments: 0",
-      "published_at": "2026-10-20T02:55:31+00:00",
-      "source": "Hacker News AI Discussions",
-      "source_feed": "https://hnrss.org/newest?q=AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Hacker News AI Discussions"
-      ]
-    },
-    {
-      "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
-      "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
-      "published_at": "2026-10-20T02:54:05+00:00",
+      "title": "Seventh day of violent clashes between Albanian protesters and police",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+      "published_at": "2026-10-20T02:45:05+00:00",
       "source": "BBC World",
       "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "category": "world",
@@ -904,54 +1584,6 @@
       ]
     },
     {
-      "title": "luật sư",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T02:10:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "thủy điện",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T02:00:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
       "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
       "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
       "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
@@ -967,167 +1599,6 @@
         "published_within_24_hours"
       ],
       "quality_flags": [],
-      "sources_seen": [
-        "BBC World"
-      ]
-    },
-    {
-      "title": "bó hoa sữa",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T01:50:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "dylan sprouse",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T01:30:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "chúc mừng ngày phụ nữ việt nam 20 tháng 10",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T01:00:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "Ask HN: What have you built privately with AI that you'd like to share?",
-      "url": "https://news.ycombinator.com/item?id=50159886",
-      "summary": "An idea has circulated that a lot of us are just privately building software for our own projects without sharing the build We could however share the ideas of what we're building so that other people could build sometime similar to fill their own needs or the ideas could be incorporated in to other projects A lot of random things come to mind for me, like I started (but for now abandoned) some kind of picture icon viewer by date on Linux desktop. A lot of smartphone file viewers display pics this way automatically and it lets you look at what pics you've accumulated day by day, but I didn't see this feature on different Linux file viewers (and it was apparently a requested feature others were looking for). So what have you built privately with AI that you might like to share ideas about? edit: alternatively, are there any things you'd like to see others create (and I suppose a comment about what holds you back from creating them)? Comments URL: https://news.ycombinator.com/item?id=50159886 Points: 3 # Comments: 3",
-      "published_at": "2026-10-20T00:37:45+00:00",
-      "source": "Hacker News AI Discussions",
-      "source_feed": "https://hnrss.org/newest?q=AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Hacker News AI Discussions"
-      ]
-    },
-    {
-      "title": "chúc mừng ngày phụ nữ việt nam",
-      "url": "https://trends.google.com/trending/rss?geo=VN",
-      "summary": "",
-      "published_at": "2026-10-20T00:00:00+00:00",
-      "source": "Google Trends Vietnam",
-      "source_feed": "https://trends.google.com/trending/rss?geo=VN",
-      "category": "trends",
-      "signal_source_type": "google_trends",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "missing_summary",
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google Trends Vietnam"
-      ]
-    },
-    {
-      "title": "Ask HN: Bring-your-own-AI hardware",
-      "url": "https://news.ycombinator.com/item?id=50159540",
-      "summary": "Wondering if you guys find any interesting bring-your-own AI hardware. Due to recent development in AI, people can easily develop their own \"brain\" for any hardware. I am curious to find out those hardware that are sold without software, or can be easily modify. Comments URL: https://news.ycombinator.com/item?id=50159540 Points: 2 # Comments: 0",
-      "published_at": "2026-10-19T23:49:59+00:00",
-      "source": "Hacker News AI Discussions",
-      "source_feed": "https://hnrss.org/newest?q=AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Hacker News AI Discussions"
-      ]
-    },
-    {
-      "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
-      "published_at": "2026-10-19T23:30:03+00:00",
-      "source": "BBC World",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
       "sources_seen": [
         "BBC World"
       ]
@@ -1175,49 +1646,6 @@
       ]
     },
     {
-      "title": "Five ways El Niño is affecting the weather around the world",
-      "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-      "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
-      "published_at": "2026-10-19T23:08:25+00:00",
-      "source": "BBC World",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC World"
-      ]
-    },
-    {
-      "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
-      "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC hears from people who think dating events are better value for money than dating apps.",
-      "published_at": "2026-10-19T23:00:21+00:00",
-      "source": "BBC Business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "BBC Business"
-      ]
-    },
-    {
       "title": "Maddison's magic moment for Spurs - 18 months in the making",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwz0v8le7y3eo?at_medium=RSS&at_campaign=rss",
       "summary": "On his first start since May 2025, James Maddison provided the moment of magic Tottenham were waiting for in their 3-1 victory against Coventry, writes Phil McNulty.",
@@ -1238,6 +1666,26 @@
       ]
     },
     {
+      "title": "Arsenal and Liverpool backed to take advantage of Barcelona's mad decision to sell best defender - talkSPORT",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaUNfcWdLbGZIUGJtY1lvQWJKZWR5eDdPRG0wdFVEa3BBWnoyM3hUSEtWY1MyZGtTLWRfYjIyUFQyWk5fdXR5bkZPODV1Wk12M1MzN3lWYjNsNFRGbHZuVzNLZndvQ0taZEdJS2RJaVQweE5reklXeE1PYzZhQVc5S2lhc2VvejNtRXJRWklaVTJONFE?oc=5",
+      "summary": "Arsenal and Liverpool backed to take advantage of Barcelona's mad decision to sell best defender talkSPORT",
+      "published_at": "2026-10-19T22:12:52+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
       "title": "Liverpool and Man Utd eye Nmecha - Tuesday's gossip",
       "url": "https://www.bbc.co.uk/sport/football/articles/crjwe6wyjeqwo?at_medium=RSS&at_campaign=rss",
       "summary": "Liverpool and Manchester United are interested in Borussia Dortmund midfielder Felix Nmecha, plus the rest of Tuesday's gossip.",
@@ -1255,29 +1703,6 @@
       "quality_flags": [],
       "sources_seen": [
         "BBC Sport Football"
-      ]
-    },
-    {
-      "title": "WETEX 2026 showcases battery breakthroughs and water technologies in Dubai - Middle East Online",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWdoOEFwdDRpc3pRMVNsTTY1LVZwT2o3WEMzc21vZFZiX21uMGdCWXhRdEdEYkF5Qk1pZ3ZmblRhaGJncy1Wc25LeWQtZE1MWlhsVjRfNjNhUldyVFZ1UU93MFd1N1BPaV96U21ORGRjMFU5SkhlZnRYREFsTXZ4dWZyaXJtaVJIOU5LcXNnRnVoSlpYZElEUm5aZUdzWkVjTU1qQW1Welk?oc=5",
-      "summary": "WETEX 2026 showcases battery breakthroughs and water technologies in Dubai Middle East Online",
-      "published_at": "2026-10-19T21:38:26+00:00",
-      "source": "Google News Water Technology",
-      "source_feed": "https://news.google.com/rss/search?q=water+treatment+filtration+technology&hl=en-US&gl=US&ceid=US:en",
-      "category": "water",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News Water Technology"
       ]
     },
     {
@@ -1321,115 +1746,6 @@
       ]
     },
     {
-      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-      "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-      "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
-      "published_at": "2026-10-19T21:30:06+00:00",
-      "source": "BBC Business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "BBC Business"
-      ]
-    },
-    {
-      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
-      "published_at": "2026-10-19T21:14:53+00:00",
-      "source": "BBC World",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC World"
-      ]
-    },
-    {
-      "title": "Tottenham beat Coventry to claim first Premier League win of season – as it happened - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONXpFd0l0RUJLbTlRS0xHS2dnNGNBRnFOWFdSaVVfN2plOWZ6UmZzb2tZaFhwYVBQSU9PeG9KdFJZSk53Z1BaUk95bTktZ3lKM2VJSGdtMGU4M1pHdFlNYTRSUGpxcGpuT0NCN25tc05ENmNDb0pWdjVITktVV2ZCdXpwNXI1QWFXWmRtMGhKLUI1ZTBLNXpWc09n?oc=5",
-      "summary": "Tottenham beat Coventry to claim first Premier League win of season – as it happened The Guardian Spurs 3-1 Coventry: James Maddison shines on Tottenham return BBC Tottenham vs Coventry LIVE! Premier League match updates, teams, news and score Sky Sports",
-      "published_at": "2026-10-19T21:08:31+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
-      "title": "Why Arsenal summer signing cannot face Bayern Munich as rule explained - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZktQMWlEZ05pVWNpV09ObWpXVUZycGdzNEtkekRfVV82MGE5Q3N2ZGVSZUxQbmE1NXduaVZ0LWFrM0ZaWnpQZFVRZG1KTW5oeVhXUGNCS2NKZDNZSWJEeEZaMXpuT1p2aTZ6UHdkeEk5cjRHTVBwQ0pJcFdCRVhBMkh6clgzXzYyZ08xUkdJeUNZRjBDQjlVLW91eVJqTFhCdHJzeUV5OFhlUHdsSzhHVA?oc=5",
-      "summary": "Why Arsenal summer signing cannot face Bayern Munich as rule explained London Evening Standard",
-      "published_at": "2026-10-19T21:06:43+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
-      "title": "Maddison shines on return - Tottenham v Coventry ratings",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crx23ndd337wo?at_medium=RSS&at_campaign=rss",
-      "summary": "How Spurs and Coventry City's players rated following their Premier League match.",
-      "published_at": "2026-10-19T21:05:28+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "BBC Sport Football"
-      ]
-    },
-    {
       "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
       "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
       "summary": "The two top tennis pros married in 2021 and have one child together.",
@@ -1454,29 +1770,6 @@
       ]
     },
     {
-      "title": "Jamie Carragher makes Premier League title prediction as Arsenal chase Man City - Metro.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUVdqa2hFN3lZYzJOUjdOZUJvSWh1ZlNhRS1xNjRteTN5WVBNdldJZERfZHd2bUd3Y1BKVzFnYnhpVVZQLXVaRDlZWno4SDNwNC1uLXZUbUJ0ZlJPZFhMZXlBMXVPZjNaby02NHNRRlo2SUF2YktpWHhaQzl5M0laczQ5S29WZEwtQm1DNV9JcGs2SzZjQ0FYb18xd29HdTNMSHpuS1ZpT2lPcmZsQ0dTX1FhdmlHeTUt0gG-AUFVX3lxTE51bm5kU3dpZnVWRG5JaHVSNVVPR2w3SnQzS2p1ZHV5djVLc0hUbmhsT2c4T0l0UkFuLTdmQmtsbVlJbV9NMkhxbTd3bFI1OU1SX1U5OFNBYjdGYjRlNzRSRzRaX2Vra0VXcGY0T3VNUVpkNkN4SnhVTUtOX2EtRi1YNlc0bUlEcUYzV2poRUFhX1F2WXRaVV9JS3JuVk8xMVNZYVVOX282ZGh3OUJla25SZmhkVHFHZENBNmFmdEE?oc=5",
-      "summary": "Jamie Carragher makes Premier League title prediction as Arsenal chase Man City Metro.co.uk",
-      "published_at": "2026-10-19T20:54:00+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
       "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
@@ -1498,29 +1791,6 @@
       ]
     },
     {
-      "title": "Bayern Munich fear Vincent Kompany will miss the Arsenal game - Bavarian Football Works",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZmZHQjdlbjFyRHM5SFZUOVRYbE9GZHRFUXQ2c3V0MUJiZTR6a2dBYlZXNkw4dDRsRVNBMnI5c3RCZEhTMnBKdlBBRUNTcXAyM3g5ZVFhQ083ZXBWZy02NjNlWElkV3ozQnFPSjljQW1XWGNsT0tQRVE1OVhrakdDU0ZwVjVva0Q0TFl4SFRETmF0TmQ1alYxR05QSkhDQm1lWHc5bHhOTDUzOWF2VnNkYjdXZ3J5Si1FUDgzQUZXMzhHVV9BTjFsdTVYbGhEOVFJRnBn?oc=5",
-      "summary": "Bayern Munich fear Vincent Kompany will miss the Arsenal game Bavarian Football Works",
-      "published_at": "2026-10-19T20:45:00+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
       "title": "Arsenal, all the broadcast information at a glance: who is showing or streaming the Gunners’ matches live on TV and online? - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMlpKM21OdWhzcW1LSVBBSzZ2UWwwQk0td3VMN09hU0V0VnhuLVhTZU9BLVU5MHg1YlRPQk50ZWhWaDl2OUZfWkZvVS03MkZqT28xVXdIMkE1MmFnT3BUWk5iaEtoWE1vaUMtbkI5ZjQwbWlDOGNQNno3VjNpbHdXd0FzOFFhelJVc2syOWZVSWpMNkVuazV1aFNkOEFFZHl1cW1OQXZEanMtZ2hJVzJSU1NVdDdhLUtKR0ZVc00tdjhnLWtjYkJWWFRVTV9LMXl5NXJfSTkxcUN5NGt3X3AycnpQeXhPc05pU3ZGLWhvR0wtM3FsaUlxbUx1WjM4NWtE?oc=5",
       "summary": "Arsenal, all the broadcast information at a glance: who is showing or streaming the Gunners’ matches live on TV and online? Goal.com",
@@ -1536,75 +1806,6 @@
         "published_within_24_hours"
       ],
       "quality_flags": [],
-      "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
-      "title": "The Briefing: Why don’t Arsenal look like champions? Are Wirtz’s numbers deceptive? - The Athletic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanJoajJBVUVHc0VmdzFQdFQ5TVJOaFRDWXVUSnlrUWtDZk9iWXpGeHVzRElvNnlqQjVZdWEzbTNub0RVdW9ZeFpDQ3MtUEFDc0FkVHYza3ZwSEVXZDBwUXJlc0ZVUml6dEpUMUZ5UnJjOWlUcHBrOFNJMzdpWTlHQTQtRmxGQ00?oc=5",
-      "summary": "The Briefing: Why don’t Arsenal look like champions? Are Wirtz’s numbers deceptive? - The Athletic The New York Times",
-      "published_at": "2026-10-19T20:41:36+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
-      "title": "I know all my babies love me. 😅❤️#trend #trending - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JZlc3YjNkZ2s4NzBIUXVfMTZuemZReFBHdWVodEN1dkczTXI1OGZIV3AzVnNvNnBUZkI0TFlmeE1yM0RzMmE1c2liTVl6VHMwcVI3VUxqa1lEUThycTd1RGJjOFBUY2tkMzd3?oc=5",
-      "summary": "I know all my babies love me. 😅❤️#trend #trending TikTok",
-      "published_at": "2026-10-19T20:39:55+00:00",
-      "source": "Google News TikTok & Short-form Video",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary",
-        "no_public_engagement_metrics",
-        "viral_metrics_missing",
-        "likely_platform_noise"
-      ],
-      "sources_seen": [
-        "Google News TikTok & Short-form Video"
-      ]
-    },
-    {
-      "title": "Arsenal injury update: Hincapie, Tzolis, Saliba latest return dates - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYjQ5dWhiRl9wT1VBVE1qTnRCOUNsLWdKNDVqOGhyeFdrY3Z6U3kzaG1icHMzVXQyWGdFYS1KcFpaS1NyVjVJbHNZSWJqM2lrMGlPZ0NNNFJ2dmdSS0liUE5WQlZTZHdlZmNTU3ZuVFIzQ2pfaWVHSWVsWFhWd2JqazNEM2JRNnJhc1E5N0pLTG1tZUduVHA4S2pBUVhTZTFZdmJWM0ZvaVdqc1pSWHZrSEphNDVxOWN4T1lpcllKdWd0ZU44bXRj?oc=5",
-      "summary": "Arsenal injury update: Hincapie, Tzolis, Saliba latest return dates London Evening Standard",
-      "published_at": "2026-10-19T20:28:00+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
       "sources_seen": [
         "Google News Arsenal"
       ]
@@ -1630,52 +1831,23 @@
       ]
     },
     {
-      "title": "iOS 27.2 RC is Out! - What's New? - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ydjRfZVVNMy1ROWViRlUzem9RajlsZ1MyRUJPMU5yYnIwcjRBcG5HWTVSd1B2SmFsZnhIQWhlWmd0dmNQUkxtaC1RQlFHWE1Mc1NTQ2Z3?oc=5",
-      "summary": "iOS 27.2 RC is Out! - What's New? YouTube",
-      "published_at": "2026-10-19T20:08:39+00:00",
-      "source": "Google News YouTube Videos & Creators",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ayoutube.com%2Fwatch+creator+OR+video+essay+OR+explainer&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
+      "title": "Mission blasts off for Mars to grab a piece of its moon",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+      "published_at": "2026-10-19T19:45:46+00:00",
+      "source": "BBC World",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
+      "triage_score": 42,
       "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
+        "published_within_24_hours"
       ],
-      "quality_flags": [
-        "short_summary",
-        "no_public_engagement_metrics",
-        "viral_metrics_missing",
-        "likely_platform_noise"
-      ],
+      "quality_flags": [],
       "sources_seen": [
-        "Google News YouTube Videos & Creators"
-      ]
-    },
-    {
-      "title": "Palace manager Sage facing fight to keep his job",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq2d6npjy9xlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Crystal Palace boss Pierre Sage faces a fight to keep his job, but will be given more time.",
-      "published_at": "2026-10-19T19:32:56+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "BBC Sport Football"
+        "BBC World"
       ]
     },
     {
@@ -1700,6 +1872,26 @@
       ]
     },
     {
+      "title": "Tottenham beat Coventry to claim first Premier League win of season – as it happened - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONXpFd0l0RUJLbTlRS0xHS2dnNGNBRnFOWFdSaVVfN2plOWZ6UmZzb2tZaFhwYVBQSU9PeG9KdFJZSk53Z1BaUk95bTktZ3lKM2VJSGdtMGU4M1pHdFlNYTRSUGpxcGpuT0NCN25tc05ENmNDb0pWdjVITktVV2ZCdXpwNXI1QWFXWmRtMGhKLUI1ZTBLNXpWc09n?oc=5",
+      "summary": "Tottenham beat Coventry to claim first Premier League win of season – as it happened The Guardian James Maddison marks first Tottenham start in nearly 18 months with stunning goal in first Premier League win of season Sky Sports Tottenham v Coventry City: How the players rated BBC",
+      "published_at": "2026-10-19T19:00:00+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
       "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
       "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
       "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
@@ -1718,6 +1910,26 @@
       "quality_flags": [],
       "sources_seen": [
         "TechCrunch AI"
+      ]
+    },
+    {
+      "title": "US bans China's DeepSeek from government in race for AI dominance",
+      "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up.",
+      "published_at": "2026-10-19T18:21:54+00:00",
+      "source": "BBC Business",
+      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Business"
       ]
     },
     {
@@ -1761,55 +1973,6 @@
       ]
     },
     {
-      "title": "Arsenal ratings: Surprise star delivers but fringe player scores 3/10 - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZnMzb1dtVm1FNl9Ra056UURMR1M2UW5nUmpUQjlHb1MxUk1qUWxpX2lleDhELW9tVXRPRV9Gd2R0UmlrWVQyYURaVEIybUx4ajRpSTU0NWtVREg1a0NpUmtZQ1QxT0pyUXRoNXpZSlhyb0lKbUFhbnNDUFJ0V25OX1V4bHBoeU05Xy1xc05kQU5tdE00dkV5WTFoUC00SXhZcE5ZOWlpb0FlNGk0VzR6UUQ4OXQ?oc=5",
-      "summary": "Arsenal ratings: Surprise star delivers but fringe player scores 3/10 London Evening Standard",
-      "published_at": "2026-10-19T17:34:56+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
-      "title": "GTA Recap - The Complete Timeline (Watch Before GTA 6!) - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9URjhBSDlObkxpc1dmOXNhcTExT2tOTC1tX1ltMVVQWFpwRGlBZ1I3LW9oa2hjOVg5Rm12WUxMdmtfX3BBb1hNU3pYdF85VDM5V1NkMXNB?oc=5",
-      "summary": "GTA Recap - The Complete Timeline (Watch Before GTA 6!) YouTube",
-      "published_at": "2026-10-19T17:30:36+00:00",
-      "source": "Google News YouTube Videos & Creators",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ayoutube.com%2Fwatch+creator+OR+video+essay+OR+explainer&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary",
-        "no_public_engagement_metrics",
-        "viral_metrics_missing",
-        "likely_platform_noise"
-      ],
-      "sources_seen": [
-        "Google News YouTube Videos & Creators"
-      ]
-    },
-    {
       "title": "Arsenal: Jamie Carragher insists Gunners still 'team to beat' despite lack of 'star power' - Sky Sports",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ2pfS3JIZFpoNkpWQnR2Ymd0WklsRURLMVprQ21xRjJvTFlaaUl3c3JjT3FEMl9Wc0c4dDhQMWVfTlA3cU5FMURxY3JqQ0hlUThER0xTR1NLWU1zZkRHNHB3ZFljQ0J3YVQ3TTVpRVUzcWRLNm5wNmRtTVNPUW1ja29Da2dWcDUxTDl1b1E0SHc1dFZBS2pCYjllSENaRHYtSmRiMXVCcWtmbHk1SU5MM3JXTGFDNzFydDlOY2RCcEVySGdpNVFkeFlRWHk0bW9x?oc=5",
       "summary": "Arsenal: Jamie Carragher insists Gunners still 'team to beat' despite lack of 'star power' Sky Sports",
@@ -1850,35 +2013,12 @@
       ]
     },
     {
-      "title": "Winning Mentality: Jurrien Timber - Arsenal.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVhob2M1MVQ0SWdyMmp2aXlIYXliUXlnWjNUVjYyaUVURmF6NElPSjd3ZGFXS1N0WjB5d1lKaTNNclhDc0RJbzBPTUxHYmtfcUJ1UUo2MGJzUV9SOGRaNC1IVmFzZkVtdlM5Wmg0MFV2alBJYWpBc3BGblZDZW1uZ0hCS1h1OWFnX29LQ2pB?oc=5",
-      "summary": "Winning Mentality: Jurrien Timber Arsenal.com",
-      "published_at": "2026-10-19T17:16:07+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
       "title": "Vinted blocks French looters listing stolen goods for sale",
       "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
       "summary": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
       "published_at": "2026-10-19T16:46:35+00:00",
-      "source": "BBC Business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "source": "BBC World",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "category": "world",
       "signal_source_type": "rss",
       "label": "NEWS",
@@ -1889,6 +2029,7 @@
       ],
       "quality_flags": [],
       "sources_seen": [
+        "BBC World",
         "BBC Business"
       ]
     },
@@ -1913,29 +2054,6 @@
       ]
     },
     {
-      "title": "Premier League: Marc Guehi among six players not to take knee - BBC",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNMDZhVmdRWnRvZGNxd2Z5WENlR3BUT1hMaEZKLVMzWWxQU21TdjBvMm9MdTc3YVczSy1XT0w4UUNLRlI5Wm9mSUlvanFBcXk4bXc5MmJXeC0tOG90U21PdDUtRG1OaWtKZ0x3?oc=5",
-      "summary": "Premier League: Marc Guehi among six players not to take knee BBC",
-      "published_at": "2026-10-19T16:41:54+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
       "title": "THREAD: Joined Senator Tillis today to host an update from President Zelenskyy with bipartisan colleagues—hearing from him highly alarmingly that intelligence sharing & Starshield access are still partially degraded. 1/ - X",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nVjYwNjlDNDI4N2hJWHgzZUR6TV9keFBZVW8zMEhTbTJpSm8tUHI0WWVoYURvQng1R3ZXc1R6RS1iUUxKbGFPejhtR045N2VRSml4VFNvY0IyZGoxV3FOcW5SRmk?oc=5",
       "summary": "THREAD: Joined Senator Tillis today to host an update from President Zelenskyy with bipartisan colleagues—hearing from him highly alarmingly that intelligence sharing & Starshield access are still partially degraded. 1/ X",
@@ -1948,29 +2066,6 @@
       "verification": "Chưa xác minh độc lập",
       "triage_score": 42,
       "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [
-        "no_public_engagement_metrics"
-      ],
-      "sources_seen": [
-        "Google News X Threads & Creator Discussions"
-      ]
-    },
-    {
-      "title": "The late Call of Duty co-creator Vince Zampella is honored in the credits of the Modern Warfare 4 Campaign. https://t.co/45QcmHcyYk - X",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xWFI2LThTd0Z0dmNPZTdsNGFfMkVweVV0RWYyalQ0TDNGZm5teXB6UC1scVBvQko3bmhUTGl5YWFsMTU1RTNkUmRoSXQyWDhteGJ2OXk1aw?oc=5",
-      "summary": "The late Call of Duty co-creator Vince Zampella is honored in the credits of the Modern Warfare 4 Campaign. https://t.co/45QcmHcyYk X",
-      "published_at": "2026-10-19T16:31:02+00:00",
-      "source": "Google News X Threads & Creator Discussions",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
         "published_within_24_hours"
       ],
       "quality_flags": [
@@ -2022,29 +2117,6 @@
       ]
     },
     {
-      "title": "The gossip that turned into Marlon James’ latest novel - CBC",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDc1elFuTGczU0wyT2wyRVJNRFZYUUVuRVBHOUxoSlpJT1c2dmYtQ1dERFNwRVpVMDlDYnpCOGF0SHBEV1ZmU2hSa1hDSzhVd2M5MG0zY3B4NGhoWWNCRFhLV2xpSlFHWm9zRlBXZlAzazNSSFlxR1FURkhxelB6dHlhaGpXemhOUXd5TUZiOF9ZR2preFFZemVKeUZxdw?oc=5",
-      "summary": "The gossip that turned into Marlon James’ latest novel CBC",
-      "published_at": "2026-10-19T16:25:41+00:00",
-      "source": "Google News International Book Awards",
-      "source_feed": "https://news.google.com/rss/search?q=Booker+Prize+OR+Pulitzer+Prize+OR+National+Book+Award+shortlist+winner&hl=en-US&gl=US&ceid=US:en",
-      "category": "books",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 34,
-      "triage_reasons": [
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Google News International Book Awards"
-      ]
-    },
-    {
       "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
       "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
       "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
@@ -2065,7 +2137,7 @@
       ]
     },
     {
-      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+      "title": "Obama blasts federal probe of Ilhan Omar as 'so appalling'",
       "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
       "summary": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
       "published_at": "2026-10-19T16:16:51+00:00",
@@ -2103,26 +2175,6 @@
       "quality_flags": [],
       "sources_seen": [
         "TechCrunch AI"
-      ]
-    },
-    {
-      "title": "Duncan Ferguson reveals text to Premier League boss for transfer help after surprise management return - talkSPORT",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXFKaXZ1MGc4UGZ0YUhpb0lOcDJLbnJ0NTBidHhkSmU0WnRZOEpYdklBMG1pOWdVYVh6Q3NtWEhfSlVVUWttWS10VFhmc21JaU9FbDlOZk1DTlNUaVR0YXhyV21tVHE3dVFBT0dHOUNNWUxPWDdLSGIyVjJLNUJRZnE4cWJtUWFZNWxJbHpVVU9meTFKeTIyc29nOA?oc=5",
-      "summary": "Duncan Ferguson reveals text to Premier League boss for transfer help after surprise management return talkSPORT",
-      "published_at": "2026-10-19T16:09:31+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
       ]
     },
     {
@@ -2168,12 +2220,12 @@
       ]
     },
     {
-      "title": "Jota 'met some demons' during long injury absence",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c820vzrq695xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Jota admits he \"met some demons\" during his long injury absence but believes there is no need to \"rush\" his return to full match fitness at Celtic.",
-      "published_at": "2026-10-19T15:43:31+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+      "title": "Arsenal had 'serious conversations' with Mauricio Pochettino before Mikel Arteta landed job - The Mirror",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb283MDA2YVhsTkRYbmQ3T0dIYTdwSmtDSFU0MkVaYnV1RTNiZkUxalRnT1dqay1zMGJoZlVtQzNTMVZaTzlwTzQyMUMtVHVlaURsZUZwcnBaaG94cHI0bHVHVTJMNk9kazFKVDFsWkNibU1vYUx2c0x0aXdtd3BDd21qR3FodHZaczBES3JET2I1eVIxN1lXTTd30gGfAUFVX3lxTE5kcm5BbDNjcGFyaXZQcFB0VlpyakNhekVtWWstS2tHQjdFdFRNU21TYTFjdk8ySVJCOW9ZTEFnMy03d0dmM0lEVURQbnpBbjc3c1FfSm5TckhiYkV3a2xweUhiWDV4ZXpkT1dtcjNfdGhMYk14b29oRFZRdnlrRlNCNlRXUDJ3T0IzYTQyWUxjT190dXpkT1IyU0lUczJkYw?oc=5",
+      "summary": "Arsenal had 'serious conversations' with Mauricio Pochettino before Mikel Arteta landed job The Mirror",
+      "published_at": "2026-10-19T15:27:00+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
       "category": "football",
       "signal_source_type": "rss",
       "label": "NEWS",
@@ -2184,34 +2236,14 @@
       ],
       "quality_flags": [],
       "sources_seen": [
-        "BBC Sport Football"
+        "Google News Arsenal"
       ]
     },
     {
-      "title": "Premier League cult hero retires with emotional statement and immediately lands new job as national team's coach - The Sun",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUERUQ3NxbGo3N1RQclV4NkRwTC1Uai1YT0tlbzZfb0xHNmdybTM1ZnlNTnJsbkJHWHQwSFdkU0hyMmdzUWU0WW0taU55ejFHbEdQak0zOGVNOFZMc2tHbXlrdUlxdzlpVE5TNE92Nlh6a2s3dVRpdU9uWThMY1ZRWXNpQWpNVHVraUpNSmRmYlZTRmtEUW5tWGRxMHRzd1U?oc=5",
-      "summary": "Premier League cult hero retires with emotional statement and immediately lands new job as national team's coach The Sun",
-      "published_at": "2026-10-19T15:07:00+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
-      "title": "Man City charges LIVE: BBC pundit 'leaks punishment' as Premier League clubs left 'fuming' - Daily Mirror",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnJGS0VGbmkzSFdlTXUzd0F0dVhGSXVtcGxwdURkeDdRMlphNU13LUxuNU4zVC1talkwOGlSakU4ZmhMVThfTE1oVm5HNnROckY4SDY0anl2clFfUVlnMjB3T25yeTdVT05uOFlFOVoxRFlCNFNEc3hHUjdVYnIzUVlvbUU5bUNvWEVodG16NA?oc=5",
-      "summary": "Man City charges LIVE: BBC pundit 'leaks punishment' as Premier League clubs left 'fuming' Daily Mirror",
-      "published_at": "2026-10-19T15:03:22+00:00",
+      "title": "Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEt1UFRwTjFreC1IWkdUNDQtb21UMDV0dWpFTDE0TnVKTWY3QXVTdDFFcUR5dVIyX2t5MXZJMXpzNy1kMDQ0ZEQ0WHNOaDNxVzRFMnowUjZ0VnN2WDk0aEZKazdqSEYwQk9xOEdPa2M2Y3hMYmM5RnhJV29OZEJERU5yLXY?oc=5",
+      "summary": "Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson The Guardian",
+      "published_at": "2026-10-19T14:52:00+00:00",
       "source": "Google News Premier League",
       "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
       "category": "football",
@@ -2270,6 +2302,28 @@
       ]
     },
     {
+      "title": "Tiger Shroff Firing Case: From Juhu Shooting To Arrests In Rajasthan, Full Timeline Of Events - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UY0ktNnpEYWVtN2tmVURuRFNROEdubXgtbGlSLWhwNjJiWE9zTUhsTVd6d195bGhzZFdnQjh4NnZWcVNGbFFmM3RjZXFSN0dPN2NoaU9n?oc=5",
+      "summary": "Tiger Shroff Firing Case: From Juhu Shooting To Arrests In Rajasthan, Full Timeline Of Events YouTube",
+      "published_at": "2026-10-19T14:24:13+00:00",
+      "source": "Google News YouTube Videos & Creators",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Ayoutube.com%2Fwatch+creator+OR+video+essay+OR+explainer&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
+      "sources_seen": [
+        "Google News YouTube Videos & Creators"
+      ]
+    },
+    {
       "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
       "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
       "summary": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
@@ -2311,6 +2365,26 @@
       ]
     },
     {
+      "title": "Which Premier League matches are available to watch and live stream with TNT Sports on HBO Max? - TNT Sports",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWXppMmlvaExVR3VSSGFzempfTUFQYUQ0TTFqcHZ1VTl6Vm85M2V4UHBKOUFlQjdIMkR4VUE0eENUWnUxcVJGS0NaOTlfQWlxLWVDeFN4N3hyR2VUTWxtZWRLQXpfbjY4UnlfRUhMV1BXUVNhYXVHYkd2Z2xrd3pTcEx2X05CdmVkMFlzaF92VklrWG9Cb1Q2WUhMbzdlMHh2S0lyMnkyc3QtMUNWTi1yNXUzbG1HUktIbHZTUFRSQVJlU05XWGFsT3pxbkN1RXNydnNwSzdyMkM?oc=5",
+      "summary": "Which Premier League matches are available to watch and live stream with TNT Sports on HBO Max? TNT Sports",
+      "published_at": "2026-10-19T14:00:00+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
+      ]
+    },
+    {
       "title": "Exiled critic of Rwandan president found beheaded",
       "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
       "summary": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
@@ -2331,13 +2405,13 @@
       ]
     },
     {
-      "title": "Ezri Konsa relishing Harry Kane duel as he bids to help Arsenal end Champions League hoodoo - The Mirror",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUk16UjkyZy1zdERyX0E2bVF5aHl6M0ZJYXFVUU5sVHk1ZUtKZDlibWpLVE5PZEhxX21mNzk4ZjFCZVdyMU9IaWlOcUJmYmc0WmZQSS0xSEdDWnozSElPTEYySUJTMDJNQnNmZTVScHlHXzUzQld3WEhKTmMweTBlNEVxcWpnTzRIU0dlME930gGTAUFVX3lxTE9ILVZickJoX3dRT0R0ejI5NU9tRUVoaHpGc185RlNDWmRrUGVUOFFGb2x2M3djZl9adlRjbU1kcTY3WGFuQmJKTUNuRWZTcmhFaG1ScEYtUXBMaVplblNhTTM0TzFRdGU1bllhWXFHa0MtcUJ3SXJmTVJYX3NrXzlLMHVkWHZyMTUzY1B6WGFPU3FITQ?oc=5",
-      "summary": "Ezri Konsa relishing Harry Kane duel as he bids to help Arsenal end Champions League hoodoo The Mirror",
-      "published_at": "2026-10-19T13:05:00+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
+      "title": "'Cyberpunk: Edgerunners' Creator says Season 1 had a happy ending in his perspective because \"it could've ended so much worse for David\" - X",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhT0VhWUtKcHh0ZXJUZG1BekZIUEdMcDVXSHE5RE02MzFqRnpZc05qXzFNaUMtMHM4bkt1cFJxckdTOTFydWFhY251S1YwajV0NnFCcFFTMHVjZF9zNXAyVg?oc=5",
+      "summary": "'Cyberpunk: Edgerunners' Creator says Season 1 had a happy ending in his perspective because \"it could've ended so much worse for David\" X",
+      "published_at": "2026-10-19T12:54:20+00:00",
+      "source": "Google News X Threads & Creator Discussions",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
@@ -2345,9 +2419,11 @@
       "triage_reasons": [
         "published_within_24_hours"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
       "sources_seen": [
-        "Google News Arsenal"
+        "Google News X Threads & Creator Discussions"
       ]
     },
     {
@@ -2515,6 +2591,26 @@
       ]
     },
     {
+      "title": "HENRY WINTER: Viktor Gyokeres has reason to feel frustrated, as Arsenal can't find a formula up front - FourFourTwo",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdnNMS1lSYUFjbXN0OEZQRGczMF9NSFRiRHNhZWdYQ0FPcmYtMHIwal9YeF81ZkJidF8yeUpXaXFKZUhBZ3lZV2lnVFZjMEV4VEc4cWsxVlZaaEQzUnhGUEJRSmVoRzFYVDcyR0F6dzBBLVJpNFdyWUY4ZkFrVzd6ZmVpWmhRZUpUb0xHMXpBcTVhVWlidjZydGJmYzRBTWZuQzJmb2YyaDVCNlRMYllRZkxqbTJKVG9DVWk5eXRPRUdpN0s1SDljcm1oTQ?oc=5",
+      "summary": "HENRY WINTER: Viktor Gyokeres has reason to feel frustrated, as Arsenal can't find a formula up front FourFourTwo",
+      "published_at": "2026-10-19T09:46:27+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
       "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
       "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
       "summary": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
@@ -2525,9 +2621,9 @@
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 37,
       "triage_reasons": [
-        "published_within_24_hours"
+        "published_within_72_hours"
       ],
       "quality_flags": [],
       "sources_seen": [
@@ -2545,53 +2641,13 @@
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 37,
       "triage_reasons": [
-        "published_within_24_hours"
+        "published_within_72_hours"
       ],
       "quality_flags": [],
       "sources_seen": [
         "BBC World"
-      ]
-    },
-    {
-      "title": "We would like to share an important announcement concerning our creator, Jun Maeda. For details, please refer to the attachments. - X",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96REo2TWhjQXZsdnZpdzdnajg3ZWdDMWpZb0pJWkxLdk54bnVZUnhPZXlCRWt3R2FfM2FkY0p5ckREUExQSWhRNlJnaVF2bDV1dXlMeTFRejU0dnFOZDM0ZUlxaTA?oc=5",
-      "summary": "We would like to share an important announcement concerning our creator, Jun Maeda. For details, please refer to the attachments. X",
-      "published_at": "2026-10-19T07:01:03+00:00",
-      "source": "Google News X Threads & Creator Discussions",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News X Threads & Creator Discussions"
-      ]
-    },
-    {
-      "title": "Beer & Blackpool beach was how British players bonded - Pulis",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjr4yndrz1kro?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport columnist Tony Pulis explains what Spurs will get from their team-bonding trip to Spain, and how differently managers built team morale in his day.",
-      "published_at": "2026-10-19T06:23:48+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Sport Football"
       ]
     },
     {
@@ -2605,33 +2661,13 @@
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
+      "triage_score": 37,
       "triage_reasons": [
-        "published_within_24_hours"
+        "published_within_72_hours"
       ],
       "quality_flags": [],
       "sources_seen": [
         "BBC Business"
-      ]
-    },
-    {
-      "title": "'Not in our DNA' - will 3v3 change the future of English football?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3elveky53eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Changes have been implemented by the FA from this season with under-7s dropping from playing 5v5 to 3v3 in England - could it help to change the DNA of English football?",
-      "published_at": "2026-10-19T05:38:47+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Sport Football"
       ]
     },
     {
@@ -2744,26 +2780,6 @@
       ]
     },
     {
-      "title": "Elite-level incompetence is Manchester United’s problem – not Michael Carrick | Barney Ronay - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPck1aSU42QURKREZrY21CN0xMRnBnb2Njc2NNNmVPTm42anpwZjg1QnR4aExRSkpfTmNfVnBINHpuQ09FRGs3QnhQUUowMmUwOGdDNW1lSUZtbFpPYUZaSF9pbVhZd0tPWm8talBqVHBhdjI2WjlHbGJYeHNaeVl2bWstQ1lkRzNrbkdVS01vdWtWb3NRTjVSOF9HQXduRjZvTkxHR2hoRUxFbGgtdmxlSUhEeG1PMkU?oc=5",
-      "summary": "Elite-level incompetence is Manchester United’s problem – not Michael Carrick | Barney Ronay The Guardian",
-      "published_at": "2026-10-18T19:56:00+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
-      "triage_reasons": [
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
       "title": "A woman was arrested in Philly for blocking a delivery robot",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
       "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]",
@@ -2787,7 +2803,7 @@
     {
       "title": "Nottingham Forest 0-1 Arsenal: Noni Madueke scores as Gunners win tight Premier League game - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0bXAxcG5YRWEwZndtNE5HenlpRHJvMWI0TmoxaWpJUjBoU2ttTGQ0SFNuOUExNmZhOGdsS1R5NmNjU3JjdWR0VEl3TTJBSXB0T0M0T0NsLXVjcWRsTEo3OUtKTG5ndw?oc=5",
-      "summary": "Nottingham Forest 0-1 Arsenal: Noni Madueke scores as Gunners win tight Premier League game BBC Nottingham Forest 0-1 Arsenal: Premier League – as it happened The Guardian Nottingham Forest vs Arsenal LIVE: Latest score and updates from Premier League London Evening Standard",
+      "summary": "Nottingham Forest 0-1 Arsenal: Noni Madueke scores as Gunners win tight Premier League game BBC Every word from Arteta's post-Forest presser Arsenal.com Full match | Nottingham Forest v Arsenal Arsenal.com",
       "published_at": "2026-10-18T18:02:55+00:00",
       "source": "Google News Arsenal",
       "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
@@ -2801,8 +2817,7 @@
       ],
       "quality_flags": [],
       "sources_seen": [
-        "Google News Arsenal",
-        "Google News Premier League"
+        "Google News Arsenal"
       ]
     },
     {
@@ -2847,66 +2862,6 @@
       ]
     },
     {
-      "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
-      "url": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
-      "published_at": "2026-10-18T08:12:24+00:00",
-      "source": "BBC Business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
-      "triage_reasons": [
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Business"
-      ]
-    },
-    {
-      "title": "'I took a chance on the whisky industry and I haven't looked back'",
-      "url": "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Zoey Darnbrough had no idea there was a distillery near her home - now she has a top tourism role there.",
-      "published_at": "2026-10-18T08:12:17+00:00",
-      "source": "BBC Business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
-      "triage_reasons": [
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Business"
-      ]
-    },
-    {
-      "title": "Global economy resilient but 'no room for complacency', IMF committee head says amid Russia tensions - The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3RWdEJHRTRiajJYdnU5a0tuc2VCNmVhTlhrRU5lNVZSUG4wczhzOFV0X3A4YTNLWFBvY1lucGVwdVhpTWFHSkt5Y3h2ZDVXVHFVUkpxNWF4dEhpS3Fnb01KakZMakRYMXlXMk9taGV1QU1PUkQ1UG91QkZ4NGhMb01MQmZvWUJnd25TNmZwWDFNaEZVUW8td1hxVFdfSUVIbExoMXNPZHFPdXRHQ0JZUVB4TWlKdGJRaW5uS3YxWFN0RlM3NXAwZm05UnloNjk0THc?oc=5",
-      "summary": "Global economy resilient but 'no room for complacency', IMF committee head says amid Russia tensions The Business Times",
-      "published_at": "2026-10-18T02:39:00+00:00",
-      "source": "Google News World Economy",
-      "source_feed": "https://news.google.com/rss/search?q=world+economy+business&hl=en-US&gl=US&ceid=US:en",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 37,
-      "triage_reasons": [
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News World Economy"
-      ]
-    },
-    {
       "title": "There's a crackdown on sports piracy - but is it already out of control?",
       "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
       "summary": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
@@ -2924,6 +2879,33 @@
       "quality_flags": [],
       "sources_seen": [
         "BBC Business"
+      ]
+    },
+    {
+      "title": "Maybe next year? 🫣#contentcreatorawards #zayaanvids #zayaan - TikTok",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YLUV3TFZsNVRHV2tsY1NiOXNSeGFrOTlvNWdDTXQwVENxSnhRNlR4dzktWm1CSURIYjNhbVFuaHBnVVBRT2V1RjdXRkdsT3h1cGstRGVWMlZhNmN4WVpibjA1dy1Kbjlv?oc=5",
+      "summary": "Maybe next year? 🫣#contentcreatorawards #zayaanvids #zayaan TikTok",
+      "published_at": "2026-10-17T22:41:54+00:00",
+      "source": "Google News TikTok & Short-form Video",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 49,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "likely_platform_noise",
+        "viral_metrics_missing",
+        "no_public_engagement_metrics",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News TikTok & Short-form Video"
       ]
     },
     {
@@ -3233,13 +3215,12 @@
     }
   ],
   "category_counts": {
-    "trends": 20,
+    "world": 37,
+    "trends": 18,
+    "football": 40,
     "ai": 40,
-    "world": 35,
     "creator": 12,
-    "football": 38,
-    "water": 1,
-    "books": 4
+    "books": 3
   },
   "source_errors": [
     {
@@ -3278,35 +3259,35 @@
       "feed_url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 19
+      "items_selected_primary": 15
     },
     {
       "source": "Google News Arsenal",
       "feed_url": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 11
+      "items_selected_primary": 13
     },
     {
       "source": "Google News Premier League",
       "feed_url": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 7
+      "items_selected_primary": 11
     },
     {
       "source": "BBC World",
       "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 17
+      "items_selected_primary": 18
     },
     {
       "source": "BBC Business",
       "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 13
+      "items_selected_primary": 14
     },
     {
       "source": "Google News World Economy",
@@ -3334,7 +3315,7 @@
       "feed_url": "https://news.google.com/rss/search?q=water+treatment+filtration+technology&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 1
+      "items_selected_primary": 0
     },
     {
       "source": "Google News Energy",
@@ -3362,7 +3343,7 @@
       "feed_url": "https://rss.arxiv.org/rss/cs.LG",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 20
+      "items_selected_primary": 15
     },
     {
       "source": "TechCrunch AI",
@@ -3376,7 +3357,7 @@
       "feed_url": "https://hnrss.org/newest?q=AI",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 7
+      "items_selected_primary": 12
     },
     {
       "source": "Anthropic News (community RSS mirror)",
@@ -3404,7 +3385,7 @@
       "feed_url": "https://trends.google.com/trending/rss?geo=VN",
       "status": "ok",
       "items_collected": 10,
-      "items_selected_primary": 10
+      "items_selected_primary": 8
     },
     {
       "source": "Google Trends United States",
@@ -3418,7 +3399,7 @@
       "feed_url": "https://news.google.com/rss/search?q=Booker+Prize+OR+Pulitzer+Prize+OR+National+Book+Award+shortlist+winner&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 3
+      "items_selected_primary": 2
     },
     {
       "source": "Google News Best Books & Nonfiction",
@@ -3476,21 +3457,21 @@
       "feed_url": "https://news.google.com/rss/search?q=site%3Ayoutube.com%2Fwatch+creator+OR+video+essay+OR+explainer&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 2
+      "items_selected_primary": 1
     },
     {
       "source": "Google News X Threads & Creator Discussions",
       "feed_url": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 8
+      "items_selected_primary": 7
     },
     {
       "source": "Google News TikTok & Short-form Video",
       "feed_url": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 2
+      "items_selected_primary": 4
     },
     {
       "source": "Threads Zuckerberg",

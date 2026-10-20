@@ -139,7 +139,7 @@ a{color:var(--blue)}
 <section id="domainMap" class="domain-grid"><div class="empty">Đang phân loại tín hiệu…</div></section>
 
 <section id="evidenceLayer" class="editorial-wrap">
-  <div class="section-head"><div><h3>🔎 Tín hiệu có bằng chứng để kiểm tra</h3><div class="hint">Tóm tắt từ batch mới · nguồn gốc · giới hạn · bước xác minh</div></div><div class="small" id="analysisStamp">Đang tải lớp phân tích…</div></div>
+  <div class="section-head"><div><h3>🔎 Tín hiệu có bằng chứng để kiểm tra</h3><div class="hint">Mẫu hình cần kiểm chứng · độ phủ từng lĩnh vực · bài gốc và giới hạn bằng chứng</div></div><div class="small" id="analysisStamp">Đang tải lớp phân tích…</div></div>
   <div id="analysisMethod" class="editorial-state">Chỉ đưa vào danh sách khi có tóm tắt và đường dẫn. Đây là sàng lọc tự động miễn phí, không phải xác minh sự thật.</div>
   <div id="analysisLinks" class="editorial-grid"></div>
   <div id="analysisGaps" class="editorial-bottom"></div>
@@ -637,6 +637,10 @@ async function loadEvidenceAnalysis(){
   const d=await r.json();root.replaceChildren();gaps.replaceChildren();
   stamp.textContent="Nguồn dữ liệu: "+(d.input_generated_at||"không rõ")+" · mục sau loại trùng: "+(d.items_after_dedup??"?");
   method.textContent=d.method||"Phương pháp chưa được mô tả.";
+  if(Array.isArray(d.coverage)){const cov=document.createElement("section");cov.className="editorial-note";const ch=document.createElement("h4");ch.textContent="Độ phủ theo lĩnh vực — đừng nhầm thiếu dữ liệu với không có diễn biến";const ul=document.createElement("ul");d.coverage.forEach(x=>{const li=document.createElement("li");li.textContent=x.domain+": "+x.usable+" mục dùng được / "+x.items+" mục; "+x.sources+" nguồn";ul.append(li)});cov.append(ch,ul);root.append(cov);}
+  (d.themes||[]).forEach(x=>{const card=document.createElement("article");card.className="editorial-card";const eye=document.createElement("div");eye.className="eyeline";const dom=document.createElement("span");dom.className="pill";dom.textContent="Mẫu hình cần kiểm chứng";const conf=document.createElement("span");conf.textContent=x.source_count>=2?"Nhiều nguồn trong batch":"Chỉ một nguồn trong batch";eye.append(dom,conf);const h=document.createElement("h4");h.textContent=x.title;card.append(eye,h);appendEditorialBlock(card,"DIỄN GIẢI CÓ ĐIỀU KIỆN",x.reading);appendEditorialBlock(card,"ĐIỀU CÓ THỂ BÁC BỎ",x.falsifier);const meta=document.createElement("div");meta.className="brief-meta";meta.textContent=x.evidence_count+" bài · "+x.source_count+" nguồn xuất bản · chưa xác nhận quan hệ nhân quả";card.append(meta);(x.evidence||[]).forEach(e=>{const block=document.createElement("div");block.className="story";const a=document.createElement("a");a.href=safeUrl(e.url);a.target="_blank";a.rel="noopener noreferrer";a.textContent=(e.source||"Nguồn")+": "+(e.title||"Mở bài gốc");block.append(a);const p=document.createElement("p");p.textContent=e.summary||"";block.append(p);card.append(block)});root.append(card);});
+  if((d.themes||[]).length){const label=document.createElement("div");label.className="editorial-state";label.textContent="Các mẫu hình bên trên được gom bằng từ khóa trong tiêu đề/tóm tắt. Chúng là giả thuyết để đọc sâu, không phải bằng chứng rằng các sự kiện có quan hệ nhân quả.";root.prepend(label);}
+  const rawTitle=document.createElement("div");rawTitle.className="editorial-state";rawTitle.textContent="BÀI GỐC ĐỂ KIỂM TRA — các mục dưới đây là ứng viên tự động, không phải bảng xếp hạng tin quan trọng.";root.append(rawTitle);
   (d.signals||[]).slice(0,12).forEach(x=>{
    const card=document.createElement("article");card.className="editorial-card";
    const eye=document.createElement("div");eye.className="eyeline";

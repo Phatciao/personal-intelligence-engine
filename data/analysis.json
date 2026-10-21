@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-21T04:47:39.919424+00:00",
-  "input_generated_at": "2026-10-21T04:47:39.857666+00:00",
+  "generated_at": "2026-10-21T06:11:02.154495+00:00",
+  "input_generated_at": "2026-10-21T06:11:02.091656+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
   "items_after_dedup": 150,
@@ -9,11 +9,11 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Police charge accused Brendan Nugent with additional offences – as it happened",
-      "summary": "Independent MP’s condition remains critical on Wednesday after surgery to save her remaining leg ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament Anthony Albanese has described the police interview on Tuesday with Brendan Nugent as “extensive” but that the motivation of the alleged “violent” attack against Helen Haines is still unknown. Certainly, it’s a reminder that the world is a more dangerous and divided place than it was a generation ago. But I think that Australians do want to see their politicians be able to go about their business, to be able to get something from the back of their car, for goodness sake. My side, every side included. We all have to recognise that politics has got more aggressive. The particular impact on women in politics … [They] have got a different form of vilification and aggression towards them as well. Continue reading...",
+      "title": "Helen Haines live coverage: Helen Haines has had her second leg amputated but is alive and stable, husband says",
+      "summary": "Independent MP was struck by a car on Monday and her alleged attacker appeared in court on Wednesday ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament Anthony Albanese has described the police interview on Tuesday with Brendan Nugent as “extensive” but that the motivation of the alleged “violent” attack against Helen Haines is still unknown. Certainly, it’s a reminder that the world is a more dangerous and divided place than it was a generation ago. But I think that Australians do want to see their politicians be able to go about their business, to be able to get something from the back of their car, for goodness sake. My side, every side included. We all have to recognise that politics has got more aggressive. The particular impact on women in politics … [They] have got a different form of vilification and aggression towards them as well. Continue reading...",
       "source": "The Guardian World",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb",
-      "published_at": "2026-10-21T03:38:26+00:00",
+      "published_at": "2026-10-21T06:03:09+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -69,17 +69,17 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Odds of fifth interest rate hike this year shorten as RBA deputy warns inflation outlook ‘worsening’",
-      "summary": "Andrew Hauser says central bank faces ‘hard choices’ as it looks to balance risks of entrenched inflation with desire to protect labour market Get our breaking news email , free app or daily news podcast The chance of a fifth interest rate hike on Melbourne Cup day has jumped after Andrew Hauser, the Reserve Bank’s deputy governor, warned of “hard choices” amid a “materially worse” inflation outlook. Hauser, speaking at an investment bank conference in Sydney on Wednesday morning, said the RBA monetary policy board members were juggling a slowing economy with fears that Australians were starting to lose faith in the central bank’s ability to bring inflation back to the 2.5% target. Continue reading...",
+      "title": "Australia’s largest datacentre operator NextDC’s shares dive as Melbourne expansion delayed",
+      "summary": "NextDC tells investors plans to double the size of its west Melbourne datacentre have hit obstacle after community objects to 22 metres-high power poles Get our breaking news email , free app or daily news podcast Australia’s largest datacentre operator has been forced to delay the controversial expansion of its M3 site in Melbourne’s west amid a pause in construction of new 22m power poles following community protest. On Wednesday, NextDC told the Australian Stock Exchange that delays to electricity provider Jemena’s upgrade of the power poles – essential to delivering the increased electricity required by the expanded West Footscray site – would mean the expansion would be pushed back to the 2027/2028 financial year. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening",
-      "published_at": "2026-10-21T01:48:01+00:00",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/21/australias-largest-datacentre-operator-nextdcs-shares-dive-as-melbourne-expansion-delayed",
+      "published_at": "2026-10-21T04:58:25+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 35
+      "score": 36
     },
     {
       "domain": "Thế giới",
@@ -99,32 +99,17 @@
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "Being an EG Content Creator was the experience I could ever ask for. I was told yesterday firsthand by Chris and it took pretty much everything in me to not break down in the call with him. I know how incredible all the staff who work at EG are. People who woul - X",
-      "summary": "Being an EG Content Creator was the experience I could ever ask for. I was told yesterday firsthand by Chris and it took pretty much everything in me to not break down in the call with him. I know how incredible all the staff who work at EG are. People who woul X",
+      "title": "'Smoking Behind the Supermarket with You' creator Jinushi is a huge fan of 'Cyberpunk Edgerunners' \"Cyberpunk 2 was really good. The first [season] was so good, I can't [bring myself to] rewatch it that often.\" - X",
+      "summary": "'Smoking Behind the Supermarket with You' creator Jinushi is a huge fan of 'Cyberpunk Edgerunners' \"Cyberpunk 2 was really good. The first [season] was so good, I can't [bring myself to] rewatch it that often.\" X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zbE15eUJ4akZoRUxpMWxuNkV3QUxwNTRXUDJSNUNKMkhLcFdGdTlZZGJnWDUwZlRLRmc4QkRrZ3VJRTFja3BEM0dFRENXclJmaFNLMEFiR0VPMjJBZDNV?oc=5",
-      "published_at": "2026-10-20T22:39:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yclFBeEw5czctb0JkS2NVcUxweVVsdzU2WGctRGpEZDNFbExKdVFuS19GSkcwY3JQOTVHUlRneEdaN2tTVHZjMXZOQWFVRDBtVk9GM1BHd0ttZ3JvZk56Q3c1SQ?oc=5",
+      "published_at": "2026-10-21T02:30:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "Jonny Belt, Co-creator and executive producer of Bubble Guppies & Co-executive producer of many Nick Jr. shows like The Backyardigans, Butterbean’s Café, and Super Duper Bunny League has unfortunately launched an AI animation studio called Powere - X",
-      "summary": "Jonny Belt, Co-creator and executive producer of Bubble Guppies & Co-executive producer of many Nick Jr. shows like The Backyardigans, Butterbean’s Café, and Super Duper Bunny League has unfortunately launched an AI animation studio called Powere X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyamE0alBLQU5WZ2dSUzdISGZDWlRxdC1RVDJHUTFOdzBLNVhjWjFCdGRJMmptalBydjFEVTNOZUFJLWlWYzctaHBlV1RKVURNYWJaQzNtZVl5VVIzaWEzSkVKSmQ?oc=5",
-      "published_at": "2026-10-20T17:47:34+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
+      "score": 19
     },
     {
       "domain": "Arsenal & Premier League",
@@ -187,28 +172,28 @@
       "score": 18
     },
     {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
-      "summary": "Phil Foden's magnificent man-of-the-match display in Manchester City's Champions League win against AEK Athens serves as a reminder of his talent and ability to influence games.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-20T22:35:32+00:00",
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Party at #SlivingtonManor for my #Unstoppable ADHD Creator Summit 🦋✨💫 @HALEYYBAYLEE @Toren_Wolf @Chloé Hayden #StaceyBendet @Armani White 💖 #SlivingWithADHD #ADHDAwarenessMonth 🫧 - TikTok",
+      "summary": "Party at #SlivingtonManor for my #Unstoppable ADHD Creator Summit 🦋✨💫 @HALEYYBAYLEE @Toren_Wolf @Chloé Hayden #StaceyBendet @Armani White 💖 #SlivingWithADHD #ADHDAwarenessMonth 🫧 TikTok",
+      "source": "Google News TikTok & Short-form Video",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96UUQ5dEkyZk5NbmtaekhBTnBtT2tVSDN4Wk5MUlNlM0ZtUUtjOTF1M3AzZzFKY3ZZaUo1ZUIzTXM1WFRPZ2pxRHF4c3FUdVl5cGVSOEEwcTE2LWJmcnJTWEF4dTZqUHVFaDRzSHhn?oc=5",
+      "published_at": "2026-10-20T23:43:08+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
+      "score": 18
     },
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Carrick wants more Man Utd clean sheets to turn season around",
-      "summary": "Manchester United boss Michael Carrick needs more clean sheets as he looks to change his team's fortunes, as they take on Como in the Champions League.",
+      "title": "'I've waited 34 years for this' - Viking's 'special' story",
+      "summary": "When Viking FK ended a 34-year Norwegian title drought last year, it was days like these they were dreaming of - preparing to visit Aston Villa in the Champions League.",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-20T21:27:35+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv0ldne84eeyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-21T05:49:26+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -232,19 +217,49 @@
       "score": 17
     },
     {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "Tyler, The Creator, Kenny Mason and Vince Staples 📸 All at Vince’s opening night of the ‘Cry Baby’ Tour in Atlanta. Kenny Mason was slated as the opener. - X",
-      "summary": "Tyler, The Creator, Kenny Mason and Vince Staples 📸 All at Vince’s opening night of the ‘Cry Baby’ Tour in Atlanta. Kenny Mason was slated as the opener. X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WTm1JZE9uMWRNclRCQ0luckZYV3Azb1piUHFQa1ZoMXlZY1Z1TXZHTzNvb3ItZHEzV0d1MVFPcHpNR3RZZDNnQl85a3d3UmVSVnllNEYyeGxIc0hmemlKVWc2TQ?oc=5",
-      "published_at": "2026-10-20T22:23:31+00:00",
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Fabregas and Como prepare for historic Man Utd tie",
+      "summary": "Serie A success story Como have gone from Serie A to the Champions League - now they are ready for a historic night against Manchester United.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmpwg17ev9xxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-21T05:26:05+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
+      "score": 16
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Hey stranger. Press and creator previews for STRANGER THAN HEAVEN will start dropping tomorrow, October 21st from 7am PDT / 10am EDT. - X",
+      "summary": "Hey stranger. Press and creator previews for STRANGER THAN HEAVEN will start dropping tomorrow, October 21st from 7am PDT / 10am EDT. X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vS21QVFhTV1ZJck0tZnAxV2JBOFpmYk1OQ0NDbGxrSEFsNVpkTlBPanpsTm8xUmVTNDl4eHNjcU0yeFM2RlE3UnJsS3NKZGpPRU1abWhTWVJULW9DekE?oc=5",
+      "published_at": "2026-10-21T01:40:02+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 16
+    },
+    {
+      "domain": "Nước & năng lượng",
+      "category": "water",
+      "title": "Crickets Group, Kyungdong Navien, and Otech Group will show their latest solutions at the 18th Korea.. - 매일경제",
+      "summary": "Crickets Group, Kyungdong Navien, and Otech Group will show their latest solutions at the 18th Korea.. 매일경제",
+      "source": "Google News Energy",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1selVyTHNpMlAwdmlqMjQ3TEJMR2hTVzIyWTZnRTlMRVBCU191czJNZXhsQUYwZmswZFgxUkdGTGkwRWFySEZDVGdKWEt5YkhvOF9V?oc=5",
+      "published_at": "2026-10-21T04:43:03+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 15
     },
     {
       "domain": "Nước & năng lượng",
@@ -260,6 +275,36 @@
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
       "score": 15
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "How to be a (Roman) man",
+      "summary": "Cicero’s ideal of manly virtue stressed the performance of self-control and bravery, not boastful egotism and domination - by Catharine Edwards Read on Aeon",
+      "source": "Aeon Essays",
+      "url": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
+      "published_at": "2026-10-16T10:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 12
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "The ladder of knowledge",
+      "summary": "What we claim as ‘true’ is not a ceiling we are forever failing to reach but something that changes as we climb toward it - by Alexander V Gheorghiu Read on Aeon",
+      "source": "Aeon Essays",
+      "url": "https://aeon.co/essays/the-century-long-search-for-the-limits-to-knowledge",
+      "published_at": "2026-10-15T10:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 12
     }
   ],
   "themes": [
@@ -281,11 +326,11 @@
           "summary": "arXiv:2610.23935v1 Announce Type: new Abstract: Speculative decoding accelerates large language model inference through parallel verification of tokens proposed by a drafter. Diffusion drafters further parallelize proposal generation, but greater proposal capacity or higher mean accepted tokens (MAT) need not yield higher throughput. Because verification accepts only a consecutive prefix, early rejections can render later correct predictions ineffective, limiting MAT gains, while even higher MAT"
         },
         {
-          "title": "Odds of fifth interest rate hike this year shorten as RBA deputy warns inflation outlook ‘worsening’",
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening",
-          "published_at": "2026-10-21T01:48:01+00:00",
-          "summary": "Andrew Hauser says central bank faces ‘hard choices’ as it looks to balance risks of entrenched inflation with desire to protect labour market Get our breaking news email , free app or daily news podcast The chance of a fifth interest rate hike on Melbourne Cup day has jumped after Andrew Hauser, the Reserve Bank’s deputy governor, warned of “hard choices” amid a “materially worse” inflation outlook. Hauser, speaking at an investment bank conference in Sydney on Wednesday morning, said the RBA m"
+          "title": "Gold dips for fourth session as oil rally fans inflation concerns - Reuters",
+          "source": "Reuters via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
+          "published_at": "2026-10-21T03:45:00+00:00",
+          "summary": "Gold dips for fourth session as oil rally fans inflation concerns Reuters"
         },
         {
           "title": "How is the US economy really doing under President Trump?",
@@ -401,6 +446,13 @@
           "summary": "Năm 2028, Hải Phòng sẽ áp dụng tiêu chuẩn quốc gia TCVN ISO 18091:2020 nhằm tối ưu hóa bộ máy quản lý, chuẩn hóa quy trình công tác và nâng cao mức độ hài lòng của người dân, doanh nghiệp."
         },
         {
+          "title": "PNJ nêu phương án tái thiết tại đại hội cổ đông bất thường",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/pnj-neu-phuong-an-tai-thiet-tai-dai-hoi-co-dong-bat-thuong-5135018.html",
+          "published_at": "2026-10-21T04:20:00+00:00",
+          "summary": "Doanh nghiệp dự kiến trích lập 7.071 tỷ đồng dự phòng tổn thất, đồng thời đề xuất huy động vốn, tinh gọn vận hành nhằm tạo nền tảng phục hồi kinh doanh."
+        },
+        {
           "title": "MSB giảm lãi suất cho khách hàng cá nhân và doanh nghiệp",
           "source": "VnExpress Kinh doanh",
           "url": "https://vnexpress.net/msb-giam-lai-suat-cho-khach-hang-ca-nhan-va-doanh-nghiep-5134976.html",
@@ -413,13 +465,6 @@
           "url": "https://vnexpress.net/lai-suat-trai-phieu-doanh-nghiep-gan-vung-dinh-5134769.html",
           "published_at": "2026-10-20T20:26:25+00:00",
           "summary": "So với mức đáy vào năm 2025, lãi suất phát hành mới trái phiếu doanh nghiệp quý III đã tăng 2,5%, lên gần 9,5% mỗi năm và tiến dần đến mức đỉnh của giai đoạn 2022-2023."
-        },
-        {
-          "title": "Công ty mẹ của AI Claude lỗ hơn 80 tỷ USD nửa đầu năm nay",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/cong-ty-me-cua-ai-claude-lo-hon-80-ty-usd-nua-dau-nam-nay-5134898.html",
-          "published_at": "2026-10-21T02:04:27+00:00",
-          "summary": "Anthropic, công ty mẹ ứng dụng AI Claude, ghi nhận khoản lỗ lớn trước thềm IPO khiến nhà đầu tư cân nhắc lại mức định giá 2.000 tỷ USD."
         }
       ]
     }
@@ -430,70 +475,61 @@
       "domain": "AI & công nghệ",
       "items": 40,
       "usable": 40,
-      "sources": 7
+      "sources": 8
     },
     {
       "category": "world",
       "domain": "Thế giới",
       "items": 65,
       "usable": 65,
-      "sources": 12
+      "sources": 11
     },
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 25,
-      "usable": 25,
+      "items": 24,
+      "usable": 24,
       "sources": 2
     },
     {
       "category": "water",
       "domain": "Nước & năng lượng",
-      "items": 2,
-      "usable": 2,
+      "items": 3,
+      "usable": 3,
       "sources": 2
     },
     {
       "category": "football",
       "domain": "Arsenal & Premier League",
-      "items": 15,
-      "usable": 15,
-      "sources": 4
+      "items": 12,
+      "usable": 12,
+      "sources": 3
     },
     {
       "category": "books",
       "domain": "Sách",
-      "items": 0,
-      "usable": 0,
-      "sources": 0
+      "items": 2,
+      "usable": 2,
+      "sources": 1
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
       "items": 3,
       "usable": 3,
-      "sources": 1
+      "sources": 2
     },
     {
       "category": "trends",
       "domain": "Google Trends",
-      "items": 0,
+      "items": 1,
       "usable": 0,
       "sources": 0
     }
   ],
   "links": [
     {
-      "a": "Police charge accused Brendan Nugent with additional offences – as it happened",
-      "b": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
-      "terms": [
-        "critical",
-        "generation"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Police charge accused Brendan Nugent with additional offences – as it happened",
+      "a": "Helen Haines live coverage: Helen Haines has had her second leg amputated but is alive and stable, husband says",
       "b": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
       "terms": [
         "across",
@@ -502,7 +538,7 @@
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Police charge accused Brendan Nugent with additional offences – as it happened",
+      "a": "Helen Haines live coverage: Helen Haines has had her second leg amputated but is alive and stable, husband says",
       "b": "Organizing LLM Inference for Aggregate Predictions from Behavioral Data",
       "terms": [
         "across",
@@ -511,16 +547,7 @@
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Police charge accused Brendan Nugent with additional offences – as it happened",
-      "b": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
-      "terms": [
-        "against",
-        "reminder"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Police charge accused Brendan Nugent with additional offences – as it happened",
+      "a": "Helen Haines live coverage: Helen Haines has had her second leg amputated but is alive and stable, husband says",
       "b": "EU-funded technologies pave the way towards a cleaner and more competitive European industry - European Climate, Infrastructure and Environment Executive Agency",
       "terms": [
         "more",
@@ -529,21 +556,16 @@
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
-      "b": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
+      "a": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+      "b": "Australia’s largest datacentre operator NextDC’s shares dive as Melbourne expansion delayed",
       "terms": [
-        "against",
-        "problem"
+        "been",
+        "high"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }
   ],
   "domain_notes": [
-    {
-      "domain": "Sách",
-      "status": "Thiếu dữ liệu",
-      "note": "Chỉ 0 mục có tóm tắt dùng được; không tạo kết luận mạnh."
-    },
     {
       "domain": "Google Trends",
       "status": "Thiếu dữ liệu",

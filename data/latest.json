@@ -1,14 +1,139 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-21T04:47:39.857666+00:00",
+  "generated_at": "2026-10-21T06:11:02.091656+00:00",
   "status": "ok",
   "items_count": 150,
   "items": [
     {
-      "title": "Tottenham 3-1 Coventry: Dejan Kulusevski returns to action as Spurs secure first Premier League win of the season - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYmRNTG4tSG5JZVlmSGxxX1ZvMm1lbVJsOEp1OC1sRHNyMkNINWJpQmV1Y2tVUXptMzJTQnlETF85Ujd3QzRQWlE4am5wNzJkX3JlenFkR1k0dm0xbF9PT3F6cFdMSGxkM0YtRXZqR2hyaTNJb0VFVnpoVC04ZU5Zd1VEclZHWjJkWUFsZ05mRk05M1EzUnZoX1pXbWswdk9yMWpVTHgwdGdOMzRRbnNQblhuc0g4VEN0QkkxUTAtN3NaOFRvMG9mR3p2b0ZESGd0bTVFWUd6QzlyOU8tVnlEZGZaSmlOeDIyS1JFMmhfZ3U0X3M?oc=5",
-      "summary": "Tottenham 3-1 Coventry: Dejan Kulusevski returns to action as Spurs secure first Premier League win of the season Sky Sports",
-      "published_at": "2026-10-21T04:42:06+00:00",
+      "title": "Europe’s pensions rank among the world’s best – but how secure are they?",
+      "url": "https://www.euronews.com/2026/10/21/europes-pensions-rank-among-the-worlds-best-but-how-secure-are-they",
+      "summary": "A new ranking of 55 retirement income systems reveals how Europe’s pension systems compare, with concerns over the long-term sustainability of benefits in some of the continent’s largest economies.",
+      "published_at": "2026-10-21T06:07:50+00:00",
+      "source": "Euronews",
+      "source_feed": "https://www.euronews.com/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Euronews"
+      ]
+    },
+    {
+      "title": "Helen Haines live coverage: Helen Haines has had her second leg amputated but is alive and stable, husband says",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb",
+      "summary": "Independent MP was struck by a car on Monday and her alleged attacker appeared in court on Wednesday ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament Anthony Albanese has described the police interview on Tuesday with Brendan Nugent as “extensive” but that the motivation of the alleged “violent” attack against Helen Haines is still unknown. Certainly, it’s a reminder that the world is a more dangerous and divided place than it was a generation ago. But I think that Australians do want to see their politicians be able to go about their business, to be able to get something from the back of their car, for goodness sake. My side, every side included. We all have to recognise that politics has got more aggressive. The particular impact on women in politics … [They] have got a different form of vilification and aggression towards them as well. Continue reading...",
+      "published_at": "2026-10-21T06:03:09+00:00",
+      "source": "The Guardian World",
+      "source_feed": "https://www.theguardian.com/world/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "The Guardian World"
+      ]
+    },
+    {
+      "title": "Europe Today: France to deploy army before weekend protests as Italy tightens powers",
+      "url": "https://www.euronews.com/2026/10/21/europe-today-france-to-deploy-army-before-weekend-protests-as-italy-tightens-powers",
+      "summary": "France will put soldiers on the streets ahead of more weekend protests, after days of violence and vandalism. Italy is giving police new powers, Albania's protests enter a second week, and Greek students march today. In Oslo, Steve Witkoff meets Zelenskyy before heading to Moscow.",
+      "published_at": "2026-10-21T06:02:16+00:00",
+      "source": "Euronews",
+      "source_feed": "https://www.euronews.com/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Euronews"
+      ]
+    },
+    {
+      "title": "'This is possible': Emissions must fall by 18% in next 4 years to limit worst impacts of global warming",
+      "url": "https://www.euronews.com/2026/10/21/this-is-possible-emissions-must-fall-by-18-in-next-4-years-to-limit-worst-impacts-of-globa",
+      "summary": "“Every additional fraction of a degree and additional year of warming above 1.5°C increases climate impacts and risks, such as the deadly floods, heatwaves and wildfires that have plagued many nations this year”.",
+      "published_at": "2026-10-21T06:01:11+00:00",
+      "source": "Euronews",
+      "source_feed": "https://www.euronews.com/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Euronews"
+      ]
+    },
+    {
+      "title": "Gaza children face worsening food shortages as prices rise and aid is cut",
+      "url": "https://www.aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut?traffic_source=rss",
+      "summary": "Families say they are struggling to provide nutritious meals for their children as commercial supplies are disrupted.",
+      "published_at": "2026-10-21T06:00:47+00:00",
+      "source": "Al Jazeera English",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Al Jazeera English"
+      ]
+    },
+    {
+      "title": "Musk says SpaceX-Tesla merger 'good idea' as companies explore union",
+      "url": "https://www.dw.com/en/musk-says-spacex-tesla-merger-good-idea-as-companies-explore-union/a-79719220?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "Musk confirmed the long standing speculation of a possible merger between Tesla and SpaceX but warned that it would be premature to assume it is happening for sure.",
+      "published_at": "2026-10-21T05:53:00+00:00",
+      "source": "Deutsche Welle World",
+      "source_feed": "https://rss.dw.com/xml/rss-en-all",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "possible_concrete_development",
+        "uncertainty_language",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Deutsche Welle World"
+      ]
+    },
+    {
+      "title": "Man City charges LIVE: Football regulator's fresh stance as EFL 'ready to agree' punishment - The Mirror",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnJGS0VGbmkzSFdlTXUzd0F0dVhGSXVtcGxwdURkeDdRMlphNU13LUxuNU4zVC1talkwOGlSakU4ZmhMVThfTE1oVm5HNnROckY4SDY0anl2clFfUVlnMjB3T25yeTdVT05uOFlFOVoxRFlCNFNEc3hHUjdVYnIzUVlvbUU5bUNvWEVodG16NA?oc=5",
+      "summary": "Man City charges LIVE: Football regulator's fresh stance as EFL 'ready to agree' punishment The Mirror",
+      "published_at": "2026-10-21T05:50:14+00:00",
       "source": "Google News Premier League",
       "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
       "category": "football",
@@ -22,6 +147,480 @@
       "quality_flags": [],
       "sources_seen": [
         "Google News Premier League"
+      ]
+    },
+    {
+      "title": "'I've waited 34 years for this' - Viking's 'special' story",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv0ldne84eeyo?at_medium=RSS&at_campaign=rss",
+      "summary": "When Viking FK ended a 34-year Norwegian title drought last year, it was days like these they were dreaming of - preparing to visit Aston Villa in the Champions League.",
+      "published_at": "2026-10-21T05:49:26+00:00",
+      "source": "BBC Sport Football",
+      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
+    },
+    {
+      "title": "Elon Musk considering Tesla-SpaceX merger",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "published_at": "2026-10-21T05:48:46+00:00",
+      "source": "BBC World",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC World",
+        "BBC Business"
+      ]
+    },
+    {
+      "title": "Couple jailed more than 15 years each over fatal abuse of their baby boy - CNA",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM3oyZ1lmM3VsRHk3Q0FoWkxJVm5uekZZS0NjbDE1U3Z4YXljU1pEdVc3Rm9abGhzWHdqRndLX3piV2hZUW5XVVJ0U3M1cEtuUHZMamVvTld3eDhNMFg5V0ppbmk4eS0xMkZEbTc3NDBHY3FuQ0hiTlJnaTN4bmhWQ253WVFpRFNUR1pzREpR?oc=5",
+      "summary": "Couple jailed more than 15 years each over fatal abuse of their baby boy CNA",
+      "published_at": "2026-10-21T05:38:32+00:00",
+      "source": "CNA via Google News",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Achannelnewsasia.com+world+OR+Asia+OR+business&hl=en-US&gl=US&ceid=US:en",
+      "category": "world",
+      "signal_source_type": "search_index",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 54,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "CNA via Google News"
+      ]
+    },
+    {
+      "title": "Greece tourism: August 2026 arrivals up 2.6%, with foreign visitors leading growth",
+      "url": "https://www.euronews.com/2026/10/21/greece-tourism-august-2026-arrivals-up-26-with-foreign-visitors-leading-growth",
+      "summary": "Arrivals reached 7.43 million and overnight stays 34.69 million, with short-stay rentals up 5.2%, compared with just 1.5% for hotels and campsites.",
+      "published_at": "2026-10-21T05:30:10+00:00",
+      "source": "Euronews",
+      "source_feed": "https://www.euronews.com/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Euronews"
+      ]
+    },
+    {
+      "title": "Which countries and players have won the most Ballon d’Or awards?",
+      "url": "https://www.aljazeera.com/sports/2026/10/21/which-countries-and-players-have-won-the-most-ballon-dor-awards?traffic_source=rss",
+      "summary": "Argentina's Lionel Messi has won all of his country's eight prizes, while Portugal's Cristiano Ronaldo has won five.",
+      "published_at": "2026-10-21T05:29:28+00:00",
+      "source": "Al Jazeera English",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Al Jazeera English"
+      ]
+    },
+    {
+      "title": "Fabregas and Como prepare for historic Man Utd tie",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmpwg17ev9xxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Serie A success story Como have gone from Serie A to the Champions League - now they are ready for a historic night against Manchester United.",
+      "published_at": "2026-10-21T05:26:05+00:00",
+      "source": "BBC Sport Football",
+      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "BBC Sport Football"
+      ]
+    },
+    {
+      "title": "Far from fringe: How Israel’s mainstream parties vote with the far right",
+      "url": "https://www.aljazeera.com/news/2026/10/21/far-from-fringe-how-israels-mainstream-parties-vote-with-the-far-right?traffic_source=rss",
+      "summary": "Al Jazeera analysed how every party in the Knesset voted on the most consequential measures affecting Palestinians.",
+      "published_at": "2026-10-21T05:24:49+00:00",
+      "source": "Al Jazeera English",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Al Jazeera English"
+      ]
+    },
+    {
+      "title": "Hố sụt sâu 3 m trên quốc lộ 3B",
+      "url": "https://vnexpress.net/ho-sut-sau-3-m-tren-quoc-lo-3b-5135063.html",
+      "summary": "Hố sụt bán kính khoảng 2 m, sâu 3 m xuất hiện sáng 21/10 trên quốc lộ 3B qua xã Na Rì, bên dưới có nước và đang mở rộng.",
+      "published_at": "2026-10-21T05:24:33+00:00",
+      "source": "VnExpress Thời sự",
+      "source_feed": "https://vnexpress.net/rss/thoi-su.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VnExpress Thời sự"
+      ]
+    },
+    {
+      "title": "Sập giàn giáo rạp Tháng 8, một công nhân tử vong",
+      "url": "https://vnexpress.net/sap-gian-giao-rap-thang-8-mot-cong-nhan-tu-vong-5135059.html",
+      "summary": "Giàn giáo phục vụ đổ bêtông sàn tầng 5 công trình rạp Tháng 8 bị sập khiến một công nhân mắc kẹt và tử vong.",
+      "published_at": "2026-10-21T05:19:05+00:00",
+      "source": "VnExpress Thời sự",
+      "source_feed": "https://vnexpress.net/rss/thoi-su.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VnExpress Thời sự"
+      ]
+    },
+    {
+      "title": "AFP warns Australia of ‘tsunami of youth crime’ and radicalisation accelerated by AI",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/21/afp-warns-australia-of-tsunami-of-youth-and-radicalisation-accelerated-by-ai",
+      "summary": "Children as young as 12 among dozens subject to federal police operations since 2020, parliamentary inquiry hears Get our new political email , free app or daily news podcast Australia is facing a “tsunami” of youth crime as artificial intelligence accelerates the pace and scale of radicalisation, a parliamentary inquiry has heard. The Australian federal police acting deputy commissioner Sandra Booth told the hearing on Wednesday that, while radicalisation had traditionally taken years or months, that process could now happen within days. Continue reading...",
+      "published_at": "2026-10-21T05:18:20+00:00",
+      "source": "The Guardian World",
+      "source_feed": "https://www.theguardian.com/world/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "The Guardian World"
+      ]
+    },
+    {
+      "title": "No bail for alleged Helen Haines attacker as police chief warns of Australia’s ‘febrile’ political environment",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/21/no-bail-brendan-nugent-helen-haines-police-chief-warning-ntwnfb",
+      "summary": "AFP commissioner says MPs are generally concerned about growing volume of abuse and intimidation Follow our live blog for latest updates Get our breaking news email , free app or daily news podcast The head of the Australian federal police has condemned a “febrile” political environment that has seen one person charged every week over the alleged threatening of MPs, as Victoria announces new steps to protect politicians. But the AFP and Victoria police insist they had no intelligence to suggest 43-year-old Brendan Nugent would go on to allegedly drive a Toyota LandCruiser into the independent MP Helen Haines in a targeted attack. Continue reading...",
+      "published_at": "2026-10-21T05:17:12+00:00",
+      "source": "The Guardian World",
+      "source_feed": "https://www.theguardian.com/world/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "uncertainty_language",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "The Guardian World"
+      ]
+    },
+    {
+      "title": "Ukraine 'dùng dao mổ trâu để giết gà' khi đối phó UAV Nga",
+      "url": "https://vnexpress.net/ukraine-dung-dao-mo-trau-de-giet-ga-khi-doi-pho-uav-nga-5134441.html",
+      "summary": "Cạn tên lửa phòng không, Ukraine phải vắt kiệt phi đội F-16 hiện đại để bắn hạ những chiếc UAV giá rẻ của Nga, khiến dàn tiêm kích quá tải.",
+      "published_at": "2026-10-21T05:09:48+00:00",
+      "source": "VnExpress Thế giới",
+      "source_feed": "https://vnexpress.net/rss/the-gioi.rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VnExpress Thế giới"
+      ]
+    },
+    {
+      "title": "Trump’s embrace of Putin roils Europe, but not enough to break with the US",
+      "url": "https://www.euronews.com/2026/10/21/trumps-embrace-of-putin-roils-europe-but-not-enough-to-break-with-the-us",
+      "summary": "Donald Trump's embrace of Vladimir Putin has driven a wedge between the transatlantic allies. But for all their outrage, Europeans are not yet ready to break away from the United States and go their own way.",
+      "published_at": "2026-10-21T05:00:56+00:00",
+      "source": "Euronews",
+      "source_feed": "https://www.euronews.com/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Euronews"
+      ]
+    },
+    {
+      "title": "A chilled stay: Europe’s coolest ice, snow and igloo hotels to visit this winter",
+      "url": "https://www.euronews.com/2026/10/21/a-chilled-stay-europes-coolest-ice-snow-and-igloo-hotels-to-visit-this-winter",
+      "summary": "If you’re planning a winter escape, why not embrace the cold and check into an ice, snow or igloo hotel? From seasonal ‘properties’ in Swedish and Finnish Lapland to a year-round icy stay in Norway, here are five places in Europe for a cool getaway.",
+      "published_at": "2026-10-21T05:00:53+00:00",
+      "source": "Euronews",
+      "source_feed": "https://www.euronews.com/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Euronews"
+      ]
+    },
+    {
+      "title": "Latest news bulletin | October 21st, 2026 – Morning",
+      "url": "https://www.euronews.com/video/2026/10/21/latest-news-bulletin-october-21st-2026-morning",
+      "summary": "Catch up with the most important stories from around Europe and beyond this October 21st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "published_at": "2026-10-21T05:00:32+00:00",
+      "source": "Euronews",
+      "source_feed": "https://www.euronews.com/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Euronews"
+      ]
+    },
+    {
+      "title": "severe thunderstorm warning",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "summary": "",
+      "published_at": "2026-10-21T05:00:00+00:00",
+      "source": "Google Trends United States",
+      "source_feed": "https://trends.google.com/trending/rss?geo=US",
+      "category": "trends",
+      "signal_source_type": "google_trends",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 54,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "missing_summary",
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google Trends United States"
+      ]
+    },
+    {
+      "title": "Rising emissions and temperatures: The cost of Trump's climate retreat is now clear",
+      "url": "https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-xml-mrss",
+      "summary": "The world is set to breach the critical 1.5-degree temperature limit, with Donald Trump's US withdrawal from climate action worsening the outlook, according to a UN report. But there is a small silver lining.",
+      "published_at": "2026-10-21T05:00:00+00:00",
+      "source": "Deutsche Welle World",
+      "source_feed": "https://rss.dw.com/xml/rss-en-all",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Deutsche Welle World"
+      ]
+    },
+    {
+      "title": "Australia’s largest datacentre operator NextDC’s shares dive as Melbourne expansion delayed",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/21/australias-largest-datacentre-operator-nextdcs-shares-dive-as-melbourne-expansion-delayed",
+      "summary": "NextDC tells investors plans to double the size of its west Melbourne datacentre have hit obstacle after community objects to 22 metres-high power poles Get our breaking news email , free app or daily news podcast Australia’s largest datacentre operator has been forced to delay the controversial expansion of its M3 site in Melbourne’s west amid a pause in construction of new 22m power poles following community protest. On Wednesday, NextDC told the Australian Stock Exchange that delays to electricity provider Jemena’s upgrade of the power poles – essential to delivering the increased electricity required by the expanded West Footscray site – would mean the expansion would be pushed back to the 2027/2028 financial year. Continue reading...",
+      "published_at": "2026-10-21T04:58:25+00:00",
+      "source": "The Guardian World",
+      "source_feed": "https://www.theguardian.com/world/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "The Guardian World"
+      ]
+    },
+    {
+      "title": "Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff",
+      "url": "https://www.aljazeera.com/news/2026/10/21/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-brazil-runoff?traffic_source=rss",
+      "summary": "Messaging service WhatsApp and parent company Meta are embroiled in legal attacks by Brazil's presidential candidates.",
+      "published_at": "2026-10-21T04:58:03+00:00",
+      "source": "Al Jazeera English",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Al Jazeera English"
+      ]
+    },
+    {
+      "title": "Cao tốc Mộc Châu - Sơn La dự kiến hoàn thành năm 2030",
+      "url": "https://vnexpress.net/cao-toc-moc-chau-son-la-du-kien-hoan-thanh-nam-2030-5135008.html",
+      "summary": "Tuyến cao tốc dài 179,5 km qua Sơn La được đề xuất 4 làn xe, tổng mức đầu tư khoảng 63.120 tỷ đồng, dự kiến cơ bản hoàn thành vào năm 2030.",
+      "published_at": "2026-10-21T04:52:37+00:00",
+      "source": "VnExpress Thời sự",
+      "source_feed": "https://vnexpress.net/rss/thoi-su.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VnExpress Thời sự"
+      ]
+    },
+    {
+      "title": "From ‘sleepmaxxing’ to rising temperatures: getting a good night's sleep is getting harder",
+      "url": "https://www.euronews.com/2026/10/21/from-sleepmaxxing-to-rising-temperatures-getting-a-good-nights-sleep-is-getting-harder",
+      "summary": "Climate change, unequal access to healthcare and an ‘always-on’ work culture are undermining sleep across Europe — essential for good health.",
+      "published_at": "2026-10-21T04:48:08+00:00",
+      "source": "Euronews",
+      "source_feed": "https://www.euronews.com/rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Euronews"
+      ]
+    },
+    {
+      "title": "Crickets Group, Kyungdong Navien, and Otech Group will show their latest solutions at the 18th Korea.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1selVyTHNpMlAwdmlqMjQ3TEJMR2hTVzIyWTZnRTlMRVBCU191czJNZXhsQUYwZmswZFgxUkdGTGkwRWFySEZDVGdKWEt5YkhvOF9V?oc=5",
+      "summary": "Crickets Group, Kyungdong Navien, and Otech Group will show their latest solutions at the 18th Korea.. 매일경제",
+      "published_at": "2026-10-21T04:43:03+00:00",
+      "source": "Google News Energy",
+      "source_feed": "https://news.google.com/rss/search?q=energy+efficiency+heat+pump+technology&hl=en-US&gl=US&ceid=US:en",
+      "category": "water",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Energy"
+      ]
+    },
+    {
+      "title": "Two years into presidency, Indonesia’s Prabowo faces tough balancing act between ambitious promises and fiscal discipline - CNA",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNREltUFlWQjJCclV6WUs5V1Rpcl9MM29za0x0WTBNTm5WRXFlMThyaGZ4YmlQUWJzd0h6dXBDNDVvTHFYTmlYY1JMS21rVUpDUnFUb2I0eWlhM1FNVmNLMk5iUHI4QXdsQmxHcE1YNDRtQU9vM3BRZXBqWUZiRklvVVR4YlRpdmxyeVJ5dmxROFBXazFmOXNkZndCX0NkWlNHdlpJM1d0T0JINy1tckhoOXJBZE9jb2t3eXdEY0NhY18wT2s?oc=5",
+      "summary": "Two years into presidency, Indonesia’s Prabowo faces tough balancing act between ambitious promises and fiscal discipline CNA",
+      "published_at": "2026-10-21T04:39:52+00:00",
+      "source": "CNA via Google News",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Achannelnewsasia.com+world+OR+Asia+OR+business&hl=en-US&gl=US&ceid=US:en",
+      "category": "world",
+      "signal_source_type": "search_index",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "CNA via Google News"
       ]
     },
     {
@@ -45,6 +644,47 @@
       ]
     },
     {
+      "title": "Đảng Cộng hòa gặp khó khi ông Trump ngả về Nga",
+      "url": "https://vnexpress.net/dang-cong-hoa-gap-kho-khi-ong-trump-nga-ve-nga-5133989.html",
+      "summary": "Thỏa thuận dầu diesel và quyết định nới trừng phạt Nga của ông Trump làm dấy lên bất đồng trong đảng Cộng hòa, đặt các ứng viên vào thế rủi ro trước bầu cử giữa kỳ.",
+      "published_at": "2026-10-21T04:32:09+00:00",
+      "source": "VnExpress Thế giới",
+      "source_feed": "https://vnexpress.net/rss/the-gioi.rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VnExpress Thế giới"
+      ]
+    },
+    {
+      "title": "Nỗi dằn vặt của người hùng hạ kẻ xả súng tại trường tiểu học Mỹ",
+      "url": "https://vnexpress.net/noi-dan-vat-cua-nguoi-hung-ha-ke-xa-sung-tai-truong-tieu-hoc-my-5134979.html",
+      "summary": "Kaylub Giamanco, người hạ nghi phạm xả súng trường tiểu học Silver Rail, \"ám ảnh bởi cảm giác tội lỗi\" vì không thể cứu được tất cả nạn nhân.",
+      "published_at": "2026-10-21T04:31:44+00:00",
+      "source": "VnExpress Thế giới",
+      "source_feed": "https://vnexpress.net/rss/the-gioi.rss",
+      "category": "world",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VnExpress Thế giới"
+      ]
+    },
+    {
       "title": "Alberta’s “no” to separation gives Carney a boost as Trump pressure unites Canadians",
       "url": "https://www.euronews.com/2026/10/21/albertas-no-to-separation-hands-carney-a-win-as-trump-pressure-unites-canadians",
       "summary": "Roughly three in four voters rejected starting a path toward separation, as Trump’s trade war and annexation threats push Canadians closer together.",
@@ -63,6 +703,26 @@
       "quality_flags": [],
       "sources_seen": [
         "Euronews"
+      ]
+    },
+    {
+      "title": "Man Utd eye moves for Lewis Hall and Adrien Truffert while Lisandro Martinez faces axe in summer defensive overhaul - Paper Talk - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPVHgxZldISnpJSmVFLURoalAtd1JxMEZpSlVXZXZnVVI3U1FTaG5mVjNKZUhkVWE0ZDA2SUdyTGxkaGg0VlJWYzh4QXRSUktIY21PSWhmOUFNUDFyaDFOSTlfSk5EbjUzS0VkUkdmaDNsbWZfbHlROUZQa3Z3OUFlWGlTUEdqS0FXcVI1WUNGTUFLclAyYXZjYkt0RVJvandoR19naVd5TndYY2ZyeVRhWXczcTJwZURqUzRRd2VyQ0tkSGRNMjhmZzlDN1RVTGkzTmkycVU5UEF4V05DRVNVZ3l3MDNuMkQxcjltc1Y1NFBBSmZjRUJxdnBpUW5NWVRxMndnLTYzVG9YRFRUM1JDbkplai0yUkg1U3c?oc=5",
+      "summary": "Man Utd eye moves for Lewis Hall and Adrien Truffert while Lisandro Martinez faces axe in summer defensive overhaul - Paper Talk Sky Sports",
+      "published_at": "2026-10-21T04:24:31+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
       ]
     },
     {
@@ -106,7 +766,27 @@
       ]
     },
     {
-      "title": "New Romanian prime minister Luca Niculescu and Cabinet members sworn in",
+      "title": "PNJ nêu phương án tái thiết tại đại hội cổ đông bất thường",
+      "url": "https://vnexpress.net/pnj-neu-phuong-an-tai-thiet-tai-dai-hoi-co-dong-bat-thuong-5135018.html",
+      "summary": "Doanh nghiệp dự kiến trích lập 7.071 tỷ đồng dự phòng tổn thất, đồng thời đề xuất huy động vốn, tinh gọn vận hành nhằm tạo nền tảng phục hồi kinh doanh.",
+      "published_at": "2026-10-21T04:20:00+00:00",
+      "source": "VnExpress Kinh doanh",
+      "source_feed": "https://vnexpress.net/rss/kinh-doanh.rss",
+      "category": "vietnam",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "VnExpress Kinh doanh"
+      ]
+    },
+    {
+      "title": "New Romanian prime minister Luca Niculescu and cabinet members sworn in",
       "url": "https://www.euronews.com/2026/10/21/new-romanian-prime-minister-luca-niculescu-and-cabinet-members-sworn-in",
       "summary": "Independent diplomat Luca Niculescu wins parliamentary backing for a minority government, but analysts warn the calm may not last.",
       "published_at": "2026-10-21T04:16:40+00:00",
@@ -144,6 +824,26 @@
       "quality_flags": [],
       "sources_seen": [
         "BBC Business"
+      ]
+    },
+    {
+      "title": "Mike Penders becomes Chelsea’s youngest ever Premier League goalkeeper; now set to beat Petr Čech’s record - We Ain't Got No History",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVnpSRFh3WlM1cjhOZzRJaWVNakdTUy1PVHE4WmtQQnk5VEhJTXpBZnhSRUQxMFgyX2gwbVpRZUpYRUd4UlJzSW11RFZFR0g0cDJtdXVMWllkcWRJQjc1QkpiWWdWdzZQOUxTbVJWRldUTExJUjk5S2hOcmhlOHJyaHR3WTA2cGV4MU1SLXRnYWMxR1ZJcHBGVmJUY3RmbWgzUHdTV1B2SVgxQ1JJSUhHVHU1aFFkTENiVkdsN1phM0FaOHNBdkt3NnpxbEtRSmV2eEZUYTNJcDlEdVpaZXVLSTBpQWVpTGFjclctd29RMi12MDA?oc=5",
+      "summary": "Mike Penders becomes Chelsea’s youngest ever Premier League goalkeeper; now set to beat Petr Čech’s record We Ain't Got No History",
+      "published_at": "2026-10-21T04:11:00+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 42,
+      "triage_reasons": [
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Premier League"
       ]
     },
     {
@@ -803,26 +1503,6 @@
       ]
     },
     {
-      "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
-      "url": "https://arxiv.org/abs/2610.26899",
-      "summary": "arXiv:2610.26899v1 Announce Type: new Abstract: Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the current housing demand. The advancement of machine learning algorithms has encouraged researchers to explore their applications in the construction industry, leading to more intelligent and efficient building processes. In particular, the rise of large language models in recent years has provided more possibilities for the transformation from traditional construction to smart construction. In this study, a large language model and reinforcement learning based autonomous construction method is proposed. An enhanced soft actor-critic reinforcement learning algorithm is developed to plan actions for a mobile crane according to construction tasks. Robot kinematics and control algorithms are used to ensure that the actions generated by the reinforcement learning algorithm can be executed by the crane. In addition, a customized embedding model is developed to extract information from the construction environment according to user interests. Then, a large language model, ChatGPT 5, is used to update construction progress, provide safety information to control system, and generate construction progress reports. The feasibility of proposed method is verified through several full-scall retaining wall construction experiments.",
-      "published_at": "2026-10-21T04:00:00+00:00",
-      "source": "arXiv AI",
-      "source_feed": "https://export.arxiv.org/rss/cs.AI",
-      "category": "ai",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "arXiv AI"
-      ]
-    },
-    {
       "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
       "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
@@ -923,24 +1603,27 @@
       ]
     },
     {
-      "title": "Police charge accused Brendan Nugent with additional offences – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb",
-      "summary": "Independent MP’s condition remains critical on Wednesday after surgery to save her remaining leg ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament Anthony Albanese has described the police interview on Tuesday with Brendan Nugent as “extensive” but that the motivation of the alleged “violent” attack against Helen Haines is still unknown. Certainly, it’s a reminder that the world is a more dangerous and divided place than it was a generation ago. But I think that Australians do want to see their politicians be able to go about their business, to be able to get something from the back of their car, for goodness sake. My side, every side included. We all have to recognise that politics has got more aggressive. The particular impact on women in politics … [They] have got a different form of vilification and aggression towards them as well. Continue reading...",
-      "published_at": "2026-10-21T03:38:26+00:00",
-      "source": "The Guardian World",
-      "source_feed": "https://www.theguardian.com/world/rss",
+      "title": "Gold dips for fourth session as oil rally fans inflation concerns - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
+      "summary": "Gold dips for fourth session as oil rally fans inflation concerns Reuters",
+      "published_at": "2026-10-21T03:45:00+00:00",
+      "source": "Reuters via Google News",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Areuters.com+world+OR+business+OR+Asia&hl=en-US&gl=US&ceid=US:en",
       "category": "world",
-      "signal_source_type": "rss",
+      "signal_source_type": "search_index",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
+      "triage_score": 54,
       "triage_reasons": [
         "potential_high_impact_topic",
-        "published_within_24_hours"
+        "published_within_24_hours",
+        "summary_insufficient"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "short_summary"
+      ],
       "sources_seen": [
-        "The Guardian World"
+        "Reuters via Google News"
       ]
     },
     {
@@ -1166,26 +1849,6 @@
       ]
     },
     {
-      "title": "Fast-fashion giant Shein outperforms several Australian retailers on ethics, report says",
-      "url": "https://www.theguardian.com/fashion/2026/oct/21/fast-fashion-giant-shein-outperforms-several-australian-retailers-on-ethics",
-      "summary": "Ghanda and Windsor Smith are among lowest-rated in Baptist World Aid ethical fashion report based on metrics such as wages and sustainability Get our breaking news email , free app or daily news podcast Online fast-fashion giant Shein is outperforming many Australian high street retailers on ethical standards, according to an industry review. The 11th Baptist World Aid ethical fashion report, released on Tuesday , assessed the ethical practices of 138 Australian and international companies, representing 543 fashion brands. Continue reading...",
-      "published_at": "2026-10-21T02:36:15+00:00",
-      "source": "The Guardian World",
-      "source_feed": "https://www.theguardian.com/world/rss",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "The Guardian World"
-      ]
-    },
-    {
       "title": "Quốc hội xem xét bổ sung ngày nghỉ lễ trong luật",
       "url": "https://vnexpress.net/quoc-hoi-xem-xet-bo-sung-ngay-nghi-le-trong-luat-5134918.html",
       "summary": "Chính phủ đề xuất bổ sung vào luật ngày Văn hóa Việt Nam 24/11 thành ngày nghỉ hưởng nguyên lương, trong khi cơ quan thẩm tra cho biết có ý kiến nghiên cứu thêm ngày 27/7.",
@@ -1206,25 +1869,25 @@
       ]
     },
     {
-      "title": "No bail for alleged Helen Haines attacker as police chief warns of Australia’s ‘febrile’ political environment",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/21/no-bail-brendan-nugent-helen-haines-police-chief-warning-ntwnfb",
-      "summary": "AFP commissioner says MPs are generally concerned about growing volume of abuse and intimidation Follow our live blog for latest updates Get our breaking news email , free app or daily news podcast The head of the Australian federal police has condemned a “febrile” political environment that has seen one person charged every week over the alleged threatening of MPs, as Victoria announces new steps to protect politicians. But the AFP and Victoria police insist they had no intelligence to suggest 43-year-old Brendan Nugent would go on to allegedly drive a Toyota LandCruiser into the independent MP Helen Haines in a targeted attack. Continue reading...",
-      "published_at": "2026-10-21T02:32:12+00:00",
-      "source": "The Guardian World",
-      "source_feed": "https://www.theguardian.com/world/rss",
-      "category": "world",
+      "title": "'Smoking Behind the Supermarket with You' creator Jinushi is a huge fan of 'Cyberpunk Edgerunners' \"Cyberpunk 2 was really good. The first [season] was so good, I can't [bring myself to] rewatch it that often.\" - X",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yclFBeEw5czctb0JkS2NVcUxweVVsdzU2WGctRGpEZDNFbExKdVFuS19GSkcwY3JQOTVHUlRneEdaN2tTVHZjMXZOQWFVRDBtVk9GM1BHd0ttZ3JvZk56Q3c1SQ?oc=5",
+      "summary": "'Smoking Behind the Supermarket with You' creator Jinushi is a huge fan of 'Cyberpunk Edgerunners' \"Cyberpunk 2 was really good. The first [season] was so good, I can't [bring myself to] rewatch it that often.\" X",
+      "published_at": "2026-10-21T02:30:00+00:00",
+      "source": "Google News X Threads & Creator Discussions",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 52,
+      "triage_score": 42,
       "triage_reasons": [
-        "potential_high_impact_topic",
-        "uncertainty_language",
         "published_within_24_hours"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
       "sources_seen": [
-        "The Guardian World"
+        "Google News X Threads & Creator Discussions"
       ]
     },
     {
@@ -1332,13 +1995,13 @@
       ]
     },
     {
-      "title": "Man Utd eye moves for Lewis Hall and Adrien Truffert while Lisandro Martinez faces axe in summer defensive overhaul - Paper Talk - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPVHgxZldISnpJSmVFLURoalAtd1JxMEZpSlVXZXZnVVI3U1FTaG5mVjNKZUhkVWE0ZDA2SUdyTGxkaGg0VlJWYzh4QXRSUktIY21PSWhmOUFNUDFyaDFOSTlfSk5EbjUzS0VkUkdmaDNsbWZfbHlROUZQa3Z3OUFlWGlTUEdqS0FXcVI1WUNGTUFLclAyYXZjYkt0RVJvandoR19naVd5TndYY2ZyeVRhWXczcTJwZURqUzRRd2VyQ0tkSGRNMjhmZzlDN1RVTGkzTmkycVU5UEF4V05DRVNVZ3l3MDNuMkQxcjltc1Y1NFBBSmZjRUJxdnBpUW5NWVRxMndnLTYzVG9YRFRUM1JDbkplai0yUkg1U3c?oc=5",
-      "summary": "Man Utd eye moves for Lewis Hall and Adrien Truffert while Lisandro Martinez faces axe in summer defensive overhaul - Paper Talk Sky Sports",
-      "published_at": "2026-10-21T01:56:03+00:00",
-      "source": "Google News Premier League",
-      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
+      "title": "Hey stranger. Press and creator previews for STRANGER THAN HEAVEN will start dropping tomorrow, October 21st from 7am PDT / 10am EDT. - X",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vS21QVFhTV1ZJck0tZnAxV2JBOFpmYk1OQ0NDbGxrSEFsNVpkTlBPanpsTm8xUmVTNDl4eHNjcU0yeFM2RlE3UnJsS3NKZGpPRU1abWhTWVJULW9DekE?oc=5",
+      "summary": "Hey stranger. Press and creator previews for STRANGER THAN HEAVEN will start dropping tomorrow, October 21st from 7am PDT / 10am EDT. X",
+      "published_at": "2026-10-21T01:40:02+00:00",
+      "source": "Google News X Threads & Creator Discussions",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
@@ -1346,30 +2009,11 @@
       "triage_reasons": [
         "published_within_24_hours"
       ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Premier League"
-      ]
-    },
-    {
-      "title": "Odds of fifth interest rate hike this year shorten as RBA deputy warns inflation outlook ‘worsening’",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening",
-      "summary": "Andrew Hauser says central bank faces ‘hard choices’ as it looks to balance risks of entrenched inflation with desire to protect labour market Get our breaking news email , free app or daily news podcast The chance of a fifth interest rate hike on Melbourne Cup day has jumped after Andrew Hauser, the Reserve Bank’s deputy governor, warned of “hard choices” amid a “materially worse” inflation outlook. Hauser, speaking at an investment bank conference in Sydney on Wednesday morning, said the RBA monetary policy board members were juggling a slowing economy with fears that Australians were starting to lose faith in the central bank’s ability to bring inflation back to the 2.5% target. Continue reading...",
-      "published_at": "2026-10-21T01:48:01+00:00",
-      "source": "The Guardian World",
-      "source_feed": "https://www.theguardian.com/world/rss",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
+      "quality_flags": [
+        "no_public_engagement_metrics"
       ],
-      "quality_flags": [],
       "sources_seen": [
-        "The Guardian World"
+        "Google News X Threads & Creator Discussions"
       ]
     },
     {
@@ -1390,26 +2034,6 @@
       "quality_flags": [],
       "sources_seen": [
         "VnExpress Thế giới"
-      ]
-    },
-    {
-      "title": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
-      "url": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "The UK is sending military support to Saudi Arabia as Iran-aligned Houthi rebels launch repeated attacks on the kingdom.",
-      "published_at": "2026-10-21T01:23:00+00:00",
-      "source": "Deutsche Welle World",
-      "source_feed": "https://rss.dw.com/xml/rss-en-all",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Deutsche Welle World"
       ]
     },
     {
@@ -1515,6 +2139,50 @@
       ]
     },
     {
+      "title": "Party at #SlivingtonManor for my #Unstoppable ADHD Creator Summit 🦋✨💫 @HALEYYBAYLEE @Toren_Wolf @Chloé Hayden #StaceyBendet @Armani White 💖 #SlivingWithADHD #ADHDAwarenessMonth 🫧 - TikTok",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96UUQ5dEkyZk5NbmtaekhBTnBtT2tVSDN4Wk5MUlNlM0ZtUUtjOTF1M3AzZzFKY3ZZaUo1ZUIzTXM1WFRPZ2pxRHF4c3FUdVl5cGVSOEEwcTE2LWJmcnJTWEF4dTZqUHVFaDRzSHhn?oc=5",
+      "summary": "Party at #SlivingtonManor for my #Unstoppable ADHD Creator Summit 🦋✨💫 @HALEYYBAYLEE @Toren_Wolf @Chloé Hayden #StaceyBendet @Armani White 💖 #SlivingWithADHD #ADHDAwarenessMonth 🫧 TikTok",
+      "published_at": "2026-10-20T23:43:08+00:00",
+      "source": "Google News TikTok & Short-form Video",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
+      "category": "creator",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 62,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [
+        "no_public_engagement_metrics"
+      ],
+      "sources_seen": [
+        "Google News TikTok & Short-form Video"
+      ]
+    },
+    {
+      "title": "Bayern Munich XI vs Arsenal: Confirmed team news, predicted lineup and injury latest for Champions League - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd25nTjFhN0lXYmpMb24tUENENHRXbFZ0bXRtd1BJZUJ3bmxOQTB5cGc5em5sdXhlYkNzU3V3NDF4MFFYVjhmbW1jZmxpNXVudWlKb0gxS2tITkhtMGdmdEZQbnR3TXpsbmVDQnNIc0RyeVlmNkpXenllYmVJWjdhb3NrSDZreWppeHB5ZFFObDdxY0NYbTByZVVuYlF1eVFBcnpsN3lUWXRQcHBWeTl6TXk2bzRTVDFaTDRnYmFhc3RJSWJCODgzcXRtZkExZWxyUzd6NXZDQ29SMEtLU0F3TU5WVlBLQQ?oc=5",
+      "summary": "Bayern Munich XI vs Arsenal: Confirmed team news, predicted lineup and injury latest for Champions League London Evening Standard",
+      "published_at": "2026-10-20T23:30:08+00:00",
+      "source": "Google News Arsenal",
+      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 52,
+      "triage_reasons": [
+        "possible_concrete_development",
+        "published_within_24_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Google News Arsenal"
+      ]
+    },
+    {
       "title": "Portugal housing protests continue after police clear camps",
       "url": "https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "Demonstrators vow to continue their campaign to call for affordable housing in Portugal after police cleared tent camps and arrested at least 55 people.",
@@ -1536,109 +2204,6 @@
       ]
     },
     {
-      "title": "No jeopardy but loads of fun - Champions League sets new goals record",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5je34l0q5o?at_medium=RSS&at_campaign=rss",
-      "summary": "It was goals galore again in the Champions League on Tuesday, with the competition setting a new record this season.",
-      "published_at": "2026-10-20T23:03:11+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Sport Football"
-      ]
-    },
-    {
-      "title": "The night 'ruthless' Ngumoha came of age for Liverpool",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck0e0zydv33go?at_medium=RSS&at_campaign=rss",
-      "summary": "Rio Ngumoha produces a coming-of-age performance in Liverpool's comeback win over Villarreal, writes Aadam Patel.",
-      "published_at": "2026-10-20T22:56:55+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Sport Football"
-      ]
-    },
-    {
-      "title": "The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion",
-      "url": "https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss",
-      "summary": "The Gambia confirmed it received $2.5m from the sale of a US mansion belonging to former president Jammeh.",
-      "published_at": "2026-10-20T22:51:35+00:00",
-      "source": "Al Jazeera English",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 52,
-      "triage_reasons": [
-        "possible_concrete_development",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Al Jazeera English"
-      ]
-    },
-    {
-      "title": "Being an EG Content Creator was the experience I could ever ask for. I was told yesterday firsthand by Chris and it took pretty much everything in me to not break down in the call with him. I know how incredible all the staff who work at EG are. People who woul - X",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zbE15eUJ4akZoRUxpMWxuNkV3QUxwNTRXUDJSNUNKMkhLcFdGdTlZZGJnWDUwZlRLRmc4QkRrZ3VJRTFja3BEM0dFRENXclJmaFNLMEFiR0VPMjJBZDNV?oc=5",
-      "summary": "Being an EG Content Creator was the experience I could ever ask for. I was told yesterday firsthand by Chris and it took pretty much everything in me to not break down in the call with him. I know how incredible all the staff who work at EG are. People who woul X",
-      "published_at": "2026-10-20T22:39:07+00:00",
-      "source": "Google News X Threads & Creator Discussions",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [
-        "no_public_engagement_metrics"
-      ],
-      "sources_seen": [
-        "Google News X Threads & Creator Discussions"
-      ]
-    },
-    {
-      "title": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Phil Foden's magnificent man-of-the-match display in Manchester City's Champions League win against AEK Athens serves as a reminder of his talent and ability to influence games.",
-      "published_at": "2026-10-20T22:35:32+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Sport Football"
-      ]
-    },
-    {
       "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
       "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
       "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
@@ -1657,28 +2222,6 @@
       "quality_flags": [],
       "sources_seen": [
         "TechCrunch AI"
-      ]
-    },
-    {
-      "title": "Tyler, The Creator, Kenny Mason and Vince Staples 📸 All at Vince’s opening night of the ‘Cry Baby’ Tour in Atlanta. Kenny Mason was slated as the opener. - X",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WTm1JZE9uMWRNclRCQ0luckZYV3Azb1piUHFQa1ZoMXlZY1Z1TXZHTzNvb3ItZHEzV0d1MVFPcHpNR3RZZDNnQl85a3d3UmVSVnllNEYyeGxIc0hmemlKVWc2TQ?oc=5",
-      "summary": "Tyler, The Creator, Kenny Mason and Vince Staples 📸 All at Vince’s opening night of the ‘Cry Baby’ Tour in Atlanta. Kenny Mason was slated as the opener. X",
-      "published_at": "2026-10-20T22:23:31+00:00",
-      "source": "Google News X Threads & Creator Discussions",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [
-        "no_public_engagement_metrics"
-      ],
-      "sources_seen": [
-        "Google News X Threads & Creator Discussions"
       ]
     },
     {
@@ -1730,108 +2273,6 @@
       ]
     },
     {
-      "title": "Chi phí sinh hoạt áp lực với người Pháp thế nào",
-      "url": "https://vnexpress.net/chi-phi-sinh-hoat-ap-luc-voi-nguoi-phap-the-nao-5134595.html",
-      "summary": "Vật giá tăng nhanh hơn tiền lương, chênh lệch mức sống giữa các tầng lớp ngày càng rộng, góp phần khiến người Pháp xuống đường.",
-      "published_at": "2026-10-20T22:00:00+00:00",
-      "source": "VnExpress Kinh doanh",
-      "source_feed": "https://vnexpress.net/rss/kinh-doanh.rss",
-      "category": "vietnam",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "VnExpress Kinh doanh"
-      ]
-    },
-    {
-      "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
-      "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
-      "summary": "The president's Republican Party seeks to maintain its hold over both chambers of Congress, despite declining polls.",
-      "published_at": "2026-10-20T21:27:38+00:00",
-      "source": "Al Jazeera English",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Al Jazeera English"
-      ]
-    },
-    {
-      "title": "Carrick wants more Man Utd clean sheets to turn season around",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&at_campaign=rss",
-      "summary": "Manchester United boss Michael Carrick needs more clean sheets as he looks to change his team's fortunes, as they take on Como in the Champions League.",
-      "published_at": "2026-10-20T21:27:35+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Sport Football"
-      ]
-    },
-    {
-      "title": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
-      "url": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
-      "summary": "Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running.",
-      "published_at": "2026-10-20T21:24:06+00:00",
-      "source": "Al Jazeera English",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Al Jazeera English"
-      ]
-    },
-    {
-      "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
-      "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
-      "summary": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.",
-      "published_at": "2026-10-20T21:19:12+00:00",
-      "source": "Al Jazeera English",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Al Jazeera English"
-      ]
-    },
-    {
       "title": "Suspect arrested after historic town hall set alight - French media",
       "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
       "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
@@ -1853,13 +2294,13 @@
       ]
     },
     {
-      "title": "Bayern Munich XI vs Arsenal: Confirmed team news, predicted lineup and injury latest for Champions League - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd25nTjFhN0lXYmpMb24tUENENHRXbFZ0bXRtd1BJZUJ3bmxOQTB5cGc5em5sdXhlYkNzU3V3NDF4MFFYVjhmbW1jZmxpNXVudWlKb0gxS2tITkhtMGdmdEZQbnR3TXpsbmVDQnNIc0RyeVlmNkpXenllYmVJWjdhb3NrSDZreWppeHB5ZFFObDdxY0NYbTByZVVuYlF1eVFBcnpsN3lUWXRQcHBWeTl6TXk2bzRTVDFaTDRnYmFhc3RJSWJCODgzcXRtZkExZWxyUzd6NXZDQ29SMEtLU0F3TU5WVlBLQQ?oc=5",
-      "summary": "Bayern Munich XI vs Arsenal: Confirmed team news, predicted lineup and injury latest for Champions League London Evening Standard",
-      "published_at": "2026-10-20T21:03:14+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
+      "title": "A cleaner path to rare earth metals",
+      "url": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/",
+      "summary": "Tomás Villalón Jr. ’14 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from—Monterrey, Mexico, a steel manufacturing and metal fabrication hub. Even as a child, he realized it was problematic to breathe that air. “I’m motivated because I’ve seen what metal-making does,” says Villalón, who majored…",
+      "published_at": "2026-10-20T21:00:00+00:00",
+      "source": "MIT Technology Review",
+      "source_feed": "https://www.technologyreview.com/feed/",
+      "category": "ai",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
@@ -1870,47 +2311,7 @@
       ],
       "quality_flags": [],
       "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
-      "title": "Hợp long cầu đi bộ bắc qua sông Sài Gòn",
-      "url": "https://vnexpress.net/hop-long-cau-di-bo-bac-qua-song-sai-gon-5134828.html",
-      "summary": "Sau hơn một năm thi công, cầu đi bộ qua sông Sài Gòn dài 720 m hình lá dừa, tổng vốn gần 1.000 tỷ đồng hợp long sáng 21/10, nối Bến Bạch Đằng sang Thủ Thiêm.",
-      "published_at": "2026-10-20T21:00:00+00:00",
-      "source": "VnExpress Thời sự",
-      "source_feed": "https://vnexpress.net/rss/thoi-su.rss",
-      "category": "vietnam",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "VnExpress Thời sự"
-      ]
-    },
-    {
-      "title": "Các tuyến phố chính ở Thủ đô được trồng cây gì?",
-      "url": "https://vnexpress.net/cac-tuyen-pho-chinh-o-thu-do-duoc-trong-cay-gi-5134811.html",
-      "summary": "Phố Nguyễn Du định hướng đặc trưng bởi cây sao đen thay vì chỉ có hoa sữa, phố Phan Đình Phùng vẫn sẽ duy trì bản sắc với sấu và nhội.",
-      "published_at": "2026-10-20T21:00:00+00:00",
-      "source": "VnExpress Thời sự",
-      "source_feed": "https://vnexpress.net/rss/thoi-su.rss",
-      "category": "vietnam",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "VnExpress Thời sự"
+        "MIT Technology Review"
       ]
     },
     {
@@ -1935,26 +2336,6 @@
       ]
     },
     {
-      "title": "Arsenal criticism comes from very small minority - Arteta",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm8xzrwv5zpko?at_medium=RSS&at_campaign=rss",
-      "summary": "David Raya says he does not know what to say when people call Arsenal's style of play \"boring or irritating\", as Mikel Arteta brushes off criticism.",
-      "published_at": "2026-10-20T20:33:27+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Sport Football"
-      ]
-    },
-    {
       "title": "Lãi suất trái phiếu doanh nghiệp gần vùng đỉnh",
       "url": "https://vnexpress.net/lai-suat-trai-phieu-doanh-nghiep-gan-vung-dinh-5134769.html",
       "summary": "So với mức đáy vào năm 2025, lãi suất phát hành mới trái phiếu doanh nghiệp quý III đã tăng 2,5%, lên gần 9,5% mỗi năm và tiến dần đến mức đỉnh của giai đoạn 2022-2023.",
@@ -1976,26 +2357,6 @@
       ]
     },
     {
-      "title": "Man Utd revisit deal for Hall - Wednesday gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Manchester United targeting Lewis Hall and Adrien Truffert, Real Madrid remain interested in Riccardo Calafiori, Liverpool and Arsenal both keen on Xavi Espart, plus more.",
-      "published_at": "2026-10-20T20:17:15+00:00",
-      "source": "BBC Sport Football",
-      "source_feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "BBC Sport Football"
-      ]
-    },
-    {
       "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
       "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
       "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
@@ -2014,26 +2375,6 @@
       "quality_flags": [],
       "sources_seen": [
         "BBC World"
-      ]
-    },
-    {
-      "title": "Thảo Cầm Viên báo lãi nhờ đón gần 2 triệu lượt khách",
-      "url": "https://vnexpress.net/thao-cam-vien-bao-lai-nho-don-gan-2-trieu-luot-khach-5134815.html",
-      "summary": "9 tháng đầu năm, Thảo Cầm Viên có gần 2 triệu lượt khách, cả bán vé lẫn miễn phí, giúp doanh nghiệp này lãi sau thuế hơn 5,6 tỷ đồng.",
-      "published_at": "2026-10-20T20:00:08+00:00",
-      "source": "VnExpress Kinh doanh",
-      "source_feed": "https://vnexpress.net/rss/kinh-doanh.rss",
-      "category": "vietnam",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "VnExpress Kinh doanh"
       ]
     },
     {
@@ -2080,46 +2421,6 @@
       ]
     },
     {
-      "title": "Petronas muốn đưa điện gió Việt Nam sang Malaysia và Singapore",
-      "url": "https://vnexpress.net/petronas-muon-dua-dien-gio-viet-nam-sang-malaysia-va-singapore-5134797.html",
-      "summary": "Tập đoàn dầu khí quốc gia Malaysia Petronas muốn hợp tác phát triển dự án truyền tải điện gió ngoài khơi của Việt Nam qua nước này và Singapore.",
-      "published_at": "2026-10-20T19:17:49+00:00",
-      "source": "VnExpress Kinh doanh",
-      "source_feed": "https://vnexpress.net/rss/kinh-doanh.rss",
-      "category": "vietnam",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "VnExpress Kinh doanh"
-      ]
-    },
-    {
-      "title": "Arsenal: Mikel Arteta prepared for Gunners' defensive test against Harry Kane and Bayern Munich in the Champions League - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORkRfOUVLQVNXdjVYa3VRek1ReW9SeE1QdG9JaVEtZXJFZnh5WmtnTWw0SUdEQUJXOV9ObXZ0bWZjOXU0ZWJSc1RScDdzYUlCd2xlQUU3SXFaaGZ4THl3QTlkX1B6M3FRTGhZQ1FrTHB6Q2ZLYk96U3FBRFBHSXNFY1h2OTRWNDYwR1hLczRUX1NRMktOMmc0WlNmQ09OR2tJSjlWOHZrT0RHMmpZRlYtQlNTMng3dnVvQkthRllQall5azE2cW5FbjNOSDVyTF9vX1haUWFRWkhhNzdiMzNXZE9FMXU0dGtWZ0xEVHNIOGlkdFNOZzNqQlVFMHBMOWpFdFV0Tw?oc=5",
-      "summary": "Arsenal: Mikel Arteta prepared for Gunners' defensive test against Harry Kane and Bayern Munich in the Champions League Sky Sports",
-      "published_at": "2026-10-20T19:01:57+00:00",
-      "source": "Google News Arsenal",
-      "source_feed": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
-      "category": "football",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 42,
-      "triage_reasons": [
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Google News Arsenal"
-      ]
-    },
-    {
       "title": "ChatGPT now lets you lock your chats",
       "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
       "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
@@ -2162,24 +2463,27 @@
       ]
     },
     {
-      "title": "Jonny Belt, Co-creator and executive producer of Bubble Guppies & Co-executive producer of many Nick Jr. shows like The Backyardigans, Butterbean’s Café, and Super Duper Bunny League has unfortunately launched an AI animation studio called Powere - X",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyamE0alBLQU5WZ2dSUzdISGZDWlRxdC1RVDJHUTFOdzBLNVhjWjFCdGRJMmptalBydjFEVTNOZUFJLWlWYzctaHBlV1RKVURNYWJaQzNtZVl5VVIzaWEzSkVKSmQ?oc=5",
-      "summary": "Jonny Belt, Co-creator and executive producer of Bubble Guppies & Co-executive producer of many Nick Jr. shows like The Backyardigans, Butterbean’s Café, and Super Duper Bunny League has unfortunately launched an AI animation studio called Powere X",
-      "published_at": "2026-10-20T17:47:34+00:00",
-      "source": "Google News X Threads & Creator Discussions",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
-      "category": "creator",
+      "title": "Team news: Confirmed Liverpool line-up v Villarreal - Liverpool FC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLTZLV0pjeF9YZXhkYXBzY05KdjF3SVRYcTNaeDVYREFRd0pELWs0LWNnaWpKcGdVeFN4eE1laUhjU0VSS21mLUtDaXVraDhreUZHMTJ1M01tMDNIX2ZXTkRhS19td2pBc215QzRmX1ZYT3h6YXdGMVpiMkwycHA3MlgxakczNEM2TFhN?oc=5",
+      "summary": "Team news: Confirmed Liverpool line-up v Villarreal Liverpool FC",
+      "published_at": "2026-10-20T17:45:23+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 52,
+      "triage_score": 44,
       "triage_reasons": [
         "possible_concrete_development",
-        "published_within_24_hours"
+        "published_within_24_hours",
+        "summary_insufficient"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "short_summary"
+      ],
       "sources_seen": [
-        "Google News X Threads & Creator Discussions"
+        "Google News Premier League"
       ]
     },
     {
@@ -2243,27 +2547,6 @@
       "quality_flags": [],
       "sources_seen": [
         "Deutsche Welle World"
-      ]
-    },
-    {
-      "title": "IRGC mines set tankers ablaze as Tehran threatens expanded attacks",
-      "url": "https://www.euronews.com/2026/10/20/irgc-mines-set-tankers-ablaze-as-tehran-threatens-expanded-attacks",
-      "summary": "Iran’s foreign ministry further warned Washington it would retaliate against any strike, and an IRGC spokesperson threatened to target undersea internet cables in the Gulf in another escalation of the ongoing war of words between Tehran and Washington.",
-      "published_at": "2026-10-20T16:34:26+00:00",
-      "source": "Euronews",
-      "source_feed": "https://www.euronews.com/rss",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Euronews"
       ]
     },
     {
@@ -2373,27 +2656,6 @@
       ]
     },
     {
-      "title": "Qatar revamped its entire defence system in six hours, intelligence chief reveals",
-      "url": "https://www.euronews.com/2026/10/20/qatar-revamped-its-entire-defence-system-in-six-hours-intelligence-chief-reveals",
-      "summary": "At Doha’s Global Security Forum, Qatar’s head of intelligence revealed how the war with Iran forced the Gulf country to urgently redeploy its defensive assets, while the US ambassador to Turkey offered new insights into a fundamental shift in Washington's presence in the Middle East.",
-      "published_at": "2026-10-20T15:29:20+00:00",
-      "source": "Euronews",
-      "source_feed": "https://www.euronews.com/rss",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Euronews"
-      ]
-    },
-    {
       "title": "Brazil's Lula, Flavio Bolsonaro tied ahead of runoff vote",
       "url": "https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-all-1573-xml-mrss",
       "summary": "With just under a week to go before the decisive presidential runoff election, polls show left-wing incumbent Luiz Inacio Lula da Silva and his right-wing challenger Flavio Bolsonaro are virtually tied.",
@@ -2412,30 +2674,6 @@
       "quality_flags": [],
       "sources_seen": [
         "Deutsche Welle World"
-      ]
-    },
-    {
-      "title": "Russian diesel returns to Turkey, Brazil after export ban lifted, shipping data shows - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzdwRFZCSlN2bEpHUURBc2xXaDU5djAzLV9JR1RWTk95VVdueUQ1TW9sWjdQWmhDR2tWNW9kdVJWYy1JdS05dHhNYUVkTTFvdzYzUUlHOGhhTVBvZmQ3c1RWZW40NTQ3ajM2RjZXRWczYkE1YW4zaW1FNHdCX3hiNEk0dWJwUTVLMndZbFlCLWhORVAzcXNaRHh4ZkEtOU9YVkFTSEQxSzJ6ZHBiQzJZNFF4WlJiT2xpdW1BMnZtREh6ZU5NczVrR3VPNA?oc=5",
-      "summary": "Russian diesel returns to Turkey, Brazil after export ban lifted, shipping data shows Reuters",
-      "published_at": "2026-10-20T14:36:57+00:00",
-      "source": "Reuters via Google News",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Areuters.com+world+OR+business+OR+Asia&hl=en-US&gl=US&ceid=US:en",
-      "category": "world",
-      "signal_source_type": "search_index",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 54,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "Reuters via Google News"
       ]
     },
     {
@@ -2478,90 +2716,6 @@
       "quality_flags": [],
       "sources_seen": [
         "The Verge AI"
-      ]
-    },
-    {
-      "title": "AI on track to ‘crowd out’ human decision-making in warfare",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168636",
-      "summary": "Artificial intelligence is already being widely used on the battlefield, and the role of human judgment in military operations is shrinking rapidly, the head of the UN’s independent disarmament research institute warned on Tuesday.",
-      "published_at": "2026-10-20T12:00:00+00:00",
-      "source": "UN News",
-      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "UN News"
-      ]
-    },
-    {
-      "title": "As Sudan war spills into Central African Republic, UN warns against early peacekeeper exit",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168630",
-      "summary": "The UN warned on Tuesday against a premature withdrawal of its peacekeepers as the war in Sudan spills over into the Central African Republic (CAR).",
-      "published_at": "2026-10-20T12:00:00+00:00",
-      "source": "UN News",
-      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "UN News"
-      ]
-    },
-    {
-      "title": "‘One step away from famine’: Inside Afghanistan’s hunger crisis",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168631",
-      "summary": "Following extreme hunger warnings, a bitter reality is unfolding across Afghanistan: food is available, but remains inaccessible for millions of people.",
-      "published_at": "2026-10-20T12:00:00+00:00",
-      "source": "UN News",
-      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "UN News"
-      ]
-    },
-    {
-      "title": "Yemen war continues to force families from homes amid hunger and disease",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168629",
-      "summary": "More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is “essentially blocked”.",
-      "published_at": "2026-10-20T12:00:00+00:00",
-      "source": "UN News",
-      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "UN News"
       ]
     },
     {
@@ -2631,51 +2785,6 @@
       ]
     },
     {
-      "title": "India news: Rubio holds talks with counterpart Jaishankar",
-      "url": "https://www.dw.com/en/india-news-rubio-holds-talks-with-counterpart-jaishankar/live-79708492?maca=en-rss-en-all-1573-xml-mrss",
-      "summary": "Marco Rubio's talks with Indian Foreign Minister Jaishankar come as the two countries struggle to finalize a trade deal.",
-      "published_at": "2026-10-20T06:22:00+00:00",
-      "source": "Deutsche Welle World",
-      "source_feed": "https://rss.dw.com/xml/rss-en-all",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "Deutsche Welle World"
-      ]
-    },
-    {
-      "title": "Software upgrades eat nearly a third of companies’ IT budgets, survey finds - The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbkZJS2g4dUZ1a2JyM2ZxN2R3a2JidG1qVFl0Mm91TUhPTmtKWG1VYWVPcThQXzhnM2k5NTFjNVBaeHhnWFYzMXAzT3RQMnMteUl6QlBIOEphd3JQR2NzQ1N4V3lEWWRpbzJielpmMlhMVW9oUUJNUzdtaEVpVU04d2R0bTE3S3hueVlwSXRnZ0JBTGthc3RvMFNhM1FhUmlKbEU4a3JIcHl4cUpqRGdPXw?oc=5",
-      "summary": "Software upgrades eat nearly a third of companies’ IT budgets, survey finds The Straits Times",
-      "published_at": "2026-10-20T05:30:00+00:00",
-      "source": "The Straits Times via Google News",
-      "source_feed": "https://news.google.com/rss/search?q=site%3Astraitstimes.com+world+OR+Asia+OR+business&hl=en-US&gl=US&ceid=US:en",
-      "category": "world",
-      "signal_source_type": "search_index",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 54,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_24_hours",
-        "summary_insufficient"
-      ],
-      "quality_flags": [
-        "short_summary"
-      ],
-      "sources_seen": [
-        "The Straits Times via Google News"
-      ]
-    },
-    {
       "title": "How is the US economy really doing under President Trump?",
       "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
       "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
@@ -2686,10 +2795,10 @@
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
-      "triage_score": 62,
+      "triage_score": 57,
       "triage_reasons": [
         "potential_high_impact_topic",
-        "published_within_24_hours"
+        "published_within_72_hours"
       ],
       "quality_flags": [],
       "sources_seen": [
@@ -2745,6 +2854,27 @@
       ]
     },
     {
+      "title": "EXCLUSIVE: DXC in advanced talks to sell insurance software unit for $2.4 billion, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOEJBeXNkZDlsa3dCLXRCZ1hMMnF4TkVUSnhCbUNvazlpZElNeFlZeUFmUFNzSHc0R05WVjRRRlBOV0ZHQTc0enRCbHVsX1kyQTBkcnVYQmpHRGNnblNxQXhsN0hCRXVxQVBrQk5tckFxMDNqV2VHX1FZUDRNTFp1ejMzVWtTZTZYYnoxUEE3OFY3MU95UXFzaGNjNHBOc0I2YjFiLUZrUmZWZW5CNGtOMUxfLXk5MUpLRUhZNGNnZ3VwRmc2?oc=5",
+      "summary": "EXCLUSIVE: DXC in advanced talks to sell insurance software unit for $2.4 billion, sources say Reuters",
+      "published_at": "2026-10-19T19:41:44+00:00",
+      "source": "Reuters via Google News",
+      "source_feed": "https://news.google.com/rss/search?q=site%3Areuters.com+world+OR+business+OR+Asia&hl=en-US&gl=US&ceid=US:en",
+      "category": "world",
+      "signal_source_type": "search_index",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 57,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_72_hours"
+      ],
+      "quality_flags": [],
+      "sources_seen": [
+        "Reuters via Google News"
+      ]
+    },
+    {
       "title": "BOJ spies a chance to pivot to sustaining inflation as 2% goal nears - Nikkei Asia",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZS1MWlJGQy1ac1h1MGFHUk9DM2ZYMkhJTVIydlgta2xRcmkyYUNjeUhlMTJWemJWX2hNT2Y4N3dwamFEZTlERkJDNHZqdS1vYXhCR0tsMV9VYmNIMUZ2OHhLamNXTmVSMDlsZ2Ytam9BYU52bF9scDNQUHZBaDYtaGVUc1pBMFp0ODdRUFA3MFczd0ZQV0pSNDZURXhWZWVnbzlOYndxNW9GWmVaUTl0V3Vfaw?oc=5",
       "summary": "BOJ spies a chance to pivot to sustaining inflation as 2% goal nears Nikkei Asia",
@@ -2766,6 +2896,30 @@
       ],
       "sources_seen": [
         "Nikkei Asia via Google News"
+      ]
+    },
+    {
+      "title": "Brentford contact police after rugby ball kicked from height towards pitch in Liverpool match - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05SnNQVEZROGFkaHRwUDhvY0hoQ1VoRWEzb19kODY3RTBrYllHYkVNQlp3NV9oOXdZeU9GR0Q5ZDA2MkQ1MjFadWN6OXFFSzkzc3EzU19CODBvMGJFRU9BNWswekI4anFH?oc=5",
+      "summary": "Brentford contact police after rugby ball kicked from height towards pitch in Liverpool match BBC",
+      "published_at": "2026-10-19T16:26:44+00:00",
+      "source": "Google News Premier League",
+      "source_feed": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
+      "category": "football",
+      "signal_source_type": "rss",
+      "label": "NEWS",
+      "verification": "Chưa xác minh độc lập",
+      "triage_score": 49,
+      "triage_reasons": [
+        "potential_high_impact_topic",
+        "published_within_72_hours",
+        "summary_insufficient"
+      ],
+      "quality_flags": [
+        "short_summary"
+      ],
+      "sources_seen": [
+        "Google News Premier League"
       ]
     },
     {
@@ -2853,90 +3007,6 @@
       ]
     },
     {
-      "title": "UN condemns deadly wave of drone strikes in war-torn Sudan",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168628",
-      "summary": "Drone strikes killed and injured dozens across Sudan on Monday as the ongoing war continues to cause soaring displacement and hunger.",
-      "published_at": "2026-10-19T12:00:00+00:00",
-      "source": "UN News",
-      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 57,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "UN News"
-      ]
-    },
-    {
-      "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168626",
-      "summary": "Armed groups in Haiti are adapting to intensified security operations, stepping up reprisals against civilians and extending their reach into rural areas, the UN warned the Security Council on Monday.",
-      "published_at": "2026-10-19T12:00:00+00:00",
-      "source": "UN News",
-      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 57,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "UN News"
-      ]
-    },
-    {
-      "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
-      "summary": "Israeli attacks on war-torn Gaza over the weekend killed at least six Palestinians, including children, despite a year-old ceasefire agreement. Meanwhile, in the occupied West Bank, settler violence continued through the ongoing olive harvest, with UN independent experts on Monday urging Israel to protect Palestinian farmers.",
-      "published_at": "2026-10-19T12:00:00+00:00",
-      "source": "UN News",
-      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 57,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "UN News"
-      ]
-    },
-    {
-      "title": "Gaza: Funding cuts leave half a million without food assistance",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168622",
-      "summary": "Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.",
-      "published_at": "2026-10-19T12:00:00+00:00",
-      "source": "UN News",
-      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 47,
-      "triage_reasons": [
-        "possible_concrete_development",
-        "published_within_72_hours"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "UN News"
-      ]
-    },
-    {
       "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
       "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
       "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system. The category 2 hurricane remained roughly 100 miles (160km) south-west of the coast of Mexico, meaning the worst of the conditions stayed offshore. However, the US National Hurricane Center put coastal parts of the states of Jalisco, Michoacán and Colima under hurricane warnings, with sustained winds of up to 60-90mph forecast on Sunday. Rainfall totals of 100-150mm were likely for these areas, prompting warnings of flooding and landslides. Warnings also covered the risk of a dangerous storm surge accompanied by damaging waves in areas of onshore winds across the coast of south-western Mexico. By Monday morning, Trudy had weakened and been downgraded to a tropical storm, with coastal warnings being lifted. Continue reading...",
@@ -2982,46 +3052,6 @@
       ]
     },
     {
-      "title": "COP17: The world has a plan to save nature. Is it working?",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168618",
-      "summary": "The UN Secretary-General has called for an end to the “war on nature”. On Monday, governments gathering in Yerevan, Armenia, will have to confront a more practical question: are they doing enough to win the peace and put the world’s biodiversity goals back on track?",
-      "published_at": "2026-10-17T12:00:00+00:00",
-      "source": "UN News",
-      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 50,
-      "triage_reasons": [
-        "potential_high_impact_topic"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "UN News"
-      ]
-    },
-    {
-      "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168619",
-      "summary": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold and rain that threatens to cause flooding as families struggle to survive in tattered tents and damaged buildings.",
-      "published_at": "2026-10-17T12:00:00+00:00",
-      "source": "UN News",
-      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 50,
-      "triage_reasons": [
-        "potential_high_impact_topic"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "UN News"
-      ]
-    },
-    {
       "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
       "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
       "summary": "Beijing warns against ‘discriminatory’ step after France drops opposition to British role in Made in Europe package No 10 has left the door open to imposing tariffs on Chinese-made electric vehicles as part of the Made in Europe package, prompting a warning from Beijing that such a move would be “discriminatory”. Downing Street said on Friday that it would “welcome the objective to have the UK included in the Industrial Accelerator Act” after France dropped its opposition to Britain joining the scheme . Continue reading...",
@@ -3042,34 +3072,13 @@
       ]
     },
     {
-      "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168611",
-      "summary": "A little over one year since a ceasefire agreement was announced between Hamas fighters and Israel, more than 340 children have been reported killed and hundreds more injured, the UN Children’s Fund (UNICEF) said on Friday.",
-      "published_at": "2026-10-16T12:00:00+00:00",
-      "source": "UN News",
-      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-      "category": "world",
-      "signal_source_type": "rss",
-      "label": "NEWS",
-      "verification": "Chưa xác minh độc lập",
-      "triage_score": 60,
-      "triage_reasons": [
-        "potential_high_impact_topic",
-        "possible_concrete_development"
-      ],
-      "quality_flags": [],
-      "sources_seen": [
-        "UN News"
-      ]
-    },
-    {
-      "title": "As disasters mount, next UN climate summit faces a test of trust",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168617",
-      "summary": "Less than a month before the UN climate conference COP31 opens in Antalya, Türkiye, representatives of three successive summit presidencies gathered to address a pressing question: How can the world restore trust in climate action when the consequences of a warming planet are already being felt?",
-      "published_at": "2026-10-16T12:00:00+00:00",
-      "source": "UN News",
-      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-      "category": "world",
+      "title": "How to be a (Roman) man",
+      "url": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
+      "summary": "Cicero’s ideal of manly virtue stressed the performance of self-control and bravery, not boastful egotism and domination - by Catharine Edwards Read on Aeon",
+      "published_at": "2026-10-16T10:00:00+00:00",
+      "source": "Aeon Essays",
+      "source_feed": "https://aeon.co/feed.rss",
+      "category": "books",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
@@ -3077,19 +3086,21 @@
       "triage_reasons": [
         "potential_high_impact_topic"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "weak_topic_match"
+      ],
       "sources_seen": [
-        "UN News"
+        "Aeon Essays"
       ]
     },
     {
-      "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168612",
-      "summary": "As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis. Ambassadors are expected to press yet again for a ceasefire, safe aid access and an end to the weapons flows fuelling the brutal conflict.",
-      "published_at": "2026-10-16T12:00:00+00:00",
-      "source": "UN News",
-      "source_feed": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-      "category": "world",
+      "title": "The ladder of knowledge",
+      "url": "https://aeon.co/essays/the-century-long-search-for-the-limits-to-knowledge",
+      "summary": "What we claim as ‘true’ is not a ceiling we are forever failing to reach but something that changes as we climb toward it - by Alexander V Gheorghiu Read on Aeon",
+      "published_at": "2026-10-15T10:00:00+00:00",
+      "source": "Aeon Essays",
+      "source_feed": "https://aeon.co/feed.rss",
+      "category": "books",
       "signal_source_type": "rss",
       "label": "NEWS",
       "verification": "Chưa xác minh độc lập",
@@ -3097,9 +3108,11 @@
       "triage_reasons": [
         "potential_high_impact_topic"
       ],
-      "quality_flags": [],
+      "quality_flags": [
+        "weak_topic_match"
+      ],
       "sources_seen": [
-        "UN News"
+        "Aeon Essays"
       ]
     },
     {
@@ -3148,21 +3161,31 @@
     }
   ],
   "category_counts": {
-    "football": 15,
     "world": 65,
-    "vietnam": 25,
+    "football": 12,
+    "vietnam": 24,
+    "trends": 1,
+    "water": 3,
     "ai": 40,
-    "water": 2,
-    "creator": 3
+    "creator": 3,
+    "books": 2
   },
   "source_errors": [
+    {
+      "source": "UN News",
+      "error": "RuntimeError: All feed endpoints failed: https://news.un.org/feed/subscribe/en/news/all/rss.xml -> ParseError: not well-formed (invalid token): line 1, column 0"
+    },
     {
       "source": "World Bank Blogs",
       "error": "RuntimeError: All feed endpoints failed: https://blogs.worldbank.org/en/feed -> HTTPError: HTTP Error 404: Not Found"
     },
     {
-      "source": "Hacker News AI Discussions",
-      "error": "RuntimeError: All feed endpoints failed: https://hnrss.org/newest?q=AI -> HTTPError: HTTP Error 502: Bad Gateway"
+      "source": "Rest of World",
+      "error": "RuntimeError: All feed endpoints failed: https://restofworld.org/feed/ -> ParseError: not well-formed (invalid token): line 26, column 129"
+    },
+    {
+      "source": "IAI News",
+      "error": "RuntimeError: All feed endpoints failed: https://iai.tv/articles/rss -> HTTPError: HTTP Error 404: Not Found"
     },
     {
       "source": "Google News Books Translated into Vietnamese",
@@ -3179,7 +3202,7 @@
       "feed_url": "https://export.arxiv.org/rss/cs.AI",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 15
+      "items_selected_primary": 14
     },
     {
       "source": "OpenAI News",
@@ -3200,28 +3223,28 @@
       "feed_url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 8
+      "items_selected_primary": 4
     },
     {
       "source": "Google News Arsenal",
       "feed_url": "https://news.google.com/rss/search?q=Arsenal+FC&hl=en-GB&gl=GB&ceid=GB:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 3
+      "items_selected_primary": 2
     },
     {
       "source": "Google News Premier League",
       "feed_url": "https://news.google.com/rss/search?q=Premier+League+football&hl=en-GB&gl=GB&ceid=GB:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 3
+      "items_selected_primary": 6
     },
     {
       "source": "BBC World",
       "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 5
+      "items_selected_primary": 6
     },
     {
       "source": "BBC Business",
@@ -3256,21 +3279,21 @@
       "feed_url": "https://vnexpress.net/rss/thoi-su.rss",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 14
+      "items_selected_primary": 15
     },
     {
       "source": "VnExpress Kinh doanh",
       "feed_url": "https://vnexpress.net/rss/kinh-doanh.rss",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 11
+      "items_selected_primary": 9
     },
     {
       "source": "VnExpress Thế giới",
       "feed_url": "https://vnexpress.net/rss/the-gioi.rss",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 8
+      "items_selected_primary": 11
     },
     {
       "source": "VnExpress Khoa học công nghệ",
@@ -3284,21 +3307,21 @@
       "feed_url": "https://news.google.com/rss/search?q=site%3Areuters.com+world+OR+business+OR+Asia&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 1
+      "items_selected_primary": 2
     },
     {
       "source": "CNA via Google News",
       "feed_url": "https://news.google.com/rss/search?q=site%3Achannelnewsasia.com+world+OR+Asia+OR+business&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 1
+      "items_selected_primary": 3
     },
     {
       "source": "The Straits Times via Google News",
       "feed_url": "https://news.google.com/rss/search?q=site%3Astraitstimes.com+world+OR+Asia+OR+business&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 4
+      "items_selected_primary": 3
     },
     {
       "source": "Nikkei Asia via Google News",
@@ -3340,14 +3363,15 @@
       "feed_url": "https://www.euronews.com/rss",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 5
+      "items_selected_primary": 11
     },
     {
       "source": "UN News",
       "feed_url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-      "status": "ok",
-      "items_collected": 20,
-      "items_selected_primary": 13
+      "status": "error",
+      "items_collected": 0,
+      "items_selected_primary": 0,
+      "error": "RuntimeError: All feed endpoints failed: https://news.un.org/feed/subscribe/en/news/all/rss.xml -> ParseError: not well-formed (invalid token): line 1, column 0"
     },
     {
       "source": "World Bank Blogs",
@@ -3376,7 +3400,7 @@
       "feed_url": "https://news.google.com/rss/search?q=energy+efficiency+heat+pump+technology&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 1
+      "items_selected_primary": 2
     },
     {
       "source": "Google DeepMind Blog",
@@ -3409,10 +3433,9 @@
     {
       "source": "Hacker News AI Discussions",
       "feed_url": "https://hnrss.org/newest?q=AI",
-      "status": "error",
-      "items_collected": 0,
-      "items_selected_primary": 0,
-      "error": "RuntimeError: All feed endpoints failed: https://hnrss.org/newest?q=AI -> HTTPError: HTTP Error 502: Bad Gateway"
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
     },
     {
       "source": "Anthropic News (community RSS mirror)",
@@ -3436,6 +3459,148 @@
       "items_selected_primary": 3
     },
     {
+      "source": "Rest of World",
+      "feed_url": "https://restofworld.org/feed/",
+      "status": "error",
+      "items_collected": 0,
+      "items_selected_primary": 0,
+      "error": "RuntimeError: All feed endpoints failed: https://restofworld.org/feed/ -> ParseError: not well-formed (invalid token): line 26, column 129"
+    },
+    {
+      "source": "MIT Technology Review",
+      "feed_url": "https://www.technologyreview.com/feed/",
+      "status": "ok",
+      "items_collected": 10,
+      "items_selected_primary": 1
+    },
+    {
+      "source": "Quanta Magazine",
+      "feed_url": "https://www.quantamagazine.org/feed/",
+      "status": "ok",
+      "items_collected": 5,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "Aeon Essays",
+      "feed_url": "https://aeon.co/feed.rss",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 2
+    },
+    {
+      "source": "Psyche",
+      "feed_url": "https://psyche.co/feed",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "Farnam Street",
+      "feed_url": "https://fs.blog/feed/",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "Philosophy Now",
+      "feed_url": "https://philosophynow.org/rss",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "IAI News",
+      "feed_url": "https://iai.tv/articles/rss",
+      "status": "error",
+      "items_collected": 0,
+      "items_selected_primary": 0,
+      "error": "RuntimeError: All feed endpoints failed: https://iai.tv/articles/rss -> HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "source": "Stratechery via Google News",
+      "feed_url": "https://news.google.com/rss/search?q=site%3Astratechery.com&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "The Information Tech & Media via Google News",
+      "feed_url": "https://news.google.com/rss/search?q=site%3Atheinformation.com+tech+media+creator+AI&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "Lenny's Newsletter via Google News",
+      "feed_url": "https://news.google.com/rss/search?q=site%3Alennysnewsletter.com&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "Pomp Investments via Google News",
+      "feed_url": "https://news.google.com/rss/search?q=site%3Apomp.substack.com&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "Pirate Wires via Google News",
+      "feed_url": "https://news.google.com/rss/search?q=site%3Apiratewires.com&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "Condé Nast Traveler via Google News",
+      "feed_url": "https://news.google.com/rss/search?q=site%3Acntraveler.com+travel+hotel+design+culture&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "Travel + Leisure via Google News",
+      "feed_url": "https://news.google.com/rss/search?q=site%3Atraveleisure.com+travel+hotel+experience&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "items_collected": 0,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "Monocle via Google News",
+      "feed_url": "https://news.google.com/rss/search?q=site%3Amonocle.com+travel+culture+architecture+design&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "Afar via Google News",
+      "feed_url": "https://news.google.com/rss/search?q=site%3Aafar.com+immersive+travel+culture&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "Robb Report via Google News",
+      "feed_url": "https://news.google.com/rss/search?q=site%3Arobbreport.com+travel+experiences&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "Stanford Encyclopedia of Philosophy via Google News",
+      "feed_url": "https://news.google.com/rss/search?q=site%3Aplato.stanford.edu+philosophy&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
+      "source": "Edge.org via Google News",
+      "feed_url": "https://news.google.com/rss/search?q=site%3Aedge.org+science+ideas&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "items_collected": 20,
+      "items_selected_primary": 0
+    },
+    {
       "source": "Google Trends Vietnam",
       "feed_url": "https://trends.google.com/trending/rss?geo=VN",
       "status": "ok",
@@ -3447,7 +3612,7 @@
       "feed_url": "https://trends.google.com/trending/rss?geo=US",
       "status": "ok",
       "items_collected": 10,
-      "items_selected_primary": 0
+      "items_selected_primary": 1
     },
     {
       "source": "Google News International Book Awards",
@@ -3519,14 +3684,14 @@
       "feed_url": "https://news.google.com/rss/search?q=site%3Ax.com+OR+site%3Athreads.net+creator+OR+thread+OR+storytelling&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 3
+      "items_selected_primary": 2
     },
     {
       "source": "Google News TikTok & Short-form Video",
       "feed_url": "https://news.google.com/rss/search?q=site%3Atiktok.com+creator+OR+trend+OR+storytelling+OR+booktok&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "items_collected": 20,
-      "items_selected_primary": 0
+      "items_selected_primary": 1
     },
     {
       "source": "Threads Zuckerberg",
@@ -3536,12 +3701,12 @@
       "items_selected_primary": 1
     }
   ],
-  "sources_attempted": 51,
-  "sources_succeeded": 47,
+  "sources_attempted": 71,
+  "sources_succeeded": 65,
   "deduplication": {
-    "raw_items": 872,
-    "unique_titles": 866,
-    "duplicates_removed": 6
+    "raw_items": 1187,
+    "unique_titles": 1174,
+    "duplicates_removed": 13
   },
   "note": "Free RSS collection, including Google Trends RSS as an independent discovery channel and search-indexed feeds for books/creators. Google Trends is a discovery signal, not proof of importance or causality. NEWS is a neutral label, not an importance claim. triage_score is a transparent heuristic, not verified importance. Feed content has not been independently verified. quality_flags identify missing or potentially stale data."
 }

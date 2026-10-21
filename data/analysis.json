@@ -1,11 +1,56 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T10:19:04.981747+00:00",
-  "input_generated_at": "2026-10-20T10:19:04.919971+00:00",
+  "generated_at": "2026-10-21T04:47:39.919424+00:00",
+  "input_generated_at": "2026-10-21T04:47:39.857666+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
   "items_after_dedup": 150,
   "signals": [
+    {
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "Police charge accused Brendan Nugent with additional offences – as it happened",
+      "summary": "Independent MP’s condition remains critical on Wednesday after surgery to save her remaining leg ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament Anthony Albanese has described the police interview on Tuesday with Brendan Nugent as “extensive” but that the motivation of the alleged “violent” attack against Helen Haines is still unknown. Certainly, it’s a reminder that the world is a more dangerous and divided place than it was a generation ago. But I think that Australians do want to see their politicians be able to go about their business, to be able to get something from the back of their car, for goodness sake. My side, every side included. We all have to recognise that politics has got more aggressive. The particular impact on women in politics … [They] have got a different form of vilification and aggression towards them as well. Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb",
+      "published_at": "2026-10-21T03:38:26+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+      "summary": "arXiv:2610.26913v1 Announce Type: new Abstract: The adoption of Large Language Models for radiology report structuring has been largely dominated by either proprietary cloud-based models or large open models requiring high-end GPUs for deployment, which is a critical bottleneck for clinical adoption in radiology workflows that demand data privacy and offline operation. To address this, we present MedPAO-Assist, an edge-deployable agentic framework that generates structured radiology reports directly from radiologist dictation and voice commands, requiring only $\\approx3.3$ GB peak RAM and achieving an average end-to-end latency of $\\approx31$ seconds on a standard laptop CPU through an asynchronous, multi-threaded execution pipeline. The system currently supports four major imaging modalities -- Chest X-ray, Chest CT, Abdomen CT, and Brain MRI. To our knowledge, it is among the earliest agentic systems to run its entire pipeline with a Small Language Model (SLM) in the 0.6B-parameter range. This multi-agent architecture, built around an Extract-Ground-Generate paradigm, performs concept extraction, SNOMED-CT grounding, and structured report generation, followed by a speech-driven h",
+      "source": "arXiv AI",
+      "url": "https://arxiv.org/abs/2610.26913",
+      "published_at": "2026-10-21T04:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+      "summary": "arXiv:2610.26943v1 Announce Type: new Abstract: Mathematical reasoning is a fundamental capability for educational applications of Large Language Models (LLMs), where reliable problem solving requires not only correct answers but also coherent and verifiable reasoning processes. Multi-agent systems (MASs) have shown growing potential in this domain by leveraging collaboration and verification among multiple LLM agents. However, existing evaluations primarily focus on the correctness of final answers in text-only settings, offering limited insight into multimodal reasoning capabilities, the reliability of intermediate reasoning steps, and robustness against reasoning errors. To address these limitations, we introduce MAMath-Bench, a process-aware benchmark designed to evaluate the multimodal mathematical reasoning capabilities of MASs. MAMath-Bench comprises 1,003 problems spanning 11 mathematical categories, multiple difficulty levels, and several modalities, including text, images, and audio. It features fine-grained milestone annotations to evaluate systems across three dimensions: problem-solving correctness, reasoning-process reliability, and robustness to adversarial reasoning",
+      "source": "arXiv AI",
+      "url": "https://arxiv.org/abs/2610.26943",
+      "published_at": "2026-10-21T04:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
     {
       "domain": "AI & công nghệ",
       "category": "ai",
@@ -13,37 +58,7 @@
       "summary": "arXiv:2610.23934v1 Announce Type: new Abstract: When using a large language model (LLM) to simulate a user population, how should we combine individual behavioral histories to predict the fraction of users who take a particular action? We study this question in e-commerce, predicting observed product-level conversion rates from browsing sessions without task-specific model training. We vary two design choices, each involving a bias-variance tradeoff. Summarizing a product's sessions before inference reduces cost but can discard predictive detail, adding bias, whereas predicting outcomes for individual sessions and averaging afterward preserves that detail but requires many calls to reduce variance. Evaluating products together in one prompt can help the model infer what is typical in the setting, reducing bias, but also makes each prediction depend on which other products appear alongside it, adding noise. We evaluate both choices across five LLMs and two datasets. Our main finding is that predictions from individual sessions outperform predictions from summaries when products are evaluated separately, but summaries lead when products are evaluated together. Comparative summaries a",
       "source": "arXiv Machine Learning",
       "url": "https://arxiv.org/abs/2610.23934",
-      "published_at": "2026-10-20T04:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Pack and Extract: An Effective Graph-Based Approach for Feature Selection",
-      "summary": "arXiv:2610.23938v1 Announce Type: new Abstract: Many molecular biology data sets contain thousands of features, such as genes in single-cell experiments or other omics data. Standard predictive models often perform poorly in such settings, as they tend to retain a large number of features and fail to adequately handle correlations among them. Combinatorial approaches, such as feature selection based on the Independent Dominating Set (IDS) model, have shown promising results, but appear to have been largely overlooked, possibly due to their high computational complexity. In this paper, we propose an improvement to IDS-based feature selection that (i) favors features exhibiting greater diversity and (ii) generalizes the notion of independent dominating set to a node packing model. The resulting formulation is used as an intermediate step within the feature selection process. We evaluate our approach on five genetic data sets and compare the results with those obtained using existing methods. Our experimental results demonstrate notable improvements in predictive accuracy over traditional models, as well as increased stability of the selected feature sets.",
-      "source": "arXiv Machine Learning",
-      "url": "https://arxiv.org/abs/2610.23938",
-      "published_at": "2026-10-20T04:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "A Group-Aware Comparative Study of Classical Machine Learning and Deep Learning Methods for Sensor-Based Human Activity Recognition",
-      "summary": "arXiv:2610.23941v1 Announce Type: new Abstract: Human Activity Recognition (HAR) using wearable or smartphone inertial sensors is commonly evaluated with both classical machine learning and deep learning methods. However, reported performance can be strongly affected by sensor modality, dataset characteristics, and data-splitting strategy. This study presents a controlled comparative evaluation of four classical machine learning models and four deep learning models on two public HAR datasets, UCI-HAR and KU-HAR. Three sensor modalities were considered: accelerometer (ACC), gyroscope (GYRO), and their combination (ACC+GYRO). Classical machine learning models used handcrafted statistical features, while deep learning models operated directly on raw sensor sequences. The primary evaluation employed five-fold StratifiedGroupKFold cross-validation, with subject- or participant-level grouping to prevent group overlap between training and test folds. Macro-F1 was used as the primary performance metric. The results show that deep learning did not consistently outperform classical machine learning. On UCI-HAR, the evaluated deep learning models achieved slightly higher macro-F1 values, wher",
-      "source": "arXiv Machine Learning",
-      "url": "https://arxiv.org/abs/2610.23941",
-      "published_at": "2026-10-20T04:00:00+00:00",
+      "published_at": "2026-10-21T04:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -54,11 +69,26 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
-      "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system. The category 2 hurricane remained roughly 100 miles (160km) south-west of the coast of Mexico, meaning the worst of the conditions stayed offshore. However, the US National Hurricane Center put coastal parts of the states of Jalisco, Michoacán and Colima under hurricane warnings, with sustained winds of up to 60-90mph forecast on Sunday. Rainfall totals of 100-150mm were likely for these areas, prompting warnings of flooding and landslides. Warnings also covered the risk of a dangerous storm surge accompanied by damaging waves in areas of onshore winds across the coast of south-western Mexico. By Monday morning, Trudy had weakened and been downgraded to a tropical storm, with coastal warnings being lifted. Continue reading...",
+      "title": "Odds of fifth interest rate hike this year shorten as RBA deputy warns inflation outlook ‘worsening’",
+      "summary": "Andrew Hauser says central bank faces ‘hard choices’ as it looks to balance risks of entrenched inflation with desire to protect labour market Get our breaking news email , free app or daily news podcast The chance of a fifth interest rate hike on Melbourne Cup day has jumped after Andrew Hauser, the Reserve Bank’s deputy governor, warned of “hard choices” amid a “materially worse” inflation outlook. Hauser, speaking at an investment bank conference in Sydney on Wednesday morning, said the RBA monetary policy board members were juggling a slowing economy with fears that Australians were starting to lose faith in the central bank’s ability to bring inflation back to the 2.5% target. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
-      "published_at": "2026-10-19T10:07:09+00:00",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening",
+      "published_at": "2026-10-21T01:48:01+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 35
+    },
+    {
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
+      "summary": "Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns Controversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of Health and Human Services (HHS) secretary, had their offices in Guinea-Bissau raided by judicial police, who seized doses of hepatitis B vaccines, officials said on Facebook. The researchers have been at the heart of an ongoing dispute over research on African newborns, supported by $1.6m from the US Centers for Disease Control and Prevention (CDC) and matched by the Pershing Square Foundation and the Bluebell Foundation for a total of $3.2m. Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
+      "published_at": "2026-10-20T19:18:03+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -67,43 +97,13 @@
       "score": 34
     },
     {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-      "summary": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in one of the world’s worst cult-related disasters in recent history. Mackenzie was arrested in 2023 after police received a tipoff, and weeks later authorities began uncovering bodies in shallow graves in the Shakahola forest near the coast ⁠in south-eastern Kenya. Continue reading...",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
-      "published_at": "2026-10-19T16:08:14+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 30
-    },
-    {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "Alberta voters reject plan for referendum to leave Canada",
-      "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, delivering a victory for the prime minister, Mark Carney, and supporters of Canadian unity. With more than 1.5m votes counted, 76% supported remaining in Canada, while close to 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta. Continue reading...",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-      "published_at": "2026-10-20T09:02:43+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 28
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Tottenham 3-1 Coventry: Spurs earn first Premier League win of season - BBC",
-      "summary": "Tottenham 3-1 Coventry: Spurs earn first Premier League win of season BBC Tottenham beat Coventry to claim first Premier League win of season – as it happened The Guardian Maddison and Kulusevski bring feel-good factor back to Spurs The Telegraph",
-      "source": "Google News Premier League",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpbFFLemx1TUJzaFBzdUV6VDRjcE1RY1N5QklmV1FxVG0xaFlSS2FWVDl6YjJFMVJxdmEzX3dqci1xWW5kMHhaQTFtR1A5Zkk0bTBVRTQ0VWNEYU9TT2ZrYjNKTlJUZw?oc=5",
-      "published_at": "2026-10-19T22:43:09+00:00",
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Being an EG Content Creator was the experience I could ever ask for. I was told yesterday firsthand by Chris and it took pretty much everything in me to not break down in the call with him. I know how incredible all the staff who work at EG are. People who woul - X",
+      "summary": "Being an EG Content Creator was the experience I could ever ask for. I was told yesterday firsthand by Chris and it took pretty much everything in me to not break down in the call with him. I know how incredible all the staff who work at EG are. People who woul X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zbE15eUJ4akZoRUxpMWxuNkV3QUxwNTRXUDJSNUNKMkhLcFdGdTlZZGJnWDUwZlRLRmc4QkRrZ3VJRTFja3BEM0dFRENXclJmaFNLMEFiR0VPMjJBZDNV?oc=5",
+      "published_at": "2026-10-20T22:39:07+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -114,11 +114,11 @@
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "The DIY lip‑plump trend doing the most... Stacey Dooley and Dr Alex George take a look at the claims taking over your FYP… and find out what’s legit and what’s just clickbait. Watch on @BBC YouTube and iPlayer #ClickbaitClinic #ClickbaitClinicQ&A - TikTok",
-      "summary": "The DIY lip‑plump trend doing the most... Stacey Dooley and Dr Alex George take a look at the claims taking over your FYP… and find out what’s legit and what’s just clickbait. Watch on @BBC YouTube and iPlayer #ClickbaitClinic #ClickbaitClinicQ&A TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBdmhSU0RVVzh5eFE4UGpSOENEdmprWTdVbDk4dHUtMGVsZUZhYktHUGx3N3dOTkZFWVV6ckxyUEtEbmNXVFVTdmdiT1lyRzgyUE5WMkwxMmFJVVktNXhtSFNxTQ?oc=5",
-      "published_at": "2026-10-20T09:00:48+00:00",
+      "title": "Jonny Belt, Co-creator and executive producer of Bubble Guppies & Co-executive producer of many Nick Jr. shows like The Backyardigans, Butterbean’s Café, and Super Duper Bunny League has unfortunately launched an AI animation studio called Powere - X",
+      "summary": "Jonny Belt, Co-creator and executive producer of Bubble Guppies & Co-executive producer of many Nick Jr. shows like The Backyardigans, Butterbean’s Café, and Super Duper Bunny League has unfortunately launched an AI animation studio called Powere X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyamE0alBLQU5WZ2dSUzdISGZDWlRxdC1RVDJHUTFOdzBLNVhjWjFCdGRJMmptalBydjFEVTNOZUFJLWlWYzctaHBlV1RKVURNYWJaQzNtZVl5VVIzaWEzSkVKSmQ?oc=5",
+      "published_at": "2026-10-20T17:47:34+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -127,28 +127,13 @@
       "score": 20
     },
     {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Phát triển thương hiệu trên TMĐT theo cách riêng: Hành trình của hai nữ doanh nhân Việt",
-      "summary": "VTV.vn - Ngày Phụ nữ Việt Nam 20/10, cùng lắng nghe chia sẻ của hai nhà sáng lập nữ đứng sau thương hiệu OLV và Nệm Sơn về hành trình phát triển kinh doanh trên thương mại điện tử.",
-      "source": "VTV Kinh tế",
-      "url": "https://vtv.vn/phat-trien-thuong-hieu-tren-tmdt-theo-cach-rieng-hanh-trinh-cua-hai-nu-doanh-nhan-viet-100261019093450534.htm",
-      "published_at": "2026-10-20T10:23:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Brentford contact police after rugby ball kicked into stadium during game",
-      "summary": "Brentford say they are working with the police following a \"dangerous\" incident in which a rugby ball was kicked from a height towards the pitch during their Premier League game with Liverpool.",
+      "title": "Webb backs VAR over Botman challenge on Jackson",
+      "summary": "Premier League referees' chief Howard Webb says Sven Botman's challenge on Nicolas Jackson was a \"high-end reckless challenge\" but backed the video assistant referee's decision not to intervene for a red card.",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g17d11zvwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-19T16:26:44+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-20T16:56:53+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -159,77 +144,122 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Đồng Nhân dân tệ lên mức cao nhất hơn 4 năm",
-      "summary": "VTV.vn - Phiên 20/10, đồng Nhân dân tệ của Trung Quốc tăng lên mức cao nhất trong hơn 4 năm, sau khi ngân hàng trung ương phát tín hiệu định hướng tỷ giá mạnh hơn.",
-      "source": "VTV Kinh tế",
-      "url": "https://vtv.vn/dong-nhan-dan-te-len-muc-cao-nhat-hon-4-nam-10026102014091243.htm",
-      "published_at": "2026-10-20T16:39:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Chống chuyển giá, trốn thuế: Nâng ngưỡng lập hồ sơ từ 200 lên 500 tỷ - Không phải cứ \"chuyển giá\" là \"trốn thuế\"",
-      "summary": "VTV.vn - Tập đặc biệt Quốc Dân Hiểu Thuế phát sóng ngày 11/10/2026 phân tích vấn đề chống chuyển giá, trốn thuế và đề xuất nâng ngưỡng lập hồ sơ lên trên 500 tỷ đồng.",
-      "source": "VTV Kinh tế",
-      "url": "https://vtv.vn/chong-chuyen-gia-tron-thue-nang-nguong-lap-ho-so-tu-200-len-500-ty-khong-phai-cu-chuyen-gia-la-tron-thue-100261019142519806.htm",
-      "published_at": "2026-10-20T09:53:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Maddison's magic moment for Spurs - 18 months in the making",
-      "summary": "On his first start since May 2025, James Maddison provided the moment of magic Tottenham were waiting for in their 3-1 victory against Coventry, writes Phil McNulty.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwz0v8le7y3eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-19T22:35:55+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "I thought of her first when i first heard of this trend LA PRIESTLYYY cr: @POHOYOKO•||• 700k+ #mirandapriestly #merylstreep #mirandy #tdwp #thedevilwearsprada - TikTok",
-      "summary": "I thought of her first when i first heard of this trend LA PRIESTLYYY cr: @POHOYOKO•||• 700k+ #mirandapriestly #merylstreep #mirandy #tdwp #thedevilwearsprada TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Pei1DWDNOc3Y5Q2hhUWlrMzZiVS0zSFY4RnBfUGxLSFdFUG82Qm0zY0FTdkF1UlVwQnA3S3lCQktOTnhGMTJCakJReE5XUEl4Ym8wdWVnMFZzQmpZT2d5LUFCRk1UY1JLLTc2LQ?oc=5",
-      "published_at": "2026-10-20T02:42:58+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
-    },
-    {
-      "domain": "Sách",
-      "category": "books",
-      "title": "Bộ Chính trị yêu cầu đổi mới chính sách tiền lương theo hiệu quả công việc",
-      "summary": "Bộ Chính trị yêu cầu từng bước trả lương, đãi ngộ theo vị trí việc làm, năng lực và kết quả công việc, khắc phục tình trạng coi trọng ngạch, bậc, thâm niên hơn hiệu quả.",
+      "title": "Hải Phòng sẽ dùng chung bộ tiêu chuẩn quản lý cho chính quyền cấp xã",
+      "summary": "Năm 2028, Hải Phòng sẽ áp dụng tiêu chuẩn quốc gia TCVN ISO 18091:2020 nhằm tối ưu hóa bộ máy quản lý, chuẩn hóa quy trình công tác và nâng cao mức độ hài lòng của người dân, doanh nghiệp.",
       "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/bo-chinh-tri-yeu-cau-doi-moi-chinh-sach-tien-luong-theo-hieu-qua-cong-viec-5134465.html",
-      "published_at": "2026-10-20T02:50:22+00:00",
+      "url": "https://vnexpress.net/hai-phong-se-dung-chung-bo-tieu-chuan-quan-ly-cho-chinh-quyen-cap-xa-5134904.html",
+      "published_at": "2026-10-21T03:20:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Doanh thu hoạt động 9 tháng của DNSE tăng hơn 27%",
+      "summary": "Chứng khoán DNSE ghi nhận doanh thu hoạt động gần 1.303 tỷ đồng trong 9 tháng, tăng 27,3% so với cùng kỳ, dư nợ cho vay ký quỹ và ứng trước tiền bán cuối quý III đạt 6.445 tỷ đồng.",
+      "source": "VnExpress Kinh doanh",
+      "url": "https://vnexpress.net/doanh-thu-hoat-dong-9-thang-cua-dnse-tang-hon-27-5134965.html",
+      "published_at": "2026-10-21T03:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Vòm thép cầu đi bộ xoay 90 độ giữa sông Sài Gòn",
+      "summary": "Nhịp chính vòm thép hình lá dừa dài 187 m, nặng 3.400 tấn, được đội tàu lai dắt xoay ngang giữa sông Sài Gòn để hợp long cầu đi bộ, kết nối Bến Bạch Đằng với Thủ Thiêm, sáng 21/10.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/vom-thep-cau-di-bo-xoay-90-do-giua-song-sai-gon-5134855.html",
+      "published_at": "2026-10-21T02:43:08+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
+      "summary": "Phil Foden's magnificent man-of-the-match display in Manchester City's Champions League win against AEK Athens serves as a reminder of his talent and ability to influence games.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-20T22:35:32+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
       "score": 17
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Carrick wants more Man Utd clean sheets to turn season around",
+      "summary": "Manchester United boss Michael Carrick needs more clean sheets as he looks to change his team's fortunes, as they take on Como in the Champions League.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-20T21:27:35+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Nước & năng lượng",
+      "category": "water",
+      "title": "EU-funded technologies pave the way towards a cleaner and more competitive European industry - European Climate, Infrastructure and Environment Executive Agency",
+      "summary": "EU-funded technologies pave the way towards a cleaner and more competitive European industry European Climate, Infrastructure and Environment Executive Agency",
+      "source": "Google News Energy",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORDNMZGhVX0tSelNrd0U4VjdZaGdxQzI0QjdGOW4wdzkzNDlGX2FTdEE2Y3JFcnZNUGNnMU9yNFNJOTRjLTl5bldyaGQ3MUNqY1hhWTNoOHhvN1g1VFB0bkZzcldzVk9XMlg2d2ZlWGxaUDYzcS1oTEJ1N3FGb1cwZ1Y4ejY5ZWI1dFRhNzJIN001ZDVjY1ZBOGlOYXRFOFN3UGpSOXBEVkc1czE3NGJoOGNjZEdscDFZTTBMTmtiak5qQ2NYM1VFOTZ1aWNpUFJkRlF2ZVg1N3VIR3hk?oc=5",
+      "published_at": "2026-10-20T16:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Tyler, The Creator, Kenny Mason and Vince Staples 📸 All at Vince’s opening night of the ‘Cry Baby’ Tour in Atlanta. Kenny Mason was slated as the opener. - X",
+      "summary": "Tyler, The Creator, Kenny Mason and Vince Staples 📸 All at Vince’s opening night of the ‘Cry Baby’ Tour in Atlanta. Kenny Mason was slated as the opener. X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WTm1JZE9uMWRNclRCQ0luckZYV3Azb1piUHFQa1ZoMXlZY1Z1TXZHTzNvb3ItZHEzV0d1MVFPcHpNR3RZZDNnQl85a3d3UmVSVnllNEYyeGxIc0hmemlKVWc2TQ?oc=5",
+      "published_at": "2026-10-20T22:23:31+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Nước & năng lượng",
+      "category": "water",
+      "title": "Water purification, filtration, desalination systems seen to ease El Niño effects — DOST - Philippine Information Agency",
+      "summary": "Water purification, filtration, desalination systems seen to ease El Niño effects — DOST Philippine Information Agency",
+      "source": "Google News Water Technology",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVdzLVZNX0ZFTTdsMkp4OEc5MGt3ZkZBYVJTdzdKNHBCcnhvUUdNUXp1aC15V0xZWm9Ub01aOWNtMUZ3X1dlRmFsZjhfclEwb044N3hvT3pCeDNFRl9iVjdVelQ2ZkFJQ2U0OUpKek5IOUdHbGtJLVpSMmtaYVpiZ1ZOWjdXbTRNOXNGb3RCWVlrUmFZQkRjcHM2UXg0bHVWUUpmWWQ5TVRTLXN6c2JZNDZTYXBQdVZYN3Z5YjN6SmViV1dy?oc=5",
+      "published_at": "2026-10-21T02:19:46+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 15
     }
   ],
   "themes": [
@@ -247,29 +277,29 @@
           "title": "Factorization-Guided Training and Inference for Diffusion-Drafted Speculative Decoding",
           "source": "arXiv Machine Learning",
           "url": "https://arxiv.org/abs/2610.23935",
-          "published_at": "2026-10-20T04:00:00+00:00",
+          "published_at": "2026-10-21T04:00:00+00:00",
           "summary": "arXiv:2610.23935v1 Announce Type: new Abstract: Speculative decoding accelerates large language model inference through parallel verification of tokens proposed by a drafter. Diffusion drafters further parallelize proposal generation, but greater proposal capacity or higher mean accepted tokens (MAT) need not yield higher throughput. Because verification accepts only a consecutive prefix, early rejections can render later correct predictions ineffective, limiting MAT gains, while even higher MAT"
         },
         {
-          "title": "German mortgage rates climb to highest since 2009 as Iran war stokes inflation fears",
-          "source": "Euronews",
-          "url": "https://www.euronews.com/2026/10/20/german-mortgage-rates-climb-to-highest-since-2009-as-iran-war-stokes-inflation-fears",
-          "published_at": "2026-10-20T09:04:04+00:00",
-          "summary": "Mortgages in Germany are now at their most expensive since 2009, with the average rate on ten-year loans nearing 4.5%, according to broker Interhyp, as inflation fears stoked by the Iran war push up borrowing costs."
+          "title": "Odds of fifth interest rate hike this year shorten as RBA deputy warns inflation outlook ‘worsening’",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening",
+          "published_at": "2026-10-21T01:48:01+00:00",
+          "summary": "Andrew Hauser says central bank faces ‘hard choices’ as it looks to balance risks of entrenched inflation with desire to protect labour market Get our breaking news email , free app or daily news podcast The chance of a fifth interest rate hike on Melbourne Cup day has jumped after Andrew Hauser, the Reserve Bank’s deputy governor, warned of “hard choices” amid a “materially worse” inflation outlook. Hauser, speaking at an investment bank conference in Sydney on Wednesday morning, said the RBA m"
         },
         {
-          "title": "Đồng Nhân dân tệ lên mức cao nhất hơn 4 năm",
-          "source": "VTV Kinh tế",
-          "url": "https://vtv.vn/dong-nhan-dan-te-len-muc-cao-nhat-hon-4-nam-10026102014091243.htm",
-          "published_at": "2026-10-20T16:39:00+00:00",
-          "summary": "VTV.vn - Phiên 20/10, đồng Nhân dân tệ của Trung Quốc tăng lên mức cao nhất trong hơn 4 năm, sau khi ngân hàng trung ương phát tín hiệu định hướng tỷ giá mạnh hơn."
+          "title": "How is the US economy really doing under President Trump?",
+          "source": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-20T05:00:45+00:00",
+          "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country."
         },
         {
-          "title": "Trung Quốc tăng tốc phát triển đồ gia dụng tích hợp AI",
-          "source": "VTV Công nghệ",
-          "url": "https://vtv.vn/trung-quoc-tang-toc-phat-trien-do-gia-dung-tich-hop-ai-100261020063117074.htm",
-          "published_at": "2026-10-20T09:33:00+00:00",
-          "summary": "VTV.vn - Từ điều khiển giọng nói đến tối ưu năng lượng, các tính năng thông minh đang giúp hàng gia dụng Trung Quốc đáp ứng tốt hơn nhu cầu tại từng thị trường."
+          "title": "BOJ spies a chance to pivot to sustaining inflation as 2% goal nears - Nikkei Asia",
+          "source": "Nikkei Asia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZS1MWlJGQy1ac1h1MGFHUk9DM2ZYMkhJTVIydlgta2xRcmkyYUNjeUhlMTJWemJWX2hNT2Y4N3dwamFEZTlERkJDNHZqdS1vYXhCR0tsMV9VYmNIMUZ2OHhLamNXTmVSMDlsZ2Ytam9BYU52bF9scDNQUHZBaDYtaGVUc1pBMFp0ODdRUFA3MFczd0ZQV0pSNDZURXhWZWVnbzlOYndxNW9GWmVaUTl0V3Vfaw?oc=5",
+          "published_at": "2026-10-19T18:04:00+00:00",
+          "summary": "BOJ spies a chance to pivot to sustaining inflation as 2% goal nears Nikkei Asia"
         }
       ]
     },
@@ -280,36 +310,36 @@
       "reading": "Các bài về mô hình, suy luận và công việc có thể cho thấy AI đang được đánh giá theo chi phí triển khai và kết quả vận hành, không chỉ theo khả năng trình diễn. Cần phân biệt nghiên cứu thử nghiệm với sản phẩm đã được triển khai.",
       "falsifier": "Bác bỏ nếu bài chỉ mô tả nghiên cứu hoặc tuyên bố của doanh nghiệp mà không có kết quả triển khai độc lập.",
       "evidence_count": 4,
-      "source_count": 1,
-      "source_note": "Chỉ một nguồn xuất bản trong batch",
+      "source_count": 2,
+      "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
+        {
+          "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2610.26913",
+          "published_at": "2026-10-21T04:00:00+00:00",
+          "summary": "arXiv:2610.26913v1 Announce Type: new Abstract: The adoption of Large Language Models for radiology report structuring has been largely dominated by either proprietary cloud-based models or large open models requiring high-end GPUs for deployment, which is a critical bottleneck for clinical adoption in radiology workflows that demand data privacy and offline operation. To address this, we present MedPAO-Assist, an edge-deployable agentic framework that generates structured radiology reports dire"
+        },
+        {
+          "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2610.26943",
+          "published_at": "2026-10-21T04:00:00+00:00",
+          "summary": "arXiv:2610.26943v1 Announce Type: new Abstract: Mathematical reasoning is a fundamental capability for educational applications of Large Language Models (LLMs), where reliable problem solving requires not only correct answers but also coherent and verifiable reasoning processes. Multi-agent systems (MASs) have shown growing potential in this domain by leveraging collaboration and verification among multiple LLM agents. However, existing evaluations primarily focus on the correctness of final ans"
+        },
         {
           "title": "Organizing LLM Inference for Aggregate Predictions from Behavioral Data",
           "source": "arXiv Machine Learning",
           "url": "https://arxiv.org/abs/2610.23934",
-          "published_at": "2026-10-20T04:00:00+00:00",
+          "published_at": "2026-10-21T04:00:00+00:00",
           "summary": "arXiv:2610.23934v1 Announce Type: new Abstract: When using a large language model (LLM) to simulate a user population, how should we combine individual behavioral histories to predict the fraction of users who take a particular action? We study this question in e-commerce, predicting observed product-level conversion rates from browsing sessions without task-specific model training. We vary two design choices, each involving a bias-variance tradeoff. Summarizing a product's sessions before infer"
         },
         {
           "title": "How Data Scales in Agentic Reinforcement Learning: Laws and Synthesis Strategies",
           "source": "arXiv Machine Learning",
           "url": "https://arxiv.org/abs/2610.23946",
-          "published_at": "2026-10-20T04:00:00+00:00",
-          "summary": "arXiv:2610.23946v1 Announce Type: new Abstract: Pretraining scaling laws treat training data as a one-dimensional quantity: a token count. Agentic reinforcement learning (RL) inherits this scalar abstraction, but modern synthesis pipelines now generate \\textit{tasks}, \\textit{environments}, and \\textit{trajectories} independently and at very different costs, turning data into a structured design space. This raises a question pretraining never had to answer: given a synthesis budget, \\textit{whic"
-        },
-        {
-          "title": "DS-Net: A Dynamic Split Network for Edge-Cloud Collaborative Inference",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.23949",
-          "published_at": "2026-10-20T04:00:00+00:00",
-          "summary": "arXiv:2610.23949v1 Announce Type: new Abstract: Collaborative inference serves as a critical methodology in edge intelligence. Existing collaborative inference methods operate by splitting the deep neural network (DNN) model between edge devices and cloud servers. However, these methods need to load different models for multiple split points when the communication or device changes, thus resulting in long switching times and substantial storage overhead on the edge side. To address this issue, w"
-        },
-        {
-          "title": "Zero-Shot Tabular Learning via Hypergraph Reasoning with LLMs",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.23923",
-          "published_at": "2026-10-20T04:00:00+00:00",
-          "summary": "arXiv:2610.23923v1 Announce Type: new Abstract: Tabular data are prevalent across diverse domains such as healthcare and finance. Zero-shot tabular learning aims to make predictions without labeled data. However, existing LLM-based approaches rely on row-wise prompting, resulting in high inference cost and limited use of inter-row dependencies. In this work, we propose TABHGR+, an efficient relation-aware zero-shot framework for tabular data that leverages LLM-generated rules to label and group "
+          "published_at": "2026-10-21T04:00:00+00:00",
+          "summary": "arXiv:2610.23946v2 Announce Type: new Abstract: Pretraining scaling laws treat training data as a one-dimensional quantity: a token count. Agentic reinforcement learning (RL) inherits this scalar abstraction, but modern synthesis pipelines now generate \\textit{tasks}, \\textit{environments}, and \\textit{trajectories} independently and at very different costs, turning data into a structured design space. This raises a question pretraining never had to answer: given a synthesis budget, \\textit{whic"
         }
       ]
     },
@@ -327,15 +357,22 @@
           "title": "A Group-Aware Comparative Study of Classical Machine Learning and Deep Learning Methods for Sensor-Based Human Activity Recognition",
           "source": "arXiv Machine Learning",
           "url": "https://arxiv.org/abs/2610.23941",
-          "published_at": "2026-10-20T04:00:00+00:00",
+          "published_at": "2026-10-21T04:00:00+00:00",
           "summary": "arXiv:2610.23941v1 Announce Type: new Abstract: Human Activity Recognition (HAR) using wearable or smartphone inertial sensors is commonly evaluated with both classical machine learning and deep learning methods. However, reported performance can be strongly affected by sensor modality, dataset characteristics, and data-splitting strategy. This study presents a controlled comparative evaluation of four classical machine learning models and four deep learning models on two public HAR datasets, UC"
         },
         {
-          "title": "Drone attack near market kills 80 in Sudan",
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-          "published_at": "2026-10-19T14:45:53+00:00",
-          "summary": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home. Ahmed Wadi, a witness, said the attack in the town of al-Dibab in West Kordofan state left “50 bodies who I helped bury, one of them my own brother Mohamed”. Continue reading..."
+          "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2610.26904",
+          "published_at": "2026-10-21T04:00:00+00:00",
+          "summary": "arXiv:2610.26904v1 Announce Type: new Abstract: Recent studies have proposed reinforcement learning with verifiable rewards (RLVR) methods that enable LLMs to generate high-quality RTL circuits from natural-language specifications. Existing approaches optimize circuit PPA (Power, Performance, Area) by aggregating multiple objectives into a single scalar reward, making it difficult to simultaneously generate diverse Pareto-optimal solutions across different trade-offs such as low power, low laten"
+        },
+        {
+          "title": "ReuF2F: Benchmarking Coding Agents on Formalized Undergraduate Research Problems",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2610.27046",
+          "published_at": "2026-10-21T04:00:00+00:00",
+          "summary": "arXiv:2610.27046v1 Announce Type: new Abstract: As AI systems begin to resolve open research problems, reliable verification becomes increasingly important. Formal mathematics provides a trusted framework for mathematical reasoning, enabling agents to produce machine-checkable proofs while conducting mathematical exploration. Existing formal mathematics benchmarks often focus on known results or a small set of prominent open problems, which can become difficult to evaluate reliably once solution"
         },
         {
           "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
@@ -343,13 +380,6 @@
           "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
           "published_at": "2026-10-16T18:09:34+00:00",
           "summary": "Beijing warns against ‘discriminatory’ step after France drops opposition to British role in Made in Europe package No 10 has left the door open to imposing tariffs on Chinese-made electric vehicles as part of the Made in Europe package, prompting a warning from Beijing that such a move would be “discriminatory”. Downing Street said on Friday that it would “welcome the objective to have the UK included in the Industrial Accelerator Act” after France dropped its opposition to Britain joining the "
-        },
-        {
-          "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
-          "published_at": "2026-10-19T12:00:00+00:00",
-          "summary": "Israeli attacks on war-torn Gaza over the weekend killed at least six Palestinians, including children, despite a year-old ceasefire agreement. Meanwhile, in the occupied West Bank, settler violence continued through the ongoing olive harvest, with UN independent experts on Monday urging Israel to protect Palestinian farmers."
         }
       ]
     },
@@ -360,36 +390,36 @@
       "reading": "Chỉ đáng nâng thành tín hiệu khi có văn bản hoặc số liệu gốc, phạm vi áp dụng và nhóm chịu tác động xác định được. Tin kinh doanh đơn lẻ chưa đủ để kết luận xu hướng kinh tế Việt Nam.",
       "falsifier": "Bác bỏ nếu không có văn bản/số liệu gốc hoặc nội dung không tạo thay đổi đáng kể với doanh nghiệp.",
       "evidence_count": 4,
-      "source_count": 1,
-      "source_note": "Chỉ một nguồn xuất bản trong batch",
+      "source_count": 2,
+      "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Phát triển thương hiệu trên TMĐT theo cách riêng: Hành trình của hai nữ doanh nhân Việt",
-          "source": "VTV Kinh tế",
-          "url": "https://vtv.vn/phat-trien-thuong-hieu-tren-tmdt-theo-cach-rieng-hanh-trinh-cua-hai-nu-doanh-nhan-viet-100261019093450534.htm",
-          "published_at": "2026-10-20T10:23:00+00:00",
-          "summary": "VTV.vn - Ngày Phụ nữ Việt Nam 20/10, cùng lắng nghe chia sẻ của hai nhà sáng lập nữ đứng sau thương hiệu OLV và Nệm Sơn về hành trình phát triển kinh doanh trên thương mại điện tử."
+          "title": "Hải Phòng sẽ dùng chung bộ tiêu chuẩn quản lý cho chính quyền cấp xã",
+          "source": "VnExpress Thời sự",
+          "url": "https://vnexpress.net/hai-phong-se-dung-chung-bo-tieu-chuan-quan-ly-cho-chinh-quyen-cap-xa-5134904.html",
+          "published_at": "2026-10-21T03:20:00+00:00",
+          "summary": "Năm 2028, Hải Phòng sẽ áp dụng tiêu chuẩn quốc gia TCVN ISO 18091:2020 nhằm tối ưu hóa bộ máy quản lý, chuẩn hóa quy trình công tác và nâng cao mức độ hài lòng của người dân, doanh nghiệp."
         },
         {
-          "title": "Đồng Nhân dân tệ lên mức cao nhất hơn 4 năm",
-          "source": "VTV Kinh tế",
-          "url": "https://vtv.vn/dong-nhan-dan-te-len-muc-cao-nhat-hon-4-nam-10026102014091243.htm",
-          "published_at": "2026-10-20T16:39:00+00:00",
-          "summary": "VTV.vn - Phiên 20/10, đồng Nhân dân tệ của Trung Quốc tăng lên mức cao nhất trong hơn 4 năm, sau khi ngân hàng trung ương phát tín hiệu định hướng tỷ giá mạnh hơn."
+          "title": "MSB giảm lãi suất cho khách hàng cá nhân và doanh nghiệp",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/msb-giam-lai-suat-cho-khach-hang-ca-nhan-va-doanh-nghiep-5134976.html",
+          "published_at": "2026-10-21T03:30:00+00:00",
+          "summary": "MSB giảm tối thiểu 2% lãi suất cho vay đối với khách hàng doanh nghiệp, đồng thời hạ 0,5% lãi suất huy động kỳ hạn từ 6 tháng đối với khách hàng cá nhân."
         },
         {
-          "title": "Chống chuyển giá, trốn thuế: Nâng ngưỡng lập hồ sơ từ 200 lên 500 tỷ - Không phải cứ \"chuyển giá\" là \"trốn thuế\"",
-          "source": "VTV Kinh tế",
-          "url": "https://vtv.vn/chong-chuyen-gia-tron-thue-nang-nguong-lap-ho-so-tu-200-len-500-ty-khong-phai-cu-chuyen-gia-la-tron-thue-100261019142519806.htm",
-          "published_at": "2026-10-20T09:53:00+00:00",
-          "summary": "VTV.vn - Tập đặc biệt Quốc Dân Hiểu Thuế phát sóng ngày 11/10/2026 phân tích vấn đề chống chuyển giá, trốn thuế và đề xuất nâng ngưỡng lập hồ sơ lên trên 500 tỷ đồng."
+          "title": "Lãi suất trái phiếu doanh nghiệp gần vùng đỉnh",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/lai-suat-trai-phieu-doanh-nghiep-gan-vung-dinh-5134769.html",
+          "published_at": "2026-10-20T20:26:25+00:00",
+          "summary": "So với mức đáy vào năm 2025, lãi suất phát hành mới trái phiếu doanh nghiệp quý III đã tăng 2,5%, lên gần 9,5% mỗi năm và tiến dần đến mức đỉnh của giai đoạn 2022-2023."
         },
         {
-          "title": "TP Hà Nội thí điểm chấm điểm giải ngân vốn đầu tư công",
-          "source": "VTV Kinh tế",
-          "url": "https://vtv.vn/tp-ha-noi-thi-diem-cham-diem-giai-ngan-von-dau-tu-cong-100261020060653529.htm",
-          "published_at": "2026-10-20T08:58:00+00:00",
-          "summary": "VTV.vn - Việc chấm điểm được thực hiện định kỳ và công khai, làm cơ sở biểu dương các đơn vị thực hiện tốt, đồng thời đôn đốc những đơn vị chậm tiến độ."
+          "title": "Công ty mẹ của AI Claude lỗ hơn 80 tỷ USD nửa đầu năm nay",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/cong-ty-me-cua-ai-claude-lo-hon-80-ty-usd-nua-dau-nam-nay-5134898.html",
+          "published_at": "2026-10-21T02:04:27+00:00",
+          "summary": "Anthropic, công ty mẹ ứng dụng AI Claude, ghi nhận khoản lỗ lớn trước thềm IPO khiến nhà đầu tư cân nhắc lại mức định giá 2.000 tỷ USD."
         }
       ]
     }
@@ -400,48 +430,48 @@
       "domain": "AI & công nghệ",
       "items": 40,
       "usable": 40,
-      "sources": 8
+      "sources": 7
     },
     {
       "category": "world",
       "domain": "Thế giới",
       "items": 65,
       "usable": 65,
-      "sources": 10
+      "sources": 12
     },
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 30,
-      "usable": 30,
-      "sources": 3
+      "items": 25,
+      "usable": 25,
+      "sources": 2
     },
     {
       "category": "water",
       "domain": "Nước & năng lượng",
-      "items": 0,
-      "usable": 0,
-      "sources": 0
+      "items": 2,
+      "usable": 2,
+      "sources": 2
     },
     {
       "category": "football",
       "domain": "Arsenal & Premier League",
-      "items": 12,
-      "usable": 12,
+      "items": 15,
+      "usable": 15,
       "sources": 4
     },
     {
       "category": "books",
       "domain": "Sách",
-      "items": 1,
-      "usable": 1,
-      "sources": 1
+      "items": 0,
+      "usable": 0,
+      "sources": 0
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
-      "items": 2,
-      "usable": 2,
+      "items": 3,
+      "usable": 3,
       "sources": 1
     },
     {
@@ -454,62 +484,65 @@
   ],
   "links": [
     {
-      "a": "Organizing LLM Inference for Aggregate Predictions from Behavioral Data",
-      "b": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+      "a": "Police charge accused Brendan Nugent with additional offences – as it happened",
+      "b": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+      "terms": [
+        "critical",
+        "generation"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Police charge accused Brendan Nugent with additional offences – as it happened",
+      "b": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
       "terms": [
         "across",
-        "also"
+        "against"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Pack and Extract: An Effective Graph-Based Approach for Feature Selection",
-      "b": "Alberta voters reject plan for referendum to leave Canada",
+      "a": "Police charge accused Brendan Nugent with additional offences – as it happened",
+      "b": "Organizing LLM Inference for Aggregate Predictions from Behavioral Data",
       "terms": [
-        "process",
-        "results"
+        "across",
+        "particular"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "A Group-Aware Comparative Study of Classical Machine Learning and Deep Learning Methods for Sensor-Based Human Activity Recognition",
-      "b": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+      "a": "Police charge accused Brendan Nugent with additional offences – as it happened",
+      "b": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
       "terms": [
-        "activity",
-        "however",
-        "while"
+        "against",
+        "reminder"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "A Group-Aware Comparative Study of Classical Machine Learning and Deep Learning Methods for Sensor-Based Human Activity Recognition",
-      "b": "Alberta voters reject plan for referendum to leave Canada",
+      "a": "Police charge accused Brendan Nugent with additional offences – as it happened",
+      "b": "EU-funded technologies pave the way towards a cleaner and more competitive European industry - European Climate, Infrastructure and Environment Executive Agency",
       "terms": [
-        "results",
-        "while"
+        "more",
+        "towards"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Phát triển thương hiệu trên TMĐT theo cách riêng: Hành trình của hai nữ doanh nhân Việt",
-      "b": "Bộ Chính trị yêu cầu đổi mới chính sách tiền lương theo hiệu quả công việc",
+      "a": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+      "b": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
       "terms": [
-        "hiệu",
-        "theo"
+        "against",
+        "problem"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }
   ],
   "domain_notes": [
     {
-      "domain": "Nước & năng lượng",
-      "status": "Thiếu dữ liệu",
-      "note": "Chỉ 0 mục có tóm tắt dùng được; không tạo kết luận mạnh."
-    },
-    {
       "domain": "Sách",
       "status": "Thiếu dữ liệu",
-      "note": "Chỉ 1 mục có tóm tắt dùng được; không tạo kết luận mạnh."
+      "note": "Chỉ 0 mục có tóm tắt dùng được; không tạo kết luận mạnh."
     },
     {
       "domain": "Google Trends",

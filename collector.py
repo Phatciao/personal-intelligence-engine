@@ -238,6 +238,122 @@ SOURCES = [
     },
 
 
+    # --- Creator economy & digital strategy: RSS/official feeds where available ---
+    {
+        "name": "Rest of World",
+        "category": "creator",
+        "url": "https://restofworld.org/feed/",
+    },
+    {
+        "name": "MIT Technology Review",
+        "category": "ai",
+        "url": "https://www.technologyreview.com/feed/",
+    },
+    {
+        "name": "Quanta Magazine",
+        "category": "books",
+        "url": "https://www.quantamagazine.org/feed/",
+    },
+    {
+        "name": "Aeon Essays",
+        "category": "books",
+        "url": "https://aeon.co/feed.rss",
+    },
+    {
+        "name": "Psyche",
+        "category": "books",
+        "url": "https://psyche.co/feed",
+    },
+    {
+        "name": "Farnam Street",
+        "category": "books",
+        "url": "https://fs.blog/feed/",
+    },
+    {
+        "name": "Philosophy Now",
+        "category": "books",
+        "url": "https://philosophynow.org/rss",
+    },
+    {
+        "name": "IAI News",
+        "category": "books",
+        "url": "https://iai.tv/articles/rss",
+    },
+    # Paywalled/variable-access publications are discovered via Google News;
+    # this is not a direct publisher feed and does not bypass subscriptions.
+    {
+        "name": "Stratechery via Google News",
+        "category": "creator",
+        "signal_source_type": "search_index",
+        "url": "https://news.google.com/rss/search?q=site%3Astratechery.com&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "The Information Tech & Media via Google News",
+        "category": "creator",
+        "signal_source_type": "search_index",
+        "url": "https://news.google.com/rss/search?q=site%3Atheinformation.com+tech+media+creator+AI&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Lenny's Newsletter via Google News",
+        "category": "creator",
+        "signal_source_type": "search_index",
+        "url": "https://news.google.com/rss/search?q=site%3Alennysnewsletter.com&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Pomp Investments via Google News",
+        "category": "creator",
+        "signal_source_type": "search_index",
+        "url": "https://news.google.com/rss/search?q=site%3Apomp.substack.com&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Pirate Wires via Google News",
+        "category": "creator",
+        "signal_source_type": "search_index",
+        "url": "https://news.google.com/rss/search?q=site%3Apiratewires.com&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Condé Nast Traveler via Google News",
+        "category": "world",
+        "signal_source_type": "search_index",
+        "url": "https://news.google.com/rss/search?q=site%3Acntraveler.com+travel+hotel+design+culture&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Travel + Leisure via Google News",
+        "category": "world",
+        "signal_source_type": "search_index",
+        "url": "https://news.google.com/rss/search?q=site%3Atraveleisure.com+travel+hotel+experience&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Monocle via Google News",
+        "category": "world",
+        "signal_source_type": "search_index",
+        "url": "https://news.google.com/rss/search?q=site%3Amonocle.com+travel+culture+architecture+design&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Afar via Google News",
+        "category": "world",
+        "signal_source_type": "search_index",
+        "url": "https://news.google.com/rss/search?q=site%3Aafar.com+immersive+travel+culture&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Robb Report via Google News",
+        "category": "world",
+        "signal_source_type": "search_index",
+        "url": "https://news.google.com/rss/search?q=site%3Arobbreport.com+travel+experiences&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Stanford Encyclopedia of Philosophy via Google News",
+        "category": "books",
+        "signal_source_type": "search_index",
+        "url": "https://news.google.com/rss/search?q=site%3Aplato.stanford.edu+philosophy&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "Edge.org via Google News",
+        "category": "books",
+        "signal_source_type": "search_index",
+        "url": "https://news.google.com/rss/search?q=site%3Aedge.org+science+ideas&hl=en-US&gl=US&ceid=US:en",
+    },
+
     # --- Google Trends: nguồn phát hiện độc lập, không phải bằng chứng về mức độ quan tâm tuyệt đối ---
     {
         "name": "Google Trends Vietnam",

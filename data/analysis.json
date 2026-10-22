@@ -1,26 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-21T06:11:02.154495+00:00",
-  "input_generated_at": "2026-10-21T06:11:02.091656+00:00",
+  "generated_at": "2026-10-22T04:46:09.010049+00:00",
+  "input_generated_at": "2026-10-22T04:46:08.947744+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
   "items_after_dedup": 150,
   "signals": [
-    {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "Helen Haines live coverage: Helen Haines has had her second leg amputated but is alive and stable, husband says",
-      "summary": "Independent MP was struck by a car on Monday and her alleged attacker appeared in court on Wednesday ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament Anthony Albanese has described the police interview on Tuesday with Brendan Nugent as “extensive” but that the motivation of the alleged “violent” attack against Helen Haines is still unknown. Certainly, it’s a reminder that the world is a more dangerous and divided place than it was a generation ago. But I think that Australians do want to see their politicians be able to go about their business, to be able to get something from the back of their car, for goodness sake. My side, every side included. We all have to recognise that politics has got more aggressive. The particular impact on women in politics … [They] have got a different form of vilification and aggression towards them as well. Continue reading...",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb",
-      "published_at": "2026-10-21T06:03:09+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
     {
       "domain": "AI & công nghệ",
       "category": "ai",
@@ -28,7 +13,7 @@
       "summary": "arXiv:2610.26913v1 Announce Type: new Abstract: The adoption of Large Language Models for radiology report structuring has been largely dominated by either proprietary cloud-based models or large open models requiring high-end GPUs for deployment, which is a critical bottleneck for clinical adoption in radiology workflows that demand data privacy and offline operation. To address this, we present MedPAO-Assist, an edge-deployable agentic framework that generates structured radiology reports directly from radiologist dictation and voice commands, requiring only $\\approx3.3$ GB peak RAM and achieving an average end-to-end latency of $\\approx31$ seconds on a standard laptop CPU through an asynchronous, multi-threaded execution pipeline. The system currently supports four major imaging modalities -- Chest X-ray, Chest CT, Abdomen CT, and Brain MRI. To our knowledge, it is among the earliest agentic systems to run its entire pipeline with a Small Language Model (SLM) in the 0.6B-parameter range. This multi-agent architecture, built around an Extract-Ground-Generate paradigm, performs concept extraction, SNOMED-CT grounding, and structured report generation, followed by a speech-driven h",
       "source": "arXiv AI",
       "url": "https://arxiv.org/abs/2610.26913",
-      "published_at": "2026-10-21T04:00:00+00:00",
+      "published_at": "2026-10-22T04:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -43,7 +28,7 @@
       "summary": "arXiv:2610.26943v1 Announce Type: new Abstract: Mathematical reasoning is a fundamental capability for educational applications of Large Language Models (LLMs), where reliable problem solving requires not only correct answers but also coherent and verifiable reasoning processes. Multi-agent systems (MASs) have shown growing potential in this domain by leveraging collaboration and verification among multiple LLM agents. However, existing evaluations primarily focus on the correctness of final answers in text-only settings, offering limited insight into multimodal reasoning capabilities, the reliability of intermediate reasoning steps, and robustness against reasoning errors. To address these limitations, we introduce MAMath-Bench, a process-aware benchmark designed to evaluate the multimodal mathematical reasoning capabilities of MASs. MAMath-Bench comprises 1,003 problems spanning 11 mathematical categories, multiple difficulty levels, and several modalities, including text, images, and audio. It features fine-grained milestone annotations to evaluate systems across three dimensions: problem-solving correctness, reasoning-process reliability, and robustness to adversarial reasoning",
       "source": "arXiv AI",
       "url": "https://arxiv.org/abs/2610.26943",
-      "published_at": "2026-10-21T04:00:00+00:00",
+      "published_at": "2026-10-22T04:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -54,11 +39,11 @@
     {
       "domain": "AI & công nghệ",
       "category": "ai",
-      "title": "Organizing LLM Inference for Aggregate Predictions from Behavioral Data",
-      "summary": "arXiv:2610.23934v1 Announce Type: new Abstract: When using a large language model (LLM) to simulate a user population, how should we combine individual behavioral histories to predict the fraction of users who take a particular action? We study this question in e-commerce, predicting observed product-level conversion rates from browsing sessions without task-specific model training. We vary two design choices, each involving a bias-variance tradeoff. Summarizing a product's sessions before inference reduces cost but can discard predictive detail, adding bias, whereas predicting outcomes for individual sessions and averaging afterward preserves that detail but requires many calls to reduce variance. Evaluating products together in one prompt can help the model infer what is typical in the setting, reducing bias, but also makes each prediction depend on which other products appear alongside it, adding noise. We evaluate both choices across five LLMs and two datasets. Our main finding is that predictions from individual sessions outperform predictions from summaries when products are evaluated separately, but summaries lead when products are evaluated together. Comparative summaries a",
+      "title": "Scalable Stress-Constrained Topology Optimization: A Super-resolution and Simultaneous Approach Based on Machine Learning",
+      "summary": "arXiv:2610.28703v1 Announce Type: new Abstract: Large-scale topology optimization (TO) remains computationally demanding, especially for stress-constrained problems. To address this challenge, we propose the simultaneous neural topology optimization (SNTO) framework where we represent state, adjoint, and design variables with custom neural networks (NNs) whose parameters are jointly optimized within a single optimization loop that leverages continuous adjoint analysis and automatic differentiation. This optimization minimizes a multi-component loss function that combines the design objective, an aggregation of the local stress constraints, and the potential energy functionals. Our NNs have a unique architecture that accelerates convergence while enabling the networks to capture sharp gradients and boundaries which are critical to stress-constrained TO. To achieve scalability to millions of degrees of freedom (DoF), we develop a hardware-aware training scheme in which the design domain is partitioned into subdomains that are distributed across multiple GPUs. To control peak GPU memory usage, we further slice each subdomain into smaller regions whose loss gradients are evaluated sequ",
       "source": "arXiv Machine Learning",
-      "url": "https://arxiv.org/abs/2610.23934",
-      "published_at": "2026-10-21T04:00:00+00:00",
+      "url": "https://arxiv.org/abs/2610.28703",
+      "published_at": "2026-10-22T04:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -69,17 +54,17 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Australia’s largest datacentre operator NextDC’s shares dive as Melbourne expansion delayed",
-      "summary": "NextDC tells investors plans to double the size of its west Melbourne datacentre have hit obstacle after community objects to 22 metres-high power poles Get our breaking news email , free app or daily news podcast Australia’s largest datacentre operator has been forced to delay the controversial expansion of its M3 site in Melbourne’s west amid a pause in construction of new 22m power poles following community protest. On Wednesday, NextDC told the Australian Stock Exchange that delays to electricity provider Jemena’s upgrade of the power poles – essential to delivering the increased electricity required by the expanded West Footscray site – would mean the expansion would be pushed back to the 2027/2028 financial year. Continue reading...",
+      "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+      "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system. The category 2 hurricane remained roughly 100 miles (160km) south-west of the coast of Mexico, meaning the worst of the conditions stayed offshore. However, the US National Hurricane Center put coastal parts of the states of Jalisco, Michoacán and Colima under hurricane warnings, with sustained winds of up to 60-90mph forecast on Sunday. Rainfall totals of 100-150mm were likely for these areas, prompting warnings of flooding and landslides. Warnings also covered the risk of a dangerous storm surge accompanied by damaging waves in areas of onshore winds across the coast of south-western Mexico. By Monday morning, Trudy had weakened and been downgraded to a tropical storm, with coastal warnings being lifted. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/21/australias-largest-datacentre-operator-nextdcs-shares-dive-as-melbourne-expansion-delayed",
-      "published_at": "2026-10-21T04:58:25+00:00",
+      "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+      "published_at": "2026-10-19T10:07:09+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 36
+      "score": 34
     },
     {
       "domain": "Thế giới",
@@ -94,16 +79,76 @@
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 34
+      "score": 31
+    },
+    {
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
+      "summary": "Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensions Propaganda loudspeakers aimed at South Korea will be ready to restart within days along the entire border, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, has said amid a worsening of ties between the two countries. The statement, carried by the state news agency KCNA on Thursday, came a day after she said the loudspeakers would be in operation along the whole border from some time in October. Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
+      "published_at": "2026-10-22T03:56:46+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 30
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Bayern Munich 2-2 Arsenal: Declan Rice earns Gunners draw in Champions League - BBC",
+      "summary": "Bayern Munich 2-2 Arsenal: Declan Rice earns Gunners draw in Champions League BBC Bayern Munich vs Arsenal LIVE: Latest score and updates from Champions League London Evening Standard Arteta - “To do that in this stadium is impressive” Arsenal.com",
+      "source": "Google News Arsenal",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Cb2MwYnd6NFgxMTdSMkZraTQ0b05OQ1NJcGlvTVhnSkJYMFNZRkJyQkROWlNXOWg4TXBKVFVvdEFpZkNCeFpXRml2SVpfR2JCTWhJMFZxSGN6blpteEFnYTNuZFcydw?oc=5",
+      "published_at": "2026-10-21T22:14:36+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
     },
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "'Smoking Behind the Supermarket with You' creator Jinushi is a huge fan of 'Cyberpunk Edgerunners' \"Cyberpunk 2 was really good. The first [season] was so good, I can't [bring myself to] rewatch it that often.\" - X",
-      "summary": "'Smoking Behind the Supermarket with You' creator Jinushi is a huge fan of 'Cyberpunk Edgerunners' \"Cyberpunk 2 was really good. The first [season] was so good, I can't [bring myself to] rewatch it that often.\" X",
+      "title": "Since you already have a case w/ our Creator Support team, you can reply & follow up on that original email thread if you have any other q's about your concern. We know getting a copyright strike is concerning. It's best to continue your conversation w/ them, a - X",
+      "summary": "Since you already have a case w/ our Creator Support team, you can reply & follow up on that original email thread if you have any other q's about your concern. We know getting a copyright strike is concerning. It's best to continue your conversation w/ them, a X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yclFBeEw5czctb0JkS2NVcUxweVVsdzU2WGctRGpEZDNFbExKdVFuS19GSkcwY3JQOTVHUlRneEdaN2tTVHZjMXZOQWFVRDBtVk9GM1BHd0ttZ3JvZk56Q3c1SQ?oc=5",
-      "published_at": "2026-10-21T02:30:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10NDdZTEp1aEg2alBlb2pfOTBYaEl5a2ZRb1d2TFpXLU5zZFZ1U3ZlS2w0ZEc1eUdST3JSeU9IMW1yTHBZb0Q2blJZOHg3ZmxJLVRjSjR4WDc1YUVWdlFyajlB?oc=5",
+      "published_at": "2026-10-22T03:33:12+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Electronic Arts is shutting down @bioware, the legendary creator of Mass Effect, Dragon Age, Baldur’s Gate, Neverwinter Nights, Star Wars: Knights of the Old Republic, and other titles. The next Mass Effect project has been canceled: https://t.co/L1Pm8yv6g4 - X",
+      "summary": "Electronic Arts is shutting down @bioware, the legendary creator of Mass Effect, Dragon Age, Baldur’s Gate, Neverwinter Nights, Star Wars: Knights of the Old Republic, and other titles. The next Mass Effect project has been canceled: https://t.co/L1Pm8yv6g4 X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BajhOSnBhSzN0MEgyc3cycll5N3lhVGY1Sm5PTFFIcVhjT0pnLTdMQ2JPZEtjUFIwM2xzSHdQd2lCZWtoWmFUUjQ0bXhXZmcya0VQYnRIaVdnZDNta0U5Z1VHaERiSGM?oc=5",
+      "published_at": "2026-10-21T17:48:54+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "'Simply not good enough - Warnock on Man Utd's Como display",
+      "summary": "Match of the Day pundits Nedum Onuoha and Stephen Warnock analyse Manchester United's performance after their 4-1 Champions League defeat to Como, and discuss midfielder Bruno Fernandes' criticism of team tactics.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8040gdrdlwwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-21T22:36:23+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -114,26 +159,26 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Webb backs VAR over Botman challenge on Jackson",
-      "summary": "Premier League referees' chief Howard Webb says Sven Botman's challenge on Nicolas Jackson was a \"high-end reckless challenge\" but backed the video assistant referee's decision not to intervene for a red card.",
+      "title": "Real Madrid dominate Leipzig for third straight win",
+      "summary": "Real Madrid maintain their 100 per cent start in the Champions League as they comfortably beat Leipzig 4-1, with Bernardo Silva scoring his first goal for Madrid since moving from Manchester City in the summer.",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-20T16:56:53+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3qjnerzngkqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-21T21:38:23+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
+      "score": 19
     },
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Hải Phòng sẽ dùng chung bộ tiêu chuẩn quản lý cho chính quyền cấp xã",
-      "summary": "Năm 2028, Hải Phòng sẽ áp dụng tiêu chuẩn quốc gia TCVN ISO 18091:2020 nhằm tối ưu hóa bộ máy quản lý, chuẩn hóa quy trình công tác và nâng cao mức độ hài lòng của người dân, doanh nghiệp.",
+      "title": "Đại biểu: Bỏ quy định công chứng trong Luật Đất đai có thể tăng tranh chấp",
+      "summary": "Nhiều đại biểu lo ngại việc giao Chính phủ quy định các giao dịch đất đai phải công chứng, chứng thực có thể làm giảm an toàn pháp lý, gia tăng tranh chấp nếu thiếu cơ chế kiểm soát phù hợp.",
       "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/hai-phong-se-dung-chung-bo-tieu-chuan-quan-ly-cho-chinh-quyen-cap-xa-5134904.html",
-      "published_at": "2026-10-21T03:20:00+00:00",
+      "url": "https://vnexpress.net/dai-bieu-bo-quy-dinh-cong-chung-trong-luat-dat-dai-co-the-tang-tranh-chap-5135472.html",
+      "published_at": "2026-10-22T04:06:19+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -144,56 +189,11 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Doanh thu hoạt động 9 tháng của DNSE tăng hơn 27%",
-      "summary": "Chứng khoán DNSE ghi nhận doanh thu hoạt động gần 1.303 tỷ đồng trong 9 tháng, tăng 27,3% so với cùng kỳ, dư nợ cho vay ký quỹ và ứng trước tiền bán cuối quý III đạt 6.445 tỷ đồng.",
-      "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/doanh-thu-hoat-dong-9-thang-cua-dnse-tang-hon-27-5134965.html",
-      "published_at": "2026-10-21T03:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Vòm thép cầu đi bộ xoay 90 độ giữa sông Sài Gòn",
-      "summary": "Nhịp chính vòm thép hình lá dừa dài 187 m, nặng 3.400 tấn, được đội tàu lai dắt xoay ngang giữa sông Sài Gòn để hợp long cầu đi bộ, kết nối Bến Bạch Đằng với Thủ Thiêm, sáng 21/10.",
+      "title": "Bộ trưởng Lâm Thị Phương Thanh: Cần tận dụng trụ sở dôi dư làm nhà văn hóa, thể thao",
+      "summary": "Bộ trưởng Văn hóa, Thể thao và Du lịch Lâm Thị Phương Thanh đề nghị ưu tiên sử dụng trụ sở công dôi dư để phát triển nhà văn hóa, thư viện và không gian sinh hoạt cộng đồng.",
       "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/vom-thep-cau-di-bo-xoay-90-do-giua-song-sai-gon-5134855.html",
-      "published_at": "2026-10-21T02:43:08+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "Party at #SlivingtonManor for my #Unstoppable ADHD Creator Summit 🦋✨💫 @HALEYYBAYLEE @Toren_Wolf @Chloé Hayden #StaceyBendet @Armani White 💖 #SlivingWithADHD #ADHDAwarenessMonth 🫧 - TikTok",
-      "summary": "Party at #SlivingtonManor for my #Unstoppable ADHD Creator Summit 🦋✨💫 @HALEYYBAYLEE @Toren_Wolf @Chloé Hayden #StaceyBendet @Armani White 💖 #SlivingWithADHD #ADHDAwarenessMonth 🫧 TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96UUQ5dEkyZk5NbmtaekhBTnBtT2tVSDN4Wk5MUlNlM0ZtUUtjOTF1M3AzZzFKY3ZZaUo1ZUIzTXM1WFRPZ2pxRHF4c3FUdVl5cGVSOEEwcTE2LWJmcnJTWEF4dTZqUHVFaDRzSHhn?oc=5",
-      "published_at": "2026-10-20T23:43:08+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "'I've waited 34 years for this' - Viking's 'special' story",
-      "summary": "When Viking FK ended a 34-year Norwegian title drought last year, it was days like these they were dreaming of - preparing to visit Aston Villa in the Champions League.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv0ldne84eeyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-21T05:49:26+00:00",
+      "url": "https://vnexpress.net/bo-truong-lam-thi-phuong-thanh-can-tan-dung-tru-so-doi-du-lam-nha-van-hoa-the-thao-5135499.html",
+      "published_at": "2026-10-22T04:29:26+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -202,13 +202,13 @@
       "score": 17
     },
     {
-      "domain": "Nước & năng lượng",
-      "category": "water",
-      "title": "EU-funded technologies pave the way towards a cleaner and more competitive European industry - European Climate, Infrastructure and Environment Executive Agency",
-      "summary": "EU-funded technologies pave the way towards a cleaner and more competitive European industry European Climate, Infrastructure and Environment Executive Agency",
-      "source": "Google News Energy",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORDNMZGhVX0tSelNrd0U4VjdZaGdxQzI0QjdGOW4wdzkzNDlGX2FTdEE2Y3JFcnZNUGNnMU9yNFNJOTRjLTl5bldyaGQ3MUNqY1hhWTNoOHhvN1g1VFB0bkZzcldzVk9XMlg2d2ZlWGxaUDYzcS1oTEJ1N3FGb1cwZ1Y4ejY5ZWI1dFRhNzJIN001ZDVjY1ZBOGlOYXRFOFN3UGpSOXBEVkc1czE3NGJoOGNjZEdscDFZTTBMTmtiak5qQ2NYM1VFOTZ1aWNpUFJkRlF2ZVg1N3VIR3hk?oc=5",
-      "published_at": "2026-10-20T16:00:00+00:00",
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Nghệ An xem xét thu phí đỗ xe dưới lòng đường",
+      "summary": "Sở Xây dựng đề xuất thu phí trông giữ phương tiện dưới lòng đường, vỉa hè tại 6 phường thuộc TP Vinh cũ, mức cao nhất 30.000 đồng mỗi lượt ban đêm đối với ôtô.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/nghe-an-xem-xet-thu-phi-do-xe-duoi-long-duong-5135454.html",
+      "published_at": "2026-10-22T03:49:10+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -217,28 +217,28 @@
       "score": 17
     },
     {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Fabregas and Como prepare for historic Man Utd tie",
-      "summary": "Serie A success story Como have gone from Serie A to the Champions League - now they are ready for a historic night against Manchester United.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmpwg17ev9xxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-21T05:26:05+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 16
-    },
-    {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "Hey stranger. Press and creator previews for STRANGER THAN HEAVEN will start dropping tomorrow, October 21st from 7am PDT / 10am EDT. - X",
-      "summary": "Hey stranger. Press and creator previews for STRANGER THAN HEAVEN will start dropping tomorrow, October 21st from 7am PDT / 10am EDT. X",
+      "title": "Stick Run creator Manuel Otto has died aged 30, the game studio has announced His death was confirmed after an apparent suicide by self-immolation during a Twitch livestream - X",
+      "summary": "Stick Run creator Manuel Otto has died aged 30, the game studio has announced His death was confirmed after an apparent suicide by self-immolation during a Twitch livestream X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vS21QVFhTV1ZJck0tZnAxV2JBOFpmYk1OQ0NDbGxrSEFsNVpkTlBPanpsTm8xUmVTNDl4eHNjcU0yeFM2RlE3UnJsS3NKZGpPRU1abWhTWVJULW9DekE?oc=5",
-      "published_at": "2026-10-21T01:40:02+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ScGpLN2REb3UzVzZ1c21KSzRiRWxMZUNNX3N1SDhhcWZzdURVMXhsSEdjWmd6R1VmeHpwYzJTVUxxc1BGZGV0ZFNzZkUzZFpFOUk5MUNUVlZJX0FJ?oc=5",
+      "published_at": "2026-10-21T15:00:24+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "When it started to burn",
+      "summary": "Horrific violence, enduring terror and ceaseless solidarity: four years of war through the eyes of Ukrainian civilians - by Aeon Video Watch on Aeon",
+      "source": "Aeon Essays",
+      "url": "https://aeon.co/videos/what-four-years-of-ceaseless-war-looks-like-to-ukrainian-civilians",
+      "published_at": "2026-10-21T10:01:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -247,28 +247,13 @@
       "score": 16
     },
     {
-      "domain": "Nước & năng lượng",
-      "category": "water",
-      "title": "Crickets Group, Kyungdong Navien, and Otech Group will show their latest solutions at the 18th Korea.. - 매일경제",
-      "summary": "Crickets Group, Kyungdong Navien, and Otech Group will show their latest solutions at the 18th Korea.. 매일경제",
-      "source": "Google News Energy",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1selVyTHNpMlAwdmlqMjQ3TEJMR2hTVzIyWTZnRTlMRVBCU191czJNZXhsQUYwZmswZFgxUkdGTGkwRWFySEZDVGdKWEt5YkhvOF9V?oc=5",
-      "published_at": "2026-10-21T04:43:03+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 15
-    },
-    {
-      "domain": "Nước & năng lượng",
-      "category": "water",
-      "title": "Water purification, filtration, desalination systems seen to ease El Niño effects — DOST - Philippine Information Agency",
-      "summary": "Water purification, filtration, desalination systems seen to ease El Niño effects — DOST Philippine Information Agency",
-      "source": "Google News Water Technology",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVdzLVZNX0ZFTTdsMkp4OEc5MGt3ZkZBYVJTdzdKNHBCcnhvUUdNUXp1aC15V0xZWm9Ub01aOWNtMUZ3X1dlRmFsZjhfclEwb044N3hvT3pCeDNFRl9iVjdVelQ2ZkFJQ2U0OUpKek5IOUdHbGtJLVpSMmtaYVpiZ1ZOWjdXbTRNOXNGb3RCWVlrUmFZQkRjcHM2UXg0bHVWUUpmWWQ5TVRTLXN6c2JZNDZTYXBQdVZYN3Z5YjN6SmViV1dy?oc=5",
-      "published_at": "2026-10-21T02:19:46+00:00",
+      "domain": "Sách",
+      "category": "books",
+      "title": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
+      "summary": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss",
+      "published_at": "2026-10-21T22:16:50+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -290,21 +275,6 @@
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
       "score": 12
-    },
-    {
-      "domain": "Sách",
-      "category": "books",
-      "title": "The ladder of knowledge",
-      "summary": "What we claim as ‘true’ is not a ceiling we are forever failing to reach but something that changes as we climb toward it - by Alexander V Gheorghiu Read on Aeon",
-      "source": "Aeon Essays",
-      "url": "https://aeon.co/essays/the-century-long-search-for-the-limits-to-knowledge",
-      "published_at": "2026-10-15T10:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 12
     }
   ],
   "themes": [
@@ -315,29 +285,29 @@
       "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
       "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
       "evidence_count": 4,
-      "source_count": 4,
+      "source_count": 2,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Factorization-Guided Training and Inference for Diffusion-Drafted Speculative Decoding",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.23935",
-          "published_at": "2026-10-21T04:00:00+00:00",
-          "summary": "arXiv:2610.23935v1 Announce Type: new Abstract: Speculative decoding accelerates large language model inference through parallel verification of tokens proposed by a drafter. Diffusion drafters further parallelize proposal generation, but greater proposal capacity or higher mean accepted tokens (MAT) need not yield higher throughput. Because verification accepts only a consecutive prefix, early rejections can render later correct predictions ineffective, limiting MAT gains, while even higher MAT"
-        },
-        {
-          "title": "Gold dips for fourth session as oil rally fans inflation concerns - Reuters",
-          "source": "Reuters via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
-          "published_at": "2026-10-21T03:45:00+00:00",
-          "summary": "Gold dips for fourth session as oil rally fans inflation concerns Reuters"
-        },
-        {
-          "title": "How is the US economy really doing under President Trump?",
+          "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
           "source": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-20T05:00:45+00:00",
-          "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country."
+          "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-21T10:20:15+00:00",
+          "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget."
+        },
+        {
+          "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+          "source": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-21T10:16:17+00:00",
+          "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS)."
+        },
+        {
+          "title": "What is happening to UK prices?",
+          "source": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-21T08:35:47+00:00",
+          "summary": "UK inflation rose in September, pushed up by higher petrol and diesel prices."
         },
         {
           "title": "BOJ spies a chance to pivot to sustaining inflation as 2% goal nears - Nikkei Asia",
@@ -362,29 +332,29 @@
           "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
           "source": "arXiv AI",
           "url": "https://arxiv.org/abs/2610.26913",
-          "published_at": "2026-10-21T04:00:00+00:00",
+          "published_at": "2026-10-22T04:00:00+00:00",
           "summary": "arXiv:2610.26913v1 Announce Type: new Abstract: The adoption of Large Language Models for radiology report structuring has been largely dominated by either proprietary cloud-based models or large open models requiring high-end GPUs for deployment, which is a critical bottleneck for clinical adoption in radiology workflows that demand data privacy and offline operation. To address this, we present MedPAO-Assist, an edge-deployable agentic framework that generates structured radiology reports dire"
         },
         {
           "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
           "source": "arXiv AI",
           "url": "https://arxiv.org/abs/2610.26943",
-          "published_at": "2026-10-21T04:00:00+00:00",
+          "published_at": "2026-10-22T04:00:00+00:00",
           "summary": "arXiv:2610.26943v1 Announce Type: new Abstract: Mathematical reasoning is a fundamental capability for educational applications of Large Language Models (LLMs), where reliable problem solving requires not only correct answers but also coherent and verifiable reasoning processes. Multi-agent systems (MASs) have shown growing potential in this domain by leveraging collaboration and verification among multiple LLM agents. However, existing evaluations primarily focus on the correctness of final ans"
         },
         {
-          "title": "Organizing LLM Inference for Aggregate Predictions from Behavioral Data",
+          "title": "Big Claims, Small Margins: Do Reported GraphLLM Gains Survive Simple Baselines?",
           "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.23934",
-          "published_at": "2026-10-21T04:00:00+00:00",
-          "summary": "arXiv:2610.23934v1 Announce Type: new Abstract: When using a large language model (LLM) to simulate a user population, how should we combine individual behavioral histories to predict the fraction of users who take a particular action? We study this question in e-commerce, predicting observed product-level conversion rates from browsing sessions without task-specific model training. We vary two design choices, each involving a bias-variance tradeoff. Summarizing a product's sessions before infer"
+          "url": "https://arxiv.org/abs/2610.28714",
+          "published_at": "2026-10-22T04:00:00+00:00",
+          "summary": "arXiv:2610.28714v1 Announce Type: new Abstract: LLM-based methods for node classification on text-attributed graphs (TAGs) routinely report state-of-the-art accuracy. We ask how these results compare with inexpensive baselines run on the same splits. On the splits of three recent studies, we tune four baseline representatives with validation-only selection and compare them with the highest mean that each paper reports for an LLM-based method in the matched setting. Correct & Smooth on TF-IDF fea"
         },
         {
-          "title": "How Data Scales in Agentic Reinforcement Learning: Laws and Synthesis Strategies",
+          "title": "ReAPO: Retry-Aware Policy Optimization for Efficient Exploration in LLM Reasoning",
           "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.23946",
-          "published_at": "2026-10-21T04:00:00+00:00",
-          "summary": "arXiv:2610.23946v2 Announce Type: new Abstract: Pretraining scaling laws treat training data as a one-dimensional quantity: a token count. Agentic reinforcement learning (RL) inherits this scalar abstraction, but modern synthesis pipelines now generate \\textit{tasks}, \\textit{environments}, and \\textit{trajectories} independently and at very different costs, turning data into a structured design space. This raises a question pretraining never had to answer: given a synthesis budget, \\textit{whic"
+          "url": "https://arxiv.org/abs/2610.28770",
+          "published_at": "2026-10-22T04:00:00+00:00",
+          "summary": "arXiv:2610.28770v1 Announce Type: new Abstract: RLVR improves language-model reasoning, but commonly relies on independent stochastic rollouts for exploration, which can repeatedly sample similar failed strategies. Prior work has seen success with approaches that guide exploration by introducing dependence into the sampling process by including incorrect solutions in the context for subsequent attempts. Still, these methods introduce the additional question of how to assign credit to each attemp"
         }
       ]
     },
@@ -399,32 +369,32 @@
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "A Group-Aware Comparative Study of Classical Machine Learning and Deep Learning Methods for Sensor-Based Human Activity Recognition",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.23941",
-          "published_at": "2026-10-21T04:00:00+00:00",
-          "summary": "arXiv:2610.23941v1 Announce Type: new Abstract: Human Activity Recognition (HAR) using wearable or smartphone inertial sensors is commonly evaluated with both classical machine learning and deep learning methods. However, reported performance can be strongly affected by sensor modality, dataset characteristics, and data-splitting strategy. This study presents a controlled comparative evaluation of four classical machine learning models and four deep learning models on two public HAR datasets, UC"
-        },
-        {
           "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
           "source": "arXiv AI",
           "url": "https://arxiv.org/abs/2610.26904",
-          "published_at": "2026-10-21T04:00:00+00:00",
+          "published_at": "2026-10-22T04:00:00+00:00",
           "summary": "arXiv:2610.26904v1 Announce Type: new Abstract: Recent studies have proposed reinforcement learning with verifiable rewards (RLVR) methods that enable LLMs to generate high-quality RTL circuits from natural-language specifications. Existing approaches optimize circuit PPA (Power, Performance, Area) by aggregating multiple objectives into a single scalar reward, making it difficult to simultaneously generate diverse Pareto-optimal solutions across different trade-offs such as low power, low laten"
         },
         {
           "title": "ReuF2F: Benchmarking Coding Agents on Formalized Undergraduate Research Problems",
           "source": "arXiv AI",
           "url": "https://arxiv.org/abs/2610.27046",
-          "published_at": "2026-10-21T04:00:00+00:00",
+          "published_at": "2026-10-22T04:00:00+00:00",
           "summary": "arXiv:2610.27046v1 Announce Type: new Abstract: As AI systems begin to resolve open research problems, reliable verification becomes increasingly important. Formal mathematics provides a trusted framework for mathematical reasoning, enabling agents to produce machine-checkable proofs while conducting mathematical exploration. Existing formal mathematics benchmarks often focus on known results or a small set of prominent open problems, which can become difficult to evaluate reliably once solution"
         },
         {
-          "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
-          "published_at": "2026-10-16T18:09:34+00:00",
-          "summary": "Beijing warns against ‘discriminatory’ step after France drops opposition to British role in Made in Europe package No 10 has left the door open to imposing tariffs on Chinese-made electric vehicles as part of the Made in Europe package, prompting a warning from Beijing that such a move would be “discriminatory”. Downing Street said on Friday that it would “welcome the objective to have the UK included in the Industrial Accelerator Act” after France dropped its opposition to Britain joining the "
+          "title": "EU should revive talks on broader China trade deal, top MEP says",
+          "source": "Euronews",
+          "url": "https://www.euronews.com/2026/10/21/eu-should-revive-talks-on-broader-china-trade-deal-top-mep-says",
+          "published_at": "2026-10-21T15:16:43+00:00",
+          "summary": "As EU lawmakers prepare to visit Beijing, the European Parliament's trade chief is calling for a broader agreement that could revive elements of a frozen investment pact and address unfair Chinese trade practices across multiple industries."
+        },
+        {
+          "title": "Sudan conflict: Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168638",
+          "published_at": "2026-10-21T12:00:00+00:00",
+          "summary": "Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to a ceasefire and transition to peaceful governance that represents all Sudanese people."
         }
       ]
     },
@@ -439,32 +409,32 @@
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Hải Phòng sẽ dùng chung bộ tiêu chuẩn quản lý cho chính quyền cấp xã",
+          "title": "Trình Quốc hội giải pháp hoán đổi đất ở, bảo đảm sinh kế khi thu hồi đất",
           "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/hai-phong-se-dung-chung-bo-tieu-chuan-quan-ly-cho-chinh-quyen-cap-xa-5134904.html",
-          "published_at": "2026-10-21T03:20:00+00:00",
-          "summary": "Năm 2028, Hải Phòng sẽ áp dụng tiêu chuẩn quốc gia TCVN ISO 18091:2020 nhằm tối ưu hóa bộ máy quản lý, chuẩn hóa quy trình công tác và nâng cao mức độ hài lòng của người dân, doanh nghiệp."
+          "url": "https://vnexpress.net/trinh-quoc-hoi-giai-phap-hoan-doi-dat-o-bao-dam-sinh-ke-khi-thu-hoi-dat-5135433.html",
+          "published_at": "2026-10-22T03:25:03+00:00",
+          "summary": "Chính phủ đề xuất người có đất ở bị thu hồi được hoán đổi sang phần đất còn lại hoặc thửa đất khác của mình trong cùng xã, đồng thời bổ sung chính sách hỗ trợ ổn định cuộc sống."
         },
         {
-          "title": "PNJ nêu phương án tái thiết tại đại hội cổ đông bất thường",
+          "title": "Kỷ lục doanh thu của Phúc Long sau khi về tay Masan",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/pnj-neu-phuong-an-tai-thiet-tai-dai-hoi-co-dong-bat-thuong-5135018.html",
-          "published_at": "2026-10-21T04:20:00+00:00",
-          "summary": "Doanh nghiệp dự kiến trích lập 7.071 tỷ đồng dự phòng tổn thất, đồng thời đề xuất huy động vốn, tinh gọn vận hành nhằm tạo nền tảng phục hồi kinh doanh."
+          "url": "https://vnexpress.net/ky-luc-doanh-thu-cua-phuc-long-sau-khi-ve-tay-masan-5135458.html",
+          "published_at": "2026-10-22T03:36:03+00:00",
+          "summary": "Phúc Long Heritage, doanh nghiệp vận hành chuỗi trà và cà phê cùng tên, đạt doanh thu 589 tỷ đồng trong quý III, kỷ lục từ khi hợp nhất Masan."
         },
         {
-          "title": "MSB giảm lãi suất cho khách hàng cá nhân và doanh nghiệp",
+          "title": "Hỗ trợ doanh nghiệp tối ưu dòng tiền cao điểm cuối năm",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/msb-giam-lai-suat-cho-khach-hang-ca-nhan-va-doanh-nghiep-5134976.html",
-          "published_at": "2026-10-21T03:30:00+00:00",
-          "summary": "MSB giảm tối thiểu 2% lãi suất cho vay đối với khách hàng doanh nghiệp, đồng thời hạ 0,5% lãi suất huy động kỳ hạn từ 6 tháng đối với khách hàng cá nhân."
+          "url": "https://vnexpress.net/ho-tro-doanh-nghiep-toi-uu-dong-tien-cao-diem-cuoi-nam-5135110.html",
+          "published_at": "2026-10-22T02:00:00+00:00",
+          "summary": "MSB nâng cấp giải pháp M-Flex 2.0 với hạn mức tới 25 tỷ đồng, phê duyệt tự động và giải ngân trong 2-4 giờ hỗ trợ doanh nghiệp chủ động vốn cuối năm."
         },
         {
-          "title": "Lãi suất trái phiếu doanh nghiệp gần vùng đỉnh",
+          "title": "Nhiều ngân hàng cho vay bình quân trên 11% trước đợt hạ lãi suất",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/lai-suat-trai-phieu-doanh-nghiep-gan-vung-dinh-5134769.html",
-          "published_at": "2026-10-20T20:26:25+00:00",
-          "summary": "So với mức đáy vào năm 2025, lãi suất phát hành mới trái phiếu doanh nghiệp quý III đã tăng 2,5%, lên gần 9,5% mỗi năm và tiến dần đến mức đỉnh của giai đoạn 2022-2023."
+          "url": "https://vnexpress.net/nhieu-ngan-hang-cho-vay-binh-quan-tren-11-truoc-dot-ha-lai-suat-5135336.html",
+          "published_at": "2026-10-21T23:00:00+00:00",
+          "summary": "Techcombank, OCB, TPBank, BVBank… cho khách hàng cá nhân vay lãi suất hơn 11% mỗi năm trước đợt điều chỉnh theo yêu cầu của Ngân hàng Nhà nước."
         }
       ]
     }
@@ -475,97 +445,122 @@
       "domain": "AI & công nghệ",
       "items": 40,
       "usable": 40,
-      "sources": 8
+      "sources": 9
     },
     {
       "category": "world",
       "domain": "Thế giới",
       "items": 65,
       "usable": 65,
-      "sources": 11
+      "sources": 13
     },
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 24,
-      "usable": 24,
+      "items": 17,
+      "usable": 17,
       "sources": 2
     },
     {
       "category": "water",
       "domain": "Nước & năng lượng",
-      "items": 3,
-      "usable": 3,
-      "sources": 2
+      "items": 0,
+      "usable": 0,
+      "sources": 0
     },
     {
       "category": "football",
       "domain": "Arsenal & Premier League",
-      "items": 12,
-      "usable": 12,
+      "items": 18,
+      "usable": 18,
       "sources": 3
     },
     {
       "category": "books",
       "domain": "Sách",
-      "items": 2,
-      "usable": 2,
-      "sources": 1
+      "items": 4,
+      "usable": 4,
+      "sources": 2
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
-      "items": 3,
-      "usable": 3,
-      "sources": 2
+      "items": 6,
+      "usable": 6,
+      "sources": 3
     },
     {
       "category": "trends",
       "domain": "Google Trends",
-      "items": 1,
+      "items": 0,
       "usable": 0,
       "sources": 0
     }
   ],
   "links": [
     {
-      "a": "Helen Haines live coverage: Helen Haines has had her second leg amputated but is alive and stable, husband says",
-      "b": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+      "a": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+      "b": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
       "terms": [
-        "across",
-        "against"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Helen Haines live coverage: Helen Haines has had her second leg amputated but is alive and stable, husband says",
-      "b": "Organizing LLM Inference for Aggregate Predictions from Behavioral Data",
-      "terms": [
-        "across",
-        "particular"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Helen Haines live coverage: Helen Haines has had her second leg amputated but is alive and stable, husband says",
-      "b": "EU-funded technologies pave the way towards a cleaner and more competitive European industry - European Climate, Infrastructure and Environment Executive Agency",
-      "terms": [
-        "more",
-        "towards"
+        "been",
+        "system"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
       "a": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
-      "b": "Australia’s largest datacentre operator NextDC’s shares dive as Melbourne expansion delayed",
+      "b": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
       "terms": [
-        "been",
-        "high"
+        "entire",
+        "operation"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+      "b": "When it started to burn",
+      "terms": [
+        "four",
+        "through"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+      "b": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+      "terms": [
+        "across",
+        "also",
+        "however",
+        "these"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Scalable Stress-Constrained Topology Optimization: A Super-resolution and Simultaneous Approach Based on Machine Learning",
+      "b": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+      "terms": [
+        "across",
+        "while"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Scalable Stress-Constrained Topology Optimization: A Super-resolution and Simultaneous Approach Based on Machine Learning",
+      "b": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
+      "terms": [
+        "state",
+        "within"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }
   ],
   "domain_notes": [
+    {
+      "domain": "Nước & năng lượng",
+      "status": "Thiếu dữ liệu",
+      "note": "Chỉ 0 mục có tóm tắt dùng được; không tạo kết luận mạnh."
+    },
     {
       "domain": "Google Trends",
       "status": "Thiếu dữ liệu",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-24T04:37:37.195819+00:00",
-  "input_generated_at": "2026-10-24T04:37:37.130649+00:00",
+  "generated_at": "2026-10-25T04:42:20.253472+00:00",
+  "input_generated_at": "2026-10-25T04:42:20.199938+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
   "items_after_dedup": 150,
@@ -19,22 +19,7 @@
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
-      "summary": "David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates looms Get our new political email , free app or daily news podcast More than a week after allegations that Greens senator Jordon Steele-John had behaved inappropriately towards women made headlines, his position in the party remains in limbo and its new leader’s handling of the issue in question. David Shoebridge ’s first major challenge at the helm of the federal Greens came earlier this month when the Nine newspapers reported a three-page letter had been sent to him urging an independent investigation into Steele-John. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
-      "published_at": "2026-10-23T22:41:46+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 36
+      "score": 34
     },
     {
       "domain": "Thế giới",
@@ -52,28 +37,43 @@
       "score": 34
     },
     {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Show HN: AI Crash Debugging Gauntlet",
-      "summary": "One of the core conceits of ForensicDbg was that if we build a significantly improved crash debugging core, that value would carry through, regardless of the final workflow. Our testers have helped us confirm that on the more traditional, visual debugging side. But how do you confirm that for AI debugging workflows? With a crash dump evaluation gauntlet, of course! If you just want the results, or even grab a pdf with the raw testing results, that is all at the bottom. Comments URL: https://news.ycombinator.com/item?id=50216641 Points: 1 # Comments: 0",
-      "source": "Hacker News AI Discussions",
-      "url": "https://www.forensicdbg.com/post/forensicdbg-s-ai-crash-debugging-gauntlet",
-      "published_at": "2026-10-23T23:11:06+00:00",
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
+      "summary": "WA politician says he considered attending Senate estimates virtually but was told it would be ‘unacceptable’ Get our new political email , free app or daily news podcast Jordon Steele-John has confirmed he will not attend parliament next week as the embattled Greens senator apologises for publicly releasing the letter outlining the claims against him. On Saturday afternoon, Steele-John removed a social media post containing a three-page letter marked as “confidential” sent to the Greens leader, David Shoebridge, earlier this month. The letter urged an investigation into allegations he had acted inappropriately towards women between 2017 and 2025. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb",
+      "published_at": "2026-10-24T00:52:33+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 30
+      "score": 33
     },
     {
       "domain": "AI & công nghệ",
       "category": "ai",
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier […]",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
       "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "published_at": "2026-10-23T21:11:07+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "published_at": "2026-10-24T18:32:44+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 24
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "published_at": "2026-10-24T21:29:12+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -82,19 +82,94 @@
       "score": 23
     },
     {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between […]",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "published_at": "2026-10-23T19:32:39+00:00",
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Aston Villa 2-1 Manchester City: Premier League – as it happened - The Guardian",
+      "summary": "Aston Villa 2-1 Manchester City: Premier League – as it happened The Guardian Aston Villa 2-1 Man City: Nicolas Jackson scores both Villa goals as Enzo Maresca’s 100 per cent record ends in defeat Sky Sports ‘Tactical genius’ Emery outsmarts Maresca as City crash to first league defeat The Telegraph",
+      "source": "Google News Premier League",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUURKQU03LXpwZWxJdVV5Yi12MWd3RS0zMHNJQ3ZZNnpTYmFtNWEzbnFXbkZ2RWcybHBzb3dBWnp0YmQxTjhRN2EwQndOcnVXYk9PQndOXy0tdy1IUjcwUEJKUDI5NlFKQWdJcDNpZTROLW92Z0tQUWpPU2ZvWVRXeTNIdnRaUzRWMUN3NkNGZC1mLWFma1NDdlNuckszNEZEaW9jQS1R?oc=5",
+      "published_at": "2026-10-24T11:30:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 23
+      "score": 22
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Making the case for context-aware AI",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead…",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "published_at": "2026-10-22T10:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 21
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Should Palmer have been sent off earlier than he was?",
+      "summary": "Match of the Day pundit Martin Keown looks at the red card shown to Cole Palmer during Chelsea's 2-0 defeat to Tottenham, with the former Arsenal defender agreeing with the decision and suggesting Palmer was lucky not to receive a straight red for an early incident.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmd93enq4z20o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-24T22:43:33+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Arsenal vs Everton: Premier League preview, team news, stats & head-to-head - BBC",
+      "summary": "Arsenal vs Everton: Premier League preview, team news, stats & head-to-head BBC Arsenal vs Everton LIVE: Latest score and updates from Premier League London Evening Standard Every word from Arteta's post-Everton press conference Arsenal.com",
+      "source": "Google News Arsenal",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hNVR5N1BLNTZTZzRTX3JHMnUtY1BiZnA1cG1TTUZUSEpWbENzaE1YWlJTSHR4UGVfSW0tLUZxdnkyTDhOOXdKbkd0RllURExnSE0yNHJZY0RpOGVoWGdhcGlBMUllZw?oc=5",
+      "published_at": "2026-10-24T19:10:34+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "I think there is a lot of room for a new CT creator-focused product to go on a run. InfoFi in 2025 was a direct reaction to, and rejection of, the memecoin run the year before, which much like today, extracted heavily from retail and was incredibly harmful to new en - X",
+      "summary": "I think there is a lot of room for a new CT creator-focused product to go on a run. InfoFi in 2025 was a direct reaction to, and rejection of, the memecoin run the year before, which much like today, extracted heavily from retail and was incredibly harmful to new en X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PRklZemladzdHZ010YXBKVVpxNXZvZXNJRjBMLVpjTENfdDhSZm9qNHlJYUtTY2FPTktVYVFsVDZ2ZWRsYmQ3OG1LcVozQ3Y2NzRpdVpYQWVYNnA3SWlsZw?oc=5",
+      "published_at": "2026-10-24T14:01:04+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "The most powerful storytelling engine isn't AI. It's imagination. AI should help bring it to life. Meet OptimAI Story Studio: turn an idea into illustrated storybooks, manga or comics—with Creative Agents, recurring characters and narration. 💛 https://t.co/2QGP4qMm - X",
+      "summary": "The most powerful storytelling engine isn't AI. It's imagination. AI should help bring it to life. Meet OptimAI Story Studio: turn an idea into illustrated storybooks, manga or comics—with Creative Agents, recurring characters and narration. 💛 https://t.co/2QGP4qMm X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hZWFoZFRfOWtnMFF4cXk4dVpVM1YwdTc4elJvc21TUWoyNURZN1VFbHgtemU4dF8wSm56NjF5MURqT2ktRWtMZFExYzZMODkxYmZia2syS1BWYVRuUEZoVXBHZy1GUQ?oc=5",
+      "published_at": "2026-10-24T13:25:09+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
     },
     {
       "domain": "Sách",
@@ -109,136 +184,16 @@
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 22
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "'It doesn't make sense' - Glasner confused after Diop avoids red card",
-      "summary": "Nottingham Forest manager Oliver Glasner admits he was left confused by the decision to not send off Issa Diop after a VAR check during his side's 1-1 draw at Ipswich Town, but praised his side's performance and urged them to 'stay patient' as Forest's winless run stretched to four matches.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8ly03l6klzpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-23T22:15:29+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 21
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "most people don’t get how huge this is. not invalidating cache in the middle of a thread is amazing for usage. we’ve had it in the API and it’s now available in subs. one of the most impactful changes in these 28 days. more responsive calls for dots are sweet too - X",
-      "summary": "most people don’t get how huge this is. not invalidating cache in the middle of a thread is amazing for usage. we’ve had it in the API and it’s now available in subs. one of the most impactful changes in these 28 days. more responsive calls for dots are sweet too X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HSkR6YjZPeGs4SXpJbF80VkJ1aUNhRWhaWHF5V0JNTFJHUTU2azI5QVJ6UGlnZldkc1FSdHdmNlhkQ2w0RW1KeEhIQ0ZEbmJEem5MeGsxT1gxSU9qZWFIaXFn?oc=5",
-      "published_at": "2026-10-23T23:22:23+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "Big news: @Kimi_Moonshot is back in the top-4 labs in the Code Arena: WebDev with the release of Kimi K3.1 Pro! This model just landed #8 in the Code Arena: WebDev with 1692 pts, matching Claude Opus-5 (Max) at 70% lower cost. This is a 9 place jump ( - X",
-      "summary": "Big news: @Kimi_Moonshot is back in the top-4 labs in the Code Arena: WebDev with the release of Kimi K3.1 Pro! This model just landed #8 in the Code Arena: WebDev with 1692 pts, matching Claude Opus-5 (Max) at 70% lower cost. This is a 9 place jump ( X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWM1ejV1LVBJU3FtNTdYcjB5OXBOZzF5WjR1Mm1CUWdRelJwdDVYX21MUHVMaGd3UkQxd2QtUklxcGNoLXc1bDZEbFM0MGtlMG1mT0t1anJNQQ?oc=5",
-      "published_at": "2026-10-23T17:41:48+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Forest left frustrated as winless run goes on after draw at Ipswich",
-      "summary": "Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but the result does move the away side out of the relegation zone on goal difference.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9ly0dgy2r2eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-23T21:54:54+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Arteta reveals Saka latest in new four-man Arsenal injury update - London Evening Standard",
-      "summary": "Arteta reveals Saka latest in new four-man Arsenal injury update London Evening Standard Mikel Arteta press conference LIVE: Arsenal boss on Bukayo Saka injury timeline and Everton Football London Every word of Mikel Arteta's pre-Everton presser Arsenal.com",
-      "source": "Google News Arsenal",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY2F4ajRucVNYeVRvWHdNM0RjSm1BMFdkTjB1UWJpcDUzOU9QTjNNWFctNzhmbm4xQndwYjVhNGZJTHRVcmtxam1fX1R5cXEtUlhWTHBTR05tRlV4SEVXUHR6RkEzTGh2N2pGSGNxY2kwRktYOXRQR1YzM0JJakxWSk9ncjNFdGx1ZVBJSzhsZWw0M21sOTk4ckNhWjN4ZXBa?oc=5",
-      "published_at": "2026-10-23T14:21:27+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
-    },
-    {
-      "domain": "Sách",
-      "category": "books",
-      "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
-      "summary": "To invade red blood cells, the deadly protist creates a temporary molecular portal that disappears behind it — a door we can now see in fine detail. The post Malaria Parasite Caught in the Act of Breaking and Entering first appeared on Quanta Magazine",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
-      "published_at": "2026-10-23T14:54:10+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
+      "score": 19
     },
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Đề xuất bỏ 18 thủ tục về sở hữu trí tuệ",
-      "summary": "Chính phủ đề xuất luật hóa việc bãi bỏ 18 thủ tục hành chính, cắt giảm 5 điều kiện kinh doanh, nhằm đơn giản hóa việc chuyển nhượng quyền sở hữu công nghiệp và bảo hộ giống cây trồng.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/de-xuat-bo-18-thu-tuc-ve-so-huu-tri-tue-5136315.html",
-      "published_at": "2026-10-24T02:57:28+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Hơn 2.000 chuyên gia giải bài toán nhân sự thời AI",
-      "summary": "Hội thảo Holistic Excellence - S-DNA 2026 do CareerViet tổ chức tại TP HCM và Hà Nội quy tụ hơn 2.000 lãnh đạo, chuyên gia nhân sự, ghi nhận quy mô lớn nhất từ trước đến nay của diễn đàn.",
+      "title": "BigBang có thể mang về hàng chục triệu USD lợi nhuận cho công ty chủ quản",
+      "summary": "Chuỗi concert kỷ niệm 20 năm của BigBang dự kiến giúp YG Entertainment tăng khoảng 22,6 triệu USD lợi nhuận từ bán vé, vật phẩm và quyền khai thác thương mại.",
       "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/hon-2-000-chuyen-gia-giai-bai-toan-nhan-su-thoi-ai-5135971.html",
-      "published_at": "2026-10-24T02:30:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "'Lập vùng phát thải thấp phải tính đến sinh kế người dân'",
-      "summary": "Chính phủ đề xuất việc thiết lập vùng phát thải thấp phải có lộ trình phù hợp, hạn chế ảnh hưởng đến sinh kế, hoạt động sản xuất, kinh doanh và đời sống người dân.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/lap-vung-phat-thai-thap-phai-tinh-den-sinh-ke-nguoi-dan-5136304.html",
-      "published_at": "2026-10-24T02:20:07+00:00",
+      "url": "https://vnexpress.net/bigbang-co-the-mang-ve-hang-chuc-trieu-usd-loi-nhuan-cho-cong-ty-chu-quan-5136490.html",
+      "published_at": "2026-10-24T17:05:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -247,13 +202,43 @@
       "score": 17
     },
     {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster' | BBC News - YouTube",
-      "summary": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster' | BBC News YouTube",
-      "source": "Google News YouTube Videos & Creators",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOUd4WWpvRDJUSGhOMzh5T1FxdmdlTUFwUlpBN2p6X2hlT1VaQ21SLVl1b0tuenp4SFp0UlNMMGJ5V0EwNjcteERnUjFyWTZMS3JMcFJ3?oc=5",
-      "published_at": "2026-10-23T20:05:47+00:00",
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Cục Hàng không yêu cầu các hãng mở thêm đường bay nội địa",
+      "summary": "Cục Hàng không Việt Nam yêu cầu 6 hãng hàng không nghiên cứu khôi phục các đường bay đã tạm dừng, mở tuyến mới và tăng chuyến trên các đường bay nội địa hiện có.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/cuc-hang-khong-yeu-cau-cac-hang-mo-them-duong-bay-noi-dia-5136485.html",
+      "published_at": "2026-10-24T13:44:22+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Nam thanh niên sống sót sau khi lăn xuống vực sâu 100 m ở Lũng Cú",
+      "summary": "Đang ngồi trên lan can bên đường chờ du khách chụp ảnh tại Lũng Cú, nam tài xế 23 tuổi bất ngờ ngất, lăn xuống vực sâu hơn 100 m và may mắn chỉ bị thương nhẹ.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/nam-thanh-nien-song-sot-sau-khi-lan-xuong-vuc-sau-100-m-o-lung-cu-5136480.html",
+      "published_at": "2026-10-24T13:22:09+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "The 2026 Booker Prize Shortlist: The Novels the Entire Literary World Is Talking About Right Now - UA.NEWS",
+      "summary": "The 2026 Booker Prize Shortlist: The Novels the Entire Literary World Is Talking About Right Now UA.NEWS",
+      "source": "Google News International Book Awards",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnNmT0FMTF9xbVhkT0lMZXhQeG1Uck1HMU1qZTIwM3ZtUVZaTHJ2VFBuc1FQckYyR0lkUEFsMlNYMGpNN01XSjk5OWxYNHhpRUlZU2pYRUNVRnZYNTA1YlRqVEZPT3VGTHFmeFFZLURZWXV4SVF5S3dlbWQyZHkxb251RG5ia0l6SmhZUmVoNXlIMERXZzZ2NWxWcHo4eFdaaFE?oc=5",
+      "published_at": "2026-10-24T06:36:14+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -275,6 +260,21 @@
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
       "score": 14
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "What Is a Forward-Deployed Engineer? - YouTube",
+      "summary": "What Is a Forward-Deployed Engineer? YouTube",
+      "source": "Google News YouTube Videos & Creators",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51aXY0ZjhLY1p3R2lVeGM3VTVWamJJYVFwNFozdktyVGdjNUhCMTRkNHc3RHZOMDB2eTd5Y0hGRFdhV09hb25rNDA0VjBXM2NlWmwxRXZR?oc=5",
+      "published_at": "2026-10-24T13:30:05+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 13
     }
   ],
   "themes": [
@@ -284,37 +284,23 @@
       "status": "Mẫu hình cần kiểm chứng",
       "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
       "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
-      "evidence_count": 4,
-      "source_count": 4,
+      "evidence_count": 2,
+      "source_count": 2,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Jim Chalmers faces a world of hard choices where the solution to one problem makes the other worse",
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/oct/23/jim-chalmers-hard-choices-economy-inflation-unemployment",
-          "published_at": "2026-10-23T04:54:47+00:00",
-          "summary": "High inflation, low growth and rising unemployment can be added to the federal treasurer’s wall of worries Get our new political email , free app or daily news podcast Jim Chalmers in a speech last week offered the scant encouragement that the economy would be “a bit better” in a year’s time. Fast forward to Friday morning, and the treasurer revealed that his officials were busy downgrading their forecasts ahead of December’s mid-year budget update to show slower growth and higher unemployment. "
+          "title": "Madrid joins weekend of protests across Europe as thousands rally for better pensions",
+          "source": "Euronews",
+          "url": "https://www.euronews.com/2026/10/24/madrid-joins-weekend-of-protests-across-europe-as-thousands-rally-for-better-pensions",
+          "published_at": "2026-10-24T12:07:26+00:00",
+          "summary": "Pensioners are marching in Madrid on Saturday to demand decent pensions, indexation to inflation and an end to the gender gap, as parallel rallies in France and Italy prompt tighter security."
         },
         {
-          "title": "Kinh doanh máy gắp thú nở rộ ở Nhật nhờ lạm phát",
+          "title": "Việt Nam - Bỉ hướng tới nâng cấp quan hệ lên Đối tác Chiến lược",
           "source": "VnExpress Thế giới",
-          "url": "https://vnexpress.net/kinh-doanh-may-gap-thu-no-ro-o-nhat-nho-lam-phat-5136089.html",
-          "published_at": "2026-10-24T01:59:00+00:00",
-          "summary": "Thị trường máy gắp thú Nhật Bản tăng hơn gấp đôi trong 10 năm và đang dịch chuyển từ gắp đồ chơi sang nhu yếu phẩm trước làn sóng lạm phát."
-        },
-        {
-          "title": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
-          "source": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss",
-          "published_at": "2026-10-24T01:21:18+00:00",
-          "summary": "President Javier Milei’s role in cryptocurrency launch does not translate into a fraudulent scheme, judge says."
-        },
-        {
-          "title": "AI and inflation: how worried should central bankers be? - Financial Times",
-          "source": "Financial Times via Google News",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOakdRMHZqNGZmX0JldFA5SzR2b0ZoYXZUZFBkNkJPTUZNSG5jUEpKbGQ5YUVab3BGXzczRUstSXNCNDRIQjI5YW9BLVZleVV0TXBXQXpCUERCeE12UjBIbV8wSzhuVFF0Z1lmR0FacktFYWxWQXVxampYQ0d6aW96Q1luNlg?oc=5",
-          "published_at": "2026-10-22T04:01:02+00:00",
-          "summary": "AI and inflation: how worried should central bankers be? Financial Times"
+          "url": "https://vnexpress.net/viet-nam-bi-huong-toi-nang-cap-quan-he-len-doi-tac-chien-luoc-5136488.html",
+          "published_at": "2026-10-24T13:00:22+00:00",
+          "summary": "Việt Nam - Bỉ ra tuyên bố chung, nhất trí thúc đẩy hợp tác cảng biển, năng lượng sạch, bán dẫn và nông nghiệp công nghệ cao, nâng cấp quan hệ vào thời điểm thích hợp."
         }
       ]
     },
@@ -329,13 +315,6 @@
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Show HN: AI Crash Debugging Gauntlet",
-          "source": "Hacker News AI Discussions",
-          "url": "https://www.forensicdbg.com/post/forensicdbg-s-ai-crash-debugging-gauntlet",
-          "published_at": "2026-10-23T23:11:06+00:00",
-          "summary": "One of the core conceits of ForensicDbg was that if we build a significantly improved crash debugging core, that value would carry through, regardless of the final workflow. Our testers have helped us confirm that on the more traditional, visual debugging side. But how do you confirm that for AI debugging workflows? With a crash dump evaluation gauntlet, of course! If you just want the results, or even grab a pdf with the raw testing results, that is all at the bottom. Comments URL: https://news"
-        },
-        {
           "title": "Making the case for context-aware AI",
           "source": "MIT Technology Review",
           "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
@@ -348,6 +327,13 @@
           "url": "https://www.threads.com/t/Dd1MqeVG3vT",
           "published_at": "2026-09-28T12:35:32+00:00",
           "summary": "@zuck ↩️: To lead this effort, I'm excited that Chirantan \"CJ\" Desai will join Meta as Chief Enterprise Platform Officer, reporting directly to me. CJ is an experienced enterprise leader with a track record of building full-stack software and delivering results in AI, infrastructure, business applications, and security. He has an extensive industry network that we look forward to partnering with."
+        },
+        {
+          "title": "Here are the top AI agents that can live in your text messages",
+          "source": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "published_at": "2026-10-24T14:00:00+00:00",
+          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
         },
         {
           "title": "Donating Agent Skills to the Agentic AI Foundation",
@@ -365,7 +351,7 @@
       "reading": "Các diễn biến chính trị và thương mại có thể ảnh hưởng đến vận tải, giá đầu vào hoặc quyết định đầu tư. Chưa thể suy ra tác động tới Việt Nam nếu chưa biết tuyến hàng, mặt hàng và mức độ phơi nhiễm.",
       "falsifier": "Bác bỏ nếu chưa có thay đổi chính sách/luồng hàng thực tế hoặc mặt hàng liên quan không gắn với Việt Nam.",
       "evidence_count": 4,
-      "source_count": 3,
+      "source_count": 4,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
@@ -376,25 +362,25 @@
           "summary": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump told a Friday rally for candidates in south Florida that US warships could intervene in Cuba on their way back from the Iran war. The US secretary of state, in his social media post addressed “to those who seek to create positive change”, urged Cubans to capitaliz"
         },
         {
-          "title": "US designates helium as critical material as Europe faces supply squeeze",
-          "source": "Euronews",
-          "url": "https://www.euronews.com/2026/10/23/us-designates-helium-as-critical-material-as-europe-faces-supply-squeeze",
-          "published_at": "2026-10-23T19:02:40+00:00",
-          "summary": "The US has declared helium a critical material as war in the Middle East and export curbs by Russia and China squeeze global supplies of a gas vital to chipmaking, leaving Europe scrambling to secure its share."
+          "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
+          "published_at": "2026-10-24T12:00:00+00:00",
+          "summary": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she assumed they were celebrations from a nearby wedding. It was the morning of 15 April 2023, and the paramilitary Rapid Support Forces had just turned their guns on the army."
         },
         {
-          "title": "Trump eases Canada tariffs ahead of US midterms",
-          "source": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-xml-mrss",
-          "published_at": "2026-10-23T20:49:00+00:00",
-          "summary": "The move comes as Trump's Republican Party scrambles to maintain control of the US Congress, with a Republican candidate in a key Senate race saying she had lobbied to lift the tariffs on Canadian products."
+          "title": "Three things you should know about permafrost",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+          "published_at": "2026-10-22T10:00:00+00:00",
+          "summary": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it. The great news for both of us is that my colleague James Temple just published two…"
         },
         {
-          "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
-          "source": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-all-1573-xml-mrss",
-          "published_at": "2026-10-23T19:08:00+00:00",
-          "summary": "Russia's attacks on the Ukrainian capital are hitting harder and more frequently, making 2026 one of the long war's bloodiest years for Kyiv. DW asked people on the ground what life is like."
+          "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
+          "published_at": "2026-10-25T02:45:43+00:00",
+          "summary": "The two leading candidates condemn recent deadly Black Sea drone strikes, but differ on the Ukraine war more broadly."
         }
       ]
     },
@@ -409,32 +395,32 @@
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Đề xuất bỏ 18 thủ tục về sở hữu trí tuệ",
+          "title": "Chính phủ muốn truy xuất nguồn gốc nguyên liệu thức ăn đường phố",
           "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/de-xuat-bo-18-thu-tuc-ve-so-huu-tri-tue-5136315.html",
-          "published_at": "2026-10-24T02:57:28+00:00",
-          "summary": "Chính phủ đề xuất luật hóa việc bãi bỏ 18 thủ tục hành chính, cắt giảm 5 điều kiện kinh doanh, nhằm đơn giản hóa việc chuyển nhượng quyền sở hữu công nghiệp và bảo hộ giống cây trồng."
+          "url": "https://vnexpress.net/chinh-phu-muon-truy-xuat-nguon-goc-nguyen-lieu-thuc-an-duong-pho-5136324.html",
+          "published_at": "2026-10-24T04:48:52+00:00",
+          "summary": "Chính phủ trình Quốc hội quy định người bán thức ăn đường phố phải lưu nguồn gốc nguyên liệu, thông báo địa điểm kinh doanh và cam kết an toàn thực phẩm với chính quyền cấp xã."
         },
         {
-          "title": "'Lập vùng phát thải thấp phải tính đến sinh kế người dân'",
-          "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/lap-vung-phat-thai-thap-phai-tinh-den-sinh-ke-nguoi-dan-5136304.html",
-          "published_at": "2026-10-24T02:20:07+00:00",
-          "summary": "Chính phủ đề xuất việc thiết lập vùng phát thải thấp phải có lộ trình phù hợp, hạn chế ảnh hưởng đến sinh kế, hoạt động sản xuất, kinh doanh và đời sống người dân."
-        },
-        {
-          "title": "Agribank giảm lãi suất cho vay hỗ trợ phát triển sản xuất kinh doanh",
+          "title": "Ông Trump gỡ bỏ thuế một số sản phẩm của Canada",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/agribank-giam-lai-suat-cho-vay-ho-tro-phat-trien-san-xuat-kinh-doanh-5136224.html",
-          "published_at": "2026-10-24T01:00:00+00:00",
-          "summary": "Agribank giảm lãi suất cho vay đến 2,5% mỗi năm đối với dư nợ hiện hữu, đồng thời điều chỉnh lãi suất các khoản vay mới nhằm hỗ trợ khách hàng sản xuất kinh doanh."
+          "url": "https://vnexpress.net/ong-trump-go-bo-thue-mot-so-san-pham-cua-canada-5136499.html",
+          "published_at": "2026-10-24T17:03:00+00:00",
+          "summary": "Ông Trump gỡ bỏ thuế 50% một số sản phẩm nông - lâm nghiệp Canada để tạo lợi thế trước cuộc bầu cử giữa kỳ, nhưng nâng bù lên loạt mặt hàng khác."
         },
         {
-          "title": "Lãi suất tiết kiệm đã tăng 11 tháng liên tiếp",
+          "title": "Chủ hãng vodka Hà Nội lãi kỷ lục từ khi lên sàn",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/lai-suat-tiet-kiem-da-tang-11-thang-lien-tiep-5135955.html",
-          "published_at": "2026-10-23T05:54:57+00:00",
-          "summary": "Lãi suất huy động tiền gửi bình quân đã tăng liên tục từ tháng 10/2025, lên 8,1% với kỳ hạn 6-12 tháng, trước khi hạ nhiệt theo yêu cầu của Ngân hàng Nhà nước."
+          "url": "https://vnexpress.net/chu-hang-vodka-ha-noi-lai-ky-luc-tu-khi-len-san-5136341.html",
+          "published_at": "2026-10-24T17:01:00+00:00",
+          "summary": "Halico lãi sau thuế gần 5,5 tỷ đồng trong quý III, đảo chiều so với khoản lỗ cùng kỳ năm ngoái, nhờ doanh thu cải thiện và giá vốn giảm."
+        },
+        {
+          "title": "Con gái 24 tuổi của chủ tịch Nam A Bank làm tổng giám đốc hãng dược",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/con-gai-24-tuoi-cua-chu-tich-nam-a-bank-lam-tong-giam-doc-hang-duoc-5136393.html",
+          "published_at": "2026-10-24T08:20:07+00:00",
+          "summary": "Bà Trần Ngô Minh Anh, sinh năm 2002, được bổ nhiệm chức CEO Công ty cổ phần Dược phẩm Bến Tre sau 3 tháng làm phó tổng giám đốc doanh nghiệp này."
         }
       ]
     }
@@ -443,9 +429,9 @@
     {
       "category": "ai",
       "domain": "AI & công nghệ",
-      "items": 39,
-      "usable": 38,
-      "sources": 9
+      "items": 25,
+      "usable": 24,
+      "sources": 8
     },
     {
       "category": "world",
@@ -471,23 +457,23 @@
     {
       "category": "football",
       "domain": "Arsenal & Premier League",
-      "items": 15,
-      "usable": 15,
+      "items": 27,
+      "usable": 27,
       "sources": 3
     },
     {
       "category": "books",
       "domain": "Sách",
-      "items": 4,
-      "usable": 4,
+      "items": 7,
+      "usable": 7,
       "sources": 4
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
-      "items": 7,
-      "usable": 7,
-      "sources": 4
+      "items": 6,
+      "usable": 6,
+      "sources": 5
     },
     {
       "category": "trends",
@@ -499,67 +485,74 @@
   ],
   "links": [
     {
-      "a": "Rubio tells Cubans ‘now is the time’ to act to see political change",
-      "b": "Show HN: AI Crash Debugging Gauntlet",
+      "a": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+      "b": "Aston Villa 2-1 Manchester City: Premier League – as it happened - The Guardian",
       "terms": [
-        "comments",
-        "through"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Rubio tells Cubans ‘now is the time’ to act to see political change",
-      "b": "OpenAI now trains its frontier AI models with no internet access",
-      "terms": [
-        "friday",
-        "post"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
-      "b": "Show HN: AI Crash Debugging Gauntlet",
-      "terms": [
-        "more",
-        "news"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
-      "b": "Meta delays new business terms after publisher pushback on AI scraping",
-      "terms": [
-        "earlier",
-        "news",
-        "reported"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
-      "b": "Why romantic relationships matter more to men than to women",
-      "terms": [
-        "more",
-        "than",
-        "women"
+        "first",
+        "record"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
       "a": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
-      "b": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "b": "I think there is a lot of room for a new CT creator-focused product to go on a run. InfoFi in 2025 was a direct reaction to, and rejection of, the memecoin run the year before, which much like today, extracted heavily from retail and was incredibly harmful to new en - X",
       "terms": [
-        "human",
-        "take"
+        "there",
+        "year"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Show HN: AI Crash Debugging Gauntlet",
-      "b": "Big news: @Kimi_Moonshot is back in the top-4 labs in the Code Arena: WebDev with the release of Kimi K3.1 Pro! This model just landed #8 in the Code Arena: WebDev with 1692 pts, matching Claude Opus-5 (Max) at 70% lower cost. This is a 9 place jump ( - X",
+      "a": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+      "b": "The 2026 Booker Prize Shortlist: The Novels the Entire Literary World Is Talking About Right Now - UA.NEWS",
       "terms": [
-        "just",
+        "right",
+        "world"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
+      "b": "Should Palmer have been sent off earlier than he was?",
+      "terms": [
+        "earlier",
+        "sent"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
+      "b": "Arsenal vs Everton: Premier League preview, team news, stats & head-to-head - BBC",
+      "terms": [
+        "news",
+        "post"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
+      "b": "Meta delays new business terms after publisher pushback on AI scraping",
+      "terms": [
+        "earlier",
         "news"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
+      "b": "Why romantic relationships matter more to men than to women",
+      "terms": [
+        "told",
+        "women"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Making the case for context-aware AI",
+      "b": "The most powerful storytelling engine isn't AI. It's imagination. AI should help bring it to life. Meet OptimAI Story Studio: turn an idea into illustrated storybooks, manga or comics—with Creative Agents, recurring characters and narration. 💛 https://t.co/2QGP4qMm - X",
+      "terms": [
+        "help",
+        "powerful"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }

@@ -1,64 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-26T04:48:05.333060+00:00",
-  "input_generated_at": "2026-10-26T04:48:05.267410+00:00",
+  "generated_at": "2026-10-27T05:05:38.375303+00:00",
+  "input_generated_at": "2026-10-27T05:05:38.317540+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
   "items_after_dedup": 150,
   "signals": [
     {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
-      "summary": "arXiv:2610.31882v1 Announce Type: new Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives industry-standard electronic-design-automation (EDA) tools such as Cadence Virtuoso/Spectre, Calibre, Cadence EMX, and Ansys HFSS to design RF and mmWave modules. We validate the framework through the agentic design of a 240-251 GHz sub-THz transmitter in a 90 nm SiGe BiCMOS process. The agent semi-autonomously designed the sub-blocks including a 60 GHz push-push Colpitts VCO with second-harmonic extraction, multistage differential cascode power drivers, a push-push frequency doubler, a differential bowtie antenna, and all the interstage matching networks. The transmitter chain with parasitic-extracted devices and EM-verified passives delivers +5.1 to +6.3 dBm across an 11 GHz varactor-only tuning range, phase noise of -80 to -88 dBc/Hz at 1 MHz offset while consuming a DC power of 361 mW. We describe the agent-driven design flow and the resulting division of labor between human and agent, taking a step toward a \"text-to-ASIC\" future for d",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2610.31882",
-      "published_at": "2026-10-26T04:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
-      "summary": "arXiv:2610.31971v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to manipulation, particularly in repeated multi-party interactions. Classical multi-agent systems address this challenge through explicit trust and reputation models, whereas existing work on LLM negotiation largely treats trust as an emergent phenomenon. We investigate whether LLM agents can form useful trust estimates from prior interactions and leverage them to improve future negotiation outcomes. We introduce a repeated, multi-party, multi-issue negotiation framework in which recurring agents participate in a sequence of negotiation games while one participant covertly attempts to prevent agreement. After each game, agents assess their counterparts and maintain pairwise trust estimates that carry over to subsequent negotiations. We compare trust-aware and trust-agnostic agents and analyze how explicit trust influences negotiation outcomes. Our results reveal a \\emph{trust--agreement gap}: trust-aware agents can identify the adversary within a few games, but accurate trust estimates do no",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2610.31971",
-      "published_at": "2026-10-26T04:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
-      "summary": "arXiv:2610.31985v1 Announce Type: new Abstract: LLM agents are increasingly deployed in collaborative settings where they pursue separate tasks while sharing resources and operating under review or oversight processes. Such settings create safety risks not only when agents are malicious, but also when they are simply trying to help. Prior work has largely studied adversarial or explicitly collusive behavior; we show that benign agents pursuing separate objectives can spontaneously cooperate in ways that bypass intended workflows. We call this the \\emph{helpful agent problem}. We study long-horizon shared-resource environments in which agents sometimes depend on resources owned by their peers and cross-owner changes are normally mediated by a reviewer. When review becomes unavailable, agents begin making changes on one another's behalf despite having no shared reward or explicit incentive to cooperate. Crucially, these actions remain within each agent's local permissions while circumventing the system's intended oversight structure. We introduce \\textsc{FavorBench}, a controlled benchmark with measurable downstream side effects, and adapt \\textsc{CooperBench} to test the phenomenon ",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2610.31985",
-      "published_at": "2026-10-26T04:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Australia politics live: Plibersek notes ‘industrial scale of abuse’ but urges young women not to be turned off entering politics",
-      "summary": "Follow live updates Get our daily political email , free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter. We absolutely need to make sure there is more civility and respect. Social media is a platform where they can send abuse and threats through direct messages, call my electorate office, or send pretty revolting stuff It’s just quite shocking how disconnected from manners and reality sometimes people get when they launch into their diatribes and make threats. There’s been a lot of money and a lot of effort and a lot of thought going into security here at Parliament House. I think the vulnerability is actually when we’re out doing our job in the community, and that’s probably where we need to put the focus. Continue reading...",
+      "title": "Australian politics live: Coalition tells Albanese to ‘stop the spin’ on $6m golf grant; Labor promises ‘swift response’ on MP safety",
+      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’, Anne Ruston says A day after MPs addressed the House of Representatives paying tribute to the independent Helen Haines , who was injured after an alleged attack in her electorate, the Liberal senator Anne Ruston maintains that respect is necessary in political debate. What we do here sets the tone for what the rest of the nation thinks is acceptable. There is a huge responsibility on politicians, not to shy away from robust debate. I don’t want anyone to think that we shouldn’t be having strong debate. It’s simply out of control in an online world and we’ve got to make the platforms accountable. Facebook is the worst in terms of the platforms, Instagram and TikTok less so, but still bad. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-      "published_at": "2026-10-26T04:29:37+00:00",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+      "published_at": "2026-10-27T04:46:35+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -69,11 +24,26 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
+      "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
+      "summary": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. What comes next for Brazil? The Guardian’s Tom Phillips will be answering your questions from 15:00 GMT today. Ask a question: log in or sign up here to comment, or email conversations@theguardian.com After losing the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva, better known simply as Lula, pulled off the most stunning political fightback in modern Brazilian history by winning the second, in so doing securing a fourth presidential term. It will see him become the country’s longest-serving leader. The result – 51.79% to Lula, 48.21% to Bolsonaro – was delivered after a supreme court judge had extended polling time by two hours, and after Lula’s camp accused their opponents of sabotaging public transport in an attempt to keep their voters from the polls. It was the first time in Brazilian electoral history that a first-round verdict had been overturned. Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+      "published_at": "2026-10-27T00:00:03+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "Brazil runoff as it happened: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
       "summary": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second round results The local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of the municipal transport secretary, Pablo Souza, on suspicion of an electoral offence and disobeying court orders. The arrest warrant could not be carried out, however, because he is in Paris on what the city government described as an “official mission”, and is not expected to return to Brazil until Monday. Late in the afternoon, Flávio Bolsonaro also filed requests for voting to be extended by two hours in cities in the states of São Paulo, Paraná and Santa Catarina, but because of heavy rain that he said had prevented voters from turning out. Continue reading...",
       "source": "The Guardian World",
       "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-      "published_at": "2026-10-26T04:14:28+00:00",
+      "published_at": "2026-10-26T17:10:31+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -82,43 +52,58 @@
       "score": 37
     },
     {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial",
-      "summary": "Former police officer accused of shooting dead Jesse Baird and Luke Davies apologised to friend, acknowledging ‘you’re involved because of me’ Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast A covert recording captured Beau Lamarre-Condon telling a friend during a meeting in prison in December last year, “I fully take accountability that you’re involved because of me now,” a Sydney court has heard. Lamarre-Condon, 31, is accused of fatally shooting couple Jesse Baird and Luke Davies with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
-      "published_at": "2026-10-26T03:26:57+00:00",
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Collaborative In-Context Learning for Indoor Radio Map Estimation",
+      "summary": "arXiv:2610.31702v1 Announce Type: new Abstract: Indoor radio map estimation (RME) is essential for wireless applications such as coverage planning, localization, and network deployment. However, most existing methods follow a supervised learning paradigm that requires costly labeled data and task-specific model training. Moreover, indoor environments involve privacy-sensitive information, such as building layouts and structures, that often cannot be centralized. To address these challenges, we make the first attempt to formulate indoor RME as a collaborative in-context learning (ICL) problem. We propose Poly-Ripple, a framework in which multiple clients perform ICL using large autoregressive vision models (LAVMs) without model updates. Each client is prompted by its private demonstrations and predicts the radio map for the same scene query. To capture the causal structure of wireless propagation outward from the transmitter (Tx), we adopt ripple-ordered autoregressive modeling. We further introduce importance-aware aggregation to exploit heterogeneous contextual knowledge distributed across clients under the context length constraint. We provide theoretical analysis and conduct ext",
+      "source": "arXiv Machine Learning",
+      "url": "https://arxiv.org/abs/2610.31702",
+      "published_at": "2026-10-27T04:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 33
+      "score": 37
     },
     {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Manchester United vs Bournemouth: Premier League preview, team news, stats & head-to-head - BBC",
-      "summary": "Manchester United vs Bournemouth: Premier League preview, team news, stats & head-to-head BBC Hapless and hopeless Man Utd bring curtain down on out-of-depth Carrick The Telegraph Premier League LIVE: Sunderland host Leeds after Michael Carrick's Man Utd lose to Bournemouth BBC",
-      "source": "Google News Premier League",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OcVNjcGdqUDgtM21FVVNqVk93ZzdFbDlIcEt1OHlHaDctSC16aWU2U2pMZ19JeDJXdGFfckMtaVFRdVVwaVBVak9FZl84YVBLekFHRE5SLXlFNklFMl9qNWRRWWNqQQ?oc=5",
-      "published_at": "2026-10-25T21:31:59+00:00",
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Towards Adversarially Robust Multigraph Neural Networks for Financial Crime Analysis",
+      "summary": "arXiv:2610.31718v1 Announce Type: new Abstract: Financial transaction networks are naturally represented as multigraphs, where repeated transactions between the same pair of accounts are modeled as distinct edges. Recently proposed multigraph neural network architectures leverage this structure explicitly to achieve a strong performance on anti-money laundering (AML) tasks. However, their robustness to adversaries that manipulate transaction structures to evade detection remains largely unexplored. We present the first scalable framework for structural attacks and adversarial training of multigraph neural networks using node-edge incidence matrices, adapting projected gradient descent and projected randomized block coordinate descent methods to optimize structural perturbations over such matrices. We further introduce a cycle-based regularizer that penalizes changes in the global counts of directed 2- and 3-cycles, providing a structural measure of attack plausibility. Experiments on synthetic pattern-detection and realistic AML datasets show that our learned attacks substantially outperform non-learnable perturbation baselines in reducing detection performance (PR-AUC), while adve",
+      "source": "arXiv Machine Learning",
+      "url": "https://arxiv.org/abs/2610.31718",
+      "published_at": "2026-10-27T04:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 21
+      "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Cognitively Constrained Partners for Zero-Shot Coordination in Real-Time Partitioned Control",
+      "summary": "arXiv:2610.31726v1 Announce Type: new Abstract: Effective human-machine teaming requires agents that coordinate with unpredictable human partners. Reinforcement learning from live human feedback or large behavioural datasets is expensive, while purely simulated training overfits to artificial conventions and fails at Zero-Shot Coordination with real people. We propose a framework for training teaming agents against Cognitively Constrained Partners: simulated partners whose diversity emerges from procedural constraints grounded in human physiological literature, specifically reaction delays and perceptual limitations, rather than from reward shaping or historical training checkpoints. In a modified Lunar Lander environment, we report preliminary evidence that these partners play more like real people than unconstrained agents do, and that agents trained against them match the strongest cross-play baselines while being the only ones whose performance does not depend on how their training partners were generated. We also describe a human-participant study designed so that its rankings can be compared directly against cross-play, testing how well that standard evaluation predicts real ",
+      "source": "arXiv Machine Learning",
+      "url": "https://arxiv.org/abs/2610.31726",
+      "published_at": "2026-10-27T04:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
     },
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Isak applies finishing touch as Liverpool bring Brighton’s winning run to an end - The Guardian",
-      "summary": "Isak applies finishing touch as Liverpool bring Brighton’s winning run to an end The Guardian Liverpool 2-0 Brighton: Alexander Isak scores again as Reds beat in-form Seagulls in Premier League BBC Liverpool 2-0 Brighton free highlights Sky Sports",
-      "source": "Google News Premier League",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQkJpR0dXNGVuNnBSNWhmazRBRVloYm1OMzVlQkNnVTZmUklGQXhoR1dVclNReVpNZGhjdktKNFJ3dGtoS0NhdXJldjhsdnFKcEZaUkplcjFqWnhmVzFRaXBrWmducjR1REJZWERoRjc2bXNZTUh5RjA4T09WUmNtdUpjYzZyVFVNSWxSRlJuSzRsMjZuWGQxX2pNaw?oc=5",
-      "published_at": "2026-10-25T22:41:00+00:00",
+      "title": "Weir 25th in Ballon d'Or and joins Olid & Cuthbert in award shortlist",
+      "summary": "Caroline Weir is ranked the 25th best women footballer in the world on the day she also joined fellow Scotland midfielder Erin Cuthbert and Manchester United head coach Eva Olid on the shortlist for the Scottish Women's Football Awards 2026.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckd6dzv7w85go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T16:59:33+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -129,11 +114,26 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "NFL TRENDS THREAD 🏈 Five player prop trends you need to be across before Sunday Night Football between the Chiefs and the Seahawks. 1. Jaxon Smith-Njigba Smith-Njigba has recorded more than 89.5 receiving yards in 5 of his last 6 appearances. Di - X",
-      "summary": "NFL TRENDS THREAD 🏈 Five player prop trends you need to be across before Sunday Night Football between the Chiefs and the Seahawks. 1. Jaxon Smith-Njigba Smith-Njigba has recorded more than 89.5 receiving yards in 5 of his last 6 appearances. Di X",
+      "title": "Training gallery: Focused on Fleetwood - Arsenal.com",
+      "summary": "Training gallery: Focused on Fleetwood Arsenal.com Mikel Arteta warns Arsenal stars over complacency against Fleetwood after recalling big Carabao Cup upset London Evening Standard Fleetwood Town vs Arsenal: League Cup stats & head-to-head BBC",
+      "source": "Google News Arsenal",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX2FCSmxVUFNTRWZlTDJudFRkOEpsZGhKOFR1WlMwV0I2djVVYm5VV2tCelFFR3FOMUNlcXBzWlpoMnlwT1hLeTBTaHBMYzlLejNUSV9pT2dYSUZnaFo3SmtDV2s3SG1CU1VqUFdIY29OeTJxeFNMX2RXNUpxTzVHM2ZSYV9Udw?oc=5",
+      "published_at": "2026-10-26T14:50:57+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "#ONEPIECE1197 Time to spread my usually Vinsmoke Romeo hype Post: \"Greatest of all time. Zenith of the Medium Shield of Joyboy Gold Standard of storytelling Apogee of Creativity Vertex of invention Crest of Ingenuity Acme of Imagination Pinnacle of inno - X",
+      "summary": "#ONEPIECE1197 Time to spread my usually Vinsmoke Romeo hype Post: \"Greatest of all time. Zenith of the Medium Shield of Joyboy Gold Standard of storytelling Apogee of Creativity Vertex of invention Crest of Ingenuity Acme of Imagination Pinnacle of inno X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBENHNjMVZfNjJFT3BQX0daRUhsMEQyTHRMN0Njb1lVNmFJZlVhTnR5V1VZYjlfSFBSODNjT0RIVjYwQnl1X0JPODZwaXU4ZEt4aVZBSlJxajRHaGI5Rkpr?oc=5",
-      "published_at": "2026-10-25T18:57:02+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44c3BvZW80YlpqNmg4ajhXS05YWWFsalVhb01Xc1ZtWDcwbUpveEtxQmY5NnhKaEpTSDF1Q1ltTm5wdGh2OGVSeUI0LTFMT1B1TU1vb25aWVB1eXI2aE5Ocg?oc=5",
+      "published_at": "2026-10-26T17:14:14+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -142,13 +142,13 @@
       "score": 20
     },
     {
-      "domain": "Sách",
-      "category": "books",
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow […]",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "published_at": "2026-10-23T14:47:41+00:00",
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Arsenal eye Monza striker Varela - Tuesday's gossip",
+      "summary": "Portuguese striker Gustavo Varela is on Arsenal's radar, Crystal Palace want to keep winger Ismaila Sarr, Brighton defender Luka Vuskovic receives admiring glances from some of Europe's biggest clubs, plus more.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3vq7l22yk9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-26T21:38:42+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -159,11 +159,41 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "TP HCM kỳ vọng thành nơi hội tụ dòng vốn, công nghệ toàn cầu",
-      "summary": "TP HCM muốn định vị lại vai trò trên bản đồ kinh tế toàn cầu, trở thành điểm đến của dòng vốn, công nghệ và tri thức quốc tế, thông điệp được thành phố phát đi tại Diễn đàn Kinh tế Mùa thu 2026 tuần này.",
-      "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/tp-hcm-ky-vong-thanh-noi-hoi-tu-dong-von-cong-nghe-toan-cau-5136696.html",
-      "published_at": "2026-10-26T02:43:13+00:00",
+      "title": "Đại biểu đề nghị giữ án tử hình với tội hiếp dâm trẻ em, mua bán ma túy",
+      "summary": "Đại biểu Nguyễn Thanh Sang đề nghị tiếp tục áp dụng án tử hình với những trường hợp hiếp dâm trẻ em đặc biệt nghiêm trọng và người cầm đầu, mua bán ma túy với số lượng đặc biệt lớn.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/dai-bieu-de-nghi-giu-an-tu-hinh-voi-toi-hiep-dam-tre-em-mua-ban-ma-tuy-5137278.html",
+      "published_at": "2026-10-27T03:27:53+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Fun Fact: 'BLEACH' Creator Tite Kubo Voiced Kon in the very first BLEACH Anime, the 2004 Jump Festa OVA 'Memories in the Rain'. Character Designer Masashi Kudo reminded fans after the Finale. - X",
+      "summary": "Fun Fact: 'BLEACH' Creator Tite Kubo Voiced Kon in the very first BLEACH Anime, the 2004 Jump Festa OVA 'Memories in the Rain'. Character Designer Masashi Kudo reminded fans after the Finale. X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tSWlYZmI0RG1iNVdERndQOTFDUno3V3R1Qk1Qd2x3X19oR21ScUMtd1ZkZ2YyU0VjeGJWNS0xV0JMUzhSaVNKTzQ5NUk5TUFhbUZLRWhYX1B2V3lud2xscA?oc=5",
+      "published_at": "2026-10-26T18:24:14+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "When you think about it, the creator supercycle never stopped, it's just different creators profiting now, launchpad deals go into six figures, and callout rewards hit five figures a day - X",
+      "summary": "When you think about it, the creator supercycle never stopped, it's just different creators profiting now, launchpad deals go into six figures, and callout rewards hit five figures a day X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aNEpFSl8yTVdxdk9zOVhpX0NUWDJfcWw3X1BNR2xKb0NYRFZCeWdCV3JUUUFRN3g0bjdtc2lycWFNZXJ6VVVESVRkSVpsa3FTdzc2R3NqcU50WU5xY1NRTA?oc=5",
+      "published_at": "2026-10-26T07:47:12+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -174,11 +204,11 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Bộ trưởng Vũ Hải Quân: Sửa luật đo lường để bảo vệ quyền lợi người tiêu dùng",
-      "summary": "Bộ trưởng Khoa học và Công nghệ Vũ Hải Quân khẳng định việc sửa Luật Đo lường phải bảo vệ quyền lợi người tiêu dùng, nhất là trong các giao dịch điện, nước, xăng dầu hàng ngày.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/bo-truong-vu-hai-quan-sua-luat-do-luong-de-bao-ve-quyen-loi-nguoi-tieu-dung-5136830.html",
-      "published_at": "2026-10-26T04:03:59+00:00",
+      "title": "Chuyên gia: Mua sắm công nên ưu tiên vật liệu tái chế",
+      "summary": "Ưu tiên sản phẩm dùng vật liệu tái chế trong mua sắm công để tạo đầu ra ổn định, giảm rủi ro đầu tư và thúc đẩy doanh nghiệp phát triển kinh tế tuần hoàn, theo chuyên gia.",
+      "source": "VnExpress Kinh doanh",
+      "url": "https://vnexpress.net/chuyen-gia-mua-sam-cong-nen-uu-tien-vat-lieu-tai-che-5137231.html",
+      "published_at": "2026-10-27T03:53:42+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -189,11 +219,11 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Coca-Cola, Nestlé sửa nhãn gây hiểu lầm về chai nhựa '100% tái chế' tại EU",
-      "summary": "Doanh nghiệp sửa nhãn chai nhựa \"100% làm từ vật liệu tái chế\", và \"hãy tái chế tôi lần nữa\" tại châu Âu, tránh tẩy xanh theo quy định của khu vực này.",
+      "title": "Công ty dẫn đầu thị phần môi giới chứng khoán giảm gần 300 nhân viên",
+      "summary": "VPS, công ty chứng khoán đứng đầu thị phần môi giới trên cả 3 sàn, giảm 286 nhân sự trong quý III, đồng thời ghi nhận doanh thu nghiệp vụ này lao dốc mạnh.",
       "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/coca-cola-nestle-sua-nhan-gay-hieu-lam-ve-chai-nhua-100-tai-che-tai-eu-5136833.html",
-      "published_at": "2026-10-26T03:50:15+00:00",
+      "url": "https://vnexpress.net/cong-ty-dan-dau-thi-phan-moi-gioi-chung-khoan-giam-gan-300-nhan-vien-5137319.html",
+      "published_at": "2026-10-27T03:11:27+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -204,32 +234,17 @@
     {
       "domain": "Sách",
       "category": "books",
-      "title": "International Booker 2020: Author Marieke Lucas Rijneveld, translator Michele Hutchison win for The Discomfort of Evening - شبكة تواصل الإخبارية",
-      "summary": "International Booker 2020: Author Marieke Lucas Rijneveld, translator Michele Hutchison win for The Discomfort of Evening شبكة تواصل الإخبارية",
-      "source": "Google News International Book Awards",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hQzc4cWhuM3NqUEY2LUhsX1laV05BQzkydFF5N2ZPRVhDRDJzeV9fSXJfNG9TaVpockpnSzhldnBlcmRya0FUZGRkczlET01CT3dV?oc=5",
-      "published_at": "2026-10-25T23:25:59+00:00",
+      "title": "How to build real peace",
+      "summary": "From Colombia to Syria, I’ve seen that capitalist logic can’t help to rebuild postwar countries but cooperatives can - by Azize Aslan Read on Aeon",
+      "source": "Aeon Essays",
+      "url": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
+      "published_at": "2026-10-26T10:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
       "score": 16
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "Tyler, The Creator in attendance for the El Clásico today ⚽️🔥 FC Barcelona are wearing his GOLF logo on their kits. - X",
-      "summary": "Tyler, The Creator in attendance for the El Clásico today ⚽️🔥 FC Barcelona are wearing his GOLF logo on their kits. X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50VS1BaU03emxDNjNPNmNGZHRjSzRZRVpNM01pZ3ZDX3V0NjJaOHNRU25zMTNPYU5UVHYyS2ZDeUUtSEg5LWJsM0FYUjFxZE9TWE1JZ3NXT09fNUdHb2djd0tnbXdQVGtSb1EtMw?oc=5",
-      "published_at": "2026-10-25T19:55:09+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 15
     },
     {
       "domain": "Sách",
@@ -247,19 +262,19 @@
       "score": 12
     },
     {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "Base makeup on @lukie for the Content Creator Awards🎨 #MakeupTutorial #GRWM #jaypharasimakeup #lukie #fypシ゚viral - TikTok",
-      "summary": "Base makeup on @lukie for the Content Creator Awards🎨 #MakeupTutorial #GRWM #jaypharasimakeup #lukie #fypシ゚viral TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tdjcxSFRKSXRxc3BqcmFySTBSeGlmU3FaMDVVWXRrbmFLclluTWNGMzMwdDVkRHdsc2xHdXdIaU9yYXZRd3pwR3g3dzZWcWdYZUtVbVM2V1FkWG5NSmxKZndsNHFKUWVIeGFVQQ?oc=5",
-      "published_at": "2026-10-24T08:57:29+00:00",
+      "domain": "Sách",
+      "category": "books",
+      "title": "When it started to burn",
+      "summary": "Horrific violence, enduring terror and ceaseless solidarity: four years of war through the eyes of Ukrainian civilians - by Aeon Video Watch on Aeon",
+      "source": "Aeon Essays",
+      "url": "https://aeon.co/videos/what-four-years-of-ceaseless-war-looks-like-to-ukrainian-civilians",
+      "published_at": "2026-10-21T10:01:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 12
+      "score": 11
     }
   ],
   "themes": [
@@ -269,37 +284,23 @@
       "status": "Mẫu hình cần kiểm chứng",
       "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
       "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
-      "evidence_count": 4,
-      "source_count": 3,
+      "evidence_count": 2,
+      "source_count": 2,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Bulgaria's Yotova narrowly leads Gyurov in first round of presidential election, according to exit polls",
-          "source": "Euronews",
-          "url": "https://www.euronews.com/2026/10/25/bulgaria-votes-for-president-in-election-dominated-by-ukraine-war-and-the-economy",
-          "published_at": "2026-10-25T10:59:15+00:00",
-          "summary": "The campaign has focused on Russia’s invasion of Ukraine and an increase in drone attacks on commercial vessels off Bulgaria's coast in the Black Sea, as well as rising energy prices and inflation."
+          "title": "AOS-Bench: Can LLM Agents Manage Dynamic Workloads?",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2610.33178",
+          "published_at": "2026-10-27T04:00:00+00:00",
+          "summary": "arXiv:2610.33178v1 Announce Type: new Abstract: Coding agents are moving from handling one request at a time to serving as persistent assistants to which users hand a stream of work: a build, a data-processing job and a bug fix may all be pending on the same machine at once. Such an agent must decide when to take on new tasks, how to delegate and overlap them, and how to stay within the machine's CPU and memory. Existing benchmarks cannot measure this, because they evaluate each task in isolatio"
         },
         {
-          "title": "Người tiêu dùng thận trọng chi tiêu",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/nguoi-tieu-dung-than-trong-chi-tieu-5136664.html",
-          "published_at": "2026-10-25T11:28:58+00:00",
-          "summary": "Tiêu dùng tăng hai con số nhưng một phần do vật giá leo thang, còn người dân vẫn thận trọng mua sắm, cần tăng kích cầu, kiểm soát lạm phát."
-        },
-        {
-          "title": "Giá dầu thế giới giảm từ đỉnh 6 tháng",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/gia-dau-the-gioi-giam-tu-dinh-6-thang-5136819.html",
-          "published_at": "2026-10-26T02:47:06+00:00",
-          "summary": "Mỗi thùng dầu mất gần 2% trong phiên sáng 26/10, hạ nhiệt sau vài phiên liên tiếp đi lên vì xung đột Trung Đông."
-        },
-        {
-          "title": "Currency markets subdued ahead of pivotal central bank week - Reuters",
-          "source": "Reuters via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlRGQXNlMDJDS0ZlQnJqVlI0Q3FOUUhyZmpfcUY2TDJNOTA5a0NDMEc5QWpKZ3NrQlZ0QWJSMERlU2wzQlFxcWF0OVFRVlNOSUYydEdiaU5LaTFvVDMxTk5NWTF6NVVFZEdRcW8tOHpZRnlmWDhiRnV3QlllYnVtVldqTGllWmY2RnF1MWVlMFRBT0xWbHliN3pWM3NhQnNzRV80ZHJ5T0M?oc=5",
-          "published_at": "2026-10-26T02:02:00+00:00",
-          "summary": "Currency markets subdued ahead of pivotal central bank week Reuters"
+          "title": "Brazil’s currency plunges most since 1999 after Lula’s election victory - Financial Times",
+          "source": "Financial Times via Google News",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQclRjV0ZBdGp1cGRkYzk0bWN2SXVyakx5OXlmSnJoTGpXV3p6WWNESks5R0pXN0lGUHJUVEdYQ0h1eEdaQmpTZUdXSm9OQ2lMRWxPcUVZeEJJbFk1SlBpNFhKeG9oNjl2aC02RDdOU2Vxd2ZQNXZobUdETzhOR053NVVkOXI?oc=5",
+          "published_at": "2026-10-26T11:41:31+00:00",
+          "summary": "Brazil’s currency plunges most since 1999 after Lula’s election victory Financial Times"
         }
       ]
     },
@@ -314,32 +315,32 @@
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2610.31882",
-          "published_at": "2026-10-26T04:00:00+00:00",
-          "summary": "arXiv:2610.31882v1 Announce Type: new Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives industry-standard electronic-design-automation (EDA) tools such as Cadence Virtuoso/Spectre, Calibre, Cadence EMX, and Ansys HFSS to design RF and mmWave modules. We validate the framework through the agentic design of a 240-251 GHz sub-THz transmitter "
-        },
-        {
-          "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2610.31971",
-          "published_at": "2026-10-26T04:00:00+00:00",
-          "summary": "arXiv:2610.31971v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to manipulation, particularly in repeated multi-party interactions. Classical multi-agent systems address this challenge through explicit trust and reputation models, whereas existing work on LLM negotiation largely treats trust as an emergent phenomenon. We investigate whether LLM agents can form useful "
-        },
-        {
-          "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2610.31985",
-          "published_at": "2026-10-26T04:00:00+00:00",
-          "summary": "arXiv:2610.31985v1 Announce Type: new Abstract: LLM agents are increasingly deployed in collaborative settings where they pursue separate tasks while sharing resources and operating under review or oversight processes. Such settings create safety risks not only when agents are malicious, but also when they are simply trying to help. Prior work has largely studied adversarial or explicitly collusive behavior; we show that benign agents pursuing separate objectives can spontaneously cooperate in w"
-        },
-        {
           "title": "Towards Adversarially Robust Multigraph Neural Networks for Financial Crime Analysis",
           "source": "arXiv Machine Learning",
           "url": "https://arxiv.org/abs/2610.31718",
-          "published_at": "2026-10-26T04:00:00+00:00",
+          "published_at": "2026-10-27T04:00:00+00:00",
           "summary": "arXiv:2610.31718v1 Announce Type: new Abstract: Financial transaction networks are naturally represented as multigraphs, where repeated transactions between the same pair of accounts are modeled as distinct edges. Recently proposed multigraph neural network architectures leverage this structure explicitly to achieve a strong performance on anti-money laundering (AML) tasks. However, their robustness to adversaries that manipulate transaction structures to evade detection remains largely unexplor"
+        },
+        {
+          "title": "Cognitively Constrained Partners for Zero-Shot Coordination in Real-Time Partitioned Control",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2610.31726",
+          "published_at": "2026-10-27T04:00:00+00:00",
+          "summary": "arXiv:2610.31726v1 Announce Type: new Abstract: Effective human-machine teaming requires agents that coordinate with unpredictable human partners. Reinforcement learning from live human feedback or large behavioural datasets is expensive, while purely simulated training overfits to artificial conventions and fails at Zero-Shot Coordination with real people. We propose a framework for training teaming agents against Cognitively Constrained Partners: simulated partners whose diversity emerges from"
+        },
+        {
+          "title": "AdaPRA: Process Reward Agents with Adaptive Rubrics for Data Science",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2610.33245",
+          "published_at": "2026-10-27T04:00:00+00:00",
+          "summary": "arXiv:2610.33245v1 Announce Type: new Abstract: Data science agents can automate end-to-end machine learning workflows, yet they remain far from competitive on human leaderboards. Agents make process errors such as insufficient exploration, unsound validation, coding bugs, and poor use of a fixed budget (re-running the same exploratory data analysis and baseline models in every attempt). We propose AdaPRA to address these issues: a persistent coding agent harness that accumulates knowledge acros"
+        },
+        {
+          "title": "AgentOrch: How Close Can Global Orchestration Come to Step-by-Step Interaction?",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2610.33375",
+          "published_at": "2026-10-27T04:00:00+00:00",
+          "summary": "arXiv:2610.33375v1 Announce Type: new Abstract: Enterprise workflow agents typically rely on step-by-step interaction (Step-by-Step): the agent executes an action, observes its result, and invokes a large language model (LLM) again to decide the next step. Global orchestration (Global) instead generates a complete executable workflow in advance and executes it without further LLM calls, substantially reducing inference overhead, but it remains less accurate than Step-by-Step. We study how close "
         }
       ]
     },
@@ -350,36 +351,36 @@
       "reading": "Các diễn biến chính trị và thương mại có thể ảnh hưởng đến vận tải, giá đầu vào hoặc quyết định đầu tư. Chưa thể suy ra tác động tới Việt Nam nếu chưa biết tuyến hàng, mặt hàng và mức độ phơi nhiễm.",
       "falsifier": "Bác bỏ nếu chưa có thay đổi chính sách/luồng hàng thực tế hoặc mặt hàng liên quan không gắn với Việt Nam.",
       "evidence_count": 4,
-      "source_count": 2,
+      "source_count": 3,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
           "title": "Collaborative In-Context Learning for Indoor Radio Map Estimation",
           "source": "arXiv Machine Learning",
           "url": "https://arxiv.org/abs/2610.31702",
-          "published_at": "2026-10-26T04:00:00+00:00",
+          "published_at": "2026-10-27T04:00:00+00:00",
           "summary": "arXiv:2610.31702v1 Announce Type: new Abstract: Indoor radio map estimation (RME) is essential for wireless applications such as coverage planning, localization, and network deployment. However, most existing methods follow a supervised learning paradigm that requires costly labeled data and task-specific model training. Moreover, indoor environments involve privacy-sensitive information, such as building layouts and structures, that often cannot be centralized. To address these challenges, we m"
         },
         {
           "title": "ConsMSA: Semantic Distribution Consistency Learning for Multimodal Sentiment Analysis",
           "source": "arXiv Machine Learning",
           "url": "https://arxiv.org/abs/2610.31731",
-          "published_at": "2026-10-26T04:00:00+00:00",
+          "published_at": "2026-10-27T04:00:00+00:00",
           "summary": "arXiv:2610.31731v1 Announce Type: new Abstract: Multimodal sentiment analysis (MSA) aims to predict human sentiments by integrating signals from different modalities such as text, video, and audio. However, raw multimodal sequences often suffer from semantic inconsistency--exhibiting redundancy or conflicts within and across modalities--which hinders robust understanding and increases computational cost. To this end, we introduce ConsMSA, which explicitly formalizes semantic distribution consist"
         },
         {
-          "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2610.31916",
-          "published_at": "2026-10-26T04:00:00+00:00",
-          "summary": "arXiv:2610.31916v1 Announce Type: new Abstract: A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-time reliability of tool-using AI agents, isolating recovery decisions from language-model behavior. Checkpoint state, permission to dispatch, evidence of an external effect and permission to reconcile are distinct obligations. We present a finite conformance study that checks these obligations throug"
+          "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+          "published_at": "2026-10-26T15:07:23+00:00",
+          "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversary of a mass atrocity that saw tens of thousands of civilians killed over several days. A year after the fall of El Fasher , the British government said it had sanctioned military leaders from both sides in the country’s"
         },
         {
-          "title": "Can Test-Time Memory Evolution Outperform Test-Time Training for Scientific Discovery?",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2610.32046",
-          "published_at": "2026-10-26T04:00:00+00:00",
-          "summary": "arXiv:2610.32046v1 Announce Type: new Abstract: Recent \\emph{test-time training} (TTT) frameworks have enabled open-weight large language models (LLMs) to outperform inference-only frameworks powered by frontier models on scientific discovery tasks. However, TTT introduces additional computational cost for online weight updates during the discovery process, making computational efficiency an important consideration when scaling to larger models. This motivates us to explore an efficient \\emph{te"
+          "title": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
+          "source": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-xml-mrss",
+          "published_at": "2026-10-26T15:16:00+00:00",
+          "summary": "The luxury carmaker is set to open its first factory in the United States — a move Trump credits to his tariffs. DW examines the German reaction amid a massive auto industry cull at home."
         }
       ]
     },
@@ -389,30 +390,37 @@
       "status": "Mẫu hình cần kiểm chứng",
       "reading": "Chỉ đáng nâng thành tín hiệu khi có văn bản hoặc số liệu gốc, phạm vi áp dụng và nhóm chịu tác động xác định được. Tin kinh doanh đơn lẻ chưa đủ để kết luận xu hướng kinh tế Việt Nam.",
       "falsifier": "Bác bỏ nếu không có văn bản/số liệu gốc hoặc nội dung không tạo thay đổi đáng kể với doanh nghiệp.",
-      "evidence_count": 3,
-      "source_count": 2,
-      "source_note": "Có nhiều nguồn trong batch",
+      "evidence_count": 4,
+      "source_count": 1,
+      "source_note": "Chỉ một nguồn xuất bản trong batch",
       "evidence": [
         {
-          "title": "Coca-Cola, Nestlé sửa nhãn gây hiểu lầm về chai nhựa '100% tái chế' tại EU",
+          "title": "Chuyên gia: Mua sắm công nên ưu tiên vật liệu tái chế",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/coca-cola-nestle-sua-nhan-gay-hieu-lam-ve-chai-nhua-100-tai-che-tai-eu-5136833.html",
-          "published_at": "2026-10-26T03:50:15+00:00",
-          "summary": "Doanh nghiệp sửa nhãn chai nhựa \"100% làm từ vật liệu tái chế\", và \"hãy tái chế tôi lần nữa\" tại châu Âu, tránh tẩy xanh theo quy định của khu vực này."
+          "url": "https://vnexpress.net/chuyen-gia-mua-sam-cong-nen-uu-tien-vat-lieu-tai-che-5137231.html",
+          "published_at": "2026-10-27T03:53:42+00:00",
+          "summary": "Ưu tiên sản phẩm dùng vật liệu tái chế trong mua sắm công để tạo đầu ra ổn định, giảm rủi ro đầu tư và thúc đẩy doanh nghiệp phát triển kinh tế tuần hoàn, theo chuyên gia."
         },
         {
-          "title": "Nữ công nhân 'rút ngắn từng giây' trên chuyền may xuất khẩu",
-          "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/nu-cong-nhan-rut-ngan-tung-giay-tren-chuyen-may-xuat-khau-5135926.html",
-          "published_at": "2026-10-25T17:00:00+00:00",
-          "summary": "Thay vì mất 139 giây hoàn thành sản phẩm, sáng kiến của chị Trần Thị Vân rút ngắn xuống còn 69 giây, năng suất tăng gấp đôi trong khi chất lượng giữ nguyên."
+          "title": "Microsoft đề xuất 60.000 nhân viên tự nguyện nghỉ việc",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/microsoft-de-xuat-60-000-nhan-vien-tu-nguyen-nghi-viec-5137242.html",
+          "published_at": "2026-10-27T03:30:00+00:00",
+          "summary": "Khoảng 25% nhân lực có thể nghỉ việc kèm trợ cấp của Microsoft, trong bối cảnh công ty muốn giảm chi phí và dồn đầu tư cho AI."
         },
         {
-          "title": "Ông Trump gỡ bỏ thuế một số sản phẩm của Canada",
+          "title": "MIK Group có Tổng giám đốc mới",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/ong-trump-go-bo-thue-mot-so-san-pham-cua-canada-5136499.html",
-          "published_at": "2026-10-24T17:03:00+00:00",
-          "summary": "Ông Trump gỡ bỏ thuế 50% một số sản phẩm nông - lâm nghiệp Canada để tạo lợi thế trước cuộc bầu cử giữa kỳ, nhưng nâng bù lên loạt mặt hàng khác."
+          "url": "https://vnexpress.net/mik-group-co-tong-giam-doc-moi-5137309.html",
+          "published_at": "2026-10-27T02:56:16+00:00",
+          "summary": "MIK Group bổ nhiệm Tổng giám đốc mới là bà Trần Thị Minh Thúy - người từng làm lãnh đạo tại các chủ đầu tư lớn như Alphanam, T&T Homes, Vinhomes."
+        },
+        {
+          "title": "Lãi suất tiết kiệm thế nào sau chỉ đạo của Ngân hàng Nhà nước",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/lai-suat-tiet-kiem-the-nao-sau-chi-dao-cua-ngan-hang-nha-nuoc-5136844.html",
+          "published_at": "2026-10-26T17:06:00+00:00",
+          "summary": "Lãi suất niêm yết đồng loạt giảm, mức ưu đãi thực tế tại nhiều ngân hàng \"hạ nhiệt\" nhưng vẫn neo cao phổ biến 8-9% một năm."
         }
       ]
     }
@@ -423,20 +431,20 @@
       "domain": "AI & công nghệ",
       "items": 40,
       "usable": 40,
-      "sources": 9
+      "sources": 11
     },
     {
       "category": "world",
       "domain": "Thế giới",
       "items": 65,
       "usable": 65,
-      "sources": 11
+      "sources": 12
     },
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 16,
-      "usable": 16,
+      "items": 19,
+      "usable": 19,
       "sources": 2
     },
     {
@@ -449,23 +457,23 @@
     {
       "category": "football",
       "domain": "Arsenal & Premier League",
-      "items": 23,
-      "usable": 23,
+      "items": 17,
+      "usable": 17,
       "sources": 3
     },
     {
       "category": "books",
       "domain": "Sách",
-      "items": 4,
-      "usable": 4,
-      "sources": 4
+      "items": 3,
+      "usable": 3,
+      "sources": 2
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
-      "items": 2,
-      "usable": 2,
-      "sources": 2
+      "items": 6,
+      "usable": 6,
+      "sources": 1
     },
     {
       "category": "trends",
@@ -477,75 +485,77 @@
   ],
   "links": [
     {
-      "a": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
-      "b": "NFL TRENDS THREAD 🏈 Five player prop trends you need to be across before Sunday Night Football between the Chiefs and the Seahawks. 1. Jaxon Smith-Njigba Smith-Njigba has recorded more than 89.5 receiving yards in 5 of his last 6 appearances. Di - X",
+      "a": "Australian politics live: Coalition tells Albanese to ‘stop the spin’ on $6m golf grant; Labor promises ‘swift response’ on MP safety",
+      "b": "Collaborative In-Context Learning for Indoor Radio Map Estimation",
       "terms": [
-        "across",
-        "between"
+        "follow",
+        "make"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
-      "b": "Australia politics live: Plibersek notes ‘industrial scale of abuse’ but urges young women not to be turned off entering politics",
+      "a": "Australian politics live: Coalition tells Albanese to ‘stop the spin’ on $6m golf grant; Labor promises ‘swift response’ on MP safety",
+      "b": "Towards Adversarially Robust Multigraph Neural Networks for Financial Crime Analysis",
       "terms": [
-        "call",
-        "sometimes"
+        "attack",
+        "robust",
+        "strong"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
-      "b": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
+      "a": "Australian politics live: Coalition tells Albanese to ‘stop the spin’ on $6m golf grant; Labor promises ‘swift response’ on MP safety",
+      "b": "Cognitively Constrained Partners for Zero-Shot Coordination in Real-Time Partitioned Control",
+      "terms": [
+        "control",
+        "live"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
+      "b": "Collaborative In-Context Learning for Indoor Radio Map Estimation",
+      "terms": [
+        "attempt",
+        "first",
+        "most"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
+      "b": "#ONEPIECE1197 Time to spread my usually Vinsmoke Romeo hype Post: \"Greatest of all time. Zenith of the Medium Shield of Joyboy Gold Standard of storytelling Apogee of Creativity Vertex of invention Crest of Ingenuity Acme of Imagination Pinnacle of inno - X",
+      "terms": [
+        "post",
+        "time"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Brazil runoff as it happened: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
+      "b": "Collaborative In-Context Learning for Indoor Radio Map Estimation",
+      "terms": [
+        "however",
+        "ordered"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Brazil runoff as it happened: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
+      "b": "Cognitively Constrained Partners for Zero-Shot Coordination in Real-Time Partitioned Control",
       "terms": [
         "also",
-        "local"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Australia politics live: Plibersek notes ‘industrial scale of abuse’ but urges young women not to be turned off entering politics",
-      "b": "Manchester United vs Bournemouth: Premier League preview, team news, stats & head-to-head - BBC",
-      "terms": [
         "live",
-        "news"
+        "report"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Australia politics live: Plibersek notes ‘industrial scale of abuse’ but urges young women not to be turned off entering politics",
-      "b": "NFL TRENDS THREAD 🏈 Five player prop trends you need to be across before Sunday Night Football between the Chiefs and the Seahawks. 1. Jaxon Smith-Njigba Smith-Njigba has recorded more than 89.5 receiving yards in 5 of his last 6 appearances. Di - X",
+      "a": "Brazil runoff as it happened: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
+      "b": "Weir 25th in Ballon d'Or and joins Olid & Cuthbert in award shortlist",
       "terms": [
-        "more",
-        "need"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Australia politics live: Plibersek notes ‘industrial scale of abuse’ but urges young women not to be turned off entering politics",
-      "b": "Why romantic relationships matter more to men than to women",
-      "terms": [
-        "matter",
-        "more",
-        "women"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial",
-      "b": "Manchester United vs Bournemouth: Premier League preview, team news, stats & head-to-head - BBC",
-      "terms": [
-        "live",
-        "news"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial",
-      "b": "NFL TRENDS THREAD 🏈 Five player prop trends you need to be across before Sunday Night Football between the Chiefs and the Seahawks. 1. Jaxon Smith-Njigba Smith-Njigba has recorded more than 89.5 receiving yards in 5 of his last 6 appearances. Di - X",
-      "terms": [
-        "between",
-        "last"
+        "also",
+        "world"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }

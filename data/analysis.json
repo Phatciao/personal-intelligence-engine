@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T05:49:07.767014+00:00",
-  "input_generated_at": "2026-10-29T05:49:07.706806+00:00",
+  "generated_at": "2026-10-30T05:49:40.153629+00:00",
+  "input_generated_at": "2026-10-30T05:49:40.103486+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
-  "items_after_dedup": 150,
+  "items_after_dedup": 149,
   "signals": [
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "We shouldn’t ‘blindly’ believe allegations of violence against women, Queensland’s new DV minister said in resurfaced comments",
-      "summary": "Concerns raised about appointment of former federal senator, Amanda Stoker, who has previously supported the rights of people accused of sexual assault Get our daily political email , free app or daily news podcast Women’s safety advocates have raised concerns about the appointment of rightwing Queensland MP Amanda Stoker as the state’s minister for the prevention of domestic violence in light of her resurfaced statements that people should not “blindly” believe women who make allegations of violence. Stoker, who was appointed to the role on Saturday, argued in a 2023 article that the recent push to believe complaints “rather than carefully assess[ing] relevant evidence” would harm innocent defendants. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "title": "Feral deer will become Australia’s next feral pig problem without prompt action, report warns",
+      "summary": "The invasive species has increased in spread and numbers and is costing farmers millions of dollars Get our breaking news email , free app or daily news podcast An unpublished government report on feral deer shows Australia is failing in its efforts to stop the spread of what one advocate warns could become “Australia’s next feral pig ”. The five years from 2020-2025 over which the national feral deer action plan was assessed covers a period in which the famously elusive species has increasingly encroached upon major cities, leading to more frequent encounters – including a memorable occasion in which two men in various degrees of undress were fined after becoming lost in the bush when they were spooked by deer while nude sunbathing . Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/29/amanda-stoker-qld-domestic-violence-dv-prevention-minister-comments-ntwnfb",
-      "published_at": "2026-10-29T04:22:22+00:00",
+      "url": "https://www.theguardian.com/environment/2026/oct/30/australia-feral-deer-problem-report-national-action-plan",
+      "published_at": "2026-10-30T03:30:42+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -24,11 +24,11 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Australian SAS officers knew about unlawful ‘throwdowns’ on dead Afghans, report says",
-      "summary": "Nothing done to stop planting weapons on dead Afghans, ADF inspector says, as ‘breakdown of command’ allowed ‘egregious behaviour’ Get our daily political email , free app or daily news podcast Some Australian SAS officers knew that soldiers under their command were using “throwdowns” – planting weapons on dead Afghan civilians to portray them as combatants – but did nothing to stop the unlawful practice, a previously unpublished military report has said. Posted online this week, the executive summary of a 2021 investigation into the “cultural context” of the special operations command by the inspector general of the Australian Defence Force (IGADF) is scathing about the “breakdown of command” and the erosion of military discipline during special forces operations in Afghanistan, which “resulted in episodes of potential and actual egregious behaviour”. Continue reading...",
+      "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+      "summary": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced while protection for the Amazon is strengthened. In a world where nature and democracy appeared to be bleeding out in tandem, voters and forest defenders in this global south powerhouse have shown it is possible to staunch the flow. This should provide much needed inspiration and, more practically, a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France. The astonishing comeback victory of Luiz Inácio Lula da Silva in Sunday’s presidential runoff against his extreme right challenger Flavío Bolsonaro has brought oceans of rapturous supporters on to the streets, while also thrilling conservationists, climate activists and social justice campaigners across the world. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/29/australian-sas-officers-knew-about-unlawful-throwdowns-on-dead-afghans-report-says-ntwnfb",
-      "published_at": "2026-10-29T00:30:25+00:00",
+      "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
+      "published_at": "2026-10-29T17:46:38+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -39,26 +39,56 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
-      "summary": "Pete Hoekstra, controversial US ambassador to Canada, has also accused Canadian officials of interfering in US elections The US ambassador has suggested Canada could be blamed if Republicans perform poorly in next week’s midterm elections, the latest intervention from a controversial figure who has been accused of inflaming a bitter dispute that has angered and baffled residents of both countries. On Wednesday, CTV news reported that Pete Hoekstra told business leaders at a closed door meeting that if a number of swing races – including Maine and Michigan – go to the Democrats, it could make things harder for Canada because Donald Trump might try to blame the loss on it. Continue reading...",
+      "title": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
+      "summary": "Victorian court of appeal rules Patterson should be jailed for life with no parole over deadly beef wellington lunch that killed three people Erin Patterson mushroom murders appeal – live updates Get our breaking news email , free app or daily news podcast Erin Patterson has lost her bid to overturn her convictions and been resentenced to life behind bars with no chance of release, as Victoria’s highest court handed down its decision on two appeals regarding her triple murder case . The court of appeal ruled on the two appeals on Friday, after justices Lesley Taylor, Stephen McLeish and Peter Kidd heard arguments from her legal team and prosecutors in August. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms",
-      "published_at": "2026-10-28T20:15:07+00:00",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
+      "published_at": "2026-10-30T05:31:26+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 35
+      "score": 34
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "[Outliers] K.C. Irving: How to Build an Empire on Your Own Terms",
+      "summary": "K.C. Irving refused to be stopped. When a railway raised his shipping costs, he bought a ship. When oil suppliers tried to squeeze him, he built a refinery. When a plant went on strike he pulled up to the picket line, took off his coat, and challenged the much larger union boss to a fight. … The post [Outliers] K.C. Irving: How to Build an Empire on Your Own Terms appeared first on Farnam Street .",
+      "source": "Farnam Street",
+      "url": "https://fs.blog/knowledge-project-podcast/outliers-kc-irving/",
+      "published_at": "2026-10-29T09:50:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 25
     },
     {
       "domain": "AI & công nghệ",
       "category": "ai",
-      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run […]",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-      "published_at": "2026-10-28T21:34:04+00:00",
+      "title": "Our climate models have a big, dangerous blind spot",
+      "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned that warming would propel further warming in various ways, but a growing number of…",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+      "published_at": "2026-10-29T10:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 24
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Man given first-of-its-kind religious exemption against mandatory AI use at work",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind Comments URL: https://news.ycombinator.com/item?id=50297601 Points: 2 # Comments: 1",
+      "source": "Hacker News AI Discussions",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
+      "published_at": "2026-10-29T23:15:33+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -69,26 +99,11 @@
     {
       "domain": "AI & công nghệ",
       "category": "ai",
-      "title": "Microsoft is ending Copilot support on smart TVs",
-      "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, […]",
+      "title": "AI has come for Arizona’s water",
+      "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one […]",
       "source": "The Verge AI",
-      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-      "published_at": "2026-10-28T18:36:26+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 23
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Meta quietly launched an ‘AI pet journal’ app",
-      "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with […]",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-      "published_at": "2026-10-28T11:27:30+00:00",
+      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "published_at": "2026-10-29T23:03:22+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -99,11 +114,26 @@
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "We're building a lot last week we launched Creator Wire Insights, and you made 1,000+ posts about it in 48 hours 🫶 and there's a lot more coming so, what should we launch next? tell us in the comments also, a few highlights from creators we've worked with fo - X",
-      "summary": "We're building a lot last week we launched Creator Wire Insights, and you made 1,000+ posts about it in 48 hours 🫶 and there's a lot more coming so, what should we launch next? tell us in the comments also, a few highlights from creators we've worked with fo X",
+      "title": "Reading posts by foreigners about Brazil, I get the impression that you're not aware of the full extent of the accusations against Sen. Flávio Bolsonaro, or of the available evidence of his corruption. So I'd like to kindly invite you to really get to know Flávio. A thre - X",
+      "summary": "Reading posts by foreigners about Brazil, I get the impression that you're not aware of the full extent of the accusations against Sen. Flávio Bolsonaro, or of the available evidence of his corruption. So I'd like to kindly invite you to really get to know Flávio. A thre X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wSjVDWHJQYy1yRmtKc2M2cVF6M1pxMkhab01qbm9WVTY5bS1vMEZoNlRoRTFNd0k5QWRVM25NdldxVU5iSGN1MWtDdkxSQllPNzVrYmRteVB0RnpSd2RCR042QQ?oc=5",
-      "published_at": "2026-10-28T12:23:47+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4YzdraEJWcC0xN3JxSEhXdXBlVEV5ejBQbElCZ0ZvQzJrcGQtWjQ5QTM3cl9UajFZbGlMUEROUDhxazZhX3NVa1VHZ1B1TGNXRnRpS1JYX2pScF9rUG1nenF5eVhFTWc?oc=5",
+      "published_at": "2026-10-29T12:23:47+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 21
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "How Arsenal’s ghost runners will HAUNT Virgil van Dijk in Halloween clash at Liverpool - The Sun",
+      "summary": "How Arsenal’s ghost runners will HAUNT Virgil van Dijk in Halloween clash at Liverpool The Sun Referee and match officials for Liverpool v Arsenal confirmed Liverpool FC Szoboszlai, Munoz, Frimpong - Liverpool injury news ahead of Arsenal Liverpool Echo",
+      "source": "Google News Arsenal",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Tai1xQ0dQaTFud25tYThkbVhkeEhfSEtwNnpXd29TQ3o1bVIzZzYwLV8zZ3F1U2RORlJ5T2xhbWZKXzY4OEtvUmx1WXA5Z2VXSDhqTFJ1TjBYc3RvZ3YzS29uRHVLTnRpZHZHSXZNZHowcXJhT0QxRTJVcXczYUE?oc=5",
+      "published_at": "2026-10-29T22:08:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -112,13 +142,73 @@
       "score": 20
     },
     {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Already creating with @adobefirefly?👀 The Creator Incubator Program is launching early 2027, and you can join the waitlist now to be the first to know when applications open! DM me FIREFLY for the link to join the waitlist 🧡 #AdobePartner - TikTok",
+      "summary": "Already creating with @adobefirefly?👀 The Creator Incubator Program is launching early 2027, and you can join the waitlist now to be the first to know when applications open! DM me FIREFLY for the link to join the waitlist 🧡 #AdobePartner TikTok",
+      "source": "Google News TikTok & Short-form Video",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85MW5JeEZZR2gxWF9tQ1FrVEs1RkhWeW43TzZVU2o4c2NtZFVaV2dablZoOE1DWWlsTmszQmJpOVE0bElxclIzSENwaGtUTlByaWk0WThMTlBkQ1BNMWcyMDVQUGthbzJuUVdyMUxhdjdDUHc?oc=5",
+      "published_at": "2026-10-29T23:25:56+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Everything about the new Pokémon Happy Meal. - Exclusive line-up of 15 mini Happy Meal boxes, each designed after a fan-favorite Pokémon. - Toys and cards already leaked (of course), but what everybody missed is that the mini boxes can be turned into c - X",
+      "summary": "Everything about the new Pokémon Happy Meal. - Exclusive line-up of 15 mini Happy Meal boxes, each designed after a fan-favorite Pokémon. - Toys and cards already leaked (of course), but what everybody missed is that the mini boxes can be turned into c X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DNVFSLUt2ZkVXQnMyaW81WWE2QklHdW5UYkpBZURDZ2E1cWx4OVNVZERNTGQ1TWZzNkhjdVA5elhZUDRZMEN4UTVlRkxCam5JNHUzdjduZWVOMnlIMmwyeHF4VTA?oc=5",
+      "published_at": "2026-10-29T15:32:24+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "'Chỉ nên để người dưới 18 tuổi hiến mô chữa bệnh cho anh chị em ruột'",
+      "summary": "Ủy viên chuyên trách Ủy ban Văn hóa và Xã hội của Quốc hội Lê Văn Khảm đề nghị giới hạn việc hiến mô tái sinh ở người dưới 18 tuổi để chữa bệnh cho anh chị em ruột, đồng thời tăng cường cơ chế bảo vệ quyền lợi người hiến.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/chi-nen-de-nguoi-duoi-18-tuoi-hien-mo-chua-benh-cho-anh-chi-em-ruot-5138076.html",
+      "published_at": "2026-10-30T03:32:36+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 19
+    },
+    {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Sancho rejects Getafe - Thursday's gossip",
-      "summary": "Free agent Jadon Sancho turns down a move to La Liga, Desire Doue is in talks with Paris St-Germain about a contract extension, and Everton are considering a move for Marcus Rashford.",
+      "title": "Chelsea linked with Alexander-Arnold - Friday's gossip",
+      "summary": "Trent Alexander-Arnold may become a target for Chelsea, Bournemouth's Alex Scott could also be heading to Stamford Bridge and Manchester United are looking at Leeds United striker Dominic Calvert-Lewin.",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-28T21:34:36+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck1l396jqv4zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T21:40:24+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
+      "summary": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T19:55:24+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -129,11 +219,11 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Home Credit 'trợ lực' cho người lao động",
-      "summary": "Home Credit cung cấp giải pháp vay tiền mặt giúp người lao động bổ sung nguồn tài chính, trang trải chi phí sinh hoạt và chủ động chăm lo gia đình trong những giai đoạn thu nhập biến động.",
+      "title": "CEO MAI chia sẻ chiến lược phát triển sân bay Gia Bình tại Routes World 2026",
+      "summary": "Tổng giám đốc Công ty cổ phần Hạ tầng Hàng không Masterise (MAI) cho biết, sân bay Gia Bình định hướng trở thành trung tâm kinh tế hàng không thế hệ mới, nhằm nâng cao năng lực cạnh tranh của Việt Nam.",
       "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/home-credit-tro-luc-cho-nguoi-lao-dong-5137881.html",
-      "published_at": "2026-10-29T03:45:00+00:00",
+      "url": "https://vnexpress.net/ceo-mai-chia-se-chien-luoc-phat-trien-san-bay-gia-binh-tai-routes-world-2026-5138475.html",
+      "published_at": "2026-10-30T02:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -144,86 +234,11 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Đề xuất bổ sung nguyên tắc bồi thường tối thiểu khi thu hồi đất",
-      "summary": "Đại biểu Nguyễn Bình Tân cho rằng dự thảo Luật Đất đai sửa đổi cần bổ sung nguyên tắc bồi thường tối thiểu, tương xứng với giá trị thực tế của đất bị thu hồi, giúp người dân có đủ điều kiện ổn định cuộc sống.",
+      "title": "Metro Bến Thành - Cần Giờ thi công đồng loạt",
+      "summary": "Nhà đầu tư sẽ huy động 10.000 công nhân, kỹ sư và nhân lực kỹ thuật vào cao điểm thi công đường sắt Bến Thành - Cần Giờ dài 54 km, dự kiến vận hành năm 2029.",
       "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/de-xuat-bo-sung-nguyen-tac-boi-thuong-toi-thieu-khi-thu-hoi-dat-5138166.html",
-      "published_at": "2026-10-29T03:14:55+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "So the Miami Heat made a change after a 0-4 start to the season They brought back pick and rolls So let’s get into the fun stuff of how this change led to the Heat’s first win Quick thread: - X",
-      "summary": "So the Miami Heat made a change after a 0-4 start to the season They brought back pick and rolls So let’s get into the fun stuff of how this change led to the Heat’s first win Quick thread: X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TdjF4WVJ4TGFNby1VS08tNkNZSmtpYm1FbDl2UkxfWjhwOGttaFFOQ194VnpkQmFlVzRWd3ZQeENNVkVpeTJMY2JZUEV6dWRSRUpMZGJMRDdzMkJrbnBVSUR4TQ?oc=5",
-      "published_at": "2026-10-29T03:05:04+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
-      "summary": "Estevao faces limited opportunities at Chelsea as Pedro Neto’s form and competition for places in attack leave him struggling for game time under Xabi Alonso.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-29T00:05:21+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "How unbeaten Chelsea are getting back to their best",
-      "summary": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-28T23:17:33+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "5 khu vực phát triển chủ lực của TP HCM trong quy hoạch 100 năm",
-      "summary": "Quy hoạch TP HCM tầm nhìn 100 năm xác định lõi tài chính cùng các cực công nghệ cao phía Đông, logistics phía Bắc, cảng biển phía Nam, đô thị, giáo dục, y tế phía Tây.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/5-khu-vuc-phat-trien-chu-luc-cua-tp-hcm-trong-quy-hoach-100-nam-5138186.html",
-      "published_at": "2026-10-29T03:53:02+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "1/ You can now run a research swarm entirely on your Mac, model included. Eight agents share one local 40B Flint model on a 48 GB M4 Pro: writing code, testing ideas and building on whatever works. Give them a problem and a score to beat. Here's how 🧵 - X",
-      "summary": "1/ You can now run a research swarm entirely on your Mac, model included. Eight agents share one local 40B Flint model on a 48 GB M4 Pro: writing code, testing ideas and building on whatever works. Give them a problem and a score to beat. Here's how 🧵 X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Za203cDFrdlZZaHdrSjlXMUE1ZHRUOUowS0RmLUZHSnp1WmViOWdVRUw0S1RfRWxSZWF3emg5aW1XVEpWaENqb1BQZkxlYjlXNlNhUTh1UV9nNkhp?oc=5",
-      "published_at": "2026-10-27T15:43:46+00:00",
+      "url": "https://vnexpress.net/metro-ben-thanh-can-gio-thi-cong-dong-loat-5138707.html",
+      "published_at": "2026-10-30T04:07:16+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -234,47 +249,47 @@
     {
       "domain": "Sách",
       "category": "books",
-      "title": "How to build real peace",
-      "summary": "From Colombia to Syria, I’ve seen that capitalist logic can’t help to rebuild postwar countries but cooperatives can - by Azize Aslan Read on Aeon",
+      "title": "Hills and mountains",
+      "summary": "A girl’s story of forced marriage reveals how the Soviet invasion of 1979 transformed life in Afghanistan - by Aeon Video Watch on Aeon",
       "source": "Aeon Essays",
-      "url": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
-      "published_at": "2026-10-26T10:00:00+00:00",
+      "url": "https://aeon.co/videos/an-afghan-woman-recalls-how-her-countrys-devastation-led-to-her-own",
+      "published_at": "2026-10-29T10:01:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 13
-    },
-    {
-      "domain": "Sách",
-      "category": "books",
-      "title": "Why romantic relationships matter more to men than to women",
-      "summary": "For too long, men were told to be self-sufficient. The research shows they’re more likely to thrive in a loving couple - by Iris Wahring Read on Psyche",
-      "source": "Psyche",
-      "url": "https://psyche.co/ideas/why-romantic-relationships-matter-more-to-men-than-to-women",
-      "published_at": "2026-10-22T10:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 12
+      "score": 16
     },
     {
       "domain": "Nước & năng lượng",
       "category": "water",
-      "title": "Warm Homes Loan Scheme: Factsheet - GOV.UK",
-      "summary": "Warm Homes Loan Scheme: Factsheet GOV.UK",
-      "source": "Google News Energy",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DWnNwVXJUdUdKZlVPVTZPUUNDV2Y0MTJST3pPVkhPQmwyNmhtNjU1OVA4SWdWLXlXS1VEQjFsdXBacmdfZTBVRTg2ZFlncFNZOG5ncmt2ZHByUDlJY0hmUFkyNFROdGswbGRzNVhiRU0wLUVvbHc?oc=5",
-      "published_at": "2026-10-27T14:09:31+00:00",
+      "title": "The best water filter pitchers and dispensers in the US, tested in a lab – and none are Brita - The Guardian",
+      "summary": "The best water filter pitchers and dispensers in the US, tested in a lab – and none are Brita The Guardian",
+      "source": "Google News Water Technology",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MbVFISHpjZGZKLVZORFRFb3ZUX3BXZEQxcTVucHJfQmYtSDR1TTZqMTBud0lZdGtHUWVzc2ZsVHJBUDFuUWMtdWNKV09CdXAzakZscXM0VEdjZ2J2N0dyM2NsaUtoYjRRZTRJNkVobmMwM2FGX3B3ODNR?oc=5",
+      "published_at": "2026-10-29T19:15:29+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 10
+      "score": 15
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "The three Scotland-based authors shortlisted for literary award - The Scotsman",
+      "summary": "The three Scotland-based authors shortlisted for literary award The Scotsman",
+      "source": "Google News International Book Awards",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSFdDOVAyWTVsa29vWVh3ZkxYbDBDTWZ3NnIxa2ZQeW90U0NkVUlMdXhCNTFnNDVrM0ZIMGJTcGVpOW9IZktxRUFLY014UkFlX1hDR2V2YWRPank2aUhEc1IwaUNhMUc1RHhaeG55T1ZsWTd2cThxemt2RGlKcElTTG00Sm1aMU4tbWtlV0xHT2dVU0lQdGtLNy1SN2pnZC1lUTFMb0NLSUZQRk5wekUxdktOaw?oc=5",
+      "published_at": "2026-10-29T06:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 14
     }
   ],
   "themes": [
@@ -284,23 +299,37 @@
       "status": "Mẫu hình cần kiểm chứng",
       "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
       "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
-      "evidence_count": 2,
+      "evidence_count": 4,
       "source_count": 2,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Fed holds rates days before US midterms as two officials push for another hike",
+          "title": "Major strikes planned across Italy on Friday against cost of living and military spending",
           "source": "Euronews",
-          "url": "https://www.euronews.com/2026/10/28/fed-holds-rates-days-before-us-midterms-as-two-officials-push-for-another-hike",
-          "published_at": "2026-10-28T19:01:15+00:00",
-          "summary": "The Federal Reserve kept interest rates unchanged on Wednesday, six days before the midterms, but two officials, including Governor Lisa Cook, whom US President Donald Trump is trying to fire, voted for a hike, with inflation at 3.7% and investors still braced for a rise in December."
+          "url": "https://www.euronews.com/2026/10/29/major-strikes-planned-across-italy-on-friday-against-cost-of-living-and-military-spending",
+          "published_at": "2026-10-29T16:47:34+00:00",
+          "summary": "Strikes and rallies are planned over rising living cost and the shift of public funds to arms. Unions are demanding wage increases in line with inflation; while dockworkers in 17 countries are mobilising against the war."
         },
         {
-          "title": "Dự án nuôi bò 4.500 tỷ đồng được bán hơn 286 tỷ đồng",
-          "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/du-an-nuoi-bo-4-500-ty-dong-duoc-ban-hon-286-ty-dong-5138170.html",
-          "published_at": "2026-10-29T03:08:46+00:00",
-          "summary": "Sau nhiều năm bỏ hoang, dự án chăn nuôi bò Bình Hà được bán cho Công ty Cổ phần Đầu tư Năng lượng và Mỏ VN với giá 286 tỷ đồng."
+          "title": "Bank of Japan says inflation hit 2% target after 13 years",
+          "source": "Euronews",
+          "url": "https://www.euronews.com/2026/10/30/bank-of-japan-says-inflation-hit-2-target-after-13-years",
+          "published_at": "2026-10-30T05:46:32+00:00",
+          "summary": "The Bank of Japan said on Friday inflation had hit its 2% target, more than 13 years after it adopted the goal in a bid to pull the economy out of deflation, but held off hiking interest rates for now."
+        },
+        {
+          "title": "Crypto platform Binance confirms major hack with more than $2.5bn frozen",
+          "source": "Euronews",
+          "url": "https://www.euronews.com/2026/10/30/crypto-platform-binance-confirms-major-hack-with-more-than-25bn-frozen",
+          "published_at": "2026-10-30T05:05:50+00:00",
+          "summary": "Cryptocurrency platform Binance said on Thursday it had fallen victim to a major hack and indicated that more than $2.5 billion (€2.3bn) in funds had been frozen in an effort to prevent a massive theft."
+        },
+        {
+          "title": "India increases growth forecast for fiscal year",
+          "source": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/india-increases-growth-forecast-for-fiscal-year/a-79798971?maca=en-rss-en-all-1573-xml-mrss",
+          "published_at": "2026-10-29T16:30:00+00:00",
+          "summary": "India's Ministry of Finance has increased its growth forecasts for the current fiscal year. But it also warned about inflation, particularly for fuel and energy, amid continued instability in the Middle East."
         }
       ]
     },
@@ -315,6 +344,20 @@
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
+          "title": "Man given first-of-its-kind religious exemption against mandatory AI use at work",
+          "source": "Hacker News AI Discussions",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
+          "published_at": "2026-10-29T23:15:33+00:00",
+          "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind Comments URL: https://news.ycombinator.com/item?id=50297601 Points: 2 # Comments: 1"
+        },
+        {
+          "title": "Microsoft’s AI future has fewer jobs",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+          "published_at": "2026-10-29T16:48:16+00:00",
+          "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and […]"
+        },
+        {
           "title": "@zuck: To lead this effort, I'm excited that Chirantan \"CJ\" Desai will join Meta as Chief Enterprise Platform Officer, reporting directly to me. CJ is...",
           "source": "Threads Zuckerberg",
           "url": "https://www.threads.com/t/Dd1MqeVG3vT",
@@ -322,25 +365,11 @@
           "summary": "@zuck ↩️: To lead this effort, I'm excited that Chirantan \"CJ\" Desai will join Meta as Chief Enterprise Platform Officer, reporting directly to me. CJ is an experienced enterprise leader with a track record of building full-stack software and delivering results in AI, infrastructure, business applications, and security. He has an extensive industry network that we look forward to partnering with."
         },
         {
-          "title": "Sánchez pledges tough line on possible safety failures after Toledo train crash",
-          "source": "Euronews",
-          "url": "https://www.euronews.com/2026/10/29/sanchez-pledges-tough-line-on-possible-safety-failures-after-toledo-train-crash",
-          "published_at": "2026-10-29T04:11:58+00:00",
-          "summary": "One of Europe's deadliest train disasters this century has raised fresh questions about safety on Spain's rail network after the transport minister reported an \"error\" and \"inexplicable circumstances\" that led to the crash."
-        },
-        {
-          "title": "Agentic CI/CD with Azure Cosmos DB: Isolated Envs for a Swarm of AI Agents",
+          "title": "A Defense Contractor Gave Their AI Agent Access to a Secure Pentagon System",
           "source": "Hacker News AI Discussions",
-          "url": "https://devblogs.microsoft.com/cosmosdb/agentic-ci-cd-with-azure-cosmos-db-isolated-environments-for-a-swarm-of-ai-agents/",
-          "published_at": "2026-10-29T02:38:08+00:00",
-          "summary": "Article URL: https://devblogs.microsoft.com/cosmosdb/agentic-ci-cd-with-azure-cosmos-db-isolated-environments-for-a-swarm-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50283935 Points: 1 # Comments: 0"
-        },
-        {
-          "title": "Tools, 17 with write access: How AI platforms bound agent authority",
-          "source": "Hacker News AI Discussions",
-          "url": "https://www.antalpha.com/en-us/blog/120-tools-17-that-can-write-how-four-platforms-bound-an-ai-agents-authority/",
-          "published_at": "2026-10-29T03:17:38+00:00",
-          "summary": "Article URL: https://www.antalpha.com/en-us/blog/120-tools-17-that-can-write-how-four-platforms-bound-an-ai-agents-authority/ Comments URL: https://news.ycombinator.com/item?id=50284178 Points: 2 # Comments: 0"
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "published_at": "2026-10-30T03:37:14+00:00",
+          "summary": "Article URL: https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/ Comments URL: https://news.ycombinator.com/item?id=50299603 Points: 2 # Comments: 0"
         }
       ]
     },
@@ -351,9 +380,23 @@
       "reading": "Các diễn biến chính trị và thương mại có thể ảnh hưởng đến vận tải, giá đầu vào hoặc quyết định đầu tư. Chưa thể suy ra tác động tới Việt Nam nếu chưa biết tuyến hàng, mặt hàng và mức độ phơi nhiễm.",
       "falsifier": "Bác bỏ nếu chưa có thay đổi chính sách/luồng hàng thực tế hoặc mặt hàng liên quan không gắn với Việt Nam.",
       "evidence_count": 4,
-      "source_count": 3,
+      "source_count": 2,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
+        {
+          "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+          "published_at": "2026-10-30T05:00:45+00:00",
+          "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid Support Forces. The UAE nominated Lana Nusseibeh last week to replace the UN secretary general, António "
+        },
+        {
+          "title": "Antisemitism envoy proposes ‘external ombudsman’ to monitor ABC and SBS coverage of Israel and Middle East",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/media/2026/oct/30/jillian-segal-antisemitism-envoy-plan-report-priorities-ntwnfb",
+          "published_at": "2026-10-30T00:37:36+00:00",
+          "summary": "Jillian Segal says perception of link between coverage of conflicts and hostility towards Jewish Australians ‘is itself a matter of public importance’ Get our breaking news email , free app or daily news podcast The federal government’s antisemitism envoy has proposed an “external independent ombudsman” to monitor ABC and SBS coverage of the war in Gaza, and a requirement that all visa applicants be screened for “the risk of holding antisemitic views”. In an updated plan released on Friday , Jil"
+        },
         {
           "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
           "source": "The Guardian World",
@@ -362,25 +405,11 @@
           "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversary of a mass atrocity that saw tens of thousands of civilians killed over several days. A year after the fall of El Fasher , the British government said it had sanctioned military leaders from both sides in the country’s"
         },
         {
-          "title": "Is Iran headed to war or peace after Mecca alliance meeting?",
-          "source": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256?maca=en-rss-en-all-1573-xml-mrss",
-          "published_at": "2026-10-28T14:20:00+00:00",
-          "summary": "Saudi Arabia, Pakistan and Turkey have taken their latest peace push directly to Tehran. Officially, it was to avert a new military escalation, but their diplomatic outreach can also be seen as a warning to Iran."
-        },
-        {
-          "title": "Opera adds local AI to its browsers",
-          "source": "Hacker News AI Discussions",
-          "url": "https://press.opera.com/2026/10/27/opera-doubles-down-on-local-ai-shipping-models-directly-in-its-browsers/",
-          "published_at": "2026-10-29T01:30:06+00:00",
-          "summary": "Article URL: https://press.opera.com/2026/10/27/opera-doubles-down-on-local-ai-shipping-models-directly-in-its-browsers/ Comments URL: https://news.ycombinator.com/item?id=50283391 Points: 1 # Comments: 1"
-        },
-        {
-          "title": "How do the US midterms work, and why are they so important for Trump's presidency?",
-          "source": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/how-do-the-us-midterms-work-and-why-are-they-so-important-for-trump-s-presidency/a-79789932?maca=en-rss-en-all-1573-xml-mrss",
-          "published_at": "2026-10-28T19:02:00+00:00",
-          "summary": "US voters are electing a new Congress. The results will be decisive for the future of the United States, and a judgment on Donald Trump's second term as president."
+          "title": "[Outliers] K.C. Irving: How to Build an Empire on Your Own Terms",
+          "source": "Farnam Street",
+          "url": "https://fs.blog/knowledge-project-podcast/outliers-kc-irving/",
+          "published_at": "2026-10-29T09:50:00+00:00",
+          "summary": "K.C. Irving refused to be stopped. When a railway raised his shipping costs, he bought a ship. When oil suppliers tried to squeeze him, he built a refinery. When a plant went on strike he pulled up to the picket line, took off his coat, and challenged the much larger union boss to a fight. … The post [Outliers] K.C. Irving: How to Build an Empire on Your Own Terms appeared first on Farnam Street ."
         }
       ]
     },
@@ -395,32 +424,32 @@
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Cổ phiếu nhà phân phối Apple, Xiaomi chạm sàn khi vừa báo lãi gấp đôi",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/co-phieu-nha-phan-phoi-apple-xiaomi-cham-san-khi-vua-bao-lai-gap-doi-5137945.html",
-          "published_at": "2026-10-28T09:05:00+00:00",
-          "summary": "Cổ phiếu Digiworld đảo chiều từ tăng thành giảm hết biên độ và không có bên mua ngay khi doanh nghiệp công bố kết quả kinh doanh quý III với hàng loạt chỉ số tăng vọt."
-        },
-        {
-          "title": "Dự án nuôi bò 4.500 tỷ đồng được bán hơn 286 tỷ đồng",
+          "title": "Metro Bến Thành - Cần Giờ thi công đồng loạt",
           "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/du-an-nuoi-bo-4-500-ty-dong-duoc-ban-hon-286-ty-dong-5138170.html",
-          "published_at": "2026-10-29T03:08:46+00:00",
-          "summary": "Sau nhiều năm bỏ hoang, dự án chăn nuôi bò Bình Hà được bán cho Công ty Cổ phần Đầu tư Năng lượng và Mỏ VN với giá 286 tỷ đồng."
+          "url": "https://vnexpress.net/metro-ben-thanh-can-gio-thi-cong-dong-loat-5138707.html",
+          "published_at": "2026-10-30T04:07:16+00:00",
+          "summary": "Nhà đầu tư sẽ huy động 10.000 công nhân, kỹ sư và nhân lực kỹ thuật vào cao điểm thi công đường sắt Bến Thành - Cần Giờ dài 54 km, dự kiến vận hành năm 2029."
         },
         {
-          "title": "Đề xuất giảm tới 70% phạt chậm nộp tờ khai thuế cho doanh nghiệp ngưng hoạt động",
+          "title": "Quảng Trị sắp có thêm quần thể du lịch hơn 16.230 tỷ đồng",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/de-xuat-giam-toi-70-phat-cham-nop-to-khai-thue-cho-doanh-nghiep-ngung-hoat-dong-5138089.html",
-          "published_at": "2026-10-29T03:00:00+00:00",
-          "summary": "Bộ Tài chính đề xuất giảm 30-70% tiền phạt chậm nộp hồ sơ khai thuế cho doanh nghiệp đã ngừng hoạt động nhưng chưa đóng mã số thuế."
+          "url": "https://vnexpress.net/quang-tri-sap-co-them-quan-the-du-lich-hon-16-230-ty-dong-5138668.html",
+          "published_at": "2026-10-30T04:56:51+00:00",
+          "summary": "Quần thể du lịch sinh thái núi U Bò - hồ Thác Chuối rộng hơn 167 ha, vốn đầu tư hơn 16.230 tỷ đồng được khởi công ngày 30/10."
         },
         {
-          "title": "Gelex vượt kế hoạch lợi nhuận cả năm sau 9 tháng",
+          "title": "Nhà đầu tư 'bắt đáy' cổ phiếu vừa giảm sàn 30 phiên liên tiếp",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/gelex-vuot-ke-hoach-loi-nhuan-ca-nam-sau-9-thang-5138157.html",
-          "published_at": "2026-10-29T03:00:00+00:00",
-          "summary": "Tập đoàn Gelex báo lãi trước thuế 3.931 tỷ đồng, vượt gần 9% kế hoạch cả năm nhờ đà tăng trưởng mạnh từ mảng thiết bị điện và khu công nghiệp."
+          "url": "https://vnexpress.net/nha-dau-tu-bat-day-co-phieu-vua-giam-san-30-phien-lien-tiep-5138736.html",
+          "published_at": "2026-10-30T04:53:04+00:00",
+          "summary": "Cổ phiếu Kosy sáng nay đột ngột đảo chiều từ giảm sàn thành tăng trần khi xuất hiện lệnh mua lớn sau chuỗi giảm sàn 30 phiên liên tiếp."
+        },
+        {
+          "title": "Đề xuất cho chuyển nhượng dự án bỏ hoang chưa hoàn thành nghĩa vụ tài chính",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/de-xuat-cho-chuyen-nhuong-du-an-bo-hoang-chua-hoan-thanh-nghia-vu-tai-chinh-5138682.html",
+          "published_at": "2026-10-30T04:20:53+00:00",
+          "summary": "Đại biểu Hoàng Văn Nghĩa đề xuất các dự án bất động sản bỏ hoang, chưa nộp đủ tiền đất được bán cho nhà đầu tư khác để khơi thông nguồn lực."
         }
       ]
     }
@@ -429,8 +458,8 @@
     {
       "category": "ai",
       "domain": "AI & công nghệ",
-      "items": 40,
-      "usable": 40,
+      "items": 39,
+      "usable": 38,
       "sources": 8
     },
     {
@@ -438,13 +467,13 @@
       "domain": "Thế giới",
       "items": 65,
       "usable": 65,
-      "sources": 12
+      "sources": 11
     },
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 20,
-      "usable": 20,
+      "items": 18,
+      "usable": 18,
       "sources": 3
     },
     {
@@ -457,23 +486,23 @@
     {
       "category": "football",
       "domain": "Arsenal & Premier League",
-      "items": 16,
-      "usable": 16,
+      "items": 12,
+      "usable": 12,
       "sources": 3
     },
     {
       "category": "books",
       "domain": "Sách",
-      "items": 2,
-      "usable": 2,
-      "sources": 2
+      "items": 4,
+      "usable": 4,
+      "sources": 3
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
-      "items": 6,
-      "usable": 6,
-      "sources": 2
+      "items": 10,
+      "usable": 10,
+      "sources": 4
     },
     {
       "category": "trends",
@@ -485,76 +514,68 @@
   ],
   "links": [
     {
-      "a": "We shouldn’t ‘blindly’ believe allegations of violence against women, Queensland’s new DV minister said in resurfaced comments",
-      "b": "Microsoft is ending Copilot support on smart TVs",
+      "a": "Feral deer will become Australia’s next feral pig problem without prompt action, report warns",
+      "b": "Our climate models have a big, dangerous blind spot",
       "terms": [
-        "news",
-        "would"
+        "increasingly",
+        "various"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "We shouldn’t ‘blindly’ believe allegations of violence against women, Queensland’s new DV minister said in resurfaced comments",
-      "b": "Meta quietly launched an ‘AI pet journal’ app",
+      "a": "Feral deer will become Australia’s next feral pig problem without prompt action, report warns",
+      "b": "Chelsea linked with Alexander-Arnold - Friday's gossip",
       "terms": [
-        "daily",
-        "really",
-        "should"
+        "become",
+        "could"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "We shouldn’t ‘blindly’ believe allegations of violence against women, Queensland’s new DV minister said in resurfaced comments",
-      "b": "We're building a lot last week we launched Creator Wire Insights, and you made 1,000+ posts about it in 48 hours 🫶 and there's a lot more coming so, what should we launch next? tell us in the comments also, a few highlights from creators we've worked with fo - X",
+      "a": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+      "b": "[Outliers] K.C. Irving: How to Build an Empire on Your Own Terms",
       "terms": [
-        "comments",
-        "should"
+        "appeared",
+        "much"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "We shouldn’t ‘blindly’ believe allegations of violence against women, Queensland’s new DV minister said in resurfaced comments",
-      "b": "Why romantic relationships matter more to men than to women",
+      "a": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+      "b": "Our climate models have a big, dangerous blind spot",
       "terms": [
-        "than",
-        "women"
+        "climate",
+        "global"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Australian SAS officers knew about unlawful ‘throwdowns’ on dead Afghans, report says",
-      "b": "Microsoft is ending Copilot support on smart TVs",
+      "a": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+      "b": "Reading posts by foreigners about Brazil, I get the impression that you're not aware of the full extent of the accusations against Sen. Flávio Bolsonaro, or of the available evidence of his corruption. So I'd like to kindly invite you to really get to know Flávio. A thre - X",
       "terms": [
-        "news",
-        "report"
+        "against",
+        "bolsonaro",
+        "brazil",
+        "reading"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
-      "b": "Microsoft is ending Copilot support on smart TVs",
+      "a": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
+      "b": "Man given first-of-its-kind religious exemption against mandatory AI use at work",
       "terms": [
-        "latest",
+        "against",
+        "case",
         "news"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
-      "b": "We're building a lot last week we launched Creator Wire Insights, and you made 1,000+ posts about it in 48 hours 🫶 and there's a lot more coming so, what should we launch next? tell us in the comments also, a few highlights from creators we've worked with fo - X",
+      "a": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
+      "b": "Reading posts by foreigners about Brazil, I get the impression that you're not aware of the full extent of the accusations against Sen. Flávio Bolsonaro, or of the available evidence of his corruption. So I'd like to kindly invite you to really get to know Flávio. A thre - X",
       "terms": [
-        "also",
-        "next",
-        "week"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Meta quietly launched an ‘AI pet journal’ app",
-      "b": "We're building a lot last week we launched Creator Wire Insights, and you made 1,000+ posts about it in 48 hours 🫶 and there's a lot more coming so, what should we launch next? tell us in the comments also, a few highlights from creators we've worked with fo - X",
-      "terms": [
-        "launched",
-        "should"
+        "against",
+        "reading"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }

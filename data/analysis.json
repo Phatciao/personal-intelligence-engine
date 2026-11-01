@@ -1,71 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T05:41:21.543905+00:00",
-  "input_generated_at": "2026-10-31T05:41:21.487148+00:00",
+  "generated_at": "2026-11-01T06:05:08.421253+00:00",
+  "input_generated_at": "2026-11-01T06:05:08.364688+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
-  "items_after_dedup": 150,
+  "items_after_dedup": 149,
   "signals": [
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
-      "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. We introduce OpenFrontiers, a cross-disciplinary resource that combines a structured corpus of open research problems with a retrospective benchmark of recently resolved problems in mathematics. The corpus records problem statements, context, progress, and other information for 12,151 problems. The benchmark contains 200 problems, 110 resolved in 2026 and 90 still open, each with a Lean~4 statement checked by automated probes and two independent reviews; a subset HQ-50 further filters based on quality score, etc. Our evaluation protocol grades formal proofs with two independent checkers in an isolated sandbox under closed-book, frozen-retrieval, and live-web conditions. Evaluating seven LLM agents on the HQ-50 subset under a standardized budget, we find that closed-book rediscovery is rare, at most 7 of 40 resolved problems, whereas live-web success mostly reflects retrieval of published solutions. By linking a",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2610.37739",
-      "published_at": "2026-10-31T04:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
-      "summary": "arXiv:2610.37830v1 Announce Type: new Abstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matters most for smart contracts, the programs behind Web3 applications that move money on a blockchain and cannot be fixed once deployed. We ask how to check whether an AI-written contract behaves as it should, and where the requested behavior gets lost. We design an evaluation built on execution rather than opinion. We replay the same transactions on an AI-written contract and on the original it should reproduce and measure how often they agree. We test every grading tool on planted mistakes, compare against an answer key written without the description, and audit our own scorer until known wrong answers cannot pass. Common methods, such as AI judges and standard analysis tools, miss obvious mistakes, and scoring choices matter too. Checking only the functions every system includes hid about half the difference between pipelines. We then propose an elicitation-first architecture. Before writing code, the agent asks the client a short checklist of questions, checks the contract against an in",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2610.37830",
-      "published_at": "2026-10-31T04:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
-      "summary": "arXiv:2610.37859v1 Announce Type: new Abstract: Language-model agents differ fundamentally from prior intelligent systems in their ability to learn from natural language in context. This capability enables agents to iteratively refine their answers in response to feedback, a prevalent mode of operation in modern agentic workflows. However, the community primarily ranks models by metrics such as Pass@1 or Pass@K, which cannot capture how they utilize feedback on prior attempts. We introduce Seq@K, a natural evaluation protocol that measures whether a model can solve a problem within K sequential attempts, provided feedback after each previous failure. Unlike multi-turn agentic benchmarks that examine long-horizon planning, Seq@K isolates and formalizes the core capability of refinement from feedback. We evaluate Seq@K on a suite of 7 benchmarks and 16 frontier models, and show that Seq@K reveals a materially different model-selection landscape: under Seq@K, (1) model rankings often differ, (2) the Pareto frontiers admit more efficient configurations and (3) the gains from choosing the optimal model configuration can widen or shrink relative to those of Pass@K. We further show that a",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2610.37859",
-      "published_at": "2026-10-31T04:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case",
-      "summary": "Scraping copyrighted material from internet could ‘potentially’ amount to acquisition of property by government, Anne Twomey says Get our daily political email , free app or daily news podcast Altering copyright law to allow AI companies to scrape music, books and journalism could trigger a constitutional breach, Coalition senators and the recording industry have warned, as they raise new fears it could open Australia to massive legal action and compensation claims from rights holders worldwide. The attorney general’s department admitted it was “extremely alive” to the issue, and Australia’s leading constitutional expert, Anne Twomey, agreed there was “potentially” a concern – depending how legislation was drafted – that granting AI companies permission to scrape copyrighted material from the internet could amount to an acquisition of property by the government. Continue reading...",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case",
-      "published_at": "2026-10-30T14:00:18+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
     {
       "domain": "Thế giới",
       "category": "world",
@@ -79,7 +19,22 @@
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
+      "score": 34
+    },
+    {
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+      "summary": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced while protection for the Amazon is strengthened. In a world where nature and democracy appeared to be bleeding out in tandem, voters and forest defenders in this global south powerhouse have shown it is possible to staunch the flow. This should provide much needed inspiration and, more practically, a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France. The astonishing comeback victory of Luiz Inácio Lula da Silva in Sunday’s presidential runoff against his extreme right challenger Flavío Bolsonaro has brought oceans of rapturous supporters on to the streets, while also thrilling conservationists, climate activists and social justice campaigners across the world. Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
+      "published_at": "2026-10-29T17:46:38+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 34
     },
     {
       "domain": "Thế giới",
@@ -94,22 +49,7 @@
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 36
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Press conference | Every word: Andoni Iraola on injuries, Arsenal analysis, reaching 'another level' and more - Liverpool FC",
-      "summary": "Press conference | Every word: Andoni Iraola on injuries, Arsenal analysis, reaching 'another level' and more Liverpool FC Arteta reveals triple Arsenal boost for Liverpool as FOUR could return London Evening Standard Andoni Iraola opens up on Liverpool set-piece defending improvement ahead of ultimate test Liverpool Echo",
-      "source": "Google News Arsenal",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNm1VQzlLVnNmWlgxUTUyZzFoUnJJOGNMWV9EWnpoOXl1TlVULUwxdFRKS0F5SmNaSFJKOVhtRTZNV1hCX25NMWZNMXBMUXdMTjA2ZVpQNXN2T1YxS3ZOUHgycXo5LVV5NVJBamlaVUNDOTY3YXFPb0RQaktyODFjWlRYSFA4SUdabXZOMFhKTTZGNjI0elc0b1Rha09tdG9vakg0S1FuYmpiX25nZWVB?oc=5",
-      "published_at": "2026-10-30T20:38:06+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 22
+      "score": 33
     },
     {
       "domain": "Sách",
@@ -127,103 +67,178 @@
       "score": 22
     },
     {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Aston Villa launch legal action against Jamie Carragher over 'unacceptable insults' after Sky Sports pundit tells fans to 'shut the f*** up' in Unai Emery to Man Utd rant - LiveScore",
-      "summary": "Aston Villa launch legal action against Jamie Carragher over 'unacceptable insults' after Sky Sports pundit tells fans to 'shut the f*** up' in Unai Emery to Man Utd rant LiveScore",
-      "source": "Google News Premier League",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQR1p5LU5sR242ZHJnblpac0kyUlZMdGMzTDVlMWFfc1gyWFU0ODc5YnJBYTlpd3RtTFM0Y0FlN1ZtbmF3T0diTU5HMk1ybFZTU1lvaUk5dnRnaWdjODY4OVRyOTZOWmZRTlBMYk1HM09pOWZWRlZiWVhxeW5TbFdLa0ZuR05ac1JGU0xBZ0dxbzlsSlFFNG1BN291MjExcUV0ekhzdFhjN1BCRWxuNVlPWEQ4RnN3dk9tTzVuS1EwVk81T0FRaTZ4WFFPMHpfaGZpeWVXSTJwbDg5U2JVLVVyUC1oanV0V1FKOHRlQkhVWUpWM2JSelNxc1Q4YTk1ZmdNSjUwZC1DOThoeV90M1ZwNnZkM3lNSmw5TmI4VzVtZ0FOUXRGamduZ3FuTW83RThUY3BWcHE1ZWVCS0FfdGFaV2JUdm5UWlJxYTRr?oc=5",
-      "published_at": "2026-10-31T04:50:11+00:00",
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many […]",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "published_at": "2026-10-30T15:14:37+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
+      "score": 21
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Our climate models have a big, dangerous blind spot",
+      "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned that warming would propel further warming in various ways, but a growing number of…",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+      "published_at": "2026-10-29T10:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 21
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "published_at": "2026-10-31T21:36:07+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
     },
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "Jared Bush wants Jordan Peele to direct an animated movie for Walt Disney Animation. Calling him a “brilliant” filmmaker with “very smart storytelling.” (Via: https://t.co/sjrm3e3F5B) - X",
-      "summary": "Jared Bush wants Jordan Peele to direct an animated movie for Walt Disney Animation. Calling him a “brilliant” filmmaker with “very smart storytelling.” (Via: https://t.co/sjrm3e3F5B) X",
+      "title": "Thread 🧵 With three days to go before the US midterm elections, Democrats are leading national polls as millions of Americans cast their ballots early. Here’s what polls show, the latest campaign news and what’s next https://t.co/ccxxVSQC6Y - X",
+      "summary": "Thread 🧵 With three days to go before the US midterm elections, Democrats are leading national polls as millions of Americans cast their ballots early. Here’s what polls show, the latest campaign news and what’s next https://t.co/ccxxVSQC6Y X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tWkFvVngwSkZGR1pqU3lZQ0l2UmwxVHJoMTBWY1FGNV9EYlR1Y3FpTEs1NDluMllKdFAyU0VDVkw0XzdCdnM3SFV3aEx3eTFrdW1RZmJSUEFHdXFpbnZwU2FKX19CRlE?oc=5",
-      "published_at": "2026-10-30T20:05:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DUGdUaXpEdHRuckZTUldGTUVlRHlXQnJibThRTkFrZktSOFdaZmFDQjJ5RmJPZGJMUUtsdlFLTnQzN21SRFlfekducTVYXzhnbWNLZHpXdWtOZVpIem9N?oc=5",
+      "published_at": "2026-10-31T08:54:44+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "Reading posts by foreigners about Brazil, I get the impression that you're not aware of the full extent of the accusations against Sen. Flávio Bolsonaro, or of the available evidence of his corruption. So I'd like to kindly invite you to really get to know Flávio. A thre - X",
-      "summary": "Reading posts by foreigners about Brazil, I get the impression that you're not aware of the full extent of the accusations against Sen. Flávio Bolsonaro, or of the available evidence of his corruption. So I'd like to kindly invite you to really get to know Flávio. A thre X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4YzdraEJWcC0xN3JxSEhXdXBlVEV5ejBQbElCZ0ZvQzJrcGQtWjQ5QTM3cl9UajFZbGlMUEROUDhxazZhX3NVa1VHZ1B1TGNXRnRpS1JYX2pScF9rUG1nenF5eVhFTWc?oc=5",
-      "published_at": "2026-10-29T12:23:47+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Đại biểu: Đấu giá căng tin đẩy giá suất ăn học sinh",
-      "summary": "Đại biểu Châu Quỳnh Dao cho rằng chi phí thuê mặt bằng căng tin qua đấu giá có thể chiếm 30-40% giá suất ăn, khiến học sinh phải mua đồ ăn đắt hơn bên ngoài.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/dai-bieu-dau-gia-cang-tin-day-gia-suat-an-hoc-sinh-5139088.html",
-      "published_at": "2026-10-31T04:50:56+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Vietnam Airlines 'đội' thêm 4.360 tỷ đồng chi phí nhiên liệu",
-      "summary": "Chi phí nhiên liệu của công ty mẹ Vietnam Airlines tăng hơn 61% trong quý III, vượt mức tăng doanh thu và thu nhập khác, khiến doanh nghiệp chuyển từ lãi sang lỗ.",
-      "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/vietnam-airlines-doi-them-4-360-ty-dong-chi-phi-nhien-lieu-5139067.html",
-      "published_at": "2026-10-31T04:33:46+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "'Không nên chỉ thấy mặt trái của phim ngắn trên mạng'",
-      "summary": "Đại biểu Đỗ Chí Nghĩa cho rằng ngoài ngăn chặn phim ngắn độc hại, Việt Nam cần phát triển thị trường sáng tạo, hỗ trợ sản xuất phim về lịch sử, văn hóa để thu hút giới trẻ.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/khong-nen-chi-thay-mat-trai-cua-phim-ngan-tren-mang-5139099.html",
-      "published_at": "2026-10-31T04:28:12+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
+      "score": 20
     },
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Man Utd target Barcelona's Lopez - Saturday's gossip",
-      "summary": "Manchester United target Barcelona's Fermin Lopez, Lisandro Martinez is attracting interest from the La Liga side, Arsenal eye Club Brugge striker Nicolo Tresoldi, plus more.",
+      "title": "Man Utd enquire about Toney - Sunday's gossip",
+      "summary": "Manchester United enquire about Ivan Toney's availability, Barcelona are tracking Chelsea winger Estevao Willian, Jean-Philippe Mateta is set to leave Crystal Palace in January, plus more.",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck3r52vn758xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-30T23:08:16+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crz98lwn3pvzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-31T22:14:36+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "Chính sách nổi bật có hiệu lực từ tháng 11",
+      "summary": "Quy định cụ thể hơn về chính sách phổ cập mầm non, mức phạt hành chính trong lĩnh vực dữ liệu, quy chế hoạt động ban đại diện cha mẹ học sinh là những chính sách mới có hiệu lực từ tháng 11.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/chinh-sach-noi-bat-co-hieu-luc-tu-thang-11-5139157.html",
+      "published_at": "2026-10-31T23:30:56+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "The creator of the iconic “I Voted” sticker shares how a plain black-and-white design inspired the red, white, and blue badge of honor we wear today. Follow the link in our bio for more details. - X",
+      "summary": "The creator of the iconic “I Voted” sticker shares how a plain black-and-white design inspired the red, white, and blue badge of honor we wear today. Follow the link in our bio for more details. X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HLXhKeTN4X1l6Q3ZCVURmYlVOY0pKaUlLZnFoMlg2NlkyV0RuY0pyWEFucHoxY0p6cU53TEhMclJFWk9oXzBrZGItM3h3TTJNY0lhaDJGX0VKZ3BfbWJF?oc=5",
+      "published_at": "2026-10-31T21:02:02+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
+      "summary": "Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael Carrick.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-31T22:30:16+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Coventry out of bottom three after win over struggling Sunderland",
+      "summary": "Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm93zv0zkjqlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-31T22:29:50+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Máy bay chuyển hướng hạ cánh tại Pakistan để cấp cứu hành khách",
+      "summary": "Máy bay Vietnam Airlines từ TP HCM đi Munich (Đức) phải chuyển hướng hạ cánh xuống sân bay quốc tế Islamabad (Pakistan) sau khi hành khách nam người Đức bất ngờ lên cơn co giật.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/may-bay-chuyen-huong-ha-canh-tai-pakistan-de-cap-cuu-hanh-khach-5139314.html",
+      "published_at": "2026-11-01T04:25:14+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "'Không để lỗi dữ liệu cản trở giao dịch đất đai'",
+      "summary": "Một số đại biểu Quốc hội đề nghị không để tình trạng thiếu, sai lệch dữ liệu hoặc sự cố hệ thống thông tin đất đai làm gián đoạn quyền giao dịch của người dân.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/khong-de-loi-du-lieu-can-tro-giao-dich-dat-dai-5139312.html",
+      "published_at": "2026-11-01T04:21:43+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Hà Nội sẽ đo lường chỉ số hạnh phúc của người dân",
+      "summary": "Thành phố sẽ khảo sát trực tiếp để đo lường chỉ số hạnh phúc của người dân và dự kiến công bố kết quả vào dịp Ngày Quốc tế Hạnh phúc (20/3 hằng năm).",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/ha-noi-se-do-luong-chi-so-hanh-phuc-cua-nguoi-dan-5139292.html",
+      "published_at": "2026-11-01T04:03:59+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -234,17 +249,17 @@
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "A thread on how XBOW identified an unauthenticated, Critical-severity Remote Code Execution vulnerability in a public web application belonging to the U.S. Election Assistance Commission (@EACgov), the independent, bipartisan federal commission that fo - X",
-      "summary": "A thread on how XBOW identified an unauthenticated, Critical-severity Remote Code Execution vulnerability in a public web application belonging to the U.S. Election Assistance Commission (@EACgov), the independent, bipartisan federal commission that fo X",
+      "title": "GC's live game thread for Florida vs. Georgia is live on the site now. Follow along with us here https://t.co/hIxPbYDgbq - X",
+      "summary": "GC's live game thread for Florida vs. Georgia is live on the site now. Follow along with us here https://t.co/hIxPbYDgbq X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJbE5PcTZNWXA3N21weGxqdUluUExaQ2FpcC1fblc2aFRJUXQxUERNTW5HM05PaUdEYUtyMjF0TFMzMDhSM2J0TWVkY0FPTngtUW5WR1dOU0g?oc=5",
-      "published_at": "2026-10-29T12:33:40+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZeS10dU9TUFhWSUQxVU9CWFlDZ01US2J3Mk1udjNYYndQcjRodzIzb014eGc0OGxBdF9nbFVxLVI3TjJpSjl6MFItbjlrMm0yZjJKeTNHNFJGUDRyZUJwWGphVkFvUQ?oc=5",
+      "published_at": "2026-10-31T19:27:40+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
+      "score": 16
     },
     {
       "domain": "Sách",
@@ -260,21 +275,6 @@
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
       "score": 13
-    },
-    {
-      "domain": "Sách",
-      "category": "books",
-      "title": "The three Scotland-based authors shortlisted for literary award - The Scotsman",
-      "summary": "The three Scotland-based authors shortlisted for literary award The Scotsman",
-      "source": "Google News International Book Awards",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSFdDOVAyWTVsa29vWVh3ZkxYbDBDTWZ3NnIxa2ZQeW90U0NkVUlMdXhCNTFnNDVrM0ZIMGJTcGVpOW9IZktxRUFLY014UkFlX1hDR2V2YWRPank2aUhEc1IwaUNhMUc1RHhaeG55T1ZsWTd2cThxemt2RGlKcElTTG00Sm1aMU4tbWtlV0xHT2dVU0lQdGtLNy1SN2pnZC1lUTFMb0NLSUZQRk5wekUxdktOaw?oc=5",
-      "published_at": "2026-10-29T06:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 11
     }
   ],
   "themes": [
@@ -288,13 +288,6 @@
       "source_count": 3,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
-        {
-          "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2610.37731",
-          "published_at": "2026-10-31T04:00:00+00:00",
-          "summary": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and contexts affect calibration and must be accounted for and quantified. We construct a family of localized posteriors by weighting observation likelihoods according to their proximity to a target context. Gaussian localization weights incorporate context uncertainty through covaria"
-        },
         {
           "title": "Albanese looks for reset on world stage as ‘spot fires burn’ domestically and likely interest rate hike looms",
           "source": "The Guardian World",
@@ -315,6 +308,13 @@
           "url": "https://vnexpress.net/nhung-cu-tri-goc-latin-vo-mong-voi-ong-trump-5139054.html",
           "published_at": "2026-10-31T04:49:36+00:00",
           "summary": "Từng góp phần giúp ông Trump đắc cử, nhiều cử tri gốc Latin nay quay lưng với ông vì thất vọng trước tình hình lạm phát và chiến dịch truy quét người nhập cư."
+        },
+        {
+          "title": "BOJ chief Ueda says 2% inflation goal not yet sustainably achieved - Nikkei Asia",
+          "source": "Nikkei Asia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZV9oaEstNFBrdU9sY2xpS25mb1c0ZWNoRUJ2UEJWSGt1RzVxQzZlS2Ruamt4eS1qQmNkdVR6V2E3bVZCSVJ6dk9QZUhNTWhrZjBXTjZvNlF6emRNcm9kM0ozdE5KNHd1VEdlcFNaRzcyMlY1N29ERFRRX0kza2xITDlET2Q2bzdmUFcxbnBkUGUzeDQ3ZDJuS0doWVpOVDhtS083TUZkZF9WTTFOWmNlWQ?oc=5",
+          "published_at": "2026-10-30T03:08:00+00:00",
+          "summary": "BOJ chief Ueda says 2% inflation goal not yet sustainably achieved Nikkei Asia"
         }
       ]
     },
@@ -325,36 +325,36 @@
       "reading": "Các bài về mô hình, suy luận và công việc có thể cho thấy AI đang được đánh giá theo chi phí triển khai và kết quả vận hành, không chỉ theo khả năng trình diễn. Cần phân biệt nghiên cứu thử nghiệm với sản phẩm đã được triển khai.",
       "falsifier": "Bác bỏ nếu bài chỉ mô tả nghiên cứu hoặc tuyên bố của doanh nghiệp mà không có kết quả triển khai độc lập.",
       "evidence_count": 4,
-      "source_count": 1,
-      "source_note": "Chỉ một nguồn xuất bản trong batch",
+      "source_count": 2,
+      "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2610.37739",
-          "published_at": "2026-10-31T04:00:00+00:00",
-          "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. We introduce OpenFrontiers, a cross-disciplinary resource that combines a structured corpus of open research problems with a retrospective benchmark of recently resolved problems in mathematics. The corpus records problem st"
+          "title": "@zuck: To lead this effort, I'm excited that Chirantan \"CJ\" Desai will join Meta as Chief Enterprise Platform Officer, reporting directly to me. CJ is...",
+          "source": "Threads Zuckerberg",
+          "url": "https://www.threads.com/t/Dd1MqeVG3vT",
+          "published_at": "2026-09-28T12:35:32+00:00",
+          "summary": "@zuck ↩️: To lead this effort, I'm excited that Chirantan \"CJ\" Desai will join Meta as Chief Enterprise Platform Officer, reporting directly to me. CJ is an experienced enterprise leader with a track record of building full-stack software and delivering results in AI, infrastructure, business applications, and security. He has an extensive industry network that we look forward to partnering with."
         },
         {
-          "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2610.37830",
-          "published_at": "2026-10-31T04:00:00+00:00",
-          "summary": "arXiv:2610.37830v1 Announce Type: new Abstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matters most for smart contracts, the programs behind Web3 applications that move money on a blockchain and cannot be fixed once deployed. We ask how to check whether an AI-written contract behaves as it should, and where the requested behavior gets lost. We design an evaluation built on execution rather t"
+          "title": "Computer Science Programs Lose Students as AI Replaces Jobs",
+          "source": "Hacker News AI Discussions",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/computer-science-degree-programs-lose-students-as-ai-takes-jobs",
+          "published_at": "2026-10-31T22:57:27+00:00",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-29/computer-science-degree-programs-lose-students-as-ai-takes-jobs Comments URL: https://news.ycombinator.com/item?id=50321065 Points: 21 # Comments: 15"
         },
         {
-          "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2610.37859",
-          "published_at": "2026-10-31T04:00:00+00:00",
-          "summary": "arXiv:2610.37859v1 Announce Type: new Abstract: Language-model agents differ fundamentally from prior intelligent systems in their ability to learn from natural language in context. This capability enables agents to iteratively refine their answers in response to feedback, a prevalent mode of operation in modern agentic workflows. However, the community primarily ranks models by metrics such as Pass@1 or Pass@K, which cannot capture how they utilize feedback on prior attempts. We introduce Seq@K"
+          "title": "Meridian: A peer-to-peer browser game world built by an AI agent",
+          "source": "Hacker News AI Discussions",
+          "url": "https://blakelapierre.substack.com/p/meridian-in-action-play-it-in-your",
+          "published_at": "2026-11-01T05:25:33+00:00",
+          "summary": "Article URL: https://blakelapierre.substack.com/p/meridian-in-action-play-it-in-your Comments URL: https://news.ycombinator.com/item?id=50322925 Points: 1 # Comments: 0"
         },
         {
-          "title": "GARDEN: Generalist Autonomous Reward Design Through Evidence Navigation for Cooperative Multi-Agent Reinforcement Learning",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2610.37926",
-          "published_at": "2026-10-31T04:00:00+00:00",
-          "summary": "arXiv:2610.37926v1 Announce Type: new Abstract: Cooperative multi-agent reinforcement learning (MARL) enables teams of agents, such as robots and autonomous vehicles, to learn coordinated behavior, but what such teams learn is largely determined by their reward function. Because task success alone provides too little guidance for learning, intermediate rewards are usually designed by hand, and this effort must often be repeated whenever the environment or the team changes. Large language models "
+          "title": "How AI may drive union-resistant tech workers to the bargaining table",
+          "source": "Hacker News AI Discussions",
+          "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
+          "published_at": "2026-11-01T00:49:23+00:00",
+          "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize Comments URL: https://news.ycombinator.com/item?id=50321734 Points: 16 # Comments: 1"
         }
       ]
     },
@@ -390,11 +390,11 @@
           "summary": "K.C. Irving refused to be stopped. When a railway raised his shipping costs, he bought a ship. When oil suppliers tried to squeeze him, he built a refinery. When a plant went on strike he pulled up to the picket line, took off his coat, and challenged the much larger union boss to a fight. … The post [Outliers] K.C. Irving: How to Build an Empire on Your Own Terms appeared first on Farnam Street ."
         },
         {
-          "title": "Iran’s Revolutionary Guard reports three tankers on fire in Strait of Hormuz as talks continue",
+          "title": "'A lot of lies': Kaja Kallas criticises Russian FM Lavrov following G20 meetings",
           "source": "Euronews",
-          "url": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu",
-          "published_at": "2026-10-30T14:43:36+00:00",
-          "summary": "Iran’s Revolutionary Guard said Friday that two oil tankers had caught fire and been stopped in the Strait of Hormuz, as Qatari mediators returned to Tehran for another round of talks aimed at ending the war between Iran and the United States."
+          "url": "https://www.euronews.com/2026/10/31/a-lot-of-lies-kaja-kallas-criticises-russian-fm-lavrov-following-g20-meetings",
+          "published_at": "2026-10-31T15:19:05+00:00",
+          "summary": "British Foreign Minister Ed Miliband said he had told Lavrov in the plenary that \"he should have the courage to tell Putin that Russia will not win this war.\""
         }
       ]
     },
@@ -409,32 +409,32 @@
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Vietnam Airlines 'đội' thêm 4.360 tỷ đồng chi phí nhiên liệu",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/vietnam-airlines-doi-them-4-360-ty-dong-chi-phi-nhien-lieu-5139067.html",
-          "published_at": "2026-10-31T04:33:46+00:00",
-          "summary": "Chi phí nhiên liệu của công ty mẹ Vietnam Airlines tăng hơn 61% trong quý III, vượt mức tăng doanh thu và thu nhập khác, khiến doanh nghiệp chuyển từ lãi sang lỗ."
-        },
-        {
-          "title": "'Không nên chỉ thấy mặt trái của phim ngắn trên mạng'",
+          "title": "Cầu Cần Thơ 2 được thiết kế cho cả đường bộ và đường sắt",
           "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/khong-nen-chi-thay-mat-trai-cua-phim-ngan-tren-mang-5139099.html",
-          "published_at": "2026-10-31T04:28:12+00:00",
-          "summary": "Đại biểu Đỗ Chí Nghĩa cho rằng ngoài ngăn chặn phim ngắn độc hại, Việt Nam cần phát triển thị trường sáng tạo, hỗ trợ sản xuất phim về lịch sử, văn hóa để thu hút giới trẻ."
+          "url": "https://vnexpress.net/cau-can-tho-2-duoc-thiet-ke-cho-ca-duong-bo-va-duong-sat-5139218.html",
+          "published_at": "2026-11-01T00:30:00+00:00",
+          "summary": "Cầu Cần Thơ 2 được thiết kế dạng dây văng hai tầng, với 6 làn cao tốc phía trên và đường sắt phía dưới, tổng vốn đầu tư dự kiến hơn 27.000 tỷ đồng."
         },
         {
-          "title": "Bộ trưởng Hoàng Minh Sơn: Siết kỷ cương, ngăn bạo lực học đường",
-          "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/bo-truong-hoang-minh-son-siet-ky-cuong-ngan-bao-luc-hoc-duong-5139077.html",
-          "published_at": "2026-10-31T03:36:00+00:00",
-          "summary": "Bộ Giáo dục và Đào tạo đang phối hợp Bộ Công an hoàn thiện quy định bảo vệ học sinh trên mạng, đồng thời kiến nghị sửa nghị định về phòng chống bạo lực học đường."
-        },
-        {
-          "title": "Đại biểu Quốc hội: Nhà thầu xây dựng 'càng làm càng lỗ'",
+          "title": "Khối ngoại vừa rút gần một tỷ USD khỏi chứng khoán Việt Nam",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/dai-bieu-quoc-hoi-nha-thau-xay-dung-cang-lam-cang-lo-5139071.html",
-          "published_at": "2026-10-31T03:37:56+00:00",
-          "summary": "Vì đơn giá công bố thấp hơn nhiều thị trường, nhà thầu xây dựng chưa thực hiện dự án đầu tư công đã có nguy cơ thua lỗ, theo Đại biểu Trần Thị Vân."
+          "url": "https://vnexpress.net/khoi-ngoai-vua-rut-gan-mot-ty-usd-khoi-chung-khoan-viet-nam-5139224.html",
+          "published_at": "2026-11-01T00:00:00+00:00",
+          "summary": "Nhà đầu tư nước ngoài bán ròng khoảng 930 triệu USD trong tháng 10, cao nhất kể từ đầu năm, nâng tổng giá trị rút ròng năm nay lên 4,7 tỷ USD."
+        },
+        {
+          "title": "Thuế tiêu thụ đặc biệt với xăng về 0%",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/thue-tieu-thu-dac-biet-voi-xang-ve-0-tu-ngay-mai-5139239.html",
+          "published_at": "2026-10-31T15:38:01+00:00",
+          "summary": "Thuế tiêu thụ đặc biệt với các loại xăng được đưa về 0% từ ngày 1/11 đến hết tháng 3/2027, theo nghị quyết vừa được Chính phủ ban hành."
+        },
+        {
+          "title": "Chủ đầu tư sân bay Long Thành giảm gần 1.400 nhân sự trong ba tháng",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/chu-dau-tu-san-bay-long-thanh-giam-gan-1-400-nhan-su-trong-ba-thang-5139256.html",
+          "published_at": "2026-11-01T02:30:00+00:00",
+          "summary": "ACV giảm 1.360 nhân sự trong quý III, nâng tổng số lao động rời công ty từ đầu năm lên gần 3.700 người."
         }
       ]
     }
@@ -443,9 +443,9 @@
     {
       "category": "ai",
       "domain": "AI & công nghệ",
-      "items": 40,
-      "usable": 39,
-      "sources": 9
+      "items": 37,
+      "usable": 36,
+      "sources": 7
     },
     {
       "category": "world",
@@ -457,8 +457,8 @@
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 19,
-      "usable": 19,
+      "items": 15,
+      "usable": 15,
       "sources": 2
     },
     {
@@ -471,8 +471,8 @@
     {
       "category": "football",
       "domain": "Arsenal & Premier League",
-      "items": 14,
-      "usable": 14,
+      "items": 24,
+      "usable": 24,
       "sources": 3
     },
     {
@@ -485,93 +485,88 @@
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
-      "items": 7,
-      "usable": 7,
-      "sources": 4
+      "items": 4,
+      "usable": 4,
+      "sources": 2
     },
     {
       "category": "trends",
       "domain": "Google Trends",
-      "items": 1,
+      "items": 0,
       "usable": 0,
       "sources": 0
     }
   ],
   "links": [
     {
-      "a": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
-      "b": "Canada and EU announce new alliance open to like-minded countries",
+      "a": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
+      "b": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
       "terms": [
-        "announce",
-        "open",
-        "other",
-        "under"
+        "during",
+        "next"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
-      "b": "Canada and EU announce new alliance open to like-minded countries",
+      "a": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
+      "b": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
       "terms": [
-        "against",
-        "announce",
-        "between"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
-      "b": "Press conference | Every word: Andoni Iraola on injuries, Arsenal analysis, reaching 'another level' and more - Liverpool FC",
-      "terms": [
-        "analysis",
-        "every",
-        "standard",
-        "test"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
-      "b": "[Outliers] K.C. Irving: How to Build an Empire on Your Own Terms",
-      "terms": [
-        "built",
-        "first"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
-      "b": "A thread on how XBOW identified an unauthenticated, Critical-severity Remote Code Execution vulnerability in a public web application belonging to the U.S. Election Assistance Commission (@EACgov), the independent, bipartisan federal commission that fo - X",
-      "terms": [
-        "code",
-        "execution"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Seq@K: Evaluating Language Models Under Sequential Feedback",
-      "b": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
-      "terms": [
-        "further",
+        "days",
         "more"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Seq@K: Evaluating Language Models Under Sequential Feedback",
-      "b": "Canada and EU announce new alliance open to like-minded countries",
+      "a": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
+      "b": "Thread 🧵 With three days to go before the US midterm elections, Democrats are leading national polls as millions of Americans cast their ballots early. Here’s what polls show, the latest campaign news and what’s next https://t.co/ccxxVSQC6Y - X",
       "terms": [
-        "announce",
-        "under"
+        "days",
+        "next"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Seq@K: Evaluating Language Models Under Sequential Feedback",
-      "b": "Press conference | Every word: Andoni Iraola on injuries, Arsenal analysis, reaching 'another level' and more - Liverpool FC",
+      "a": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
+      "b": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
       "terms": [
         "more",
-        "reveals"
+        "pressure"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+      "b": "[Outliers] K.C. Irving: How to Build an Empire on Your Own Terms",
+      "terms": [
+        "appeared",
+        "much"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+      "b": "Our climate models have a big, dangerous blind spot",
+      "terms": [
+        "climate",
+        "global"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+      "b": "Man Utd enquire about Toney - Sunday's gossip",
+      "terms": [
+        "more",
+        "sunday"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+      "b": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
+      "terms": [
+        "against",
+        "more"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }

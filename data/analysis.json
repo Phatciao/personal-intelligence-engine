@@ -1,49 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T06:03:11.052499+00:00",
-  "input_generated_at": "2026-11-02T06:03:11.001531+00:00",
+  "generated_at": "2026-11-03T06:48:16.721966+00:00",
+  "input_generated_at": "2026-11-03T06:48:16.665466+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
-  "items_after_dedup": 150,
+  "items_after_dedup": 149,
   "signals": [
     {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Don't Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly Detection",
-      "summary": "arXiv:2610.40732v1 Announce Type: new Abstract: Industrial Internet of Things (IIoT) edge pipelines routinely lose contiguous blocks of multi-sensor data to network dropouts and hardware faults. The standard remedy is a disjointed \"impute-then-detect\" pipeline whose imputer is trained only for Mean Squared Error (MSE). Such an imputer fills a missing block with the most probable normal pattern: a partially observed anomaly is smoothed back toward normality, and boundary artifacts on normal data raise false alarms. We call this imputation bias and propose the Task-Aware Diffusion Refiner (TADR), a conditional diffusion refiner trained against the loss landscape of a frozen downstream detector. Because back-propagating through the sampling trajectory is intractable, the task-aware terms act on the one-step clean-window estimate that the noise prediction already yields, so training costs no more than plain diffusion training. Under strict Point-to-Point evaluation over five seeds with paired significance tests, TADR raises F1 by $0.338$ over the unrefined detector on SMD ($p = 0.0015$), and the anomaly enhancement objective alone contributes $0.463$ in ablation. We also characterise w",
-      "source": "arXiv Machine Learning",
-      "url": "https://arxiv.org/abs/2610.40732",
-      "published_at": "2026-11-02T05:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Unsupervised Feature Selection Using Local Intrinsic Dimensionality -- Extended Version",
-      "summary": "arXiv:2610.40736v1 Announce Type: new Abstract: High dimensionality degrades both the efficiency and the effectiveness of learning algorithms, and in many applications no class labels are available to guide dimensionality reduction. This paper proposes LIDFS, an unsupervised feature selection method based on Local Intrinsic Dimensionality (LID). The method builds on the formal equivalence between LID and the indiscriminability of distance measures. The data matrix is transposed so that each feature is treated as a point, and the LID of each feature is estimated by maximum likelihood from the distances to its $k$ nearest neighboring features. Features with lower LID exhibit greater local discriminability and receive higher importance scores. A refinement step then retains one representative per feature neighborhood and demotes locally redundant features. The result is a complete ranking from which any number of features can be selected without rerunning the procedure. LIDFS does not use any information about labels or the number of classes, and runs in $\\mathcal{O}(d^2 n)$ time for $n$ instances and $d$ features. LIDFS is compared with classic and state-of-the-art methods and a rand",
-      "source": "arXiv Machine Learning",
-      "url": "https://arxiv.org/abs/2610.40736",
-      "published_at": "2026-11-02T05:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Fair Recommender Systems for Intersecting Groups",
-      "summary": "arXiv:2610.40936v1 Announce Type: new Abstract: Recommendation systems that optimize for the average user can fail to capture the preferences of diverse demographic groups. We consider a dynamic recommendation system, where arriving users can belong to different demographic groups. Importantly, these groups can intersect, and a user may belong to several groups. We first show that over time, any group-blind policy (which excludes all current-user group information) recommending $K \\geq 1$ items incurs linear total regret under mild conditions. In turn, we introduce three group-aware algorithms based on the classical Upper Confidence Bound algorithm (UCB): i) Intersection-Fitting, which runs UCB on each intersection, but has a sublinear group- and intersection-level regret guarantee with an exponential dependence in the number of groups; and ii) two group-level heuristics, Inner-Outer UCB and Group-Item UCB which allocate different arms to different groups, and use a sleeping expert meta-learner to choose which active group's recommendation an intersection should inherit at any given time step. We provide experimental results on two datasets, Goodreads and BoardGameGeek, and highlig",
-      "source": "arXiv Machine Learning",
-      "url": "https://arxiv.org/abs/2610.40936",
-      "published_at": "2026-11-02T05:00:00+00:00",
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "RBA interest rates: Bullock says ‘some pain now’ will prevent worse pain later as Reserve Bank hikes rates for fifth time",
+      "summary": "Reserve Bank of Australia increases official cash rate to 4.85%, bringing it to highest level since 2008 RBA interest rates live updates: Reserve Bank cash rate decision Get our daily political email , free app or daily news podcast The Reserve Bank governor Michele Bullock has said that “some pain now will prevent even worse pain down the track,” after lifting official interest rates to an 18-year high of 4.85% in a bid to combat persistent inflation. The RBA’s decision to hit mortgage holders for a fifth time in 2026 will intensify pressure on indebted households, but signals from the central bank suggest policymakers may now wait to gauge the full economic fallout before pulling the trigger again. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
+      "published_at": "2026-11-03T06:14:08+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -64,7 +34,7 @@
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
+      "score": 34
     },
     {
       "domain": "Thế giới",
@@ -79,16 +49,16 @@
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
+      "score": 34
     },
     {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
-      "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for the formation of powerful thunderstorms. During a particularly intense thunderstorm in Antalya, a coastal city in the south-west of Turkey, the formation of a tornado resulted in the deaths of four construction workers on Tuesday. Authorities in Greece and Turkey have released severe rainfall and flooding warnings, as a further 100-150mm (nearly 4-6in) of rain is expected this week in central Greece and western parts of Turkey, with locally higher totals possible. Travelling eastwards towards south Asia, strong winds and heavy rainfall have swept across the Indian regions of Odisha and Andhra Pradesh as Cyclone Arnab made landfall. With wind gusts in excess of 85mph (140km/h) and rainfall totals in some regions exceeding 200mm, the severe storm has prompted mass evacuations of more than 180,000 people, as well as widespread disruption to energy and transport infrastructure. The cyclone will weaken as it con",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
-      "published_at": "2026-10-30T10:07:16+00:00",
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Liverpool 0-1 Arsenal: Kai Havertz scores winner in rare Anfield win for Gunners - BBC",
+      "summary": "Liverpool 0-1 Arsenal: Kai Havertz scores winner in rare Anfield win for Gunners BBC Liverpool vs Arsenal LIVE: Result, latest updates and reaction London Evening Standard Arsenal news: Private Mikel Arteta conversation comes to light as manager hits out The Mirror Trey Nyoni on 'fine margins' against Arsenal and his first Premier League start Liverpool FC Alexander Isak penalty appeal: Ref Watch debate why Liverpool striker wasn't awarded penalty against Arsenal Sky Sports Premier League told referee missed red card in Liverpool vs Arsenal for 'clear offence' Liverpool Echo What records did we break in our Liverpool win? Arsenal.com Liverpool 0-1 Arsenal: Premier League – as it happened The Guardian Should VAR be scrapped after Liverpool vs Arsenal controversies? Daily Express",
+      "source": "Google News Arsenal",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sSUZyZGpjTWluV2d5QmV6TEJUTThPUGw3elROMllxNmdwSU1CMkliNUdJeGMyZXFhWUY0ZGRHcllXV19lZGV5SFJCQzlXZzJpNmtOcDNkYTNjYmNwMWtvTWhNUnRIdw?oc=5",
+      "published_at": "2026-11-01T17:29:53+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -97,13 +67,43 @@
       "score": 34
     },
     {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Liverpool 0-1 Arsenal: Kai Havertz scores winner in rare Anfield win for Gunners - BBC",
-      "summary": "Liverpool 0-1 Arsenal: Kai Havertz scores winner in rare Anfield win for Gunners BBC Liverpool vs Arsenal LIVE - score, goals, commentary stream Liverpool Echo Liverpool 0-1 Arsenal: Premier League – as it happened The Guardian Team news: Confirmed Liverpool line-up v Arsenal Liverpool FC 'I don't forget': Arsenal star 'hits back at Van Dijk' after huge win London Evening Standard Liverpool 0-1 Arsenal | Premier League highlights Sky Sports Confirmed Liverpool XI vs. Arsenal: Nyoni’s first league start, Szoboszlai in squad This Is Anfield Arteta on a proud day for the club Arsenal.com Liverpool v Arsenal: Kai Havertz winner sends champions top — as it happened The Times",
-      "source": "Google News Arsenal",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sSUZyZGpjTWluV2d5QmV6TEJUTThPUGw3elROMllxNmdwSU1CMkliNUdJeGMyZXFhWUY0ZGRHcllXV19lZGV5SFJCQzlXZzJpNmtOcDNkYTNjYmNwMWtvTWhNUnRIdw?oc=5",
-      "published_at": "2026-11-01T22:01:33+00:00",
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
+      "summary": "arXiv:2610.40906v1 Announce Type: new Abstract: Recent scientific agents build knowledge recursively by retrieving evidence, constructing an intermediate state, and judging whether that state contains sufficient information. These agents are evaluated end-to-end, usually without ground truth, so the effect of each design choice is unknown. Here, we examined two design axes: (1) what the recursion builds (the state of evidence) and (2) what controls it (the judge that decides when to stop). To measure them, we defined consensus scientific claim verification and measured these effects on this task, where a system must establish a claim's consensus stance from the open literature. We built a new consensus claim dataset, ProClaim-eval, including 718 claims with SUPPORT and REFUTE gold labels from five expert-curated databases spanning molecular biology, nuclear physics, and astronomy. Our instrument, ProClaim, persists an evidence state outside the model's context, so each axis can be studied with the other held fixed. Against verification systems and general-purpose agent harnesses, ProClaim ranks among the top three, with a significant advantage over the harnesses. We found that the ",
+      "source": "arXiv AI",
+      "url": "https://arxiv.org/abs/2610.40906",
+      "published_at": "2026-11-02T05:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 34
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Can Personal Requirements Become Supervision for Planning?",
+      "summary": "arXiv:2610.40992v1 Announce Type: new Abstract: Managing multiple chronic conditions through diet requires satisfying disease- and medication-specific requirements jointly across meals and days while preserving established eating habits. These requirements are public in clinical guidelines and drug labels, yet turning them into a feasible plan for one person remains difficult for language-model agents. In our dietitian-approved weekly planning evaluation built from NHANES, thirteen models, from medically fine-tuned 8B models to GPT-6.1 Sol, pass fewer than 3% of complete plans through direct generation. Explicit rules, higher reasoning effort, or model-directed tools leave GPT-6.1 Sol at no more than 8%. We present Noura, which pairs LLM planning with executable personal specifications instantiated from public clinical guidance and individual health and dietary profiles. During planning, the specification grounds foods, optimizes portions, checks the complete multi-day plan, and guides revision. Our key insight is that a specification that rejects a plan can also determine what to learn from it. Noura turns executed plans and contextually credited revisions into supervision for com",
+      "source": "arXiv AI",
+      "url": "https://arxiv.org/abs/2610.40992",
+      "published_at": "2026-11-02T05:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 34
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense",
+      "summary": "arXiv:2610.41044v1 Announce Type: new Abstract: The use of large language models (LLMs) to coordinate multi-agent teams raises a fundamental architectural question: whether task allocation should be centralized in a single LLM controller or distributed across autonomous LLM agents, particularly when communication is unreliable. In a deliberately simplified perimeter-defense simulation against LLM-controlled intruders, we compared a central commander, an auction-based consensus team and independent agents under five network conditions. Breach rates were 15% for the consensus team, 32% for the commander and 29% for independent agents, and of the different network conditions, only limited radio range changed a team's breach rate, raising the commander's. In consensus team, giving a low-cost LLM more authority over the bid computation raised breaches by 38 percentage points. With birds and civilian drones in airspace, we added a photograph for each to the input text state. Only the near-frontier model treated them apart from intruders. Intruders disguised as existing taxidermy bird drones were mistook as birds by both low-cost and near-frontier LLMs, going unpursued in 59-61% of near-f",
+      "source": "arXiv AI",
+      "url": "https://arxiv.org/abs/2610.41044",
+      "published_at": "2026-11-02T05:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -114,11 +114,56 @@
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "You’ve seen the viral trend… now it’s our turn. 😍🍪 Meet the NEW Scoopable Cookie Dough! Warm, gooey brown sugar cookie dough packed with melty chocolate chunks and topped with a dollop of vanilla bean mousse. 🤤 Tag someone who NEEDS to try this - TikTok",
-      "summary": "You’ve seen the viral trend… now it’s our turn. 😍🍪 Meet the NEW Scoopable Cookie Dough! Warm, gooey brown sugar cookie dough packed with melty chocolate chunks and topped with a dollop of vanilla bean mousse. 🤤 Tag someone who NEEDS to try this TikTok",
+      "title": "#ad By now you know my love for the sugared fruit trend making a comeback! 🍐✨ So when I spotted these gorgeous ornaments from @Wayfair, I knew exactly what I wanted to do with them! I tucked one of my favorite little Christmas trees into a silver wine bowl - TikTok",
+      "summary": "#ad By now you know my love for the sugared fruit trend making a comeback! 🍐✨ So when I spotted these gorgeous ornaments from @Wayfair, I knew exactly what I wanted to do with them! I tucked one of my favorite little Christmas trees into a silver wine bowl TikTok",
       "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91VG56YlI0ZmJwYy0zb0ZadVhoY3FtOWlDTmlmcGdXeThfMjZIYm91TURWR1NXQXRYS0FNeHk3SFNFZWliMDhkWkUwZU5lY1ROTHF5T2c4NHJxMVRyOWptcGdVRUtnN2s?oc=5",
-      "published_at": "2026-11-02T00:53:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwd0J6SjNwTXR2d1p5SXdIeEUtWHA0VXdMUDNMa3N5Q3hRLWhNUTJSbHFsTkxIaU1JTVpORkY3enU1NDVLakl0LUdtWkZ2b3JQeHJjZDlyMllhXzA5MXM2dGd1YVdOQUxVNERnMUVuOFl3c1E?oc=5",
+      "published_at": "2026-11-03T00:11:50+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Gardner Minshew II thread….. change/plenty of new offenses Minshew has learned since high school in Mississippi: -4 colleges (Troy for spring, NW Miss CC, East Car, Wash St) -6th franchise in NFL Minshew best seasons: 2019 as rookie in JAX (6-6), and 20 - X",
+      "summary": "Gardner Minshew II thread….. change/plenty of new offenses Minshew has learned since high school in Mississippi: -4 colleges (Troy for spring, NW Miss CC, East Car, Wash St) -6th franchise in NFL Minshew best seasons: 2019 as rookie in JAX (6-6), and 20 X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzYU5QZEFHZC04dFlsTW82Skd3OTRNcVV6OFJBbXlIYjBmYlRFQUU4Q0s2aWhwdXBBUXRvSDZLVklCT3FSUDV0dG5fQ1VqNUoxMGtoSGZKVnBrWGZac0E3OA?oc=5",
+      "published_at": "2026-11-02T22:38:48+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Holy moly, DeepSeek Harness can literally modify itself now 😭 They just added Creator Mode, and the idea is kinda insane. You basically tell it what you want the software to do, and it writes and installs the plugins for you. No coding needed. Want a video edit - X",
+      "summary": "Holy moly, DeepSeek Harness can literally modify itself now 😭 They just added Creator Mode, and the idea is kinda insane. You basically tell it what you want the software to do, and it writes and installs the plugins for you. No coding needed. Want a video edit X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1neXdCUDZ0MkJpa3haWlhCc0JvcHZIX0tUeVdCLWZmekI1R0t0d0cweDFnNXJoeDQ4YjNxRzRKTUJUOVZoUTczTnhzV2ZsQzZ2ZWp1bm51SnpXaFZRVTVzQWJPWDRFU0U?oc=5",
+      "published_at": "2026-11-02T15:17:27+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "Is There Anything Left in the Dream of Cold Fusion?",
+      "summary": "Dig a little deeper and you’ll find a thriving research program with exotic atoms that won’t solve the energy crisis but stretches the boundaries of physics. The post Is There Anything Left in the Dream of Cold Fusion? first appeared on Quanta Magazine",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
+      "published_at": "2026-11-02T15:48:57+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -129,11 +174,11 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "'He's been fantastic' - how Konsa has fitted in seamlessly at Arsenal",
-      "summary": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards analyse how good Ezri Konsa has been for Arsenal after signing from Aston Villa in the summer, especially in their 1-0 Premier League win against Liverpool at Anfield.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-02T00:00:11+00:00",
+      "title": "Newcastle United 0-1 Everton - reaction as Thierno Barry scores winner - BBC",
+      "summary": "Newcastle United 0-1 Everton - reaction as Thierno Barry scores winner BBC Newcastle United 0-1 Everton: Premier League – as it happened The Guardian Fan jeers, shipping goals and blunt attack - Jaissle has big problems at Newcastle BBC",
+      "source": "Google News Premier League",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtcldrT0xxOHFCWHhDMG12U1pUU05YOU43ZW0zbW9YTTdNS2gwZndDZFlCV0Y3YzdZenJ2N2o5MG5ST0tRU2hFT3RtNFNVU01MLTZnajYtakxYLTZPSlh0MTlnNA?oc=5",
+      "published_at": "2026-11-02T23:07:18+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -144,11 +189,11 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
-      "summary": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel hard done by.",
+      "title": "Jaissle unhappy with 'clear foul' before Barry goal",
+      "summary": "Newcastle United head coach Matthias Jaissle takes issue with referee John Brooks' decision not to call a \"clear foul\" on Fabian Schar in the build-up to Thierno Barry's goal in their loss to Everton in the Premier League.",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-02T00:00:03+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T23:01:13+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -159,11 +204,11 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Bác sĩ Nguyễn Lân Hiếu: Cần siết điều kiện hiến mô ở trẻ dưới 18 tuổi",
-      "summary": "Bác sĩ Nguyễn Lân Hiếu cho rằng người dưới 18 tuổi chỉ được hiến mô tái sinh trong trường hợp đặc biệt, khi việc lấy mô không ảnh hưởng đến sự phát triển của trẻ và người nhận có quan hệ huyết thống gần.",
+      "title": "Bổ sung điều kiện cấp sổ đỏ cho đất vi phạm thủ tục trong quá khứ",
+      "summary": "Bộ Nông nghiệp và Môi trường đã bổ sung vào dự thảo Luật Đất đai sửa đổi điều kiện cấp sổ đỏ cho từng nhóm đất có vi phạm trong quá khứ, căn cứ nguồn gốc, thời điểm sử dụng và quy hoạch.",
       "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/bac-si-nguyen-lan-hieu-can-siet-dieu-kien-hien-mo-o-tre-duoi-18-tuoi-5139607.html",
-      "published_at": "2026-11-02T04:15:04+00:00",
+      "url": "https://vnexpress.net/bo-sung-dieu-kien-cap-so-do-cho-dat-vi-pham-thu-tuc-trong-qua-khu-5139986.html",
+      "published_at": "2026-11-03T04:01:25+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -174,26 +219,11 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Những điểm mới trong dự luật hiến mô, tạng trình Quốc hội",
-      "summary": "Chính phủ rút đề xuất cho người nước ngoài đăng ký chờ ghép tạng, thu hẹp phạm vi hiến mô của người dưới 18 tuổi và chỉnh lý quy định về sử dụng tinh trùng của người chồng đã chết.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/nhung-diem-moi-trong-du-luat-hien-mo-tang-trinh-quoc-hoi-5139488.html",
-      "published_at": "2026-11-02T03:58:14+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "SATRA - từ cửa hàng gần nhà đến 'bến cảng thương mại'",
-      "summary": "Từ không gian nhỏ chứa đủ mặt hàng thiết yếu, cọng rau - con cá bản địa, SATRA dần mở rộng hệ sinh thái qua hàng chục năm, tạo \"bến cảng\" cho nhiều doanh nghiệp tiếp cận thị trường.",
+      "title": "Gần ba thập kỷ 'đem chuông đi đánh xứ người' của Vinamilk",
+      "summary": "Từ hai container sữa bột gửi sang Iraq năm 1997, Vinamilk dần mở rộng tới 67 quốc gia và vùng lãnh thổ, từng bước từ xuất khẩu đến đầu tư, sản xuất và xây dựng chuỗi cung ứng quốc tế.",
       "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/satra-tu-cua-hang-gan-nha-den-ben-cang-thuong-mai-5137778.html",
-      "published_at": "2026-11-02T01:00:00+00:00",
+      "url": "https://vnexpress.net/gan-ba-thap-ky-dem-chuong-di-danh-xu-nguoi-cua-vinamilk-5139846.html",
+      "published_at": "2026-11-03T01:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -202,49 +232,19 @@
       "score": 18
     },
     {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "Nagoshi Studio from Yakuza series creator Toshiro Nagoshi has been officially closed down as of October 31! This follows funding for“Gang of Dragon” being pulled by NetEase https://t.co/t6F2esMSaM - X",
-      "summary": "Nagoshi Studio from Yakuza series creator Toshiro Nagoshi has been officially closed down as of October 31! This follows funding for“Gang of Dragon” being pulled by NetEase https://t.co/t6F2esMSaM X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42amJBbXJGVG9IZThqSk5oWV9ZNm9BQWJicTNjMzRDcDdXRXdsSERTTmxidzdEa01aR2RDRDZUSjVIZFpBZXNocjFtYW9FTk9YUVFyaXBRSV9pMmR1Y21J?oc=5",
-      "published_at": "2026-11-02T04:11:20+00:00",
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Xe máy nối hàng dài trên làn ưu tiên xe đạp ở TP HCM",
+      "summary": "Sau gần một năm triển khai, làn ưu tiên xe đạp trên đại lộ Mai Chí Thọ thường xuyên bị xe máy lấn chiếm khi áp lực giao thông trên tuyến huyết mạch tăng cao.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/xe-may-noi-hang-dai-tren-lan-uu-tien-xe-dap-o-tp-hcm-5139929.html",
+      "published_at": "2026-11-03T03:10:44+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "[The Thirteen Court Guard Squads' New Recruit Lineup] New characters designed by series creator Tite Kubo are now available on the official site! ▼Official Site https://t.co/f9IEZgMzq0 #BLEACH #BLEACH_mh - X",
-      "summary": "[The Thirteen Court Guard Squads' New Recruit Lineup] New characters designed by series creator Tite Kubo are now available on the official site! ▼Official Site https://t.co/f9IEZgMzq0 #BLEACH #BLEACH_mh X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZRi1YY19Uc2RteWFCYUxsam0yR3BDNEVXamVtb2p2Z19OUjhiQWhjcEZiLXY3ZXZkTXpIb3lESzJZV1UxRXIwM3N3VWM2bUdTSUlXdGlFbHhMRmhvZHQ0?oc=5",
-      "published_at": "2026-11-02T03:26:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Nước & năng lượng",
-      "category": "water",
-      "title": "Rotary Vacuum Filters Market Forecast to 2035, Driven by Wastewater Compliance and Mining Dewatering Demand - IndexBox",
-      "summary": "Rotary Vacuum Filters Market Forecast to 2035, Driven by Wastewater Compliance and Mining Dewatering Demand IndexBox",
-      "source": "Google News Water Technology",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQzZZM2VWZi1IbkVpU0VoeUgxTHpIUE9yWTh1Rm5xbmMtODQwcGNmR1E0cmRhSkF0MXFidUVuUnJ3N3U0ajBaS1JBeS1pWG5kM1NsckpLZ09YdGdlTkl4ZWs2MkxLaWVrN2x3RDV1dGdBUW5sOWc1QjF5c2FubmRONkVLcG5qOS1ZRWpTVGxTT3BhLWlwcGl6dTFYcU9TQ21uSTM1U1JrVWhLbms5SVZFUlFWWFZIQjUtdTN2ZTY2VzN1dFRMMHJiMDBpeXVDb1lCWGc?oc=5",
-      "published_at": "2026-11-01T19:31:04+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 15
+      "score": 17
     },
     {
       "domain": "Sách",
@@ -254,21 +254,6 @@
       "source": "Aeon Essays",
       "url": "https://aeon.co/videos/an-afghan-woman-recalls-how-her-countrys-devastation-led-to-her-own",
       "published_at": "2026-10-29T10:01:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 11
-    },
-    {
-      "domain": "Sách",
-      "category": "books",
-      "title": "How to build real peace",
-      "summary": "From Colombia to Syria, I’ve seen that capitalist logic can’t help to rebuild postwar countries but cooperatives can - by Azize Aslan Read on Aeon",
-      "source": "Aeon Essays",
-      "url": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
-      "published_at": "2026-10-26T10:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -285,9 +270,23 @@
       "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
       "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
       "evidence_count": 4,
-      "source_count": 4,
+      "source_count": 2,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
+        {
+          "title": "RBA interest rates: Bullock says ‘some pain now’ will prevent worse pain later as Reserve Bank hikes rates for fifth time",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
+          "published_at": "2026-11-03T06:14:08+00:00",
+          "summary": "Reserve Bank of Australia increases official cash rate to 4.85%, bringing it to highest level since 2008 RBA interest rates live updates: Reserve Bank cash rate decision Get our daily political email , free app or daily news podcast The Reserve Bank governor Michele Bullock has said that “some pain now will prevent even worse pain down the track,” after lifting official interest rates to an 18-year high of 4.85% in a bid to combat persistent inflation. The RBA’s decision to hit mortgage holders "
+        },
+        {
+          "title": "Bullock doesn’t see ‘economy cracking at this point’ – as it happened",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
+          "published_at": "2026-11-03T06:33:51+00:00",
+          "summary": "This blog is now closed RBA hikes cash rate for fifth time in blow to mortgage holders Use our loan calculator to check how the rate rise may affect you Get our breaking news email , free app or daily news podcast The Reserve Bank has hiked rates for the fifth time this year, from 4.6% to 4.85%, in a bid to regain control of surging inflation amid the ongoing global oil shock triggered by the war in the Middle East. The RBA’s decision to hit mortgage holders again comes as no surprise after infl"
+        },
         {
           "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
           "source": "The Guardian World",
@@ -296,25 +295,11 @@
           "summary": "Cryptocurrency theft is estimated to generate half of the country’s foreign currency income North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking. Experts, such as TRM Labs, quickly attributed the extraordinary $6.3bn (£4.7bn) Binance cryptocurrency theft to TraderTraitor, an elite North Korean hacking unit"
         },
         {
-          "title": "Vì sao giá điện, thuế xăng cùng giảm?",
+          "title": "Tỷ giá ngân hàng lao dốc",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/vi-sao-gia-dien-thue-xang-cung-giam-5139336.html",
-          "published_at": "2026-11-01T17:05:00+00:00",
-          "summary": "Giá điện giảm 2%, thuế tiêu thụ đặc biệt với xăng về 0% nhằm hạ chi phí sản xuất, sinh hoạt, tạo thêm dư địa kiểm soát lạm phát cuối năm."
-        },
-        {
-          "title": "COMMENTARY: Asia's crude oil imports back to pre-war levels but refined fuels lag - Reuters",
-          "source": "Reuters via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjRWdTdnRzAwR2xkSU04ZHlmbHh0eXg5Wm8xS1k5Q2hLYWRWbWdOVzd4ckZHcjZkYktZVHEyV29yQ25XNE9Ga0Y3TG5Dc3Awd054Y2o3MU5rLTNZNmRRTkZXVjdyZWJNYnM4bVczRU1RRmlqOW5JOVZCVWpJSXFDazBHWm5hUXhGb2FGS2xUN3Q5cFFQelVqazAxYXNDamdDZ0pINE5mQUE3VGhFdDcxZkZ4cUdSOFVQTWRsdXl6LXdMTUpIWnFLQ0VB?oc=5",
-          "published_at": "2026-11-02T05:26:37+00:00",
-          "summary": "COMMENTARY: Asia's crude oil imports back to pre-war levels but refined fuels lag Reuters"
-        },
-        {
-          "title": "BOJ chief Ueda says 2% inflation goal not yet sustainably achieved - Nikkei Asia",
-          "source": "Nikkei Asia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZV9oaEstNFBrdU9sY2xpS25mb1c0ZWNoRUJ2UEJWSGt1RzVxQzZlS2Ruamt4eS1qQmNkdVR6V2E3bVZCSVJ6dk9QZUhNTWhrZjBXTjZvNlF6emRNcm9kM0ozdE5KNHd1VEdlcFNaRzcyMlY1N29ERFRRX0kza2xITDlET2Q2bzdmUFcxbnBkUGUzeDQ3ZDJuS0doWVpOVDhtS083TUZkZF9WTTFOWmNlWQ?oc=5",
-          "published_at": "2026-10-30T08:54:00+00:00",
-          "summary": "BOJ chief Ueda says 2% inflation goal not yet sustainably achieved Nikkei Asia"
+          "url": "https://vnexpress.net/ty-gia-ngan-hang-lao-doc-5140148.html",
+          "published_at": "2026-11-03T05:26:07+00:00",
+          "summary": "Các ngân hàng liên tục hạ giá mua bán USD xuống 25.560 - 25.970 đồng, xuống thấp nhất một năm rưỡi, dù tỷ giá trung tâm gần như đi ngang."
         }
       ]
     },
@@ -329,32 +314,32 @@
       "source_note": "Chỉ một nguồn xuất bản trong batch",
       "evidence": [
         {
-          "title": "Steering Vectors as a Training Signal in LLM Post-Training",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.40998",
+          "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2610.40906",
           "published_at": "2026-11-02T05:00:00+00:00",
-          "summary": "arXiv:2610.40998v1 Announce Type: new Abstract: Steering vectors (SVs) are residual-stream directions that shift the behavior of LLMs when added to hidden states at inference time. While prior work has mainly used SVs as post-hoc controls, we ask whether the same directions can also guide parameter updates during post-training. We study this question across supervised learning, including SFT and distillation, and reinforcement learning with verifiable rewards (RLVR). Our framework considers two "
+          "summary": "arXiv:2610.40906v1 Announce Type: new Abstract: Recent scientific agents build knowledge recursively by retrieving evidence, constructing an intermediate state, and judging whether that state contains sufficient information. These agents are evaluated end-to-end, usually without ground truth, so the effect of each design choice is unknown. Here, we examined two design axes: (1) what the recursion builds (the state of evidence) and (2) what controls it (the judge that decides when to stop). To me"
         },
         {
-          "title": "AutoHebb: Self-Modifying Neural Networks that Zero-Shot Infer and Continually Learn",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.40757",
+          "title": "Can Personal Requirements Become Supervision for Planning?",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2610.40992",
           "published_at": "2026-11-02T05:00:00+00:00",
-          "summary": "arXiv:2610.40757v1 Announce Type: new Abstract: Humans and animals have a unique capacity to generalize and learn in novel circumstances, including \"0-shot\" inference (ZI) and continual learning (CL) -- two powerful cognitive abilities. Despite this importance, efforts to model ZI and CL are seriously limited in several ways. First, existing models typically lack components critical to ZI and CL in the brain, namely, strong inductive biases (for ZI) and autonomous control of learning (for CL). S"
+          "summary": "arXiv:2610.40992v1 Announce Type: new Abstract: Managing multiple chronic conditions through diet requires satisfying disease- and medication-specific requirements jointly across meals and days while preserving established eating habits. These requirements are public in clinical guidelines and drug labels, yet turning them into a feasible plan for one person remains difficult for language-model agents. In our dietitian-approved weekly planning evaluation built from NHANES, thirteen models, from "
         },
         {
-          "title": "CAMEL: Cross-Architecture Masked Embedding Learning for Ultra-Lightweight Retinal Foundation Models",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.40954",
+          "title": "Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2610.41044",
           "published_at": "2026-11-02T05:00:00+00:00",
-          "summary": "arXiv:2610.40954v1 Announce Type: new Abstract: Recent progress in deep learning has substantially advanced automated grading of ophthalmologic pathologies, supported by large annotated datasets and improved representation learning. However, a significant gap remains between state-of-the-art performance and clinical scalability. In particular, foundation models have reshaped image-based medical screening and diagnosis. These large-scale architectures trained on extensive datasets learn rich, gen"
+          "summary": "arXiv:2610.41044v1 Announce Type: new Abstract: The use of large language models (LLMs) to coordinate multi-agent teams raises a fundamental architectural question: whether task allocation should be centralized in a single LLM controller or distributed across autonomous LLM agents, particularly when communication is unreliable. In a deliberately simplified perimeter-defense simulation against LLM-controlled intruders, we compared a central commander, an auction-based consensus team and independe"
         },
         {
-          "title": "Automatic Construction of Strong Simple Baselines",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.40700",
+          "title": "Circumventing the Computational Hardness of Computational Arbitrage",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2610.40831",
           "published_at": "2026-11-02T05:00:00+00:00",
-          "summary": "arXiv:2610.40700v1 Announce Type: new Abstract: To rigorously establish the value of a novel deep learning method, it must be compared against appropriate baselines. As deep learning has become increasingly common in the physical and life sciences, there have been numerous cases in which apparent progress has turned out to be an artifact of omitted or missing baselines. In this work, we investigate whether this problem can be mitigated by using large language models to automate the construction "
+          "summary": "arXiv:2610.40831v1 Announce Type: new Abstract: AI model marketplaces host providers with heterogeneous costs and capabilities. These differences create an opportunity for computational arbitrage (Olmedo et al., 2026), in which an intermediary purchases inference from a portfolio of models and resells it to users at a profit. Beyond creating profit opportunities for the arbitrageur, computational arbitrage offers financial value to both consumers and providers and could therefore significantly i"
         }
       ]
     },
@@ -365,36 +350,36 @@
       "reading": "Các diễn biến chính trị và thương mại có thể ảnh hưởng đến vận tải, giá đầu vào hoặc quyết định đầu tư. Chưa thể suy ra tác động tới Việt Nam nếu chưa biết tuyến hàng, mặt hàng và mức độ phơi nhiễm.",
       "falsifier": "Bác bỏ nếu chưa có thay đổi chính sách/luồng hàng thực tế hoặc mặt hàng liên quan không gắn với Việt Nam.",
       "evidence_count": 4,
-      "source_count": 1,
-      "source_note": "Chỉ một nguồn xuất bản trong batch",
+      "source_count": 2,
+      "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Unsupervised Feature Selection Using Local Intrinsic Dimensionality -- Extended Version",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.40736",
-          "published_at": "2026-11-02T05:00:00+00:00",
-          "summary": "arXiv:2610.40736v1 Announce Type: new Abstract: High dimensionality degrades both the efficiency and the effectiveness of learning algorithms, and in many applications no class labels are available to guide dimensionality reduction. This paper proposes LIDFS, an unsupervised feature selection method based on Local Intrinsic Dimensionality (LID). The method builds on the formal equivalence between LID and the indiscriminability of distance measures. The data matrix is transposed so that each feat"
+          "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+          "published_at": "2026-11-01T12:00:12+00:00",
+          "summary": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities Donald Trump ’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance, threatening to end US trade with countries with which it has a deficit unless the Federal Reserve cuts interest rates. But the sense that the world’s two largest economies are plowing ahead into an overt economi"
         },
         {
-          "title": "Fair Recommender Systems for Intersecting Groups",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.40936",
-          "published_at": "2026-11-02T05:00:00+00:00",
-          "summary": "arXiv:2610.40936v1 Announce Type: new Abstract: Recommendation systems that optimize for the average user can fail to capture the preferences of diverse demographic groups. We consider a dynamic recommendation system, where arriving users can belong to different demographic groups. Importantly, these groups can intersect, and a user may belong to several groups. We first show that over time, any group-blind policy (which excludes all current-user group information) recommending $K \\geq 1$ items "
+          "title": "Bullock doesn’t see ‘economy cracking at this point’ – as it happened",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
+          "published_at": "2026-11-03T06:33:51+00:00",
+          "summary": "This blog is now closed RBA hikes cash rate for fifth time in blow to mortgage holders Use our loan calculator to check how the rate rise may affect you Get our breaking news email , free app or daily news podcast The Reserve Bank has hiked rates for the fifth time this year, from 4.6% to 4.85%, in a bid to regain control of surging inflation amid the ongoing global oil shock triggered by the war in the Middle East. The RBA’s decision to hit mortgage holders again comes as no surprise after infl"
         },
         {
-          "title": "AutoHebb: Self-Modifying Neural Networks that Zero-Shot Infer and Continually Learn",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.40757",
-          "published_at": "2026-11-02T05:00:00+00:00",
-          "summary": "arXiv:2610.40757v1 Announce Type: new Abstract: Humans and animals have a unique capacity to generalize and learn in novel circumstances, including \"0-shot\" inference (ZI) and continual learning (CL) -- two powerful cognitive abilities. Despite this importance, efforts to model ZI and CL are seriously limited in several ways. First, existing models typically lack components critical to ZI and CL in the brain, namely, strong inductive biases (for ZI) and autonomous control of learning (for CL). S"
+          "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+          "published_at": "2026-10-30T05:00:45+00:00",
+          "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid Support Forces. The UAE nominated Lana Nusseibeh last week to replace the UN secretary general, António "
         },
         {
-          "title": "On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2610.40945",
-          "published_at": "2026-11-02T05:00:00+00:00",
-          "summary": "arXiv:2610.40945v1 Announce Type: new Abstract: On-policy reinforcement learning for large language models assumes that training responses are sampled from the current policy. In practice, an inference engine samples the responses and a separate trainer computes the gradients, and the \\textbf{training-inference mismatch} between the two makes the training data off-policy. The mismatch has two sources, the numerics of the engine and the stale weights of asynchronous sampling, and a correction tha"
+          "title": "Newcastle United 0-1 Everton - reaction as Thierno Barry scores winner - BBC",
+          "source": "Google News Premier League",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtcldrT0xxOHFCWHhDMG12U1pUU05YOU43ZW0zbW9YTTdNS2gwZndDZFlCV0Y3YzdZenJ2N2o5MG5ST0tRU2hFT3RtNFNVU01MLTZnajYtakxYLTZPSlh0MTlnNA?oc=5",
+          "published_at": "2026-11-02T23:07:18+00:00",
+          "summary": "Newcastle United 0-1 Everton - reaction as Thierno Barry scores winner BBC Newcastle United 0-1 Everton: Premier League – as it happened The Guardian Fan jeers, shipping goals and blunt attack - Jaissle has big problems at Newcastle BBC"
         }
       ]
     },
@@ -409,32 +394,32 @@
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "SATRA - từ cửa hàng gần nhà đến 'bến cảng thương mại'",
+          "title": "Gần ba thập kỷ 'đem chuông đi đánh xứ người' của Vinamilk",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/satra-tu-cua-hang-gan-nha-den-ben-cang-thuong-mai-5137778.html",
-          "published_at": "2026-11-02T01:00:00+00:00",
-          "summary": "Từ không gian nhỏ chứa đủ mặt hàng thiết yếu, cọng rau - con cá bản địa, SATRA dần mở rộng hệ sinh thái qua hàng chục năm, tạo \"bến cảng\" cho nhiều doanh nghiệp tiếp cận thị trường."
+          "url": "https://vnexpress.net/gan-ba-thap-ky-dem-chuong-di-danh-xu-nguoi-cua-vinamilk-5139846.html",
+          "published_at": "2026-11-03T01:00:00+00:00",
+          "summary": "Từ hai container sữa bột gửi sang Iraq năm 1997, Vinamilk dần mở rộng tới 67 quốc gia và vùng lãnh thổ, từng bước từ xuất khẩu đến đầu tư, sản xuất và xây dựng chuỗi cung ứng quốc tế."
         },
         {
-          "title": "Công đoàn TP HCM vận động doanh nghiệp thưởng Tết sớm từ tháng 11",
+          "title": "Loạt chủ tài khoản bỗng dưng có mã QR hộ kinh doanh",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/loat-chu-tai-khoan-bong-dung-co-ma-qr-ho-kinh-doanh-5138920.html",
+          "published_at": "2026-11-03T00:00:00+00:00",
+          "summary": "Nhiều khách hàng phát hiện có mã QR cửa hàng đứng tên mình trên ứng dụng MB, nhà băng nói đây chỉ là tính năng hỗ trợ khách nhận thanh toán và theo dõi giao dịch."
+        },
+        {
+          "title": "Tỷ giá ngân hàng lao dốc",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/ty-gia-ngan-hang-lao-doc-5140148.html",
+          "published_at": "2026-11-03T05:26:07+00:00",
+          "summary": "Các ngân hàng liên tục hạ giá mua bán USD xuống 25.560 - 25.970 đồng, xuống thấp nhất một năm rưỡi, dù tỷ giá trung tâm gần như đi ngang."
+        },
+        {
+          "title": "Bến Bạch Đằng sắp có thêm hai cầu đi bộ",
           "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/cong-doan-tp-hcm-van-dong-doanh-nghiep-thuong-tet-som-tu-thang-11-5139689.html",
-          "published_at": "2026-11-02T05:19:53+00:00",
-          "summary": "Tổ chức công đoàn đề nghị doanh nghiệp công bố kế hoạch thưởng Tết sớm, khuyến khích chi một phần trong tháng 11-12 để người lao động có tiền mua sắm trước Tết."
-        },
-        {
-          "title": "Đại biểu Quốc hội: Cần cơ chế ngăn đầu tư núp bóng để rửa tiền, lừa đảo",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/dai-bieu-quoc-hoi-can-co-che-ngan-dau-tu-nup-bong-de-rua-tien-lua-dao-5139593.html",
-          "published_at": "2026-11-02T04:20:36+00:00",
-          "summary": "Đại biểu Nguyễn Trung Kiên đề nghị bổ sung cơ chế phòng ngừa, ngăn tình trạng đầu tư núp bóng để rửa tiền, lừa đảo, buôn lậu khi sửa luật."
-        },
-        {
-          "title": "Vì sao giá điện, thuế xăng cùng giảm?",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/vi-sao-gia-dien-thue-xang-cung-giam-5139336.html",
-          "published_at": "2026-11-01T17:05:00+00:00",
-          "summary": "Giá điện giảm 2%, thuế tiêu thụ đặc biệt với xăng về 0% nhằm hạ chi phí sản xuất, sinh hoạt, tạo thêm dư địa kiểm soát lạm phát cuối năm."
+          "url": "https://vnexpress.net/ben-bach-dang-sap-co-them-hai-cau-di-bo-5140110.html",
+          "published_at": "2026-11-03T05:12:57+00:00",
+          "summary": "Hai cầu đi bộ qua đường Tôn Đức Thắng cùng hạng mục chỉnh trang cầu bến ven sông dự kiến có vốn hơn 88 tỷ đồng, do doanh nghiệp tài trợ."
         }
       ]
     }
@@ -445,28 +430,28 @@
       "domain": "AI & công nghệ",
       "items": 40,
       "usable": 40,
-      "sources": 8
+      "sources": 9
     },
     {
       "category": "world",
       "domain": "Thế giới",
       "items": 65,
       "usable": 65,
-      "sources": 9
+      "sources": 12
     },
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 16,
-      "usable": 16,
+      "items": 18,
+      "usable": 18,
       "sources": 2
     },
     {
       "category": "water",
       "domain": "Nước & năng lượng",
-      "items": 1,
-      "usable": 1,
-      "sources": 1
+      "items": 0,
+      "usable": 0,
+      "sources": 0
     },
     {
       "category": "football",
@@ -480,77 +465,98 @@
       "domain": "Sách",
       "items": 2,
       "usable": 2,
-      "sources": 1
+      "sources": 2
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
-      "items": 10,
-      "usable": 10,
+      "items": 7,
+      "usable": 7,
       "sources": 2
     },
     {
       "category": "trends",
       "domain": "Google Trends",
-      "items": 0,
+      "items": 1,
       "usable": 0,
       "sources": 0
     }
   ],
   "links": [
     {
-      "a": "Don't Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly Detection",
-      "b": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
-      "terms": [
-        "back",
-        "more",
-        "toward",
-        "under"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Don't Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly Detection",
-      "b": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
-      "terms": [
-        "more",
-        "than"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Don't Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly Detection",
+      "a": "RBA interest rates: Bullock says ‘some pain now’ will prevent worse pain later as Reserve Bank hikes rates for fifth time",
       "b": "Liverpool 0-1 Arsenal: Kai Havertz scores winner in rare Anfield win for Gunners - BBC",
       "terms": [
-        "back",
-        "standard"
+        "daily",
+        "guardian",
+        "live",
+        "news",
+        "updates"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Unsupervised Feature Selection Using Local Intrinsic Dimensionality -- Extended Version",
-      "b": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
+      "a": "RBA interest rates: Bullock says ‘some pain now’ will prevent worse pain later as Reserve Bank hikes rates for fifth time",
+      "b": "Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense",
       "terms": [
-        "higher",
-        "locally"
+        "central",
+        "rate",
+        "rates"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Fair Recommender Systems for Intersecting Groups",
-      "b": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+      "a": "RBA interest rates: Bullock says ‘some pain now’ will prevent worse pain later as Reserve Bank hikes rates for fifth time",
+      "b": "Gardner Minshew II thread….. change/plenty of new offenses Minshew has learned since high school in Mississippi: -4 colleges (Troy for spring, NW Miss CC, East Car, Wash St) -6th franchise in NFL Minshew best seasons: 2019 as rookie in JAX (6-6), and 20 - X",
       "terms": [
-        "time",
-        "under"
+        "high",
+        "since"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "RBA interest rates: Bullock says ‘some pain now’ will prevent worse pain later as Reserve Bank hikes rates for fifth time",
+      "b": "Jaissle unhappy with 'clear foul' before Barry goal",
+      "terms": [
+        "before",
+        "decision"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+      "b": "Liverpool 0-1 Arsenal: Kai Havertz scores winner in rare Anfield win for Gunners - BBC",
+      "terms": [
+        "conversation",
+        "should"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+      "b": "Jaissle unhappy with 'clear foul' before Barry goal",
+      "terms": [
+        "decision",
+        "issue"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
       "a": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
-      "b": "How to build real peace",
+      "b": "Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense",
       "terms": [
-        "countries",
-        "real"
+        "more",
+        "rates",
+        "under"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Liverpool 0-1 Arsenal: Kai Havertz scores winner in rare Anfield win for Gunners - BBC",
+      "b": "Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense",
+      "terms": [
+        "against",
+        "should"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }
@@ -559,7 +565,7 @@
     {
       "domain": "Nước & năng lượng",
       "status": "Thiếu dữ liệu",
-      "note": "Chỉ 1 mục có tóm tắt dùng được; không tạo kết luận mạnh."
+      "note": "Chỉ 0 mục có tóm tắt dùng được; không tạo kết luận mạnh."
     },
     {
       "domain": "Google Trends",

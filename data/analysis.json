@@ -1,25 +1,85 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T06:48:16.721966+00:00",
-  "input_generated_at": "2026-11-03T06:48:16.665466+00:00",
+  "generated_at": "2026-11-04T06:23:15.703377+00:00",
+  "input_generated_at": "2026-11-04T06:23:15.647413+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
-  "items_after_dedup": 149,
+  "items_after_dedup": 148,
   "signals": [
     {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "RBA interest rates: Bullock says ‘some pain now’ will prevent worse pain later as Reserve Bank hikes rates for fifth time",
-      "summary": "Reserve Bank of Australia increases official cash rate to 4.85%, bringing it to highest level since 2008 RBA interest rates live updates: Reserve Bank cash rate decision Get our daily political email , free app or daily news podcast The Reserve Bank governor Michele Bullock has said that “some pain now will prevent even worse pain down the track,” after lifting official interest rates to an 18-year high of 4.85% in a bid to combat persistent inflation. The RBA’s decision to hit mortgage holders for a fifth time in 2026 will intensify pressure on indebted households, but signals from the central bank suggest policymakers may now wait to gauge the full economic fallout before pulling the trigger again. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
-      "published_at": "2026-11-03T06:14:08+00:00",
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Towards Automatic Heart Murmur Characterization from Multi-spot Phonocardiograms",
+      "summary": "arXiv:2611.03654v1 Announce Type: new Abstract: Cardiac auscultation traditionally detects the presence of a heart murmur, but clinicians further characterize it by timing, shape, pitch, quality, and grade. Most automatic phonocardiogram analysis systems stop at binary detection and do not estimate this richer description. In this work, we formulate automatic murmur characterization as five patient-level classification tasks and compare three multi-spot strategies on recordings from the aortic, pulmonary, mitral, and tricuspid auscultation locations. First, classical and deep-learning classifiers are trained independently at each location, and predictions are combined via a maximum-severity late-fusion rule. Second, a synchronous multi-input CNN jointly processes one representative segment per location for a single task. Third, a unified multi-input, multi-output CNN predicts all five attributes from one shared multi-spot representation. Using 735 patients from the CirCor DigiScope dataset with complete four-spot recordings, the best late-fusion configurations reach an unweighted mean sensitivity between 85.56% and 93.81% across the five tasks, with class-specific recalls between 8",
+      "source": "arXiv Machine Learning",
+      "url": "https://arxiv.org/abs/2611.03654",
+      "published_at": "2026-11-04T05:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
       "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Minimal Superior Penalties: Characterising and Calibrating Decision-Aware Proper Scoring Rules",
+      "summary": "arXiv:2611.03734v1 Announce Type: new Abstract: Training a classifier means letting a validation metric decide which model is kept and when training stops. A natural requirement on that metric is superiority: every correctly classified forecast should score better than every incorrectly classified one, however close the underlying probabilities are. Neither the Brier score nor the logarithmic score satisfies this on its own. We show that superiority is governed by the separation between two endpoints -- the supremum of the score on correct predictions and the infimum on incorrect predictions -- and derive both in closed form for each score. Their difference is the infimal penalty, the greatest lower bound on the penalty needed to restore superiority. Prior work restores superiority with a penalty calibrated from the first endpoint alone; for the Brier base, our infimal penalty is smaller than that published penalty by a factor ranging from 4.00 at three classes to 2.11 at twenty. We further embed the published and infimal penalties in a one-parameter family and show that, under a single-valued tie convention, every member of the family is strictly proper. In a pre-specified two-dat",
+      "source": "arXiv Machine Learning",
+      "url": "https://arxiv.org/abs/2611.03734",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Language Models Can Benefit from Domain-Specific Inductive Biases",
+      "summary": "arXiv:2611.03756v1 Announce Type: new Abstract: Language models are typically trained with a single choice of architecture on diverse domains and data sources. Modern transformers have been extensively refined for such general-purpose learning, but are they equally effective across different subsets of the pretraining data? We investigate this question by training small language models from scratch on representative subsets of pretraining data such as web text, code, and mathematics. We introduce variants of transformers in which standard activation functions are replaced with learned splines tuned on specific datasets, providing a simple way to modify their inductive biases. Using a mix-and-match of architectures and datasets, we evaluate cross-domain transfer, i.e. how well does an architecture tuned for one domain perform on data from another? We find that the tuned transformer variants improve training efficiency or generalization on all seven of our tested datasets, but the gains are often domain-specific. For example, architectures tuned on a natural language dataset such as FineWeb perform well on TinyStories, whereas those tuned on mathematics perform poorly on natural lang",
+      "source": "arXiv Machine Learning",
+      "url": "https://arxiv.org/abs/2611.03756",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "Aukus is ‘worst, riskiest and most costly’ Australian defence decision ever, public inquiry into submarine deal says",
+      "summary": "Report led by Peter Garrett and former defence chief Adm Chris Barrie says agreement should be suspended and calls for royal commission Get our daily political email , free app or daily news podcast A public inquiry into the $368bn Aukus nuclear submarine agreement has called the plan “the worst, riskiest and most costly defence decision ever made by an Australian government”, urging its immediate termination. Former Labor MP and Midnight Oil frontman Peter Garrett and former chief of defence Adm Chris Barrie led the inquiry dominated by critics of the deal with the UK and US, recommending the suspension of plans for new bases and for a royal commission to be held into the agreement signed by the former Morrison government. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/04/aukus-worst-australian-defence-decision-ever-public-inquiry",
+      "published_at": "2026-11-04T04:38:39+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "ANC faces anger over poor services as South Africans vote in local elections",
+      "summary": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure. The former liberation movement, which Nelson Mandela led to power in 1994 at the end of apartheid as South Africa’s first black president, is still likely to be the largest party. However, polls show it getting less than a third of the vote, down from 45.6% at the last municipal elections in 2021 and 40.2% in 2024’s national elections . Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+      "published_at": "2026-11-04T04:00:23+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 34
     },
     {
       "domain": "Thế giới",
@@ -37,133 +97,13 @@
       "score": 34
     },
     {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
-      "summary": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities Donald Trump ’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance, threatening to end US trade with countries with which it has a deficit unless the Federal Reserve cuts interest rates. But the sense that the world’s two largest economies are plowing ahead into an overt economic conflagration has taken a back seat to other, more salient fears, about Trump ending American democracy, AI killing us all and stuff like that. The sense of calm is misleading. Under the radar, the world is marching toward an economic war of potentially epic proportions, one that, history suggests, could well spill over into the real thing. Continue reading...",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
-      "published_at": "2026-11-01T12:00:12+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 34
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Liverpool 0-1 Arsenal: Kai Havertz scores winner in rare Anfield win for Gunners - BBC",
-      "summary": "Liverpool 0-1 Arsenal: Kai Havertz scores winner in rare Anfield win for Gunners BBC Liverpool vs Arsenal LIVE: Result, latest updates and reaction London Evening Standard Arsenal news: Private Mikel Arteta conversation comes to light as manager hits out The Mirror Trey Nyoni on 'fine margins' against Arsenal and his first Premier League start Liverpool FC Alexander Isak penalty appeal: Ref Watch debate why Liverpool striker wasn't awarded penalty against Arsenal Sky Sports Premier League told referee missed red card in Liverpool vs Arsenal for 'clear offence' Liverpool Echo What records did we break in our Liverpool win? Arsenal.com Liverpool 0-1 Arsenal: Premier League – as it happened The Guardian Should VAR be scrapped after Liverpool vs Arsenal controversies? Daily Express",
-      "source": "Google News Arsenal",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sSUZyZGpjTWluV2d5QmV6TEJUTThPUGw3elROMllxNmdwSU1CMkliNUdJeGMyZXFhWUY0ZGRHcllXV19lZGV5SFJCQzlXZzJpNmtOcDNkYTNjYmNwMWtvTWhNUnRIdw?oc=5",
-      "published_at": "2026-11-01T17:29:53+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 34
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
-      "summary": "arXiv:2610.40906v1 Announce Type: new Abstract: Recent scientific agents build knowledge recursively by retrieving evidence, constructing an intermediate state, and judging whether that state contains sufficient information. These agents are evaluated end-to-end, usually without ground truth, so the effect of each design choice is unknown. Here, we examined two design axes: (1) what the recursion builds (the state of evidence) and (2) what controls it (the judge that decides when to stop). To measure them, we defined consensus scientific claim verification and measured these effects on this task, where a system must establish a claim's consensus stance from the open literature. We built a new consensus claim dataset, ProClaim-eval, including 718 claims with SUPPORT and REFUTE gold labels from five expert-curated databases spanning molecular biology, nuclear physics, and astronomy. Our instrument, ProClaim, persists an evidence state outside the model's context, so each axis can be studied with the other held fixed. Against verification systems and general-purpose agent harnesses, ProClaim ranks among the top three, with a significant advantage over the harnesses. We found that the ",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2610.40906",
-      "published_at": "2026-11-02T05:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 34
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Can Personal Requirements Become Supervision for Planning?",
-      "summary": "arXiv:2610.40992v1 Announce Type: new Abstract: Managing multiple chronic conditions through diet requires satisfying disease- and medication-specific requirements jointly across meals and days while preserving established eating habits. These requirements are public in clinical guidelines and drug labels, yet turning them into a feasible plan for one person remains difficult for language-model agents. In our dietitian-approved weekly planning evaluation built from NHANES, thirteen models, from medically fine-tuned 8B models to GPT-6.1 Sol, pass fewer than 3% of complete plans through direct generation. Explicit rules, higher reasoning effort, or model-directed tools leave GPT-6.1 Sol at no more than 8%. We present Noura, which pairs LLM planning with executable personal specifications instantiated from public clinical guidance and individual health and dietary profiles. During planning, the specification grounds foods, optimizes portions, checks the complete multi-day plan, and guides revision. Our key insight is that a specification that rejects a plan can also determine what to learn from it. Noura turns executed plans and contextually credited revisions into supervision for com",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2610.40992",
-      "published_at": "2026-11-02T05:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 34
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense",
-      "summary": "arXiv:2610.41044v1 Announce Type: new Abstract: The use of large language models (LLMs) to coordinate multi-agent teams raises a fundamental architectural question: whether task allocation should be centralized in a single LLM controller or distributed across autonomous LLM agents, particularly when communication is unreliable. In a deliberately simplified perimeter-defense simulation against LLM-controlled intruders, we compared a central commander, an auction-based consensus team and independent agents under five network conditions. Breach rates were 15% for the consensus team, 32% for the commander and 29% for independent agents, and of the different network conditions, only limited radio range changed a team's breach rate, raising the commander's. In consensus team, giving a low-cost LLM more authority over the bid computation raised breaches by 38 percentage points. With birds and civilian drones in airspace, we added a photograph for each to the input text state. Only the near-frontier model treated them apart from intruders. Intruders disguised as existing taxidermy bird drones were mistook as birds by both low-cost and near-frontier LLMs, going unpursued in 59-61% of near-f",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2610.41044",
-      "published_at": "2026-11-02T05:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 34
-    },
-    {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "#ad By now you know my love for the sugared fruit trend making a comeback! 🍐✨ So when I spotted these gorgeous ornaments from @Wayfair, I knew exactly what I wanted to do with them! I tucked one of my favorite little Christmas trees into a silver wine bowl - TikTok",
-      "summary": "#ad By now you know my love for the sugared fruit trend making a comeback! 🍐✨ So when I spotted these gorgeous ornaments from @Wayfair, I knew exactly what I wanted to do with them! I tucked one of my favorite little Christmas trees into a silver wine bowl TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwd0J6SjNwTXR2d1p5SXdIeEUtWHA0VXdMUDNMa3N5Q3hRLWhNUTJSbHFsTkxIaU1JTVpORkY3enU1NDVLakl0LUdtWkZ2b3JQeHJjZDlyMllhXzA5MXM2dGd1YVdOQUxVNERnMUVuOFl3c1E?oc=5",
-      "published_at": "2026-11-03T00:11:50+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "Gardner Minshew II thread….. change/plenty of new offenses Minshew has learned since high school in Mississippi: -4 colleges (Troy for spring, NW Miss CC, East Car, Wash St) -6th franchise in NFL Minshew best seasons: 2019 as rookie in JAX (6-6), and 20 - X",
-      "summary": "Gardner Minshew II thread….. change/plenty of new offenses Minshew has learned since high school in Mississippi: -4 colleges (Troy for spring, NW Miss CC, East Car, Wash St) -6th franchise in NFL Minshew best seasons: 2019 as rookie in JAX (6-6), and 20 X",
+      "title": "The most lucrative AI business to start in 2027 The most lucrative skill has always been capturing attention. It’s obvious why. If your goal is making more money, it doesn’t matter how good a software you build. It doesn’t matter if it took you 3 - X",
+      "summary": "The most lucrative AI business to start in 2027 The most lucrative skill has always been capturing attention. It’s obvious why. If your goal is making more money, it doesn’t matter how good a software you build. It doesn’t matter if it took you 3 X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzYU5QZEFHZC04dFlsTW82Skd3OTRNcVV6OFJBbXlIYjBmYlRFQUU4Q0s2aWhwdXBBUXRvSDZLVklCT3FSUDV0dG5fQ1VqNUoxMGtoSGZKVnBrWGZac0E3OA?oc=5",
-      "published_at": "2026-11-02T22:38:48+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "Holy moly, DeepSeek Harness can literally modify itself now 😭 They just added Creator Mode, and the idea is kinda insane. You basically tell it what you want the software to do, and it writes and installs the plugins for you. No coding needed. Want a video edit - X",
-      "summary": "Holy moly, DeepSeek Harness can literally modify itself now 😭 They just added Creator Mode, and the idea is kinda insane. You basically tell it what you want the software to do, and it writes and installs the plugins for you. No coding needed. Want a video edit X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1neXdCUDZ0MkJpa3haWlhCc0JvcHZIX0tUeVdCLWZmekI1R0t0d0cweDFnNXJoeDQ4YjNxRzRKTUJUOVZoUTczTnhzV2ZsQzZ2ZWp1bm51SnpXaFZRVTVzQWJPWDRFU0U?oc=5",
-      "published_at": "2026-11-02T15:17:27+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
-    },
-    {
-      "domain": "Sách",
-      "category": "books",
-      "title": "Is There Anything Left in the Dream of Cold Fusion?",
-      "summary": "Dig a little deeper and you’ll find a thriving research program with exotic atoms that won’t solve the energy crisis but stretches the boundaries of physics. The post Is There Anything Left in the Dream of Cold Fusion? first appeared on Quanta Magazine",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
-      "published_at": "2026-11-02T15:48:57+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoVVRZU195cUR0d2E5elJsUzEzbG5YdnBmYURYZjhkWmthUG1IeHB0MzJqdGVFNzB4LXgyMUxIeWF4VUI5S0VVZWRJdlpHcV9BRjE5WVIzQlYxdGlsT05Z?oc=5",
+      "published_at": "2026-11-03T17:06:26+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -174,26 +114,11 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Newcastle United 0-1 Everton - reaction as Thierno Barry scores winner - BBC",
-      "summary": "Newcastle United 0-1 Everton - reaction as Thierno Barry scores winner BBC Newcastle United 0-1 Everton: Premier League – as it happened The Guardian Fan jeers, shipping goals and blunt attack - Jaissle has big problems at Newcastle BBC",
-      "source": "Google News Premier League",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtcldrT0xxOHFCWHhDMG12U1pUU05YOU43ZW0zbW9YTTdNS2gwZndDZFlCV0Y3YzdZenJ2N2o5MG5ST0tRU2hFT3RtNFNVU01MLTZnajYtakxYLTZPSlh0MTlnNA?oc=5",
-      "published_at": "2026-11-02T23:07:18+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 19
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Jaissle unhappy with 'clear foul' before Barry goal",
-      "summary": "Newcastle United head coach Matthias Jaissle takes issue with referee John Brooks' decision not to call a \"clear foul\" on Fabian Schar in the build-up to Thierno Barry's goal in their loss to Everton in the Premier League.",
+      "title": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
+      "summary": "Manchester City defender Rayan Ait-Nouri a surprise target for Manchester United, Crystal Palace could turn to England assistant boss Anthony Barry if they sack Pierre Sage, Barcelona keen on Arsenal centre-back Piero Hincapie, plus more.",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-02T23:01:13+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T22:55:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -202,13 +127,43 @@
       "score": 19
     },
     {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Bổ sung điều kiện cấp sổ đỏ cho đất vi phạm thủ tục trong quá khứ",
-      "summary": "Bộ Nông nghiệp và Môi trường đã bổ sung vào dự thảo Luật Đất đai sửa đổi điều kiện cấp sổ đỏ cho từng nhóm đất có vi phạm trong quá khứ, căn cứ nguồn gốc, thời điểm sử dụng và quy hoạch.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/bo-sung-dieu-kien-cap-so-do-cho-dat-vi-pham-thu-tuc-trong-qua-khu-5139986.html",
-      "published_at": "2026-11-03T04:01:25+00:00",
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "👨‍💻 THREAD on how data center-related ballot measures are faring tonight data centers are on the ballot in ~40 localities across 13 states, including proposed bans, votes on specific projects, and recalls of pro-data center politicians - X",
+      "summary": "👨‍💻 THREAD on how data center-related ballot measures are faring tonight data centers are on the ballot in ~40 localities across 13 states, including proposed bans, votes on specific projects, and recalls of pro-data center politicians X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IUS1oWW9UVzNKbTNDbVUzX0kyOXp6a2o2TjhsVUFGTUZsbVQxUlVNMmw5bGRPX05KYWE5MnUybXhMVzd6ZEZqZ3dzc2hYQ0pCNC1kdzROa3VkWFg1dDZiMHRn?oc=5",
+      "published_at": "2026-11-04T01:11:12+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 19
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "LOVE TREND X MIRACULOUS S7 ✨ // OK BUT THE NOVA EDITOR CCs, LIKE THOSE FROM AE 🔥 // Scp: gcpackss on insta #miraculousladybug #miraculousladybugs7 #miraculousedits #lovetrend #Edit MIRACULOUS LADYBUG SEASON 7 EDIT @𓏲🌷⁎⁺ - TikTok",
+      "summary": "LOVE TREND X MIRACULOUS S7 ✨ // OK BUT THE NOVA EDITOR CCs, LIKE THOSE FROM AE 🔥 // Scp: gcpackss on insta #miraculousladybug #miraculousladybugs7 #miraculousedits #lovetrend #Edit MIRACULOUS LADYBUG SEASON 7 EDIT @𓏲🌷⁎⁺ TikTok",
+      "source": "Google News TikTok & Short-form Video",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BVDJhZFo3WWJaOXJENWNpbFo4NG1IblZjRjU3bjR5UjRBeEhlZGpiWGtiT2JZS1VjOGZsVXBNQnZGNnlyYi1HQUk5Mm52OFRNTkhtVVJ1ZzZiVE1vOXNVMGdtZk15OFMz?oc=5",
+      "published_at": "2026-11-03T22:39:51+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 19
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
+      "summary": "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T15:07:49+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -219,11 +174,26 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Gần ba thập kỷ 'đem chuông đi đánh xứ người' của Vinamilk",
-      "summary": "Từ hai container sữa bột gửi sang Iraq năm 1997, Vinamilk dần mở rộng tới 67 quốc gia và vùng lãnh thổ, từng bước từ xuất khẩu đến đầu tư, sản xuất và xây dựng chuỗi cung ứng quốc tế.",
+      "title": "Hạn chế chuyển nhượng nhà xã hội để ngăn đầu cơ",
+      "summary": "Thứ trưởng Xây dựng Lê Hồng Vinh cho biết dự thảo Luật Nhà ở sửa đổi dự kiến mỗi người chỉ được mua hoặc thuê mua một căn nhà ở xã hội, hạn chế chuyển nhượng trong 5 năm đầu để ngăn đầu cơ.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/han-che-chuyen-nhuong-nha-xa-hoi-de-ngan-dau-co-5140635.html",
+      "published_at": "2026-11-04T05:28:51+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Agribank 3 năm liền vào top 50 doanh nghiệp lớn nhất Đông Nam Á",
+      "summary": "Agribank ghi nhận doanh thu hơn 7 tỷ USD năm 2025, xếp thứ 45 trong bảng xếp hạng Fortune Southeast Asia 500, đánh dấu ba năm liên tiếp góp mặt trong top 50 doanh nghiệp lớn nhất Đông Nam Á.",
       "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/gan-ba-thap-ky-dem-chuong-di-danh-xu-nguoi-cua-vinamilk-5139846.html",
-      "published_at": "2026-11-03T01:00:00+00:00",
+      "url": "https://vnexpress.net/agribank-3-nam-lien-vao-top-50-doanh-nghiep-lon-nhat-dong-nam-a-5140598.html",
+      "published_at": "2026-11-04T04:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -232,13 +202,28 @@
       "score": 18
     },
     {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Manchester United keen on signing Manchester City defender Rayan Ait-Nouri who is open to crossing divide in January - Paper Talk | Football News - Sky Sports",
+      "summary": "Manchester United keen on signing Manchester City defender Rayan Ait-Nouri who is open to crossing divide in January - Paper Talk | Football News Sky Sports",
+      "source": "Google News Premier League",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQa3NiMXU5b3NHZWJSNUo2X0RZZU1yeFQ5MmtpWFlKN2pBdEVlcXdhVTFYTnZjT3VIRGFweVBXbnB2T2JGWGVwcGtSVVVIaEtnSjBXeHBydFFkbUpXaWphVXpReW5jYVVJcjRuVnFGRU9hM05LV3hVaHJneFBBSHFuQ1VrQ0tUWkZJYnV6ZWtpVkFtVjVkVFF4Nk50SkF3VVRtZHkwVDJPQnhYNTMtSC1uMGQxMU45TGIwNGZJLWdnQXV1MVlHT1ZodjdpaUEzUDdEZWlTUjA5Mjh2WHFQWTVkWFdLeFgwY0lYLU5oeGVPajBaYVFqYXRPb1RaLTdKbjVfMWFVSVg5dFRId2w4UmFlX09rMDREZUZYcDRR?oc=5",
+      "published_at": "2026-11-04T05:39:21+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Xe máy nối hàng dài trên làn ưu tiên xe đạp ở TP HCM",
-      "summary": "Sau gần một năm triển khai, làn ưu tiên xe đạp trên đại lộ Mai Chí Thọ thường xuyên bị xe máy lấn chiếm khi áp lực giao thông trên tuyến huyết mạch tăng cao.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/xe-may-noi-hang-dai-tren-lan-uu-tien-xe-dap-o-tp-hcm-5139929.html",
-      "published_at": "2026-11-03T03:10:44+00:00",
+      "title": "Vì sao Việt Nam cấm nhập khẩu điện thoại, máy tính cũ?",
+      "summary": "Smartphone, máy tính và nhiều thiết bị công nghệ số đã qua sử dụng không được phép nhập khẩu vào Việt Nam, theo Thông tư 63 của Bộ Khoa học và Công nghệ.",
+      "source": "VnExpress Khoa học công nghệ",
+      "url": "https://vnexpress.net/vi-sao-viet-nam-cam-nhap-khau-dien-thoai-may-tinh-cu-5140643.html",
+      "published_at": "2026-11-04T05:45:53+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -249,17 +234,47 @@
     {
       "domain": "Sách",
       "category": "books",
-      "title": "Hills and mountains",
-      "summary": "A girl’s story of forced marriage reveals how the Soviet invasion of 1979 transformed life in Afghanistan - by Aeon Video Watch on Aeon",
-      "source": "Aeon Essays",
-      "url": "https://aeon.co/videos/an-afghan-woman-recalls-how-her-countrys-devastation-led-to-her-own",
-      "published_at": "2026-10-29T10:01:00+00:00",
+      "title": "Những quyết sách của ông Trump góp phần khiến đảng Cộng hòa thảm bại",
+      "summary": "Loạt quyết định về thuế quan, chiến sự và nhập cư của Tổng thống Trump làm cử tri bất mãn, khiến đảng Cộng hòa đánh mất lưỡng viện trong bầu cử giữa kỳ.",
+      "source": "VnExpress Thế giới",
+      "url": "https://vnexpress.net/nhung-quyet-sach-cua-ong-trump-gop-phan-khien-dang-cong-hoa-tham-bai-5140519.html",
+      "published_at": "2026-11-04T05:14:43+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 11
+      "score": 17
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "Chuỗi nhà sách lớn nhất cả nước lãi kỷ lục",
+      "summary": "Lợi nhuận sau thuế quý III của Fahasa, chuỗi nhà sách lớn nhất nước, đạt gần 20,7 tỷ đồng, tăng 28% so với cùng kỳ và là mức cao nhất từ khi công bố thông tin.",
+      "source": "VnExpress Kinh doanh",
+      "url": "https://vnexpress.net/chuoi-nha-sach-lon-nhat-ca-nuoc-lai-ky-luc-5140571.html",
+      "published_at": "2026-11-04T04:01:37+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "That feeling of values crumbling has a name: civic grief",
+      "summary": "Fairness, dignity and shared obligation are precious. Grieving their loss is a first step toward doing something about it - by Rebecca Lewandowski Read on Psyche",
+      "source": "Psyche",
+      "url": "https://psyche.co/ideas/that-feeling-of-values-crumbling-has-a-name-civic-grief",
+      "published_at": "2026-11-03T11:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
     }
   ],
   "themes": [
@@ -269,24 +284,10 @@
       "status": "Mẫu hình cần kiểm chứng",
       "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
       "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
-      "evidence_count": 4,
-      "source_count": 2,
+      "evidence_count": 3,
+      "source_count": 3,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
-        {
-          "title": "RBA interest rates: Bullock says ‘some pain now’ will prevent worse pain later as Reserve Bank hikes rates for fifth time",
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
-          "published_at": "2026-11-03T06:14:08+00:00",
-          "summary": "Reserve Bank of Australia increases official cash rate to 4.85%, bringing it to highest level since 2008 RBA interest rates live updates: Reserve Bank cash rate decision Get our daily political email , free app or daily news podcast The Reserve Bank governor Michele Bullock has said that “some pain now will prevent even worse pain down the track,” after lifting official interest rates to an 18-year high of 4.85% in a bid to combat persistent inflation. The RBA’s decision to hit mortgage holders "
-        },
-        {
-          "title": "Bullock doesn’t see ‘economy cracking at this point’ – as it happened",
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
-          "published_at": "2026-11-03T06:33:51+00:00",
-          "summary": "This blog is now closed RBA hikes cash rate for fifth time in blow to mortgage holders Use our loan calculator to check how the rate rise may affect you Get our breaking news email , free app or daily news podcast The Reserve Bank has hiked rates for the fifth time this year, from 4.6% to 4.85%, in a bid to regain control of surging inflation amid the ongoing global oil shock triggered by the war in the Middle East. The RBA’s decision to hit mortgage holders again comes as no surprise after infl"
-        },
         {
           "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
           "source": "The Guardian World",
@@ -295,11 +296,18 @@
           "summary": "Cryptocurrency theft is estimated to generate half of the country’s foreign currency income North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking. Experts, such as TRM Labs, quickly attributed the extraordinary $6.3bn (£4.7bn) Binance cryptocurrency theft to TraderTraitor, an elite North Korean hacking unit"
         },
         {
-          "title": "Tỷ giá ngân hàng lao dốc",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/ty-gia-ngan-hang-lao-doc-5140148.html",
-          "published_at": "2026-11-03T05:26:07+00:00",
-          "summary": "Các ngân hàng liên tục hạ giá mua bán USD xuống 25.560 - 25.970 đồng, xuống thấp nhất một năm rưỡi, dù tỷ giá trung tâm gần như đi ngang."
+          "title": "Could the AI boom make borrowing more expensive in Europe?",
+          "source": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/could-the-ai-boom-make-borrowing-more-expensive-in-europe/a-79511985?maca=en-rss-en-all-1573-xml-mrss",
+          "published_at": "2026-11-03T10:27:00+00:00",
+          "summary": "France, Germany and Italy face a volatile bond market as war inflation bites. With US tech giants now issuing billions in AI bonds, they are competing with cash-strapped European governments."
+        },
+        {
+          "title": "Asian stocks and dollar fall as Democrats gain ground in US midterms",
+          "source": "Euronews",
+          "url": "https://www.euronews.com/2026/11/04/asian-stocks-and-dollar-fall-as-democrats-gain-ground-in-us-midterms",
+          "published_at": "2026-11-04T05:47:14+00:00",
+          "summary": "Technology shares led losses in Asia as investors weighed the prospect of tighter AI regulation and political gridlock in Washington. Oil prices also fell."
         }
       ]
     },
@@ -314,32 +322,32 @@
       "source_note": "Chỉ một nguồn xuất bản trong batch",
       "evidence": [
         {
-          "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2610.40906",
-          "published_at": "2026-11-02T05:00:00+00:00",
-          "summary": "arXiv:2610.40906v1 Announce Type: new Abstract: Recent scientific agents build knowledge recursively by retrieving evidence, constructing an intermediate state, and judging whether that state contains sufficient information. These agents are evaluated end-to-end, usually without ground truth, so the effect of each design choice is unknown. Here, we examined two design axes: (1) what the recursion builds (the state of evidence) and (2) what controls it (the judge that decides when to stop). To me"
+          "title": "Dr. No: Feature Steering for Abstention in Vision-Language Models",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.03862",
+          "published_at": "2026-11-04T05:00:00+00:00",
+          "summary": "arXiv:2611.03862v1 Announce Type: new Abstract: Large foundation models often answer even when the available visual or textual evidence is insufficient to support a reliable conclusion. This failure to abstain makes them hard to trust in high-stakes or information-seeking settings, where a confident but unsupported answer can be worse than no answer at all. It also raises a natural question: can the internal mechanisms behind this behaviour be identified and controlled at inference time? We pres"
         },
         {
-          "title": "Can Personal Requirements Become Supervision for Planning?",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2610.40992",
-          "published_at": "2026-11-02T05:00:00+00:00",
-          "summary": "arXiv:2610.40992v1 Announce Type: new Abstract: Managing multiple chronic conditions through diet requires satisfying disease- and medication-specific requirements jointly across meals and days while preserving established eating habits. These requirements are public in clinical guidelines and drug labels, yet turning them into a feasible plan for one person remains difficult for language-model agents. In our dietitian-approved weekly planning evaluation built from NHANES, thirteen models, from "
+          "title": "CaRe-KT: Continuity-Aware Retrieval-Augmented Reasoning for Knowledge Tracing",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.03744",
+          "published_at": "2026-11-04T05:00:00+00:00",
+          "summary": "arXiv:2611.03744v1 Announce Type: new Abstract: Knowledge tracing (KT) estimates learners' evolving knowledge states from interaction histories to support adaptive learning. Retrieval-augmented KT improves these estimates using cross-learner behavioral evidence, but existing approaches typically separate evidence retrieval from downstream prediction. This creates a retrieval-inference alignment gap because evidence relevance varies with the learner's evolving state and prediction context. We pro"
         },
         {
-          "title": "Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2610.41044",
-          "published_at": "2026-11-02T05:00:00+00:00",
-          "summary": "arXiv:2610.41044v1 Announce Type: new Abstract: The use of large language models (LLMs) to coordinate multi-agent teams raises a fundamental architectural question: whether task allocation should be centralized in a single LLM controller or distributed across autonomous LLM agents, particularly when communication is unreliable. In a deliberately simplified perimeter-defense simulation against LLM-controlled intruders, we compared a central commander, an auction-based consensus team and independe"
+          "title": "Multi-layer Indexer: Overlapping Selection and Attention in DeepSeek Sparse Attention",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.03768",
+          "published_at": "2026-11-04T05:00:00+00:00",
+          "summary": "arXiv:2611.03768v1 Announce Type: new Abstract: Sparse attention cuts the cost of long-context inference by making the attention matrix sparse: each query attends only a subset of the sequence, chosen by a fixed pattern or, in recent production LLMs, learned per query. In DeepSeek Sparse Attention (DSA), the attention of DeepSeek-V3.2 and the GLM-5 family, every layer is preceded by a lightning indexer that scores the whole cache and keeps the k=2048 highest-scoring tokens for the layer to atten"
         },
         {
-          "title": "Circumventing the Computational Hardness of Computational Arbitrage",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2610.40831",
-          "published_at": "2026-11-02T05:00:00+00:00",
-          "summary": "arXiv:2610.40831v1 Announce Type: new Abstract: AI model marketplaces host providers with heterogeneous costs and capabilities. These differences create an opportunity for computational arbitrage (Olmedo et al., 2026), in which an intermediary purchases inference from a portfolio of models and resells it to users at a profit. Beyond creating profit opportunities for the arbitrageur, computational arbitrage offers financial value to both consumers and providers and could therefore significantly i"
+          "title": "Quantifying out-of-distribution data severity with Wasserstein distances: benchmarking large language models for alloy property prediction",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.03767",
+          "published_at": "2026-11-04T05:00:00+00:00",
+          "summary": "arXiv:2611.03767v1 Announce Type: new Abstract: As general-purpose Large Language Models (LLMs), such as Gemini and DeepSeek, exhibit increasingly advanced reasoning capabilities, a critical question arises: how do their property prediction abilities compare to those of domain-specific pretrained materials models? In this study, we evaluate predictions for Ti, steels, high-entropy alloy (HEA) and Al, demonstrating that general-purpose LLMs surprisingly outperform SteelBERT, MatSciBERT, and SciBE"
         }
       ]
     },
@@ -354,6 +362,20 @@
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
+          "title": "ExaTune: Exhaustive Hyperparameter Landscape Exploration at Scale",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.03867",
+          "published_at": "2026-11-04T05:00:00+00:00",
+          "summary": "arXiv:2611.03867v1 Announce Type: new Abstract: Hyperparameter optimization (HPO) returns a single optimal configuration, systematically discarding the explored performance landscape that encodes how results depend on configuration choices. Fitness landscape analysis comprises a robust collection of methods from evolutionary computation offering ruggedness indices, autocorrelation functions, and fitness-distance correlation that have never been applied to machine learning hyperparameter spaces a"
+        },
+        {
+          "title": "The role of injected noise in diffusion model generalization",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.03764",
+          "published_at": "2026-11-04T05:00:00+00:00",
+          "summary": "arXiv:2611.03764v1 Announce Type: new Abstract: Diffusion models trained on distinct datasets can produce highly similar samples when prompted with the same noise input, suggesting that they learn a generalized data distribution. We investigate the role of noise injected during the sampling process, and show that it plays an important role in making or breaking this strong generalization effect. Based on this finding we investigate the robustness of sample similarity to changes in the injected n"
+        },
+        {
           "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
           "source": "The Guardian World",
           "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
@@ -361,25 +383,11 @@
           "summary": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities Donald Trump ’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance, threatening to end US trade with countries with which it has a deficit unless the Federal Reserve cuts interest rates. But the sense that the world’s two largest economies are plowing ahead into an overt economi"
         },
         {
-          "title": "Bullock doesn’t see ‘economy cracking at this point’ – as it happened",
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
-          "published_at": "2026-11-03T06:33:51+00:00",
-          "summary": "This blog is now closed RBA hikes cash rate for fifth time in blow to mortgage holders Use our loan calculator to check how the rate rise may affect you Get our breaking news email , free app or daily news podcast The Reserve Bank has hiked rates for the fifth time this year, from 4.6% to 4.85%, in a bid to regain control of surging inflation amid the ongoing global oil shock triggered by the war in the Middle East. The RBA’s decision to hit mortgage holders again comes as no surprise after infl"
-        },
-        {
           "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
           "source": "The Guardian World",
           "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
           "published_at": "2026-10-30T05:00:45+00:00",
           "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid Support Forces. The UAE nominated Lana Nusseibeh last week to replace the UN secretary general, António "
-        },
-        {
-          "title": "Newcastle United 0-1 Everton - reaction as Thierno Barry scores winner - BBC",
-          "source": "Google News Premier League",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtcldrT0xxOHFCWHhDMG12U1pUU05YOU43ZW0zbW9YTTdNS2gwZndDZFlCV0Y3YzdZenJ2N2o5MG5ST0tRU2hFT3RtNFNVU01MLTZnajYtakxYLTZPSlh0MTlnNA?oc=5",
-          "published_at": "2026-11-02T23:07:18+00:00",
-          "summary": "Newcastle United 0-1 Everton - reaction as Thierno Barry scores winner BBC Newcastle United 0-1 Everton: Premier League – as it happened The Guardian Fan jeers, shipping goals and blunt attack - Jaissle has big problems at Newcastle BBC"
         }
       ]
     },
@@ -390,36 +398,36 @@
       "reading": "Chỉ đáng nâng thành tín hiệu khi có văn bản hoặc số liệu gốc, phạm vi áp dụng và nhóm chịu tác động xác định được. Tin kinh doanh đơn lẻ chưa đủ để kết luận xu hướng kinh tế Việt Nam.",
       "falsifier": "Bác bỏ nếu không có văn bản/số liệu gốc hoặc nội dung không tạo thay đổi đáng kể với doanh nghiệp.",
       "evidence_count": 4,
-      "source_count": 2,
+      "source_count": 3,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Gần ba thập kỷ 'đem chuông đi đánh xứ người' của Vinamilk",
+          "title": "Agribank 3 năm liền vào top 50 doanh nghiệp lớn nhất Đông Nam Á",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/gan-ba-thap-ky-dem-chuong-di-danh-xu-nguoi-cua-vinamilk-5139846.html",
-          "published_at": "2026-11-03T01:00:00+00:00",
-          "summary": "Từ hai container sữa bột gửi sang Iraq năm 1997, Vinamilk dần mở rộng tới 67 quốc gia và vùng lãnh thổ, từng bước từ xuất khẩu đến đầu tư, sản xuất và xây dựng chuỗi cung ứng quốc tế."
+          "url": "https://vnexpress.net/agribank-3-nam-lien-vao-top-50-doanh-nghiep-lon-nhat-dong-nam-a-5140598.html",
+          "published_at": "2026-11-04T04:00:00+00:00",
+          "summary": "Agribank ghi nhận doanh thu hơn 7 tỷ USD năm 2025, xếp thứ 45 trong bảng xếp hạng Fortune Southeast Asia 500, đánh dấu ba năm liên tiếp góp mặt trong top 50 doanh nghiệp lớn nhất Đông Nam Á."
         },
         {
-          "title": "Loạt chủ tài khoản bỗng dưng có mã QR hộ kinh doanh",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/loat-chu-tai-khoan-bong-dung-co-ma-qr-ho-kinh-doanh-5138920.html",
-          "published_at": "2026-11-03T00:00:00+00:00",
-          "summary": "Nhiều khách hàng phát hiện có mã QR cửa hàng đứng tên mình trên ứng dụng MB, nhà băng nói đây chỉ là tính năng hỗ trợ khách nhận thanh toán và theo dõi giao dịch."
+          "title": "Vì sao Việt Nam cấm nhập khẩu điện thoại, máy tính cũ?",
+          "source": "VnExpress Khoa học công nghệ",
+          "url": "https://vnexpress.net/vi-sao-viet-nam-cam-nhap-khau-dien-thoai-may-tinh-cu-5140643.html",
+          "published_at": "2026-11-04T05:45:53+00:00",
+          "summary": "Smartphone, máy tính và nhiều thiết bị công nghệ số đã qua sử dụng không được phép nhập khẩu vào Việt Nam, theo Thông tư 63 của Bộ Khoa học và Công nghệ."
         },
         {
-          "title": "Tỷ giá ngân hàng lao dốc",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/ty-gia-ngan-hang-lao-doc-5140148.html",
-          "published_at": "2026-11-03T05:26:07+00:00",
-          "summary": "Các ngân hàng liên tục hạ giá mua bán USD xuống 25.560 - 25.970 đồng, xuống thấp nhất một năm rưỡi, dù tỷ giá trung tâm gần như đi ngang."
-        },
-        {
-          "title": "Bến Bạch Đằng sắp có thêm hai cầu đi bộ",
+          "title": "'Tiền thuê nhà chỉ nên chiếm 10-15% thu nhập'",
           "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/ben-bach-dang-sap-co-them-hai-cau-di-bo-5140110.html",
-          "published_at": "2026-11-03T05:12:57+00:00",
-          "summary": "Hai cầu đi bộ qua đường Tôn Đức Thắng cùng hạng mục chỉnh trang cầu bến ven sông dự kiến có vốn hơn 88 tỷ đồng, do doanh nghiệp tài trợ."
+          "url": "https://vnexpress.net/tien-thue-nha-chi-nen-chiem-10-15-thu-nhap-5140299.html",
+          "published_at": "2026-11-03T23:00:00+00:00",
+          "summary": "Đại biểu Quốc hội Trần Hoàng Ngân cho rằng tiền thuê nhà chỉ nên chiếm 10-15% thu nhập, muốn đạt mức này Nhà nước cần tận dụng đất công và hỗ trợ vốn đầu tư."
+        },
+        {
+          "title": "6 voi rừng phá lán trại, vườn chè ở Nghệ An",
+          "source": "VnExpress Thời sự",
+          "url": "https://vnexpress.net/6-voi-rung-pha-lan-trai-vuon-che-o-nghe-an-5140514.html",
+          "published_at": "2026-11-04T03:18:11+00:00",
+          "summary": "Một con voi đực và 5 voi cái xuất hiện gần khu vực sản xuất, làm hỏng lán trại chăn nuôi và một số diện tích chè của người dân xã Anh Sơn."
         }
       ]
     }
@@ -430,21 +438,21 @@
       "domain": "AI & công nghệ",
       "items": 40,
       "usable": 40,
-      "sources": 9
+      "sources": 7
     },
     {
       "category": "world",
       "domain": "Thế giới",
       "items": 65,
       "usable": 65,
-      "sources": 12
+      "sources": 13
     },
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 18,
-      "usable": 18,
-      "sources": 2
+      "items": 14,
+      "usable": 14,
+      "sources": 3
     },
     {
       "category": "water",
@@ -456,23 +464,23 @@
     {
       "category": "football",
       "domain": "Arsenal & Premier League",
-      "items": 16,
-      "usable": 16,
-      "sources": 3
+      "items": 15,
+      "usable": 15,
+      "sources": 5
     },
     {
       "category": "books",
       "domain": "Sách",
-      "items": 2,
-      "usable": 2,
-      "sources": 2
+      "items": 5,
+      "usable": 5,
+      "sources": 5
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
-      "items": 7,
-      "usable": 7,
-      "sources": 2
+      "items": 8,
+      "usable": 8,
+      "sources": 4
     },
     {
       "category": "trends",
@@ -484,79 +492,79 @@
   ],
   "links": [
     {
-      "a": "RBA interest rates: Bullock says ‘some pain now’ will prevent worse pain later as Reserve Bank hikes rates for fifth time",
-      "b": "Liverpool 0-1 Arsenal: Kai Havertz scores winner in rare Anfield win for Gunners - BBC",
+      "a": "Towards Automatic Heart Murmur Characterization from Multi-spot Phonocardiograms",
+      "b": "ANC faces anger over poor services as South Africans vote in local elections",
       "terms": [
-        "daily",
-        "guardian",
-        "live",
-        "news",
-        "updates"
+        "deep",
+        "first",
+        "third"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "RBA interest rates: Bullock says ‘some pain now’ will prevent worse pain later as Reserve Bank hikes rates for fifth time",
-      "b": "Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense",
+      "a": "Towards Automatic Heart Murmur Characterization from Multi-spot Phonocardiograms",
+      "b": "👨‍💻 THREAD on how data center-related ballot measures are faring tonight data centers are on the ballot in ~40 localities across 13 states, including proposed bans, votes on specific projects, and recalls of pro-data center politicians - X",
       "terms": [
-        "central",
-        "rate",
-        "rates"
+        "across",
+        "recalls",
+        "specific"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "RBA interest rates: Bullock says ‘some pain now’ will prevent worse pain later as Reserve Bank hikes rates for fifth time",
-      "b": "Gardner Minshew II thread….. change/plenty of new offenses Minshew has learned since high school in Mississippi: -4 colleges (Troy for spring, NW Miss CC, East Car, Wash St) -6th franchise in NFL Minshew best seasons: 2019 as rookie in JAX (6-6), and 20 - X",
+      "a": "Towards Automatic Heart Murmur Characterization from Multi-spot Phonocardiograms",
+      "b": "That feeling of values crumbling has a name: civic grief",
       "terms": [
-        "high",
-        "since"
+        "first",
+        "shared"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "RBA interest rates: Bullock says ‘some pain now’ will prevent worse pain later as Reserve Bank hikes rates for fifth time",
-      "b": "Jaissle unhappy with 'clear foul' before Barry goal",
-      "terms": [
-        "before",
-        "decision"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
-      "b": "Liverpool 0-1 Arsenal: Kai Havertz scores winner in rare Anfield win for Gunners - BBC",
-      "terms": [
-        "conversation",
-        "should"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
-      "b": "Jaissle unhappy with 'clear foul' before Barry goal",
+      "a": "Minimal Superior Penalties: Characterising and Calibrating Decision-Aware Proper Scoring Rules",
+      "b": "Aukus is ‘worst, riskiest and most costly’ Australian defence decision ever, public inquiry into submarine deal says",
       "terms": [
         "decision",
-        "issue"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
-      "b": "Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense",
-      "terms": [
-        "more",
-        "rates",
-        "under"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Liverpool 0-1 Arsenal: Kai Havertz scores winner in rare Anfield win for Gunners - BBC",
-      "b": "Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense",
-      "terms": [
-        "against",
         "should"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Minimal Superior Penalties: Characterising and Calibrating Decision-Aware Proper Scoring Rules",
+      "b": "ANC faces anger over poor services as South Africans vote in local elections",
+      "terms": [
+        "first",
+        "however",
+        "show",
+        "than"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Minimal Superior Penalties: Characterising and Calibrating Decision-Aware Proper Scoring Rules",
+      "b": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+      "terms": [
+        "decision",
+        "should"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Minimal Superior Penalties: Characterising and Calibrating Decision-Aware Proper Scoring Rules",
+      "b": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
+      "terms": [
+        "first",
+        "training"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Language Models Can Benefit from Domain-Specific Inductive Biases",
+      "b": "👨‍💻 THREAD on how data center-related ballot measures are faring tonight data centers are on the ballot in ~40 localities across 13 states, including proposed bans, votes on specific projects, and recalls of pro-data center politicians - X",
+      "terms": [
+        "across",
+        "data",
+        "specific"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }

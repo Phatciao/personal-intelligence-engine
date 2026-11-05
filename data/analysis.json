@@ -1,34 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T06:23:15.703377+00:00",
-  "input_generated_at": "2026-11-04T06:23:15.647413+00:00",
+  "generated_at": "2026-11-05T06:46:41.568926+00:00",
+  "input_generated_at": "2026-11-05T06:46:41.511548+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
-  "items_after_dedup": 148,
+  "items_after_dedup": 150,
   "signals": [
     {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Towards Automatic Heart Murmur Characterization from Multi-spot Phonocardiograms",
-      "summary": "arXiv:2611.03654v1 Announce Type: new Abstract: Cardiac auscultation traditionally detects the presence of a heart murmur, but clinicians further characterize it by timing, shape, pitch, quality, and grade. Most automatic phonocardiogram analysis systems stop at binary detection and do not estimate this richer description. In this work, we formulate automatic murmur characterization as five patient-level classification tasks and compare three multi-spot strategies on recordings from the aortic, pulmonary, mitral, and tricuspid auscultation locations. First, classical and deep-learning classifiers are trained independently at each location, and predictions are combined via a maximum-severity late-fusion rule. Second, a synchronous multi-input CNN jointly processes one representative segment per location for a single task. Third, a unified multi-input, multi-output CNN predicts all five attributes from one shared multi-spot representation. Using 735 patients from the CirCor DigiScope dataset with complete four-spot recordings, the best late-fusion configurations reach an unweighted mean sensitivity between 85.56% and 93.81% across the five tasks, with class-specific recalls between 8",
-      "source": "arXiv Machine Learning",
-      "url": "https://arxiv.org/abs/2611.03654",
-      "published_at": "2026-11-04T05:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Minimal Superior Penalties: Characterising and Calibrating Decision-Aware Proper Scoring Rules",
-      "summary": "arXiv:2611.03734v1 Announce Type: new Abstract: Training a classifier means letting a validation metric decide which model is kept and when training stops. A natural requirement on that metric is superiority: every correctly classified forecast should score better than every incorrectly classified one, however close the underlying probabilities are. Neither the Brier score nor the logarithmic score satisfies this on its own. We show that superiority is governed by the separation between two endpoints -- the supremum of the score on correct predictions and the infimum on incorrect predictions -- and derive both in closed form for each score. Their difference is the infimal penalty, the greatest lower bound on the penalty needed to restore superiority. Prior work restores superiority with a penalty calibrated from the first endpoint alone; for the Brier base, our infimal penalty is smaller than that published penalty by a factor ranging from 4.00 at three classes to 2.11 at twenty. We further embed the published and infimal penalties in a one-parameter family and show that, under a single-valued tie convention, every member of the family is strictly proper. In a pre-specified two-dat",
-      "source": "arXiv Machine Learning",
-      "url": "https://arxiv.org/abs/2611.03734",
-      "published_at": "2026-11-04T05:00:00+00:00",
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+      "summary": "Wong, 30, has been imprisoned since 2020 and is the only activist in Hong Kong prosecuted twice under national security law Exclusive: Joshua Wong laments city’s fate from inside maximum security prison Hong Kong activist Joshua Wong has been sentenced to 10 years in prison after earlier pleading guilty to “foreign collusion”, his second conviction under a national security law that critics say has been used to silence political opposition in the city. Wong, who rose to prominence as the teenage face of Hong Kong’s 2014 pro-democracy demonstrations, submitted his guilty plea in September. He had been accused of working with the exiled Hong Kong activist Nathan Law to urge foreign powers to impose sanctions, blockades or other hostile measures against China. Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+      "published_at": "2026-11-05T04:04:49+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -39,11 +24,41 @@
     {
       "domain": "AI & công nghệ",
       "category": "ai",
-      "title": "Language Models Can Benefit from Domain-Specific Inductive Biases",
-      "summary": "arXiv:2611.03756v1 Announce Type: new Abstract: Language models are typically trained with a single choice of architecture on diverse domains and data sources. Modern transformers have been extensively refined for such general-purpose learning, but are they equally effective across different subsets of the pretraining data? We investigate this question by training small language models from scratch on representative subsets of pretraining data such as web text, code, and mathematics. We introduce variants of transformers in which standard activation functions are replaced with learned splines tuned on specific datasets, providing a simple way to modify their inductive biases. Using a mix-and-match of architectures and datasets, we evaluate cross-domain transfer, i.e. how well does an architecture tuned for one domain perform on data from another? We find that the tuned transformer variants improve training efficiency or generalization on all seven of our tested datasets, but the gains are often domain-specific. For example, architectures tuned on a natural language dataset such as FineWeb perform well on TinyStories, whereas those tuned on mathematics perform poorly on natural lang",
-      "source": "arXiv Machine Learning",
-      "url": "https://arxiv.org/abs/2611.03756",
-      "published_at": "2026-11-04T05:00:00+00:00",
+      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+      "summary": "arXiv:2611.05391v1 Announce Type: new Abstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of use. Execution harnesses often possess this information through monitors, traces, and recent failures while the model choosing the next action does not. We call this gap operational blindness. We introduce Agent Harness Awareness, a trust-separated design in which the host supplies a small, fresh, verified state snapshot before a consequential action while retaining measurement, enforcement, evaluation, and final dispatch authority. We test its tools-and-network instance with ToolRoute, a controlled isolation benchmark that holds the task and candidate semantics constant and varies the operational information available to the model. In a 216-decision ablation across GPT-5.6 Sol, Claude Sonnet 5, and Gemini 3.7 Flash, verified tool-health state reduced mean observable policy regret by 96.9% against a same-shape neutral control (4,252 ms to 131 ms) and raised single-dispatch completion from 69.4% to 95.8%. In a separate 27-decision end-to-end replication with live local TCP/HTTP execution,",
+      "source": "arXiv AI",
+      "url": "https://arxiv.org/abs/2611.05391",
+      "published_at": "2026-11-05T05:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+      "summary": "arXiv:2611.05393v1 Announce Type: new Abstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts and retrieve knowledge from the question alone, rather than from gaps that emerge during reasoning. We propose challenge-aware adaptive recruitment: an external CHALLENGER inspects the evolving reasoning trace and identifies specific factual or expertise gaps. These signals trigger targeted knowledge retrieval or mid-discussion specialist recruitment. On the MEDAGENTSBENCH hard subset (862 questions across nine biomedical datasets), upfront retrieval provides little benefit, while challenge-aware in-between retrieval performs better; on a multi-specialist backbone it improves accuracy on 8 of 9 datasets and adds 6 percentage points over Challenger Only. Ablations indicate benefits from both retrieval timing and gap-specific query signals, and a live web-search experiment shows that the timing advantage persists across retrieval backends. For specialist recruitment, self-triggered adaptation ",
+      "source": "arXiv AI",
+      "url": "https://arxiv.org/abs/2611.05393",
+      "published_at": "2026-11-05T05:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+      "summary": "arXiv:2611.05394v1 Announce Type: new Abstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to the datacenter, and is increasingly offered as the route to cheaper, lower-latency, and more private serving. Most such systems orchestrate frozen model checkpoints, and most decide what to resolve locally and what to escalate using a confidence signal produced by a forward-deployed model. We give a closed-form condition for when no threshold on that signal makes a tiered cascade worthwhile relative to sending every query to the backstop. Modeling the routing decision as a binary test and separating local from escalation cost through an architecture cost ratio $\\kappa$, we derive a feasibility condition bracketed by a signal-free floor, below which a cascade is feasible at any signal quality, and a perfect-signal ceiling, above which none is. Read along the $\\kappa$ axis the condition inverts: where local compute is billed, cost binds, matching a recent empirical finding; where it is sunk, on decentralized hardware, feasibility becomes unconditional and signal quality instead sets what the cascade achieves. ",
+      "source": "arXiv AI",
+      "url": "https://arxiv.org/abs/2611.05394",
+      "published_at": "2026-11-05T05:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -54,41 +69,26 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Aukus is ‘worst, riskiest and most costly’ Australian defence decision ever, public inquiry into submarine deal says",
-      "summary": "Report led by Peter Garrett and former defence chief Adm Chris Barrie says agreement should be suspended and calls for royal commission Get our daily political email , free app or daily news podcast A public inquiry into the $368bn Aukus nuclear submarine agreement has called the plan “the worst, riskiest and most costly defence decision ever made by an Australian government”, urging its immediate termination. Former Labor MP and Midnight Oil frontman Peter Garrett and former chief of defence Adm Chris Barrie led the inquiry dominated by critics of the deal with the UK and US, recommending the suspension of plans for new bases and for a royal commission to be held into the agreement signed by the former Morrison government. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "title": "South Korea says it will expand naval operations closer to strait of Hormuz",
+      "summary": "Seoul to seek parliamentary approval to extend anti-piracy Cheonghae unit’s area to about 650km from the vital strait after criticism from Donald Trump on Iran war support South Korea plans to expand the operations ⁠of its anti-piracy unit to waters closer to the strait of Hormuz, its defence ministry has said, after pressure from Donald Trump to ⁠provide support for his war in Iran. The government is to submit a motion to parliament that would expand the Cheonghae unit’s area of operation to waters near the port of Duqm in Oman, which ​is about 650km (403 miles) away from the strait. The motion also needs to be approved by ‌President Lee Jae Myung and the cabinet. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/04/aukus-worst-australian-defence-decision-ever-public-inquiry",
-      "published_at": "2026-11-04T04:38:39+00:00",
+      "url": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+      "published_at": "2026-11-05T04:22:49+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
+      "score": 35
     },
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "ANC faces anger over poor services as South Africans vote in local elections",
-      "summary": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure. The former liberation movement, which Nelson Mandela led to power in 1994 at the end of apartheid as South Africa’s first black president, is still likely to be the largest party. However, polls show it getting less than a third of the vote, down from 45.6% at the last municipal elections in 2021 and 40.2% in 2024’s national elections . Continue reading...",
+      "title": "David Jones goes into administration, with store closures expected and thousands of jobs at risk",
+      "summary": "Future of Australia’s upmarket department store in jeopardy after years of steep losses, and outer suburban and regional locations vulnerable Get our breaking news email , free app or daily news podcast Australia’s premier upmarket department store David Jones has collapsed into voluntary administration, putting thousands of jobs at risk amid warnings “difficult decisions” lie ahead to salvage the 188-year-old retailer. The upheaval follows years of steep losses and underperforming stores that left the heritage retailer falling behind on rent, culminating in a breakdown of negotiations with its primary landlord, Westfield owner Scentre Group. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-      "published_at": "2026-11-04T04:00:23+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 34
-    },
-    {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
-      "summary": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials reportedly insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders’ summit in Antigua and Barbuda – and even warned that Andy Burnham would not attend the meeting if the subject was formally included, according to a leading Caribbean political figure. Ralph Gonsalves, a former prime minister of St Vincent and the Grenadines and a senior figure in the reparatory justice movement Repair Campaign, welcomed Britain’s decision to enter structured dialogue on reparations, but said the UK had come “kicking and screaming” to the conversation. Continue reading...",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
-      "published_at": "2026-11-01T22:26:11+00:00",
+      "url": "https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration",
+      "published_at": "2026-11-05T03:12:54+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -99,11 +99,41 @@
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "The most lucrative AI business to start in 2027 The most lucrative skill has always been capturing attention. It’s obvious why. If your goal is making more money, it doesn’t matter how good a software you build. It doesn’t matter if it took you 3 - X",
-      "summary": "The most lucrative AI business to start in 2027 The most lucrative skill has always been capturing attention. It’s obvious why. If your goal is making more money, it doesn’t matter how good a software you build. It doesn’t matter if it took you 3 X",
+      "title": "🧵 THREAD The overthrow of Iran’s Shah in February 1979 set the stage for a confrontation with the US. In November, Iranian students seized the US Embassy in Tehran, holding 52 Americans hostage for 444 days. Iran marked the takeover’s anniversary with - X",
+      "summary": "🧵 THREAD The overthrow of Iran’s Shah in February 1979 set the stage for a confrontation with the US. In November, Iranian students seized the US Embassy in Tehran, holding 52 Americans hostage for 444 days. Iran marked the takeover’s anniversary with X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoVVRZU195cUR0d2E5elJsUzEzbG5YdnBmYURYZjhkWmthUG1IeHB0MzJqdGVFNzB4LXgyMUxIeWF4VUI5S0VVZWRJdlpHcV9BRjE5WVIzQlYxdGlsT05Z?oc=5",
-      "published_at": "2026-11-03T17:06:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Gc3h2dk14dHJHVDNaRUx0NlJjYmRBeHg2ZlJMYmF0ckpRYmFMMXl2SlNiZTRVNWM0Z2dkaC1HdlowZmlRTFZva3VyRWNIa2lYYzI3aE1RWHhPS3BDcTBr?oc=5",
+      "published_at": "2026-11-05T03:25:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "@Hot Smart Rich creator Maggie Sellers Reum told #FortuneDaily she deliberately chose “polarizing” branding to cut through the attention economy and help others, especially women, build financial independence. #advice #investing #success #leadership - TikTok",
+      "summary": "@Hot Smart Rich creator Maggie Sellers Reum told #FortuneDaily she deliberately chose “polarizing” branding to cut through the attention economy and help others, especially women, build financial independence. #advice #investing #success #leadership TikTok",
+      "source": "Google News TikTok & Short-form Video",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wMEpuc0VVQTJ1ZDFheUxJMlV3dkNMSHFHT1puazJnTHlhZ2FWZ1A5XzlQRmlhXzBBV1hCaERIbVJ1dllaQU5VUDE5cFNZcldzZS1tTU8yV3dHOVNCU2hXZ2szdnlVcVc1?oc=5",
+      "published_at": "2026-11-05T01:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "'BEEF' creator Lee Sung Jin has renewed a multi-year deal with Netflix and launched production company LILA Pictures. Two new series, 'THE ONLY CHILD' starring Ali Wong and 'CITIZEN'S ARREST', are now in development. (🔗 https://t.co/m7v1DK3TB5) - X",
+      "summary": "'BEEF' creator Lee Sung Jin has renewed a multi-year deal with Netflix and launched production company LILA Pictures. Two new series, 'THE ONLY CHILD' starring Ali Wong and 'CITIZEN'S ARREST', are now in development. (🔗 https://t.co/m7v1DK3TB5) X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZVGVTZ0hLSjlUVEVxc0p6QUdSV2tLd1N5MG5iREdxYklxU3NFQzE2OHl1cko0NW1UMVBGU2Y1Q2JHNS1mSDZSXy13ZHRCem05N2R6SU5jbWhid0taMlh1eFhwQ2k?oc=5",
+      "published_at": "2026-11-04T18:00:02+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -114,41 +144,11 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
-      "summary": "Manchester City defender Rayan Ait-Nouri a surprise target for Manchester United, Crystal Palace could turn to England assistant boss Anthony Barry if they sack Pierre Sage, Barcelona keen on Arsenal centre-back Piero Hincapie, plus more.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T22:55:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 19
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "👨‍💻 THREAD on how data center-related ballot measures are faring tonight data centers are on the ballot in ~40 localities across 13 states, including proposed bans, votes on specific projects, and recalls of pro-data center politicians - X",
-      "summary": "👨‍💻 THREAD on how data center-related ballot measures are faring tonight data centers are on the ballot in ~40 localities across 13 states, including proposed bans, votes on specific projects, and recalls of pro-data center politicians X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IUS1oWW9UVzNKbTNDbVUzX0kyOXp6a2o2TjhsVUFGTUZsbVQxUlVNMmw5bGRPX05KYWE5MnUybXhMVzd6ZEZqZ3dzc2hYQ0pCNC1kdzROa3VkWFg1dDZiMHRn?oc=5",
-      "published_at": "2026-11-04T01:11:12+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 19
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "LOVE TREND X MIRACULOUS S7 ✨ // OK BUT THE NOVA EDITOR CCs, LIKE THOSE FROM AE 🔥 // Scp: gcpackss on insta #miraculousladybug #miraculousladybugs7 #miraculousedits #lovetrend #Edit MIRACULOUS LADYBUG SEASON 7 EDIT @𓏲🌷⁎⁺ - TikTok",
-      "summary": "LOVE TREND X MIRACULOUS S7 ✨ // OK BUT THE NOVA EDITOR CCs, LIKE THOSE FROM AE 🔥 // Scp: gcpackss on insta #miraculousladybug #miraculousladybugs7 #miraculousedits #lovetrend #Edit MIRACULOUS LADYBUG SEASON 7 EDIT @𓏲🌷⁎⁺ TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BVDJhZFo3WWJaOXJENWNpbFo4NG1IblZjRjU3bjR5UjRBeEhlZGpiWGtiT2JZS1VjOGZsVXBNQnZGNnlyYi1HQUk5Mm52OFRNTkhtVVJ1ZzZiVE1vOXNVMGdtZk15OFMz?oc=5",
-      "published_at": "2026-11-03T22:39:51+00:00",
+      "title": "Slavia Prague vs Arsenal LIVE: Latest score and updates from Champions League - London Evening Standard",
+      "summary": "Slavia Prague vs Arsenal LIVE: Latest score and updates from Champions League London Evening Standard Report: Slavia Prague 1-2 Arsenal Arsenal.com Slavia Prague vs Arsenal: UEFA Champions League stats & head-to-head BBC",
+      "source": "Google News Arsenal",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOXlJalVwNXFBS0VRQVFGX3dWbVRVRGJqRzBhXzFmSUNlSUlZVUg4bS1uS1lmZ3VnZFhwVkFfV1NzMEZrVlpRT0NGQnVld2FpRHFITzFxUjE3RjlrVUo0YnlIVWY1NnY3NGxLM0hiQ2I4b0tuZHh3emtnbGRMd0l2SW5CRmJhV0trR3lidHZXbDVONTltdi1KMkZrWGxudGY1WUk2R1F1bW1jQ0hpVDhWWnNMX3RnbTU1ekdDclNic3ZuUHZvOGtDVFBkVFh3cGNKNG5VZjNSMVluQkJmVVE?oc=5",
+      "published_at": "2026-11-05T05:12:38+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -159,101 +159,71 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
-      "summary": "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache.",
+      "title": "Arsenal survive late Slavia scare for hard-fought win",
+      "summary": "Arsenal earn their third win from four in the Champions League as goals from Noni Madueke and Victor Gyokeres are too much for Slavia Prague, despite a valiant late fight from the hosts to get back into the game.",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-03T15:07:49+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T22:10:07+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
+      "score": 19
     },
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Hạn chế chuyển nhượng nhà xã hội để ngăn đầu cơ",
-      "summary": "Thứ trưởng Xây dựng Lê Hồng Vinh cho biết dự thảo Luật Nhà ở sửa đổi dự kiến mỗi người chỉ được mua hoặc thuê mua một căn nhà ở xã hội, hạn chế chuyển nhượng trong 5 năm đầu để ngăn đầu cơ.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/han-che-chuyen-nhuong-nha-xa-hoi-de-ngan-dau-co-5140635.html",
-      "published_at": "2026-11-04T05:28:51+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Agribank 3 năm liền vào top 50 doanh nghiệp lớn nhất Đông Nam Á",
-      "summary": "Agribank ghi nhận doanh thu hơn 7 tỷ USD năm 2025, xếp thứ 45 trong bảng xếp hạng Fortune Southeast Asia 500, đánh dấu ba năm liên tiếp góp mặt trong top 50 doanh nghiệp lớn nhất Đông Nam Á.",
-      "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/agribank-3-nam-lien-vao-top-50-doanh-nghiep-lon-nhat-dong-nam-a-5140598.html",
-      "published_at": "2026-11-04T04:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Manchester United keen on signing Manchester City defender Rayan Ait-Nouri who is open to crossing divide in January - Paper Talk | Football News - Sky Sports",
-      "summary": "Manchester United keen on signing Manchester City defender Rayan Ait-Nouri who is open to crossing divide in January - Paper Talk | Football News Sky Sports",
-      "source": "Google News Premier League",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQa3NiMXU5b3NHZWJSNUo2X0RZZU1yeFQ5MmtpWFlKN2pBdEVlcXdhVTFYTnZjT3VIRGFweVBXbnB2T2JGWGVwcGtSVVVIaEtnSjBXeHBydFFkbUpXaWphVXpReW5jYVVJcjRuVnFGRU9hM05LV3hVaHJneFBBSHFuQ1VrQ0tUWkZJYnV6ZWtpVkFtVjVkVFF4Nk50SkF3VVRtZHkwVDJPQnhYNTMtSC1uMGQxMU45TGIwNGZJLWdnQXV1MVlHT1ZodjdpaUEzUDdEZWlTUjA5Mjh2WHFQWTVkWFdLeFgwY0lYLU5oeGVPajBaYVFqYXRPb1RaLTdKbjVfMWFVSVg5dFRId2w4UmFlX09rMDREZUZYcDRR?oc=5",
-      "published_at": "2026-11-04T05:39:21+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Vì sao Việt Nam cấm nhập khẩu điện thoại, máy tính cũ?",
-      "summary": "Smartphone, máy tính và nhiều thiết bị công nghệ số đã qua sử dụng không được phép nhập khẩu vào Việt Nam, theo Thông tư 63 của Bộ Khoa học và Công nghệ.",
+      "title": "Hôm nay khai mạc Ngày hội trí tuệ nhân tạo Việt Nam 2026",
+      "summary": "Ngày hội Trí tuệ nhân tạo Việt Nam 2026 diễn ra lúc 14h ngày 5/11, với sự góp mặt của các nhà quản lý, chuyên gia, doanh nghiệp, bàn về AI và lễ vinh danh sản phẩm, giải pháp, tài năng AI Việt.",
       "source": "VnExpress Khoa học công nghệ",
-      "url": "https://vnexpress.net/vi-sao-viet-nam-cam-nhap-khau-dien-thoai-may-tinh-cu-5140643.html",
-      "published_at": "2026-11-04T05:45:53+00:00",
+      "url": "https://vnexpress.net/hom-nay-khai-mac-ngay-hoi-tri-tue-nhan-tao-viet-nam-2026-5140602.html",
+      "published_at": "2026-11-05T01:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
+      "score": 18
     },
     {
-      "domain": "Sách",
-      "category": "books",
-      "title": "Những quyết sách của ông Trump góp phần khiến đảng Cộng hòa thảm bại",
-      "summary": "Loạt quyết định về thuế quan, chiến sự và nhập cư của Tổng thống Trump làm cử tri bất mãn, khiến đảng Cộng hòa đánh mất lưỡng viện trong bầu cử giữa kỳ.",
-      "source": "VnExpress Thế giới",
-      "url": "https://vnexpress.net/nhung-quyet-sach-cua-ong-trump-gop-phan-khien-dang-cong-hoa-tham-bai-5140519.html",
-      "published_at": "2026-11-04T05:14:43+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
-    },
-    {
-      "domain": "Sách",
-      "category": "books",
-      "title": "Chuỗi nhà sách lớn nhất cả nước lãi kỷ lục",
-      "summary": "Lợi nhuận sau thuế quý III của Fahasa, chuỗi nhà sách lớn nhất nước, đạt gần 20,7 tỷ đồng, tăng 28% so với cùng kỳ và là mức cao nhất từ khi công bố thông tin.",
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Bộ Công Thương: Hội viên chuỗi phòng tập California có thể kiện đòi hoàn phí",
+      "summary": "Hội viên California Fitness & Yoga có thể khởi kiện để yêu cầu giải quyết tranh chấp hợp đồng, đòi hoàn phí khi loạt chuỗi phòng tập thuộc hệ thống này đóng cửa, theo Ủy ban Cạnh tranh.",
       "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/chuoi-nha-sach-lon-nhat-ca-nuoc-lai-ky-luc-5140571.html",
-      "published_at": "2026-11-04T04:01:37+00:00",
+      "url": "https://vnexpress.net/bo-cong-thuong-hoi-vien-chuoi-phong-tap-california-co-the-kien-doi-hoan-phi-5140891.html",
+      "published_at": "2026-11-05T00:48:25+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Emphatic Porto thrash Napoli in second-half romp",
+      "summary": "Porto score three goals in the final 20 minutes of the game to pull away and seal a comfortable victory against Napoli, who are unable to match their Portuguese opponents in the second half.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T22:17:34+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Bà Mai Kiều Liên nhận vinh danh tại Hội nghị thượng đỉnh Fortune",
+      "summary": "Bà Mai Kiều Liên nhận vinh danh \"Top 100 phụ nữ quyền lực nhất châu Á\", đồng thời đại diện Vinamilk nhận \"Top 500 doanh nghiệp lớn nhất Đông Nam Á\", ngày 3/11.",
+      "source": "VnExpress Kinh doanh",
+      "url": "https://vnexpress.net/ba-mai-kieu-lien-nhan-vinh-danh-tai-hoi-nghi-thuong-dinh-fortune-5141071.html",
+      "published_at": "2026-11-05T05:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -264,17 +234,62 @@
     {
       "domain": "Sách",
       "category": "books",
-      "title": "That feeling of values crumbling has a name: civic grief",
-      "summary": "Fairness, dignity and shared obligation are precious. Grieving their loss is a first step toward doing something about it - by Rebecca Lewandowski Read on Psyche",
-      "source": "Psyche",
-      "url": "https://psyche.co/ideas/that-feeling-of-values-crumbling-has-a-name-civic-grief",
-      "published_at": "2026-11-03T11:00:00+00:00",
+      "title": "Is There Anything Left in the Dream of Cold Fusion?",
+      "summary": "Dig a little deeper and you’ll find a thriving research program with exotic atoms that won’t solve the energy crisis but stretches the boundaries of physics. The post Is There Anything Left in the Dream of Cold Fusion? first appeared on Quanta Magazine",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
+      "published_at": "2026-11-02T15:48:57+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
       "score": 17
+    },
+    {
+      "domain": "Nước & năng lượng",
+      "category": "water",
+      "title": "Countertop Reverse Osmosis Leader Bluevua Wins Three 2026 Best of America Small Business Awards (BASA Awards®) - StreetInsider",
+      "summary": "Countertop Reverse Osmosis Leader Bluevua Wins Three 2026 Best of America Small Business Awards (BASA Awards®) StreetInsider",
+      "source": "Google News Water Technology",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSl9tVHZRN1h4RFRhMjhHV0Z2dEltMXduYVpZWkwtNmo1SV9XX2lYTHhJTzBzbFZiYmtkTnVaMXZVMWlJOWRlLWZBT2RZWDFkNU5HczBuQ1VZQ2phWkd3Z0VnLXFKVTN6VlQxTU1ld1lvTTZtQWJfVWh5YUp4eW5jeVljdnE0ZlJuWlNZWXVEbExva1NiWHVrYTRjWU52MWF0MldlRUZnTGhxUS1acWZ2VTZ3UjJBMTdEVm5TYmZkckJCLTR0STA4d0NiQ05SSHVfdUhxUnN3YVh5V3E5Sl9kMWpqVDZ2NnJMS2Q1QWZCQkZGVW1GQXU5c1BOZmpRTkZMQkc1SQ?oc=5",
+      "published_at": "2026-11-05T05:58:41+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 16
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "The 2026 Booker Prize shortlist: What made it and what didn't - ABC News & Headlines – Australian Broadcasting Corporation",
+      "summary": "The 2026 Booker Prize shortlist: What made it and what didn't ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "Google News International Book Awards",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWXd5ajI4UnM4aHh1MFdqblBhYWhlZjB6dEFjUzY3NDRZS1F5VklwSU1vSEVGYkhOaXN6bFVSWWtkS0VFX05iVjNneGYtUWlGNV9SWjNlRzR4aTNvSTEwa3VaV1R1bGljSjg4Y0hXUjJRM2NCdjc3SEZONHhyMkhTaDBvRUU3YVY5LXU5bVBMZHhzaEEwaExJc0hRR25Dd0RLTXpYeVZHZlluUQ?oc=5",
+      "published_at": "2026-11-05T02:23:09+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 16
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "Booker Prize 2026: Who is on the shortlist and when are literary awards? - LBC",
+      "summary": "Booker Prize 2026: Who is on the shortlist and when are literary awards? LBC",
+      "source": "Google News International Book Awards",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWMGdkaGxxMGJZTC1vYndVbm9FZDZDaGNJTW1Zc3IzdnBGUk5oUk5vM0sxdm94ZGZPRjFvSjl3dHVsemswblZkdXR2TEVNbzczeC1Fa0NlNFBTdzNURmJyTjhvVUUxZWxBZTc1SUtSX0hLLWlWdmVSVTlVbi1oUQ?oc=5",
+      "published_at": "2026-11-04T11:40:30+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 14
     }
   ],
   "themes": [
@@ -284,30 +299,23 @@
       "status": "Mẫu hình cần kiểm chứng",
       "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
       "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
-      "evidence_count": 3,
-      "source_count": 3,
+      "evidence_count": 2,
+      "source_count": 2,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
-          "published_at": "2026-10-30T17:37:46+00:00",
-          "summary": "Cryptocurrency theft is estimated to generate half of the country’s foreign currency income North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking. Experts, such as TRM Labs, quickly attributed the extraordinary $6.3bn (£4.7bn) Binance cryptocurrency theft to TraderTraitor, an elite North Korean hacking unit"
-        },
-        {
-          "title": "Could the AI boom make borrowing more expensive in Europe?",
+          "title": "What the Democrats' midterms win means for the US economy and Trump",
           "source": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/could-the-ai-boom-make-borrowing-more-expensive-in-europe/a-79511985?maca=en-rss-en-all-1573-xml-mrss",
-          "published_at": "2026-11-03T10:27:00+00:00",
-          "summary": "France, Germany and Italy face a volatile bond market as war inflation bites. With US tech giants now issuing billions in AI bonds, they are competing with cash-strapped European governments."
+          "url": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-all-1573-xml-mrss",
+          "published_at": "2026-11-04T15:09:00+00:00",
+          "summary": "From high oil prices and data centers to tariffs and mounting debt, economic concerns played a key role in the crushing defeat of President Donald Trump's Republicans. So can the Democrats now make a difference?"
         },
         {
-          "title": "Asian stocks and dollar fall as Democrats gain ground in US midterms",
-          "source": "Euronews",
-          "url": "https://www.euronews.com/2026/11/04/asian-stocks-and-dollar-fall-as-democrats-gain-ground-in-us-midterms",
-          "published_at": "2026-11-04T05:47:14+00:00",
-          "summary": "Technology shares led losses in Asia as investors weighed the prospect of tighter AI regulation and political gridlock in Washington. Oil prices also fell."
+          "title": "Eurozone inflation rises to 4% in October - Financial Times",
+          "source": "Financial Times via Google News",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRldUMUtDX2VmZmtCbnV4U014Xzk4bWN3OHpqeUZVNElJci1aaTNIU0tSS1pjRTRFN2pIWWItdlBhcnF0eEdocy1pTElBVUlId0tYcHRlYVM1VHBCQWdhb0VKdjJrbGYwNTAtd2NYUUVndktNX2pEcEJuZ0dDb2l6NTRSNGo?oc=5",
+          "published_at": "2026-11-04T10:01:57+00:00",
+          "summary": "Eurozone inflation rises to 4% in October Financial Times"
         }
       ]
     },
@@ -318,36 +326,36 @@
       "reading": "Các bài về mô hình, suy luận và công việc có thể cho thấy AI đang được đánh giá theo chi phí triển khai và kết quả vận hành, không chỉ theo khả năng trình diễn. Cần phân biệt nghiên cứu thử nghiệm với sản phẩm đã được triển khai.",
       "falsifier": "Bác bỏ nếu bài chỉ mô tả nghiên cứu hoặc tuyên bố của doanh nghiệp mà không có kết quả triển khai độc lập.",
       "evidence_count": 4,
-      "source_count": 1,
-      "source_note": "Chỉ một nguồn xuất bản trong batch",
+      "source_count": 2,
+      "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
+        {
+          "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.05394",
+          "published_at": "2026-11-05T05:00:00+00:00",
+          "summary": "arXiv:2611.05394v1 Announce Type: new Abstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to the datacenter, and is increasingly offered as the route to cheaper, lower-latency, and more private serving. Most such systems orchestrate frozen model checkpoints, and most decide what to resolve locally and what to escalate using a confidence signal produced by a forward-deployed model. We give a closed-form condition "
+        },
+        {
+          "title": "Towards Efficient Whole Page Ranking with One-Pass Inference",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.05542",
+          "published_at": "2026-11-05T05:00:00+00:00",
+          "summary": "arXiv:2611.05542v1 Announce Type: new Abstract: Whole-page ranking jointly optimizes advertisements and organic content to balance business outcomes and user engagement under complex layout and business constraints. Existing non-autoregressive (NAR) approaches enable efficient page generation but typically score candidate items independently of previously selected items, limiting their ability to capture order-dependent interactions. Autoregressive (AR) methods address this limitation through se"
+        },
+        {
+          "title": "Assurance-Conditioned Continuous Authorization for Autonomous AI Agents",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.05632",
+          "published_at": "2026-11-05T05:00:00+00:00",
+          "summary": "arXiv:2611.05632v1 Announce Type: new Abstract: Autonomous software agents can act through tools, delegate work, and change their models or execution environments while earlier authorizations remain in flight. We present Assurance-Conditioned Continuous Authorization (ACCA), an approach designed to be harness-independent, for maintaining operational authority according to currently justified assurance. It distinguishes evidence validity from contextual applicability, derives assurance claims fro"
+        },
         {
           "title": "Dr. No: Feature Steering for Abstention in Vision-Language Models",
           "source": "arXiv Machine Learning",
           "url": "https://arxiv.org/abs/2611.03862",
-          "published_at": "2026-11-04T05:00:00+00:00",
+          "published_at": "2026-11-05T05:00:00+00:00",
           "summary": "arXiv:2611.03862v1 Announce Type: new Abstract: Large foundation models often answer even when the available visual or textual evidence is insufficient to support a reliable conclusion. This failure to abstain makes them hard to trust in high-stakes or information-seeking settings, where a confident but unsupported answer can be worse than no answer at all. It also raises a natural question: can the internal mechanisms behind this behaviour be identified and controlled at inference time? We pres"
-        },
-        {
-          "title": "CaRe-KT: Continuity-Aware Retrieval-Augmented Reasoning for Knowledge Tracing",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.03744",
-          "published_at": "2026-11-04T05:00:00+00:00",
-          "summary": "arXiv:2611.03744v1 Announce Type: new Abstract: Knowledge tracing (KT) estimates learners' evolving knowledge states from interaction histories to support adaptive learning. Retrieval-augmented KT improves these estimates using cross-learner behavioral evidence, but existing approaches typically separate evidence retrieval from downstream prediction. This creates a retrieval-inference alignment gap because evidence relevance varies with the learner's evolving state and prediction context. We pro"
-        },
-        {
-          "title": "Multi-layer Indexer: Overlapping Selection and Attention in DeepSeek Sparse Attention",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.03768",
-          "published_at": "2026-11-04T05:00:00+00:00",
-          "summary": "arXiv:2611.03768v1 Announce Type: new Abstract: Sparse attention cuts the cost of long-context inference by making the attention matrix sparse: each query attends only a subset of the sequence, chosen by a fixed pattern or, in recent production LLMs, learned per query. In DeepSeek Sparse Attention (DSA), the attention of DeepSeek-V3.2 and the GLM-5 family, every layer is preceded by a lightning indexer that scores the whole cache and keeps the k=2048 highest-scoring tokens for the layer to atten"
-        },
-        {
-          "title": "Quantifying out-of-distribution data severity with Wasserstein distances: benchmarking large language models for alloy property prediction",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.03767",
-          "published_at": "2026-11-04T05:00:00+00:00",
-          "summary": "arXiv:2611.03767v1 Announce Type: new Abstract: As general-purpose Large Language Models (LLMs), such as Gemini and DeepSeek, exhibit increasingly advanced reasoning capabilities, a critical question arises: how do their property prediction abilities compare to those of domain-specific pretrained materials models? In this study, we evaluate predictions for Ti, steels, high-entropy alloy (HEA) and Al, demonstrating that general-purpose LLMs surprisingly outperform SteelBERT, MatSciBERT, and SciBE"
         }
       ]
     },
@@ -358,36 +366,36 @@
       "reading": "Các diễn biến chính trị và thương mại có thể ảnh hưởng đến vận tải, giá đầu vào hoặc quyết định đầu tư. Chưa thể suy ra tác động tới Việt Nam nếu chưa biết tuyến hàng, mặt hàng và mức độ phơi nhiễm.",
       "falsifier": "Bác bỏ nếu chưa có thay đổi chính sách/luồng hàng thực tế hoặc mặt hàng liên quan không gắn với Việt Nam.",
       "evidence_count": 4,
-      "source_count": 2,
+      "source_count": 3,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
+        {
+          "title": "Towards Efficient Whole Page Ranking with One-Pass Inference",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.05542",
+          "published_at": "2026-11-05T05:00:00+00:00",
+          "summary": "arXiv:2611.05542v1 Announce Type: new Abstract: Whole-page ranking jointly optimizes advertisements and organic content to balance business outcomes and user engagement under complex layout and business constraints. Existing non-autoregressive (NAR) approaches enable efficient page generation but typically score candidate items independently of previously selected items, limiting their ability to capture order-dependent interactions. Autoregressive (AR) methods address this limitation through se"
+        },
+        {
+          "title": "Whose Transparency is it Anyway? Understanding Generative AI Transparency Needs and Gaps Across Stakeholders",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.05549",
+          "published_at": "2026-11-05T05:00:00+00:00",
+          "summary": "arXiv:2611.05549v1 Announce Type: new Abstract: Transparency has become a central principle in AI governance, yet there is little agreement about what transparency means, for whom, and in what contexts. Drawing on interpretive flexibility within the Social Construction of Technology, this paper examines how different stakeholders understand and experience transparency in generative AI. This study draws from a global survey of 400 end-users, AI builders, and policymakers, complemented by a struct"
+        },
         {
           "title": "ExaTune: Exhaustive Hyperparameter Landscape Exploration at Scale",
           "source": "arXiv Machine Learning",
           "url": "https://arxiv.org/abs/2611.03867",
-          "published_at": "2026-11-04T05:00:00+00:00",
+          "published_at": "2026-11-05T05:00:00+00:00",
           "summary": "arXiv:2611.03867v1 Announce Type: new Abstract: Hyperparameter optimization (HPO) returns a single optimal configuration, systematically discarding the explored performance landscape that encodes how results depend on configuration choices. Fitness landscape analysis comprises a robust collection of methods from evolutionary computation offering ruggedness indices, autocorrelation functions, and fitness-distance correlation that have never been applied to machine learning hyperparameter spaces a"
         },
         {
-          "title": "The role of injected noise in diffusion model generalization",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.03764",
-          "published_at": "2026-11-04T05:00:00+00:00",
-          "summary": "arXiv:2611.03764v1 Announce Type: new Abstract: Diffusion models trained on distinct datasets can produce highly similar samples when prompted with the same noise input, suggesting that they learn a generalized data distribution. We investigate the role of noise injected during the sampling process, and show that it plays an important role in making or breaking this strong generalization effect. Based on this finding we investigate the robustness of sample similarity to changes in the injected n"
-        },
-        {
-          "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+          "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
-          "published_at": "2026-11-01T12:00:12+00:00",
-          "summary": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities Donald Trump ’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance, threatening to end US trade with countries with which it has a deficit unless the Federal Reserve cuts interest rates. But the sense that the world’s two largest economies are plowing ahead into an overt economi"
-        },
-        {
-          "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
-          "published_at": "2026-10-30T05:00:45+00:00",
-          "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid Support Forces. The UAE nominated Lana Nusseibeh last week to replace the UN secretary general, António "
+          "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+          "published_at": "2026-11-05T04:04:49+00:00",
+          "summary": "Wong, 30, has been imprisoned since 2020 and is the only activist in Hong Kong prosecuted twice under national security law Exclusive: Joshua Wong laments city’s fate from inside maximum security prison Hong Kong activist Joshua Wong has been sentenced to 10 years in prison after earlier pleading guilty to “foreign collusion”, his second conviction under a national security law that critics say has been used to silence political opposition in the city. Wong, who rose to prominence as the teenage"
         }
       ]
     },
@@ -397,37 +405,23 @@
       "status": "Mẫu hình cần kiểm chứng",
       "reading": "Chỉ đáng nâng thành tín hiệu khi có văn bản hoặc số liệu gốc, phạm vi áp dụng và nhóm chịu tác động xác định được. Tin kinh doanh đơn lẻ chưa đủ để kết luận xu hướng kinh tế Việt Nam.",
       "falsifier": "Bác bỏ nếu không có văn bản/số liệu gốc hoặc nội dung không tạo thay đổi đáng kể với doanh nghiệp.",
-      "evidence_count": 4,
-      "source_count": 3,
+      "evidence_count": 2,
+      "source_count": 2,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Agribank 3 năm liền vào top 50 doanh nghiệp lớn nhất Đông Nam Á",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/agribank-3-nam-lien-vao-top-50-doanh-nghiep-lon-nhat-dong-nam-a-5140598.html",
-          "published_at": "2026-11-04T04:00:00+00:00",
-          "summary": "Agribank ghi nhận doanh thu hơn 7 tỷ USD năm 2025, xếp thứ 45 trong bảng xếp hạng Fortune Southeast Asia 500, đánh dấu ba năm liên tiếp góp mặt trong top 50 doanh nghiệp lớn nhất Đông Nam Á."
-        },
-        {
-          "title": "Vì sao Việt Nam cấm nhập khẩu điện thoại, máy tính cũ?",
+          "title": "Hôm nay khai mạc Ngày hội trí tuệ nhân tạo Việt Nam 2026",
           "source": "VnExpress Khoa học công nghệ",
-          "url": "https://vnexpress.net/vi-sao-viet-nam-cam-nhap-khau-dien-thoai-may-tinh-cu-5140643.html",
-          "published_at": "2026-11-04T05:45:53+00:00",
-          "summary": "Smartphone, máy tính và nhiều thiết bị công nghệ số đã qua sử dụng không được phép nhập khẩu vào Việt Nam, theo Thông tư 63 của Bộ Khoa học và Công nghệ."
+          "url": "https://vnexpress.net/hom-nay-khai-mac-ngay-hoi-tri-tue-nhan-tao-viet-nam-2026-5140602.html",
+          "published_at": "2026-11-05T01:00:00+00:00",
+          "summary": "Ngày hội Trí tuệ nhân tạo Việt Nam 2026 diễn ra lúc 14h ngày 5/11, với sự góp mặt của các nhà quản lý, chuyên gia, doanh nghiệp, bàn về AI và lễ vinh danh sản phẩm, giải pháp, tài năng AI Việt."
         },
         {
-          "title": "'Tiền thuê nhà chỉ nên chiếm 10-15% thu nhập'",
-          "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/tien-thue-nha-chi-nen-chiem-10-15-thu-nhap-5140299.html",
-          "published_at": "2026-11-03T23:00:00+00:00",
-          "summary": "Đại biểu Quốc hội Trần Hoàng Ngân cho rằng tiền thuê nhà chỉ nên chiếm 10-15% thu nhập, muốn đạt mức này Nhà nước cần tận dụng đất công và hỗ trợ vốn đầu tư."
-        },
-        {
-          "title": "6 voi rừng phá lán trại, vườn chè ở Nghệ An",
-          "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/6-voi-rung-pha-lan-trai-vuon-che-o-nghe-an-5140514.html",
-          "published_at": "2026-11-04T03:18:11+00:00",
-          "summary": "Một con voi đực và 5 voi cái xuất hiện gần khu vực sản xuất, làm hỏng lán trại chăn nuôi và một số diện tích chè của người dân xã Anh Sơn."
+          "title": "Bà Mai Kiều Liên nhận vinh danh tại Hội nghị thượng đỉnh Fortune",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/ba-mai-kieu-lien-nhan-vinh-danh-tai-hoi-nghi-thuong-dinh-fortune-5141071.html",
+          "published_at": "2026-11-05T05:00:00+00:00",
+          "summary": "Bà Mai Kiều Liên nhận vinh danh \"Top 100 phụ nữ quyền lực nhất châu Á\", đồng thời đại diện Vinamilk nhận \"Top 500 doanh nghiệp lớn nhất Đông Nam Á\", ngày 3/11."
         }
       ]
     }
@@ -445,126 +439,103 @@
       "domain": "Thế giới",
       "items": 65,
       "usable": 65,
-      "sources": 13
+      "sources": 10
     },
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 14,
-      "usable": 14,
-      "sources": 3
+      "items": 10,
+      "usable": 10,
+      "sources": 2
     },
     {
       "category": "water",
       "domain": "Nước & năng lượng",
-      "items": 0,
-      "usable": 0,
-      "sources": 0
+      "items": 1,
+      "usable": 1,
+      "sources": 1
     },
     {
       "category": "football",
       "domain": "Arsenal & Premier League",
-      "items": 15,
-      "usable": 15,
-      "sources": 5
+      "items": 17,
+      "usable": 17,
+      "sources": 4
     },
     {
       "category": "books",
       "domain": "Sách",
       "items": 5,
       "usable": 5,
-      "sources": 5
+      "sources": 4
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
-      "items": 8,
-      "usable": 8,
+      "items": 12,
+      "usable": 12,
       "sources": 4
     },
     {
       "category": "trends",
       "domain": "Google Trends",
-      "items": 1,
+      "items": 0,
       "usable": 0,
       "sources": 0
     }
   ],
   "links": [
     {
-      "a": "Towards Automatic Heart Murmur Characterization from Multi-spot Phonocardiograms",
-      "b": "ANC faces anger over poor services as South Africans vote in local elections",
+      "a": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+      "b": "'BEEF' creator Lee Sung Jin has renewed a multi-year deal with Netflix and launched production company LILA Pictures. Two new series, 'THE ONLY CHILD' starring Ali Wong and 'CITIZEN'S ARREST', are now in development. (🔗 https://t.co/m7v1DK3TB5) - X",
       "terms": [
-        "deep",
-        "first",
-        "third"
+        "only",
+        "wong"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Towards Automatic Heart Murmur Characterization from Multi-spot Phonocardiograms",
-      "b": "👨‍💻 THREAD on how data center-related ballot measures are faring tonight data centers are on the ballot in ~40 localities across 13 states, including proposed bans, votes on specific projects, and recalls of pro-data center politicians - X",
+      "a": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+      "b": "Emphatic Porto thrash Napoli in second-half romp",
       "terms": [
-        "across",
-        "recalls",
-        "specific"
+        "against",
+        "second"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Towards Automatic Heart Murmur Characterization from Multi-spot Phonocardiograms",
-      "b": "That feeling of values crumbling has a name: civic grief",
+      "a": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+      "b": "Emphatic Porto thrash Napoli in second-half romp",
       "terms": [
-        "first",
-        "shared"
+        "against",
+        "final"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Minimal Superior Penalties: Characterising and Calibrating Decision-Aware Proper Scoring Rules",
-      "b": "Aukus is ‘worst, riskiest and most costly’ Australian defence decision ever, public inquiry into submarine deal says",
+      "a": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+      "b": "'BEEF' creator Lee Sung Jin has renewed a multi-year deal with Netflix and launched production company LILA Pictures. Two new series, 'THE ONLY CHILD' starring Ali Wong and 'CITIZEN'S ARREST', are now in development. (🔗 https://t.co/m7v1DK3TB5) - X",
       "terms": [
-        "decision",
-        "should"
+        "multi",
+        "only"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Minimal Superior Penalties: Characterising and Calibrating Decision-Aware Proper Scoring Rules",
-      "b": "ANC faces anger over poor services as South Africans vote in local elections",
+      "a": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+      "b": "Slavia Prague vs Arsenal LIVE: Latest score and updates from Champions League - London Evening Standard",
       "terms": [
-        "first",
-        "however",
-        "show",
-        "than"
+        "live",
+        "standard"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Minimal Superior Penalties: Characterising and Calibrating Decision-Aware Proper Scoring Rules",
-      "b": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+      "a": "Countertop Reverse Osmosis Leader Bluevua Wins Three 2026 Best of America Small Business Awards (BASA Awards®) - StreetInsider",
+      "b": "Booker Prize 2026: Who is on the shortlist and when are literary awards? - LBC",
       "terms": [
-        "decision",
-        "should"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Minimal Superior Penalties: Characterising and Calibrating Decision-Aware Proper Scoring Rules",
-      "b": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
-      "terms": [
-        "first",
-        "training"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Language Models Can Benefit from Domain-Specific Inductive Biases",
-      "b": "👨‍💻 THREAD on how data center-related ballot measures are faring tonight data centers are on the ballot in ~40 localities across 13 states, including proposed bans, votes on specific projects, and recalls of pro-data center politicians - X",
-      "terms": [
-        "across",
-        "data",
-        "specific"
+        "2026",
+        "awards"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }
@@ -573,7 +544,7 @@
     {
       "domain": "Nước & năng lượng",
       "status": "Thiếu dữ liệu",
-      "note": "Chỉ 0 mục có tóm tắt dùng được; không tạo kết luận mạnh."
+      "note": "Chỉ 1 mục có tóm tắt dùng được; không tạo kết luận mạnh."
     },
     {
       "domain": "Google Trends",

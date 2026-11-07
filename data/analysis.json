@@ -1,11 +1,41 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T06:46:08.257369+00:00",
-  "input_generated_at": "2026-11-06T06:46:08.214119+00:00",
+  "generated_at": "2026-11-07T05:58:40.935285+00:00",
+  "input_generated_at": "2026-11-07T05:58:40.887732+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
   "items_after_dedup": 150,
   "signals": [
+    {
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+      "summary": "Its key temperature goal has been missed but experts say the agreement is still proving a vital moral compass for progress It was a curious way of conducting negotiations. Ahead of the 2025 climate summit, in the Amazonian port of Belém last year, the Brazilian hosts had taken off the table the issue that most had assumed would be at its heart: concrete plans from each country laying out exactly what they would be doing to cut their greenhouse gas emissions. Brazil was insisting, instead, that these plans – the bedrock of the Paris agreement – were the business of national governments and not up for negotiation. “In that case, it will be a very short Cop,” one seasoned global south negotiator told the Guardian shortly before, reflecting a widespread unease. “There is nothing to negotiate.” Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
+      "published_at": "2026-11-07T05:00:02+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
+      "summary": "Further south this week, severe thunderstorms affected midterms voting in Florida, Oklahoma and Colorado Despite the rapid descent into autumn in the northern hemisphere, parts of eastern North America have experienced an exceptionally late taste of summer in recent days. Temperatures approached 23C (73F) in New York and Boston, about 7-10C above what is expected in early November. The unseasonable warmth spilled into parts of eastern Canada, with temperatures exceeding 20C, about 10-15C above normal for the time of year. The balmy conditions were caused by an area of low pressure in the US midwest, dragging up exceptionally warm air from the Gulf of Mexico along its eastern flank. This area of low pressure will gradually drift eastwards, allowing temperatures to fall closer to the average. Further south, severe thunderstorms have resulted in numerous flood warnings and evacuation warnings being issued this week across many states, with disruptive weather affecting polling stations in Florida, Oklahoma and Colorado. The powerful thunderstorms even resulted in a tornado touching down in Keyes, Oklahoma, forcing the relocation of a polling station. The tornado caused extensive damage",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
+      "published_at": "2026-11-06T09:54:12+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
     {
       "domain": "Thế giới",
       "category": "world",
@@ -19,136 +49,121 @@
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Show HN: Stitch.ai – New all-in-one workspace with Stitchy the AI assistant",
-      "summary": "Our team is excited to launch Stitch.ai this week. We've been working hard to bring knowledge workers, freelancers and founders a workspace that doesn't require hopping between apps and tabs; everything is in one app. The Stitch.ai app includes mail, calendar, contacts, tasks, notes, sheets, slides, files, boards and forms. We sort of still can't believe we managed to build so many tools! We use auto-generated Knots and Tags to label your work, helping you surface related items with one click. Stitching is also a great feature that allows you to 'Stitch'. your items together. You can Stitch tasks to events, emails to notes, and slides to contacts. What gets Stitched together stays together! We've also launched Stitchy, our AI assistant who works with you across everything. She writes your emails, schedules events and manages your tasks. Oh, and she's a dog in a robot costume so that's a bonus! She also runs jobs for you, so you can ask her to watch out for email replies, send daily project updates, or give you daily news snippets to read with your morning protein matcha espresso latte. Everything is built-in, so there's no need to set up email clients or integrations. You get your ",
-      "source": "Hacker News AI Discussions",
-      "url": "https://app.stitch.ai/auth/signup",
-      "published_at": "2026-11-06T05:19:36+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
-      "summary": "arXiv:2611.06984v1 Announce Type: new Abstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain occupied because their experts are still needed by workers processing longer responses. Consequently, approximately one-third of occupied worker time in the baseline occurs after local response generation finishes. Here we present FlexFloor, a system that enables earlier resource release during synchronous response generation while preserving the expert computation required by ongoing responses. FlexFloor jointly adapts response scheduling and the active group of workers. It uses historical response lengths and memory constraints to guide batching and prompt placement, then progressively releases workers while maintaining expert availability and correct communication. Compared with the verl baseline, FlexFloor generates approximately 65.40% more response tokens per unit of occupied computing time and increases response generation throughput by 52.74%, with little observed variation in rollout ",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2611.06984",
-      "published_at": "2026-11-06T05:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
-      "summary": "arXiv:2611.06995v1 Announce Type: new Abstract: Artificial intelligence (AI) systems have ushered in a new age of proof abundance, but helping humans understand these proofs requires new attention to the differences in how AI agents and humans pursue a proof-making task. We present \"simulated collaboration\", a methodology that allows us to examine two key questions: (1) the relative attention AI agents pay to surface syntax or, conversely, deeper underlying semantics, and (2) how and where AI agent preferences for what to do next diverge from human preferences. On a set of nine major human collaborations in Lean with 4.7M definitions across more than 6K commits, we find that, over the course of proof construction, AI agents (1) are far more strongly drawn than humans to explicitly marked gaps; (2) show a relative aversion to densely connected proof centers and to complex or surprising proof goals; and (3) are relatively attracted to surprising proof bodies, which they tend to regularize toward baseline. Our results highlight important blind spots and potential interventions for future human-AI collaboration in mathematics.",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2611.06995",
-      "published_at": "2026-11-06T05:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
-      "summary": "Anthony Albanese’s government has taken a blow due to Iran war but voter anxiety around cost of living and datacentres may hit harder Get our daily political email , free app or daily news podcast The Democrats’ stunning midterm victory should broaden Australia’s alliance with the US, observers say, even as a new power base emerges in Washington, affecting Aukus, datacentre development and relations with China. Cabinet ministers, diplomats and Australia’s defence industrial sector closely watched the results this week, with control of the US Congress flipping to the Democrats and the outlook for Donald Trump’s final two years in office badly dinted. Continue reading...",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
-      "published_at": "2026-11-06T04:45:24+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
       "score": 34
     },
     {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "South Korea says it will expand naval operations closer to strait of Hormuz",
-      "summary": "Seoul to seek parliamentary approval to extend anti-piracy Cheonghae unit’s area to about 650km from the vital strait after criticism from Donald Trump on Iran war support South Korea plans to expand the operations ⁠of its anti-piracy unit to waters closer to the strait of Hormuz, its defence ministry has said, after pressure from Donald Trump to ⁠provide support for his war in Iran. The government is to submit a motion to parliament that would expand the Cheonghae unit’s area of operation to waters near the port of Duqm in Oman, which ​is about 650km (403 miles) away from the strait. The motion also needs to be approved by ‌President Lee Jae Myung and the cabinet. Continue reading...",
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
+      "summary": "Zero Limits supplements is co-owned by rightwing podcaster and fitness coach Chris Katelaris, also known as ‘Big Chocky’ Get our breaking news email , free app or daily news podcast Ben Roberts-Smith has collaborated with a gym supplements company run by a rightwing influencer which recently sold a pre-workout product called “war crimes”. Roberts-Smith, one of Australia’s most decorated living soldiers who is currently awaiting trial on war crimes charges, has recently launched an apparel brand, Epic 1 Two, producing T-shirts and gym wear . Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
-      "published_at": "2026-11-05T04:22:49+00:00",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb",
+      "published_at": "2026-11-07T00:58:11+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 32
+      "score": 30
     },
     {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "TikTok LIVE Creator of the Year 🏆🇵🇭 Truly honored to be one of The Ones Who Spark It at the TikTok Awards 2026 ✨ Thank you to TikTok and my amazing LIVE community for making this possible.. TEAM RYSSI ❤️ Proud and excited to be representing the P - TikTok",
-      "summary": "TikTok LIVE Creator of the Year 🏆🇵🇭 Truly honored to be one of The Ones Who Spark It at the TikTok Awards 2026 ✨ Thank you to TikTok and my amazing LIVE community for making this possible.. TEAM RYSSI ❤️ Proud and excited to be representing the P TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kSHB4TWZCVTVNVF9qamltN0d0RTVQeFM4WEh3RV9Ca1ExTGJNZWpjNEN5WGJFemZTdk5RU3VfRTR3UnQzS3ZKS3pBSnVrbTB4RGpRMkQ2Mnk1UHkxNUQ2VTZjRTljZjcy?oc=5",
-      "published_at": "2026-11-06T06:16:28+00:00",
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Show HN: Goethe – The infrastructure for self-hosted AI",
+      "summary": "Hey, we launched Goethe, because deploying models on hardware you control end-to-end is pain in the ass. Goethe is like Vercel, but for AI models and hardware. It manages your models and hardware you point it and runs corresponding optimal inference. -- install it -- deploy any model you want -- get an API you can use with any client securely Comments URL: https://news.ycombinator.com/item?id=50400374 Points: 5 # Comments: 2",
+      "source": "Hacker News AI Discussions",
+      "url": "https://github.com/meshapplied/Goethe",
+      "published_at": "2026-11-07T00:26:21+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
+      "score": 26
     },
     {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "Creator Matt Husk has had huge success posting videos where he trolls AI models. At WIRED World Fair in Miami he told us that “all the big AI companies” have asked about working with him, including OpenAI, Anthropic, and xAI. “They [OpenAI] offered me ba - TikTok",
-      "summary": "Creator Matt Husk has had huge success posting videos where he trolls AI models. At WIRED World Fair in Miami he told us that “all the big AI companies” have asked about working with him, including OpenAI, Anthropic, and xAI. “They [OpenAI] offered me ba TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aR05Ec25rWDZJSnRhMkVmck9mMnRGNUpKMU1KT0tTNFA1NjZoWWRqUmNRMnBzWmptRlcwWC1Dd1JZQWRsWURyUGJpd3F1bEZSNkY1el9zTTNGUWN5ZFNkcjBjR2plUQ?oc=5",
-      "published_at": "2026-11-05T22:00:18+00:00",
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "published_at": "2026-11-06T18:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
+      "score": 23
     },
     {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "Gods best for me 🤍 best day of my life !!!!!!!! Content Creator: @contentbysamanthastudio yatblackberryridge Planning/Design/Florals: @ramblewoodevents Photographer: @Nicole Ivanov Videographer: @Felix Wedding Films Wedding dress: @_senstudio Bri - TikTok",
-      "summary": "Gods best for me 🤍 best day of my life !!!!!!!! Content Creator: @contentbysamanthastudio yatblackberryridge Planning/Design/Florals: @ramblewoodevents Photographer: @Nicole Ivanov Videographer: @Felix Wedding Films Wedding dress: @_senstudio Bri TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14X0JRbnRWYkREeTBfY1pqNlFCNWtRS1lKSHpyVnB6R3RCRTl1dkh5UFRTaHk2WWJDdUprVzd0bmFfaTNicmMzSGNRS1ZYUTE3MlNfMXgtZHRCd1J1bzVibllIeXlIcDkzN0F6ZWhlWQ?oc=5",
-      "published_at": "2026-11-05T20:47:32+00:00",
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "published_at": "2026-11-06T17:23:52+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
+      "score": 23
     },
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "From playing against Messi & Ronaldo to non-league",
-      "summary": "Fernando Forestieri, whose career has seen him play against Lionel Messi and Cristiano Ronaldo, is looking to inspire non-league Oxford City to a memorable FA Cup win over Leicester City.",
+      "title": "Premier League LIVE: Everton vs Coventry City - build-up, team news, score updates, text commentary & match stats - BBC",
+      "summary": "Premier League LIVE: Everton vs Coventry City - build-up, team news, score updates, text commentary & match stats BBC Everton 3-1 Coventry City: Premier League – as it happened The Guardian Everton vs Coventry LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream Sky Sports",
+      "source": "Google News Premier League",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9scnJYYTVoNlc0N3owQ2J0MHhaaDBMQllmR2JXWGZrcTh2NWxuUlBWRzItUjBwMXlsYjVEdjJzaVBRNWRaMnRxUVMwWTNxbzV5MUFveDJIeFBzYkVjZ3BpSG5SdDFNdw?oc=5",
+      "published_at": "2026-11-07T00:19:01+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 22
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Holistic nurse and content creator @iamjasyra is calling on Target in a new petition to make dye-free the standard for all kids' food, not just cereal. Target already committed to taking synthetic dyes out of the cereal aisle, and she wants the retailer to go further. - TikTok",
+      "summary": "Holistic nurse and content creator @iamjasyra is calling on Target in a new petition to make dye-free the standard for all kids' food, not just cereal. Target already committed to taking synthetic dyes out of the cereal aisle, and she wants the retailer to go further. TikTok",
+      "source": "Google News TikTok & Short-form Video",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44RElwOXJsWHVzc2ROTkMzbHpPTWFjNW1QQzNFT3RTNm0tVVYzOUJIc1VhZ3d3b1dCMlJoQmMzV2NzeUNwbmFzUHVCWV9VZWpyLTFwdnNSZlpTVXBSdEJJOENoSjhOMW1uSUN6cWg5RQ?oc=5",
+      "published_at": "2026-11-07T00:13:54+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 21
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Bristol Rovers shock Cambridge United to reach round two",
+      "summary": "League Two side Bristol Rovers end a run of six matches without a win, as they shock League One side Cambridge United, beating them 2-0 at the Memorial Stadium, to reach the second round of the FA Cup.",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-06T06:42:07+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cxdd88g97lm7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-06T23:26:39+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Preview: Arsenal v Hull City - Arsenal.com",
+      "summary": "Preview: Arsenal v Hull City Arsenal.com Arsenal XI vs Hull: Confirmed team news and predicted lineup London Evening Standard Double Arsenal injury update pre-Hull City clash Daily Cannon",
+      "source": "Google News Arsenal",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16VnhIUEFFdEJZU0RzcFpEcThJMzlRUFBqU3pqUzBDTEFsZTZ1UWhoNGhOUEZDeUIwbjg2SFNDNEhHamg1NEdESThzRE9SVkxYcEpxd0FDUHJaM0FDLXdUOGpNREhqbVZVWVZPT1o2RnBGMk9mNUVWaA?oc=5",
+      "published_at": "2026-11-06T16:55:19+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -159,11 +174,11 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Hà Nội dự kiến di dời cư dân khỏi 246 căn hộ ở Kim Văn - Kim Lũ",
-      "summary": "Cư dân tại 246 căn hộ thuộc 4 tòa chung cư ở khu đô thị Kim Văn - Kim Lũ dự kiến phải chuyển đi do chủ đầu tư tự ý biến diện tích thương mại, nhà trẻ và sinh hoạt cộng đồng thành nhà ở.",
+      "title": "Chủ tịch Quốc hội: Phật giáo có nhiều ảnh hưởng tích cực đến xã hội",
+      "summary": "Là tôn giáo có lượng tín đồ đông nhất nước, Phật giáo góp phần gìn giữ các giá trị văn hóa, đạo đức, tích cực tham gia hoạt động an sinh xã hội, theo Chủ tịch Quốc hội Trần Thanh Mẫn.",
       "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/ha-noi-du-kien-di-doi-cu-dan-khoi-246-can-ho-o-kim-van-kim-lu-5141338.html",
-      "published_at": "2026-11-05T23:00:00+00:00",
+      "url": "https://vnexpress.net/chu-tich-quoc-hoi-phat-giao-co-nhieu-anh-huong-tich-cuc-den-xa-hoi-5141863.html",
+      "published_at": "2026-11-07T05:13:26+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -172,13 +187,28 @@
       "score": 18
     },
     {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Forest need balance between Woodstock and military - Glasner",
-      "summary": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-05T22:30:07+00:00",
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "A local dad and content creator has gained millions of followers by sharing how he feeds his family of 6 for less than 10 dollars. CBS LA's Kristine Lazar caught up with him to learn more. - TikTok",
+      "summary": "A local dad and content creator has gained millions of followers by sharing how he feeds his family of 6 for less than 10 dollars. CBS LA's Kristine Lazar caught up with him to learn more. TikTok",
+      "source": "Google News TikTok & Short-form Video",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vV3VhblFtemxBYWNHbVhJQjlyWUkwRGpSM2hYbS15cUc4TktpUzFZalRVWDQ0RS1iRlp2bE9JZ1BLWEdCMmtmNksyNGlKSXpLdGJtR0d2WkFZbWQ2OVZDVmFiUzdDZw?oc=5",
+      "published_at": "2026-11-06T23:41:51+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Đề xuất ưu đãi lớn cho các dự án du lịch tỷ USD",
+      "summary": "Dự án du lịch quy mô từ 30.000 tỷ đồng có thể được miễn thuế thu nhập doanh nghiệp tối đa 4 năm, giảm 50% trong 9 năm tiếp theo và hoạt động đến 70 năm.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/de-xuat-uu-dai-lon-cho-cac-du-an-du-lich-ty-usd-5141836.html",
+      "published_at": "2026-11-07T04:55:55+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -189,92 +219,17 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Cuộc sống mới ở khu tái định cư",
-      "summary": "Sau khi nhường đất xây dựng cầu Trần Hưng Đạo và Tứ Liên, nhiều hộ dân chuyển về khu tái định cư ngoại thành, bắt đầu cuộc sống mới sau thời gian dài thuê trọ, tạm cư.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/cuoc-song-moi-o-khu-tai-dinh-cu-5141360.html",
-      "published_at": "2026-11-06T05:13:09+00:00",
+      "title": "Bảo hiểm MVI Life đổi tên thành Asahi Life",
+      "summary": "MVI Life đổi tên thành Asahi Life sau khi tập đoàn bảo hiểm Nhật Bản hoàn tất thương vụ mua lại doanh nghiệp này từ Manulife với giá khoảng 170 triệu USD.",
+      "source": "VnExpress Kinh doanh",
+      "url": "https://vnexpress.net/bao-hiem-mvi-life-doi-ten-thanh-asahi-life-5141803.html",
+      "published_at": "2026-11-07T04:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
       "score": 17
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Bến Bạch Đằng trước khi xây hai cầu đi bộ",
-      "summary": "Hai cầu đi bộ qua đường Tôn Đức Thắng cùng các hạng mục chỉnh trang bến được kỳ vọng làm đẹp cảnh quan ven sông Sài Gòn, thu hút du khách và kết nối cầu hình lá dừa.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/ben-bach-dang-truoc-khi-xay-hai-cau-di-bo-5141339.html",
-      "published_at": "2026-11-06T03:55:35+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
-    },
-    {
-      "domain": "Sách",
-      "category": "books",
-      "title": "Chính sách của Mỹ với Iran, châu Á có thể thay đổi thế nào sau bầu cử",
-      "summary": "Đảng Dân chủ kiểm soát quốc hội có thể định hình lại nhiều chính sách nổi bật của Tổng thống Trump, từ chiến sự Iran cho đến quan hệ với các nước châu Á.",
-      "source": "VnExpress Thế giới",
-      "url": "https://vnexpress.net/chinh-sach-cua-my-voi-iran-chau-a-co-the-thay-doi-the-nao-sau-bau-cu-5140922.html",
-      "published_at": "2026-11-05T12:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
-      "summary": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-06T06:22:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 16
-    },
-    {
-      "domain": "Nước & năng lượng",
-      "category": "water",
-      "title": "SEIFSA graduates first heat pump installers, linking skills development to South Africa’s energy transition - Green Building Africa",
-      "summary": "SEIFSA graduates first heat pump installers, linking skills development to South Africa’s energy transition Green Building Africa",
-      "source": "Google News Energy",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeUFXbjlRdjRVU1pZUmduQ0JSa1FvVDBZQ2wyeG9hMXNEZHNkZ0FOcWxDdEpTbThpbDlZZTlnQXctTG9Hb3F2U1A3Vy0yUk5PTDQyTWhXNEY4MnU1RkRQMVZfTWxNZDJienJZcUJROGdZdmRKUnR4MTY1Q01jazdsNkZ0OWkzMmN2RWRvVEpvcEFaLTZ6VEFFOS1LOGVxdnVJSFFGUzNmOEk4S0M5QzRVc0NiZlRkbUxaektpYVBJS1N0NTRPbXEtNk1jVnE5Tm9QTDZibVRvVW85d0xN?oc=5",
-      "published_at": "2026-11-05T23:30:48+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 16
-    },
-    {
-      "domain": "Nước & năng lượng",
-      "category": "water",
-      "title": "Filter Underdrains Market to 2035: Replacement Cycles in Aging Water Infrastructure to Drive Forward Growth - IndexBox",
-      "summary": "Filter Underdrains Market to 2035: Replacement Cycles in Aging Water Infrastructure to Drive Forward Growth IndexBox",
-      "source": "Google News Water Technology",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPODdhd0dQakhlbWlydDltVFV2YkRQRVFyWktVeWR2RTJHdElCS0p4dVR1dTM5bkRPeUVNbEM4MnhWRTh6NHlSYzVDZ3RHODhkZXNSd0VfMmRqT2tOT2xRWldIMXROVkpwbEk1X2h4TXRpeG80NUhFdE9wek1xTHR5R1NOamhreU9HeDUtWjlXcTNaVnpyRm82UEpCZkNHdDk3dlljN3FlR2ZpZlVZVWYteURTTDRzTWZSS2pxWTBkV0pZZnN0a0VZV00wVDI2QURsSmc?oc=5",
-      "published_at": "2026-11-05T19:56:03+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 15
     },
     {
       "domain": "Sách",
@@ -304,22 +259,7 @@
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 14
-    },
-    {
-      "domain": "Nước & năng lượng",
-      "category": "water",
-      "title": "Countertop Reverse Osmosis Leader Bluevua Wins Three 2026 Best of America Small Business Awards (BASA Awards®) - StreetInsider",
-      "summary": "Countertop Reverse Osmosis Leader Bluevua Wins Three 2026 Best of America Small Business Awards (BASA Awards®) StreetInsider",
-      "source": "Google News Water Technology",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSl9tVHZRN1h4RFRhMjhHV0Z2dEltMXduYVpZWkwtNmo1SV9XX2lYTHhJTzBzbFZiYmtkTnVaMXZVMWlJOWRlLWZBT2RZWDFkNU5HczBuQ1VZQ2phWkd3Z0VnLXFKVTN6VlQxTU1ld1lvTTZtQWJfVWh5YUp4eW5jeVljdnE0ZlJuWlNZWXVEbExva1NiWHVrYTRjWU52MWF0MldlRUZnTGhxUS1acWZ2VTZ3UjJBMTdEVm5TYmZkckJCLTR0STA4d0NiQ05SSHVfdUhxUnN3YVh5V3E5Sl9kMWpqVDZ2NnJMS2Q1QWZCQkZGVW1GQXU5c1BOZmpRTkZMQkc1SQ?oc=5",
-      "published_at": "2026-11-05T05:58:41+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 13
+      "score": 12
     }
   ],
   "themes": [
@@ -330,22 +270,22 @@
       "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
       "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
       "evidence_count": 2,
-      "source_count": 1,
-      "source_note": "Chỉ một nguồn xuất bản trong batch",
+      "source_count": 2,
+      "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "BoE leaves door open to further rate rises amid fears of entrenched inflation - Financial Times",
-          "source": "Financial Times via Google News",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlZ5T3EzQ016ckR4WjBiOEp1Zk1keVBrV3ExeUR1V0dkZWRGaEVjU1VEVUh5OEMtYjhSSVNBZ2h5dmNQUmtNTEQ0aUc1VlBZV21sSnpIcmdlZ1d4dnNFTjJHSjdoXzc1bUhYUlIycUFxWVY4TkNkc1FiUjRZYmdmdk5oUE8?oc=5",
-          "published_at": "2026-11-05T17:37:46+00:00",
-          "summary": "BoE leaves door open to further rate rises amid fears of entrenched inflation Financial Times"
+          "title": "Tesla to 'wind down' production of flop Cybertruck",
+          "source": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-all-1573-xml-mrss",
+          "published_at": "2026-11-06T17:10:00+00:00",
+          "summary": "Elon Musk's electric pickup for the future will start to be consigned to the past next year. The Cybertruck's bulk and crude shape meant it could only pass regulatory standards in more permissive markets."
         },
         {
-          "title": "Bank of England raises interest rates to 4% in bid to tame inflation - Financial Times",
-          "source": "Financial Times via Google News",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOenVYQ080b2Q4TXgySm1KY1dweGY1ODdLTThwNENPZjA4T0t0a1dhOUJmek81ZEwwUU1oa1BqektBSGFwaVlaWEloSHB1X2dYTllSZVAwVTF1ZzFES1VZemY0NlJDS3R0cjh6QXRfQ1hOZTN4OUktRW1PbURxcmR0NUJBN1o?oc=5",
-          "published_at": "2026-11-05T14:18:29+00:00",
-          "summary": "Bank of England raises interest rates to 4% in bid to tame inflation Financial Times"
+          "title": "Markets fret over growth and inflation, just as tech rout gains speed - Reuters",
+          "source": "Reuters via Google News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUh4V2hzQnA1Rk9zNTN6d3ZxcVZycGZQVmNUNjR3NmpXSmphZHh4LWZvaGJmTTVEWDdBc0lNWmZyUUp3MTFndk5uZl80Qnk0QXotRmo5S1g0MVhDejlwMjJlczNLVWY1eHRLZ1c4dExyOUNqdjJPaUFhVnE2WC16QUc4aTVfUlAwQUtKMktZYi1STk94cXBnSXF5OEQ?oc=5",
+          "published_at": "2026-11-06T07:31:47+00:00",
+          "summary": "Markets fret over growth and inflation, just as tech rout gains speed Reuters"
         }
       ]
     },
@@ -356,36 +296,36 @@
       "reading": "Các bài về mô hình, suy luận và công việc có thể cho thấy AI đang được đánh giá theo chi phí triển khai và kết quả vận hành, không chỉ theo khả năng trình diễn. Cần phân biệt nghiên cứu thử nghiệm với sản phẩm đã được triển khai.",
       "falsifier": "Bác bỏ nếu bài chỉ mô tả nghiên cứu hoặc tuyên bố của doanh nghiệp mà không có kết quả triển khai độc lập.",
       "evidence_count": 4,
-      "source_count": 3,
+      "source_count": 2,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Show HN: Stitch.ai – New all-in-one workspace with Stitchy the AI assistant",
+          "title": "Show HN: Goethe – The infrastructure for self-hosted AI",
           "source": "Hacker News AI Discussions",
-          "url": "https://app.stitch.ai/auth/signup",
-          "published_at": "2026-11-06T05:19:36+00:00",
-          "summary": "Our team is excited to launch Stitch.ai this week. We've been working hard to bring knowledge workers, freelancers and founders a workspace that doesn't require hopping between apps and tabs; everything is in one app. The Stitch.ai app includes mail, calendar, contacts, tasks, notes, sheets, slides, files, boards and forms. We sort of still can't believe we managed to build so many tools! We use auto-generated Knots and Tags to label your work, helping you surface related items with one click. S"
+          "url": "https://github.com/meshapplied/Goethe",
+          "published_at": "2026-11-07T00:26:21+00:00",
+          "summary": "Hey, we launched Goethe, because deploying models on hardware you control end-to-end is pain in the ass. Goethe is like Vercel, but for AI models and hardware. It manages your models and hardware you point it and runs corresponding optimal inference. -- install it -- deploy any model you want -- get an API you can use with any client securely Comments URL: https://news.ycombinator.com/item?id=50400374 Points: 5 # Comments: 2"
         },
         {
-          "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.06984",
-          "published_at": "2026-11-06T05:00:00+00:00",
-          "summary": "arXiv:2611.06984v1 Announce Type: new Abstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain occupied because their experts are still needed by workers processing longer responses. Consequently, approximately one-third of occupied worker time in the baseline occurs after local response generation f"
+          "title": "Together Compiler: Continual Compilation for AI Inference",
+          "source": "Hacker News AI Discussions",
+          "url": "https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference",
+          "published_at": "2026-11-06T23:46:51+00:00",
+          "summary": "Article URL: https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference Comments URL: https://news.ycombinator.com/item?id=50400081 Points: 1 # Comments: 0"
         },
         {
-          "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.06995",
-          "published_at": "2026-11-06T05:00:00+00:00",
-          "summary": "arXiv:2611.06995v1 Announce Type: new Abstract: Artificial intelligence (AI) systems have ushered in a new age of proof abundance, but helping humans understand these proofs requires new attention to the differences in how AI agents and humans pursue a proof-making task. We present \"simulated collaboration\", a methodology that allows us to examine two key questions: (1) the relative attention AI agents pay to surface syntax or, conversely, deeper underlying semantics, and (2) how and where AI ag"
+          "title": "Muse has a voice mode now",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+          "published_at": "2026-11-05T22:45:04+00:00",
+          "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of […]"
         },
         {
-          "title": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.06953",
-          "published_at": "2026-11-06T05:00:00+00:00",
-          "summary": "arXiv:2611.06953v1 Announce Type: new Abstract: Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, uncertainty reporting and inverse design. We examine how the choice of held-out unit changes the conclusions drawn from SteelBench tensile-strength evaluations. For gradient boosting, pooled out-of-fold $R"
+          "title": "DeepMind AI agents find two weaknesses in legacy 1024-bit RSA cryptosystems",
+          "source": "Hacker News AI Discussions",
+          "url": "https://twitter.com/pushmeet/status/2118752095859794390",
+          "published_at": "2026-11-07T03:07:49+00:00",
+          "summary": "Article URL: https://twitter.com/pushmeet/status/2118752095859794390 Comments URL: https://news.ycombinator.com/item?id=50401254 Points: 3 # Comments: 0"
         }
       ]
     },
@@ -396,36 +336,36 @@
       "reading": "Các diễn biến chính trị và thương mại có thể ảnh hưởng đến vận tải, giá đầu vào hoặc quyết định đầu tư. Chưa thể suy ra tác động tới Việt Nam nếu chưa biết tuyến hàng, mặt hàng và mức độ phơi nhiễm.",
       "falsifier": "Bác bỏ nếu chưa có thay đổi chính sách/luồng hàng thực tế hoặc mặt hàng liên quan không gắn với Việt Nam.",
       "evidence_count": 4,
-      "source_count": 3,
+      "source_count": 2,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
-        {
-          "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.06995",
-          "published_at": "2026-11-06T05:00:00+00:00",
-          "summary": "arXiv:2611.06995v1 Announce Type: new Abstract: Artificial intelligence (AI) systems have ushered in a new age of proof abundance, but helping humans understand these proofs requires new attention to the differences in how AI agents and humans pursue a proof-making task. We present \"simulated collaboration\", a methodology that allows us to examine two key questions: (1) the relative attention AI agents pay to surface syntax or, conversely, deeper underlying semantics, and (2) how and where AI ag"
-        },
-        {
-          "title": "Data-Driven Modeling of Molten Chloride Corrosion Using Static Test Data",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.07125",
-          "published_at": "2026-11-06T05:00:00+00:00",
-          "summary": "arXiv:2611.07125v1 Announce Type: new Abstract: Molten chloride corrosion has been studied for decades, yet reliable prediction across different alloys, salts, and test conditions remains difficult. In this work, 291 static molten chloride corrosion experiments reported in the literature were compiled into a structured dataset and used to develop an interpretable machine-learning framework for corrosion-rate predictions. To better represent the differences in salt condition across studies, a Chl"
-        },
-        {
-          "title": "Big Models, Small Gains: Frozen Forecasters as Classifiers on MONSTER",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.06988",
-          "published_at": "2026-11-06T05:00:00+00:00",
-          "summary": "arXiv:2611.06988v1 Announce Type: new Abstract: Forecasting foundation models are increasingly used as frozen feature extractors for time series classification, but it remains unclear whether their pretrained representations offer an advantage over strong classifiers that do not require pretraining. This raises an important question: do these representations provide useful information beyond what the model architecture alone can capture, particularly when labelled data are scarce? We present a c"
-        },
         {
           "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
           "source": "The Guardian World",
           "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
           "published_at": "2026-11-05T07:56:21+00:00",
           "summary": "Wong, 30, in prison since 2020, is only activist in Hong Kong prosecuted twice under national security law Exclusive: Joshua Wong laments city’s fate from inside maximum security prison The Hong Kong activist Joshua Wong has been sentenced to 10 years in prison after earlier pleading guilty to “foreign collusion”, his second conviction under a national security law critics say has been used to silence political opposition in the city. Wong, who rose to prominence as the teenage face of Hong Kong"
+        },
+        {
+          "title": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb",
+          "published_at": "2026-11-07T00:58:11+00:00",
+          "summary": "Zero Limits supplements is co-owned by rightwing podcaster and fitness coach Chris Katelaris, also known as ‘Big Chocky’ Get our breaking news email , free app or daily news podcast Ben Roberts-Smith has collaborated with a gym supplements company run by a rightwing influencer which recently sold a pre-workout product called “war crimes”. Roberts-Smith, one of Australia’s most decorated living soldiers who is currently awaiting trial on war crimes charges, has recently launched an apparel brand,"
+        },
+        {
+          "title": "US asks China to uphold Busan trade deal commitments",
+          "source": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-xml-mrss",
+          "published_at": "2026-11-07T04:44:00+00:00",
+          "summary": "The US urged Beijing to meet commitments from a 2025 accord — particularly on agricultural purchases and rare earths supply. China, meanwhile, expressed concern over the US' \"economic, trade restrictive\" measures."
+        },
+        {
+          "title": "Fact check: Three viral Iran war posts debunked",
+          "source": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353?maca=en-rss-en-all-1573-xml-mrss",
+          "published_at": "2026-11-06T15:29:00+00:00",
+          "summary": "After Monday's US attack on Iran, social media is awash with dramatic images and claims about renewed fighting. DW Fact Check found AI-generated and recycled videos — as well as misleading posts from dubious accounts."
         }
       ]
     },
@@ -436,36 +376,36 @@
       "reading": "Chỉ đáng nâng thành tín hiệu khi có văn bản hoặc số liệu gốc, phạm vi áp dụng và nhóm chịu tác động xác định được. Tin kinh doanh đơn lẻ chưa đủ để kết luận xu hướng kinh tế Việt Nam.",
       "falsifier": "Bác bỏ nếu không có văn bản/số liệu gốc hoặc nội dung không tạo thay đổi đáng kể với doanh nghiệp.",
       "evidence_count": 4,
-      "source_count": 3,
+      "source_count": 2,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Hà Nội dự kiến di dời cư dân khỏi 246 căn hộ ở Kim Văn - Kim Lũ",
+          "title": "Đề xuất ưu đãi lớn cho các dự án du lịch tỷ USD",
           "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/ha-noi-du-kien-di-doi-cu-dan-khoi-246-can-ho-o-kim-van-kim-lu-5141338.html",
-          "published_at": "2026-11-05T23:00:00+00:00",
-          "summary": "Cư dân tại 246 căn hộ thuộc 4 tòa chung cư ở khu đô thị Kim Văn - Kim Lũ dự kiến phải chuyển đi do chủ đầu tư tự ý biến diện tích thương mại, nhà trẻ và sinh hoạt cộng đồng thành nhà ở."
+          "url": "https://vnexpress.net/de-xuat-uu-dai-lon-cho-cac-du-an-du-lich-ty-usd-5141836.html",
+          "published_at": "2026-11-07T04:55:55+00:00",
+          "summary": "Dự án du lịch quy mô từ 30.000 tỷ đồng có thể được miễn thuế thu nhập doanh nghiệp tối đa 4 năm, giảm 50% trong 9 năm tiếp theo và hoạt động đến 70 năm."
         },
         {
-          "title": "Đại sứ Nhật: Việt Nam là cứ điểm sản xuất tiềm năng của châu Á",
-          "source": "VnExpress Thế giới",
-          "url": "https://vnexpress.net/dai-su-nhat-viet-nam-la-cu-diem-san-xuat-tiem-nang-cua-chau-a-5140717.html",
-          "published_at": "2026-11-06T03:46:44+00:00",
-          "summary": "Đại sứ Nhật tại Việt Nam kỳ vọng hợp tác song phương, đặc biệt về thương mại, sản xuất, sẽ được thúc đẩy sau chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm."
-        },
-        {
-          "title": "BSR lãi hợp nhất gần 25.000 tỷ đồng sau 9 tháng",
+          "title": "Bảo hiểm MVI Life đổi tên thành Asahi Life",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/bsr-lai-hop-nhat-gan-25-000-ty-dong-sau-9-thang-5140193.html",
-          "published_at": "2026-11-06T03:00:00+00:00",
-          "summary": "BSR ghi nhận lợi nhuận sau thuế hợp nhất 24.901,7 tỷ đồng trong 9 tháng, gấp gần 11,6 lần cùng kỳ, nhờ thị trường thuận lợi và duy trì công suất vận hành cao."
+          "url": "https://vnexpress.net/bao-hiem-mvi-life-doi-ten-thanh-asahi-life-5141803.html",
+          "published_at": "2026-11-07T04:00:00+00:00",
+          "summary": "MVI Life đổi tên thành Asahi Life sau khi tập đoàn bảo hiểm Nhật Bản hoàn tất thương vụ mua lại doanh nghiệp này từ Manulife với giá khoảng 170 triệu USD."
         },
         {
-          "title": "Sinh viên khó khăn được vay tối đa 8 triệu đồng mỗi tháng từ 2027",
+          "title": "Trình Quốc hội đầu tư thêm ba dự án cao tốc",
+          "source": "VnExpress Thời sự",
+          "url": "https://vnexpress.net/trinh-quoc-hoi-dau-tu-them-ba-du-an-cao-toc-5141815.html",
+          "published_at": "2026-11-07T03:18:58+00:00",
+          "summary": "Chính phủ trình Quốc hội chủ trương đầu tư ba dự án cao tốc Bảo Hà - Lai Châu, đoạn Bảo Hà - Tân Phong; cao tốc Quảng Ngãi - Kon Tum và cao tốc Mộc Châu - Sơn La - Điện Biên."
+        },
+        {
+          "title": "Địa phương dự kiến phải công bố khả năng chống chịu ngập lụt, thiên tai từ 2027",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/sinh-vien-kho-khan-duoc-vay-toi-da-8-trieu-dong-moi-thang-tu-2027-5141520.html",
-          "published_at": "2026-11-06T05:34:50+00:00",
-          "summary": "Hạn mức Ngân hàng Chính sách xã hội cho vay với học sinh, sinh viên có hoàn cảnh khó khăn được nâng lên 8 triệu đồng mỗi tháng, từ đầu năm sau."
+          "url": "https://vnexpress.net/dia-phuong-du-kien-phai-cong-bo-kha-nang-chong-chiu-ngap-lut-thien-tai-tu-2027-5141707.html",
+          "published_at": "2026-11-06T19:53:17+00:00",
+          "summary": "Các tỉnh, thành dự kiến phải công bố khả năng chống chịu với biến đổi khí hậu hàng năm, từ đó chọn hạng mục hạ tầng ưu tiên phân bổ vốn, theo Thông tư sắp ban hành."
         }
       ]
     }
@@ -476,7 +416,7 @@
       "domain": "AI & công nghệ",
       "items": 40,
       "usable": 40,
-      "sources": 6
+      "sources": 7
     },
     {
       "category": "world",
@@ -488,37 +428,37 @@
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 18,
-      "usable": 18,
-      "sources": 3
+      "items": 15,
+      "usable": 15,
+      "sources": 4
     },
     {
       "category": "water",
       "domain": "Nước & năng lượng",
-      "items": 3,
-      "usable": 3,
-      "sources": 2
+      "items": 0,
+      "usable": 0,
+      "sources": 0
     },
     {
       "category": "football",
       "domain": "Arsenal & Premier League",
-      "items": 10,
-      "usable": 10,
-      "sources": 2
+      "items": 16,
+      "usable": 16,
+      "sources": 3
     },
     {
       "category": "books",
       "domain": "Sách",
-      "items": 3,
-      "usable": 3,
-      "sources": 3
+      "items": 2,
+      "usable": 2,
+      "sources": 2
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
-      "items": 11,
-      "usable": 11,
-      "sources": 4
+      "items": 12,
+      "usable": 12,
+      "sources": 5
     },
     {
       "category": "trends",
@@ -530,81 +470,88 @@
   ],
   "links": [
     {
-      "a": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
-      "b": "Show HN: Stitch.ai – New all-in-one workspace with Stitchy the AI assistant",
+      "a": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+      "b": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
       "terms": [
-        "been",
-        "working"
+        "business",
+        "continue",
+        "most",
+        "reading"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
-      "b": "From playing against Messi & Ronaldo to non-league",
+      "a": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
+      "b": "How a Blue Wave midterm might reshape the AI industry",
       "terms": [
-        "against",
-        "city"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Show HN: Stitch.ai – New all-in-one workspace with Stitchy the AI assistant",
-      "b": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
-      "terms": [
-        "daily",
-        "email",
-        "news",
+        "even",
         "week"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Show HN: Stitch.ai – New all-in-one workspace with Stitchy the AI assistant",
-      "b": "TikTok LIVE Creator of the Year 🏆🇵🇭 Truly honored to be one of The Ones Who Spark It at the TikTok Awards 2026 ✨ Thank you to TikTok and my amazing LIVE community for making this possible.. TEAM RYSSI ❤️ Proud and excited to be representing the P - TikTok",
+      "a": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
+      "b": "After the midterms, is the AI industry in for a rough two years?",
       "terms": [
-        "excited",
-        "team"
+        "even",
+        "midterms",
+        "week"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Show HN: Stitch.ai – New all-in-one workspace with Stitchy the AI assistant",
-      "b": "Forest need balance between Woodstock and military - Glasner",
+      "a": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+      "b": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
       "terms": [
-        "between",
-        "need"
+        "continue",
+        "reading"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
-      "b": "Is There Anything Left in the Dream of Cold Fusion?",
+      "a": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+      "b": "How a Blue Wave midterm might reshape the AI industry",
       "terms": [
-        "little",
-        "post"
+        "impose",
+        "measures"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
-      "b": "Is There Anything Left in the Dream of Cold Fusion?",
+      "a": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+      "b": "After the midterms, is the AI industry in for a rough two years?",
       "terms": [
-        "deeper",
-        "find"
+        "impose",
+        "measures",
+        "years"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
-      "b": "Chính sách của Mỹ với Iran, châu Á có thể thay đổi thế nào sau bầu cử",
+      "a": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
+      "b": "Show HN: Goethe – The infrastructure for self-hosted AI",
       "terms": [
-        "iran",
-        "trump"
+        "launched",
+        "news"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
+      "b": "Preview: Arsenal v Hull City - Arsenal.com",
+      "terms": [
+        "daily",
+        "news"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }
   ],
   "domain_notes": [
+    {
+      "domain": "Nước & năng lượng",
+      "status": "Thiếu dữ liệu",
+      "note": "Chỉ 0 mục có tóm tắt dùng được; không tạo kết luận mạnh."
+    },
     {
       "domain": "Google Trends",
       "status": "Thiếu dữ liệu",

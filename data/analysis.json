@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T06:00:57.838616+00:00",
-  "input_generated_at": "2026-11-08T06:00:57.800272+00:00",
+  "generated_at": "2026-11-09T06:28:48.318507+00:00",
+  "input_generated_at": "2026-11-09T06:28:48.267460+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
   "items_after_dedup": 150,
@@ -9,11 +9,56 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
-      "summary": "Ahead of Cop31, climate change minister dismisses concerns about whether Australia as a major producer can keep the world moving away from fossil fuels Listen to the podcast: Chris Bowen on how he’ll reach consensus at Cop31 Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Australia has been urged to set aside support for its near US$100bn fossil fuel export industries and fight for a global agreement to move away from coal, gas and oil as its climate change minister, Chris Bowen, leads negotiations between nearly 200 countries at UN talks this week. Delegates will gather in the Turkish Mediterranean resort city of Antalya on Monday for Cop31, two weeks of climate talks held amid geopolitical turmoil, with conflict in the Middle East driving an oil price crisis that has raised living costs across the globe. Continue reading...",
+      "title": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation",
+      "summary": "Ben Carroll refuses to be drawn on latest opinion poll that puts Labor at all-time low of just 18%, behind One Nation on 21% and the Coalition on 33% Get our daily political email , free app or daily news podcast Victorian Labor MPs are both sceptical and seriously concerned about a new poll ahead of the state election showing the party trailing third behind One Nation, with its primary vote at an all-time low of just 18%. The DemosAU/PremierNational, first published by the Herald Sun on Monday, showed Labor’s primary vote share has crashed seven points to 18%, putting it in third place behind the Coalition’s 33% and One Nation’s 21%. At the same time, the Greens improved their primary vote to 17%, an increase of three points since September. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals",
-      "published_at": "2026-11-07T19:00:20+00:00",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/09/victoria-election-2026-labor-mps-new-opinion-poll-one-nation-ntwnfb",
+      "published_at": "2026-11-09T04:55:15+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Rethinking Data Selection as Distribution Matching on Semantic Manifolds",
+      "summary": "arXiv:2611.08495v1 Announce Type: new Abstract: Instruction tuning of large language models and large vision language models relies on massive training data, which incurs substantial computational and storage costs. Meanwhile, training data often contains redundancy, noise, and low quality samples. Existing data selection methods mostly rely on diversity, importance, or a combination of both, without explicitly constraining the distributional consistency between the selected subset and the full data in the embedding space. We propose QMAC, a quality aware multiband characteristic function matching method that formulates data selection as a joint optimization problem of distribution matching and quality filtering. QMAC matches the empirical characteristic functions of the selected subset and the full data across multiple frequency scales, capturing both global semantic coverage and local perturbations, while using task related quality scores to filter noisy and low quality samples. We systematically evaluate QMAC on 4 data types, 8 target models, and 44 benchmarks. Experimental results show that QMAC outperforms existing data selection baselines on standard image-text instruction da",
+      "source": "arXiv Machine Learning",
+      "url": "https://arxiv.org/abs/2611.08495",
+      "published_at": "2026-11-09T05:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Generative Reconstruction of Full-Field Sensor States for Safety-Critical Digital Twins",
+      "summary": "arXiv:2611.08499v1 Announce Type: new Abstract: Accurate reconstruction of incomplete sensor fields is critical for state awareness in safety-critical digital twins (DTs). Thermocouples in high-temperature and radiation environments may drift, fail, or become intermittently unavailable, causing partial observability. This study develops a sparse-sensor reconstruction framework for Oregon State University's High Temperature Test Facility (HTTF) and evaluates six methods under intra- and inter-experiment protocols: three conditional generative models (i.e., a diffusion model [DM], variational autoencoder [VAE], and generative adversarial network [GAN]), two deterministic recurrent neural-network models, and ridge regression. For intra-experiment reconstruction within the PG{-}29 depressurized conduction cooldown (DCC) test, the models combine graph-based spatial encoding with gated recurrent units. The graph neural network (GNN)--gated recurrent unit (GRU) VAE achieves the lowest error, with a mean absolute error (MAE) of $11.73,^\\circ$C, a root mean square error (RMSE) of $20.54,^\\circ$C, and an $R^2$ of 0.98. The deterministic GNN--GRU and plain GRU obtain RMSE values of $25.26,^\\c",
+      "source": "arXiv Machine Learning",
+      "url": "https://arxiv.org/abs/2611.08499",
+      "published_at": "2026-11-09T05:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Adaptive Depth Aggregation in Graph Transformers for Long-Range Graph Reasoning",
+      "summary": "arXiv:2611.08500v1 Announce Type: new Abstract: Graph Transformers improve long-range node-to-node communication through global or structure-aware interactions. However, improving cross-node communication does not determine how computations produced at different depths should be combined. Standard residual streams accumulate successive computations with fixed unit coefficients shared across nodes. This fixed aggregation is a residual-interface constraint: once intermediate contributions have been produced, the interface cannot explicitly reweight them by node. We hypothesize that this constraint can create a depth-wise aggregation mismatch when the relative utility of these intermediate contributions varies across nodes and structural contexts. To study this hypothesis, we formalize Graph Transformer residual computation as a causal node-wise history of graph-propagation and feed-forward network (FFN) contributions, making depth aggregation an explicit interface choice. We realize node-adaptive aggregation over this history with Attention Residuals (AttnRes) while preserving the backbone's graph-propagation and auxiliary-state machinery. Block AttnRes reduces the routing cost of lo",
+      "source": "arXiv Machine Learning",
+      "url": "https://arxiv.org/abs/2611.08500",
+      "published_at": "2026-11-09T05:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -24,26 +69,26 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
-      "summary": "Further south this week, severe thunderstorms affected midterms voting in Florida, Oklahoma and Colorado Despite the rapid descent into autumn in the northern hemisphere, parts of eastern North America have experienced an exceptionally late taste of summer in recent days. Temperatures approached 23C (73F) in New York and Boston, about 7-10C above what is expected in early November. The unseasonable warmth spilled into parts of eastern Canada, with temperatures exceeding 20C, about 10-15C above normal for the time of year. The balmy conditions were caused by an area of low pressure in the US midwest, dragging up exceptionally warm air from the Gulf of Mexico along its eastern flank. This area of low pressure will gradually drift eastwards, allowing temperatures to fall closer to the average. Further south, severe thunderstorms have resulted in numerous flood warnings and evacuation warnings being issued this week across many states, with disruptive weather affecting polling stations in Florida, Oklahoma and Colorado. The powerful thunderstorms even resulted in a tornado touching down in Keyes, Oklahoma, forcing the relocation of a polling station. The tornado caused extensive damage",
+      "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+      "summary": "Farmers face big drop in production from extreme weather during this year’s super El Niño event Banana producers in Latin America are calling for better pay to help cope with the impact of the climate crisis, as they face big drops in production resulting from extreme weather during this year’s super El Niño event. High winds in parts of Colombia, one of the biggest suppliers to the UK market where droughts are predicted in some regions this year, and heavy rainfall in Peru and Ecuador are already affecting production, according to the Fairtrade Foundation ethical trade body. In the Dominican Republic, farmers are expected to face drought conditions, with forecasts of drier and warmer than usual conditions. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
-      "published_at": "2026-11-06T09:54:12+00:00",
+      "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+      "published_at": "2026-11-08T07:00:34+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 34
+      "score": 36
     },
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
-      "summary": "Four heritage-listed defence properties to be preserved for community use after backlash from veterans and former PMs Get our daily political email , free app or daily news podcast Richard Marles has denied claims Australia’s defence will be undermined by its decision to repurpose a historical military base near Sydney’s CBD for public use. The Albanese government announced on Sunday four heritage-listed defence sites, including Sydney’s Victoria Barracks, will remain in public hands after the plan generated considerable public backlash against their sale. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "title": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
+      "summary": "‘It’s pretty obvious that there are all sorts of people making all sorts of comments,’ Murray Watt says after budget savings meeting Get our breaking news email , free app or daily news podcast The environment minister, Murray Watt , has urged ministers to stop undermining the treasurer, Jim Chalmers, as Labor struggles to sell its budget and looks to cut popular clean energy subsidies to help with the fight against inflation. Cabinet ministers met again on Monday to discuss potential budget savings to be included in next month’s mid-year update, part of efforts to reducing spending to ease pressure on the economy. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
-      "published_at": "2026-11-08T00:17:28+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues",
+      "published_at": "2026-11-09T05:47:49+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -52,73 +97,13 @@
       "score": 33
     },
     {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "published_at": "2026-11-07T15:47:15+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 22
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "published_at": "2026-11-07T15:43:45+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 22
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Arsenal 1-0 Hull City: Martin Odegaard breaks Tigers' resistance to clinch victory for Premier League champions - Sky Sports",
-      "summary": "Arsenal 1-0 Hull City: Martin Odegaard breaks Tigers' resistance to clinch victory for Premier League champions Sky Sports Arsenal 1-0 Hull City: Martin Odegaard scores winner for Gunners BBC Martin Ødegaard extends Arsenal lead at top with winner to break Hull resistance The Guardian",
-      "source": "Google News Premier League",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMGhwNGY0b1BrMkhheUZPZ0pEbTdxTEY3ZDdfOHhmMm80a3pudGhDYzE0b0FtRkhFXzhZdFF4U25SdVBsRDQyUE5GYjltRzdLMk55MTlYNUdVbk9YZDA3T3pySFZHUEZYQTNzQzczNzF2UjdIYTA2LW9BdHJtUmtJZTJCQXgwc2dCZHdmVjd1MktkRzM3YlZONFFmT3o4Ulp5SkpaYllSQS1GNlMxQ1RFaktwalRuS3NvMF8wNnJ5bDltZTFkUGhOaWRxeWpKd0wyYjVtRmM1b3l4cFlReHppbWJsdU9iVUxFRlFvOG1hVQ?oc=5",
-      "published_at": "2026-11-08T05:30:52+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 21
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "published_at": "2026-11-06T21:48:06+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
-    },
-    {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "Clean like your favorite creators with the Scrub Daddy Star Creator Cleaning Bundle. Get a BBQ Daddy steam cleaning grill scrubber for bristle-free grate cleaning, a pink Scrub Mommy dual-sided temperature-controlled sponge, the Damp Duster that collects - TikTok",
-      "summary": "Clean like your favorite creators with the Scrub Daddy Star Creator Cleaning Bundle. Get a BBQ Daddy steam cleaning grill scrubber for bristle-free grate cleaning, a pink Scrub Mommy dual-sided temperature-controlled sponge, the Damp Duster that collects TikTok",
+      "title": "It would mean the world to me to win Tiktok Food Creator of the Year, so if you have a moment please go and vote for me ❤️ Type ‘TikTok awards’ into the search bar, and then click on the banner where it says ‘vote for your favourite creator’. I’m in the food cre - TikTok",
+      "summary": "It would mean the world to me to win Tiktok Food Creator of the Year, so if you have a moment please go and vote for me ❤️ Type ‘TikTok awards’ into the search bar, and then click on the banner where it says ‘vote for your favourite creator’. I’m in the food cre TikTok",
       "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45TFNraVN2NzlMOE5wT1pGU2NnZDd3NHpPTnZYSk5FNjlJS0h3MVFZUVhJRDluaWlMekFWNzlNRXYyYW84eDR2ZURTWk5LR1RaVlJVMHBZU0IxalRqcjVMVU9yVy1NVTdadU1NbA?oc=5",
-      "published_at": "2026-11-08T04:16:53+00:00",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1Vmg4WVNUek9BdVp2Rk95SXR5SVNpUlQ5MzZWLXFhamJ6WVNHUGgwcnNDeklWV1c3UjR3TXRHOHgwdzRmck9aT040T3l1YnVXOVRMQXB1bjY0ZzFzd1JmRzFkYVNqaVVWOW9ySThKWk5VQjJ2?oc=5",
+      "published_at": "2026-11-08T19:27:18+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -129,41 +114,26 @@
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "Some fun details and storytelling elements I found while on the #disneytreasure! Eating at Marceline Market made me think fondly about my last visit to Walts boyhood town. If you want to experience this offering on your next Disney Cruise, check out my friends - TikTok",
-      "summary": "Some fun details and storytelling elements I found while on the #disneytreasure! Eating at Marceline Market made me think fondly about my last visit to Walts boyhood town. If you want to experience this offering on your next Disney Cruise, check out my friends TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zTGRfU0VUVEJsNU05ZFJZRm9kWjRoamV3QmRvQW9oMXl5RzZ3ZHJvYUJMcmtqQjVIZDU5cmdjLWhod015cWZLOEc2c1Zlal9HSm11X2ZTRFhUXzhFRENwU19CclF6Unc3YUtMazV0NlNINWt6V1E?oc=5",
-      "published_at": "2026-11-08T02:04:56+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "Creator Benjamin Percy and the star-studded cast of Audible's Exoplanet discuss the new sci-fi series and how Andy Weir producing elevated it: \"Whether it's comic books or screenwriting or audio, when you have a group of people who are all strenuously tryin - X",
-      "summary": "Creator Benjamin Percy and the star-studded cast of Audible's Exoplanet discuss the new sci-fi series and how Andy Weir producing elevated it: \"Whether it's comic books or screenwriting or audio, when you have a group of people who are all strenuously tryin X",
+      "title": "Fun Fact: 'Dragon Ball' Creator Akira Toriyama Designed a REAL Electric Car. The one-seat QVOLT was released by CQ Motors in 2005, with only nine made. He spent over a year designing it, inspired by classic American cars. - X",
+      "summary": "Fun Fact: 'Dragon Ball' Creator Akira Toriyama Designed a REAL Electric Car. The one-seat QVOLT was released by CQ Motors in 2005, with only nine made. He spent over a year designing it, inspired by classic American cars. X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFLUc0VERxRGYxYm5nR2VrcWVUS2VBQlZ6TUg1SE5wdlZleXdMYURuSmptcWlKRk1EWUhaZnR0REdUTGp3SkpqR194ZHR2VllWV2xsTWNRMlJJeGl3ZTdyVw?oc=5",
-      "published_at": "2026-11-07T20:00:09+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80TWZ6cV9PZnZEY0JjYmpYbFpnUTJIeXZvdlVobm5lM04xRVJkMHdaYWpfSzFKTDl1NDdvT3JoUVVySjl6NW1pYk5CUEpORWVUZl9UZUQ4ZG1KY3U2MWpCWg?oc=5",
+      "published_at": "2026-11-09T01:15:19+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
+      "score": 19
     },
     {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Maresca's dream start turns into nightmare as title hopes hit",
-      "summary": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-07T20:54:12+00:00",
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "The 44th Annual National Black Storytelling Festival and Conference wrapped up in Rhode Island this week, bringing storytellers together for performances, workshops and youth programming. https://t.co/89RKvndaOU - X",
+      "summary": "The 44th Annual National Black Storytelling Festival and Conference wrapped up in Rhode Island this week, bringing storytellers together for performances, workshops and youth programming. https://t.co/89RKvndaOU X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rdkhhUXVzWWZ0VGpjWkwxa1R3c25Rb3hFcDhBdGtrNmRnckYya1c4SHJJeWtyOVhacTIycWUtc0N5MEFCWkVQdlhUNVNUdzZXTFl5OXdlRE9xZw?oc=5",
+      "published_at": "2026-11-08T22:30:03+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -174,11 +144,26 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Arsenal 1-0 Hull City: Martin Odegaard scores winner for Gunners - BBC",
-      "summary": "Arsenal 1-0 Hull City: Martin Odegaard scores winner for Gunners BBC Arsenal 1-0 Hull City: Odegaard gives champions narrow win -- as it happened ESPN Watch a full match replay from our Hull encounter Arsenal.com",
-      "source": "Google News Arsenal",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoTHJMVzZha0p6U2xBVG1YbG1DX2c4N2p3UXZJcUxVUXZyOHAyYWlxV3BGWDBWTzZTdldyampDY1lGYU5GcTRGSGQzckwzRkZGQlNhM2J5M0R2V2F1R2FwdEpkckxTdw?oc=5",
-      "published_at": "2026-11-07T17:04:36+00:00",
+      "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
+      "summary": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation zone.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T20:01:16+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 19
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Manchester United - BBC",
+      "summary": "Manchester United BBC Manchester United 4-4 Aston Villa: Premier League – as it happened The Guardian Man Utd 4-4 Aston Villa: Patrick Dorgu levels in the 96th minute as United come from two down TWICE to earn incredible draw Sky Sports",
+      "source": "Google News Premier League",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YUUlYY2RNWUFhWXRCZndXclN0dEpnYWRITUFhRW9RTzlNQlh6aUc5WFFWaFJ6QTk3VDNSaTRMTHZJX2U2ejZ5WUhoNGsteW1IQlRVS0hoT0o0X1R0cEU1aXZkb2lGZw?oc=5",
+      "published_at": "2026-11-08T20:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -189,11 +174,41 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Bộ Công Thương muốn miền Bắc giảm 3.000 MW dùng điện giờ cao điểm",
-      "summary": "Bộ Công Thương đặt mục tiêu giảm khoảng 3.000 MW công suất tiêu thụ điện vào giờ cao điểm tại miền Bắc năm 2027, khi nhu cầu tiếp tục tăng và các nguồn điện nền mới chưa kịp bổ sung.",
+      "title": "Bộ trưởng Nội vụ: Đã bổ sung ngày nghỉ lễ 27/7 vào dự luật",
+      "summary": "Bộ trưởng Nội vụ Nguyễn Tiến Hải cho biết cơ quan soạn thảo tiếp thu đề xuất bổ sung Ngày Thương binh - Liệt sĩ 27/7 vào danh sách ngày nghỉ hưởng nguyên lương, dự kiến áp dụng từ năm 2027.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/bo-truong-noi-vu-da-bo-sung-ngay-nghi-le-27-7-vao-du-luat-5142361.html",
+      "published_at": "2026-11-09T03:47:38+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Brighton breeze past 10-man Brentford to move up to second",
+      "summary": "Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T20:00:21+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "Ngân sách dự thu hơn 775.000 tỷ đồng từ nhà, đất năm sau",
+      "summary": "Ngân sách dự thu hơn 3,33 triệu tỷ đồng năm 2027, trong đó thu từ nhà đất có thể chiếm gần một phần tư, và dùng nguồn tích lũy cải cách tiền lương để điều chỉnh lương hưu, phụ cấp.",
       "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/bo-cong-thuong-muon-mien-bac-giam-3-000-mw-dung-dien-gio-cao-diem-5142008.html",
-      "published_at": "2026-11-07T15:47:05+00:00",
+      "url": "https://vnexpress.net/ngan-sach-du-thu-hon-775-000-ty-dong-tu-nha-dat-nam-sau-5142350.html",
+      "published_at": "2026-11-09T04:01:46+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -204,11 +219,11 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Phó thủ tướng: Ưu tiên vốn xây đường sắt đô thị nối sân bay Gia Bình với Hà Nội",
-      "summary": "Phó thủ tướng Thường trực Phạm Gia Túc yêu cầu ưu tiên bố trí vốn đầu tư tuyến đường sắt đô thị kết nối sân bay Gia Bình, Nội Bài với trung tâm TP Hà Nội.",
+      "title": "Đề xuất xây thêm nhà ga T3, đường băng thứ hai ở Phú Bài",
+      "summary": "Sân bay Phú Bài được đề xuất kéo dài đường cất hạ cánh lên 3.600 m, xây thêm đường băng thứ hai và nhà ga T3, nâng công suất lên 12 triệu khách mỗi năm.",
       "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/pho-thu-tuong-uu-tien-von-xay-duong-sat-do-thi-noi-san-bay-gia-binh-voi-ha-noi-5142080.html",
-      "published_at": "2026-11-08T03:07:38+00:00",
+      "url": "https://vnexpress.net/de-xuat-xay-them-nha-ga-t3-duong-bang-thu-hai-o-phu-bai-5142320.html",
+      "published_at": "2026-11-09T04:27:43+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -219,11 +234,26 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Doanh nghiệp về tay Tập đoàn Nhật Bản Kokuyo sẽ được phát triển thế nào?",
-      "summary": "Tập đoàn Nhật Bản (đơn vị sở hữu cổ phần Thiên Long) có tiền lệ duy trì thương hiệu của các doanh nghiệp mua lại, đồng thời tích hợp năng lực sản xuất, phân phối vào hệ thống.",
-      "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/doanh-nghiep-ve-tay-tap-doan-nhat-ban-kokuyo-se-duoc-phat-trien-the-nao-5142076.html",
-      "published_at": "2026-11-08T02:47:27+00:00",
+      "title": "Khởi công cải tạo rạch Văn Thánh ở trung tâm TP HCM",
+      "summary": "Dự án cải tạo rạch Văn Thánh dài 2,2 km, tổng vốn hơn 8.500 tỷ đồng, khởi công gói thầu đầu tiên sáng 9/11 nhằm giảm ô nhiễm, chỉnh trang đô thị trung tâm TP HCM.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/khoi-cong-cai-tao-rach-van-thanh-o-trung-tam-tp-hcm-5142379.html",
+      "published_at": "2026-11-09T04:11:14+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "Ông Trump thừa nhận chính sách siết nhập cư 'quá cứng rắn'",
+      "summary": "Tổng thống Trump cho rằng ông có thể đã chịu bất lợi vì chính sách trục xuất người nhập cư \"quá cứng rắn\", sau khi đảng Cộng hòa thất bại trong bầu cử giữa kỳ.",
+      "source": "VnExpress Thế giới",
+      "url": "https://vnexpress.net/ong-trump-thua-nhan-chinh-sach-siet-nhap-cu-qua-cung-ran-5142348.html",
+      "published_at": "2026-11-09T04:03:20+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -245,21 +275,6 @@
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
       "score": 15
-    },
-    {
-      "domain": "Sách",
-      "category": "books",
-      "title": "That feeling of values crumbling has a name: civic grief",
-      "summary": "Fairness, dignity and shared obligation are precious. Grieving their loss is a first step toward doing something about it - by Rebecca Lewandowski Read on Psyche",
-      "source": "Psyche",
-      "url": "https://psyche.co/ideas/that-feeling-of-values-crumbling-has-a-name-civic-grief",
-      "published_at": "2026-11-03T11:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 12
     }
   ],
   "themes": [
@@ -269,16 +284,23 @@
       "status": "Mẫu hình cần kiểm chứng",
       "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
       "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
-      "evidence_count": 3,
-      "source_count": 3,
+      "evidence_count": 4,
+      "source_count": 4,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
+          "title": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals",
-          "published_at": "2026-11-07T19:00:20+00:00",
-          "summary": "Ahead of Cop31, climate change minister dismisses concerns about whether Australia as a major producer can keep the world moving away from fossil fuels Listen to the podcast: Chris Bowen on how he’ll reach consensus at Cop31 Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Australia has been urged to set aside support for its near US$100bn fossil fuel export industries and fight for a global agreement to move away from coal, gas and oil as its climate chang"
+          "url": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues",
+          "published_at": "2026-11-09T05:47:49+00:00",
+          "summary": "‘It’s pretty obvious that there are all sorts of people making all sorts of comments,’ Murray Watt says after budget savings meeting Get our breaking news email , free app or daily news podcast The environment minister, Murray Watt , has urged ministers to stop undermining the treasurer, Jim Chalmers, as Labor struggles to sell its budget and looks to cut popular clean energy subsidies to help with the fight against inflation. Cabinet ministers met again on Monday to discuss potential budget sav"
+        },
+        {
+          "title": "SSI: Chứng khoán có thể tạo đáy ngắn hạn trong tháng này",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/ssi-chung-khoan-co-the-tao-day-ngan-han-trong-thang-nay-5142164.html",
+          "published_at": "2026-11-09T00:41:09+00:00",
+          "summary": "VN-Index được dự báo tạo đáy ngắn hạn trong tháng 11, nhờ định giá hấp dẫn, yếu tố mùa vụ và chuyển biến tích cực về lãi suất, tỷ giá."
         },
         {
           "title": "Fuel price shock: Why developing economies are paying the most at the pump",
@@ -288,11 +310,11 @@
           "summary": "When war shut the Strait of Hormuz in February, oil prices soared everywhere. But the pain at the pump has been far from equal, and the world’s developing economies are paying the heaviest price, according to a new report from UNCTAD, the UN trade and development agency."
         },
         {
-          "title": "Quan chức Fed cân nhắc tăng lãi sau báo cáo việc làm khả quan",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/quan-chuc-fed-can-nhac-tang-lai-sau-bao-cao-viec-lam-kha-quan-5141851.html",
-          "published_at": "2026-11-07T06:00:22+00:00",
-          "summary": "Báo cáo việc làm tháng 10 mạnh hơn dự kiến, nhưng lương không theo kịp lạm phát, càng khiến quan chức Fed có thêm dư địa tăng lãi suất."
+          "title": "Gold rises over 1% as softer oil prices ease inflation worries - Reuters",
+          "source": "Reuters via Google News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5",
+          "published_at": "2026-11-09T03:01:00+00:00",
+          "summary": "Gold rises over 1% as softer oil prices ease inflation worries Reuters"
         }
       ]
     },
@@ -303,36 +325,36 @@
       "reading": "Các bài về mô hình, suy luận và công việc có thể cho thấy AI đang được đánh giá theo chi phí triển khai và kết quả vận hành, không chỉ theo khả năng trình diễn. Cần phân biệt nghiên cứu thử nghiệm với sản phẩm đã được triển khai.",
       "falsifier": "Bác bỏ nếu bài chỉ mô tả nghiên cứu hoặc tuyên bố của doanh nghiệp mà không có kết quả triển khai độc lập.",
       "evidence_count": 4,
-      "source_count": 4,
-      "source_note": "Có nhiều nguồn trong batch",
+      "source_count": 1,
+      "source_note": "Chỉ một nguồn xuất bản trong batch",
       "evidence": [
         {
-          "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-          "source": "The Verge AI",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-          "published_at": "2026-11-06T21:48:06+00:00",
-          "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]"
+          "title": "Dual-Stream LLM-Guided Reward Design for Reject-Inference-Aware Reinforcement Learning in E-Commerce Payment Fraud Detection",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.08706",
+          "published_at": "2026-11-09T05:00:00+00:00",
+          "summary": "arXiv:2611.08706v1 Announce Type: new Abstract: Production fraud-detection models learn from a censored slice of their own traffic: transactions a legacy system blocked never receive fraud labels, so models train on a biased, approved-only distribution. We extend LLM-guided reward design, the framework of Qu et al. (2025) in which an LLM evolves the reward of a two-step REINFORCE fraud-blocking policy, to attack this reject-inference problem inside the reward. A single LLM designs a dual-stream "
         },
         {
-          "title": "This report on AI R&D automation (RSI) is a big update towards ASI within 1-2 years. It says AI progress is sped up by RSI right now by around 2x. In AI 2027, this happens around March 2027. I was seriously wrong about RSI speed up; I previously expected m - X",
-          "source": "Google News X Threads & Creator Discussions",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5TGtZNi1ndHRwal9SdDJ6cVBfMkFGbjI1MmlseDhoZjZpRXJkdS1QUzVjWC1CVmowdzNSSFlfNGZ1WVA5aURLM29hUkVDazduWVFhZzNZS1NNa1h6aUlydm9OY2RLQQ?oc=5",
-          "published_at": "2026-11-05T20:55:54+00:00",
-          "summary": "This report on AI R&D automation (RSI) is a big update towards ASI within 1-2 years. It says AI progress is sped up by RSI right now by around 2x. In AI 2027, this happens around March 2027. I was seriously wrong about RSI speed up; I previously expected m X"
+          "title": "An Educated Guess: Deriving Statistically Aligned Gradient Estimates for Zeroth-Order Optimisation",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.08712",
+          "published_at": "2026-11-09T05:00:00+00:00",
+          "summary": "arXiv:2611.08712v1 Announce Type: new Abstract: As novel hardware architectures are explored for the purposes of machine learning, including neuromorphic chips, asynchronous systems, and ASICs, effective learning algorithms are highly desirable. While backpropagation is the standard for differentiation on standard hardware, its requirement for global synchrony and exact differentiability limits the exploration of exotic algorithms on non-traditional substrates and devices. Zeroth-order (ZO) opti"
         },
         {
-          "title": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168753",
-          "published_at": "2026-11-06T12:00:00+00:00",
-          "summary": "Aid teams working to help millions of people uprooted by the ongoing war in Sudan appealed on Friday for more international assistance amid desperate funding shortages, empty warehouses and overwhelming needs."
+          "title": "Embedding Consistent Recurrent Neural Networks in Finite Element Simulations for Path-Dependent Damage Prediction",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.08494",
+          "published_at": "2026-11-09T05:00:00+00:00",
+          "summary": "arXiv:2611.08494v1 Announce Type: new Abstract: Capturing sheet-metal localisation physics with a trained surrogate inside a finite element (FEM) solver requires the surrogate to deliver consistent predictions irrespective of the solver's strain-increment count, which is difficult to control in non-linear explicit codes. We address this by re-implementing a trained recurrent neural network (RNN) damage criterion in Fortran and embed it as a live, increment-by-increment fracture criterion inside "
         },
         {
-          "title": "Meta says US users can now video chat with their Muse AI avatar",
-          "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-          "published_at": "2026-11-05T19:48:28+00:00",
-          "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
+          "title": "Does Country Matter? Evaluating Geographic Sensitivity of Large Language Models in Zero-Shot Chronic Kidney Disease Screening",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.08507",
+          "published_at": "2026-11-09T05:00:00+00:00",
+          "summary": "arXiv:2611.08507v1 Announce Type: new Abstract: Large language models (LLMs) show strong zero-shot reasoning capabilities, yet their sensitivity to prompt context raises questions about reliability in deployment. This study investigates whether geographic context embedded in prompts influences LLM-based chronic kidney disease (CKD) screening, independent of any change in patient features. Using a community-based CKD dataset from Bangladesh (284 participants with 112 CKD and 172 non-CKD), we syst"
         }
       ]
     },
@@ -343,36 +365,36 @@
       "reading": "Các diễn biến chính trị và thương mại có thể ảnh hưởng đến vận tải, giá đầu vào hoặc quyết định đầu tư. Chưa thể suy ra tác động tới Việt Nam nếu chưa biết tuyến hàng, mặt hàng và mức độ phơi nhiễm.",
       "falsifier": "Bác bỏ nếu chưa có thay đổi chính sách/luồng hàng thực tế hoặc mặt hàng liên quan không gắn với Việt Nam.",
       "evidence_count": 4,
-      "source_count": 3,
+      "source_count": 2,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals",
-          "published_at": "2026-11-07T19:00:20+00:00",
-          "summary": "Ahead of Cop31, climate change minister dismisses concerns about whether Australia as a major producer can keep the world moving away from fossil fuels Listen to the podcast: Chris Bowen on how he’ll reach consensus at Cop31 Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Australia has been urged to set aside support for its near US$100bn fossil fuel export industries and fight for a global agreement to move away from coal, gas and oil as its climate chang"
+          "title": "Rethinking Data Selection as Distribution Matching on Semantic Manifolds",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.08495",
+          "published_at": "2026-11-09T05:00:00+00:00",
+          "summary": "arXiv:2611.08495v1 Announce Type: new Abstract: Instruction tuning of large language models and large vision language models relies on massive training data, which incurs substantial computational and storage costs. Meanwhile, training data often contains redundancy, noise, and low quality samples. Existing data selection methods mostly rely on diversity, importance, or a combination of both, without explicitly constraining the distributional consistency between the selected subset and the full "
         },
         {
-          "title": "US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
+          "title": "PINNeval: A Comprehensive Evaluation Standard for Physics-Informed Neural Networks",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.08559",
+          "published_at": "2026-11-09T05:00:00+00:00",
+          "summary": "arXiv:2611.08559v1 Announce Type: new Abstract: The Physics-Informed Neural Network (PINN) literature has produced a rapidly expanding catalogue of methods. We divide a PINN training pipeline systematically into four components and observe that many existing benchmarks study these components in isolation. These components are domain-importance adaptation, loss balancing, neural network architecture, and optimization scheme. Moreover, the studies set the surrounding and not considered components "
+        },
+        {
+          "title": "Erdoğan joins Aliyev for Azerbaijan’s Victory Day in Karabakh",
           "source": "Euronews",
-          "url": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran",
-          "published_at": "2026-11-07T11:35:53+00:00",
-          "summary": "The US military carried out new airstrikes on Iranian defence systems, sending ripples across the Gulf, but Trump insists they are “minor strikes” while intense diplomatic efforts continue to avert an all-out war."
+          "url": "https://www.euronews.com/2026/11/08/erdogan-joins-aliyev-for-azerbaijans-victory-day-in-karabakh",
+          "published_at": "2026-11-08T17:11:05+00:00",
+          "summary": "Azerbaijan celebrated on Sunday its sixth Victory Day, marking the end of the Karabakh war. Turkey's Erdoğan joined the commemorations to underscore the strength of bilateral ties despite recent differences, with Aliyev declaring that \"this unity will last forever\"."
         },
         {
-          "title": "Fuel price shock: Why developing economies are paying the most at the pump",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168738",
-          "published_at": "2026-11-04T12:00:00+00:00",
-          "summary": "When war shut the Strait of Hormuz in February, oil prices soared everywhere. But the pain at the pump has been far from equal, and the world’s developing economies are paying the heaviest price, according to a new report from UNCTAD, the UN trade and development agency."
-        },
-        {
-          "title": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168737",
-          "published_at": "2026-11-04T12:00:00+00:00",
-          "summary": "Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers – many of whom are dead or missing – a member of the independent UN commission investigating rights violations in the country said on Wednesday."
+          "title": "Netherlands: Sea of red fills Amsterdam streets in Gaza protest",
+          "source": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/08/netherlands-sea-of-red-fills-amsterdam-streets-in-gaza-protest",
+          "published_at": "2026-11-08T22:18:56+00:00",
+          "summary": "Tens of thousands of people, many dressed in red, marched through Amsterdam in the Netherlands on Sunday 8 November, demanding that the Dutch government take stronger action against Israel over the war in Gaza."
         }
       ]
     },
@@ -382,37 +404,30 @@
       "status": "Mẫu hình cần kiểm chứng",
       "reading": "Chỉ đáng nâng thành tín hiệu khi có văn bản hoặc số liệu gốc, phạm vi áp dụng và nhóm chịu tác động xác định được. Tin kinh doanh đơn lẻ chưa đủ để kết luận xu hướng kinh tế Việt Nam.",
       "falsifier": "Bác bỏ nếu không có văn bản/số liệu gốc hoặc nội dung không tạo thay đổi đáng kể với doanh nghiệp.",
-      "evidence_count": 4,
-      "source_count": 2,
-      "source_note": "Có nhiều nguồn trong batch",
+      "evidence_count": 3,
+      "source_count": 1,
+      "source_note": "Chỉ một nguồn xuất bản trong batch",
       "evidence": [
         {
-          "title": "Phó thủ tướng: Ưu tiên vốn xây đường sắt đô thị nối sân bay Gia Bình với Hà Nội",
-          "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/pho-thu-tuong-uu-tien-von-xay-duong-sat-do-thi-noi-san-bay-gia-binh-voi-ha-noi-5142080.html",
-          "published_at": "2026-11-08T03:07:38+00:00",
-          "summary": "Phó thủ tướng Thường trực Phạm Gia Túc yêu cầu ưu tiên bố trí vốn đầu tư tuyến đường sắt đô thị kết nối sân bay Gia Bình, Nội Bài với trung tâm TP Hà Nội."
+          "title": "Trung Quốc tiếp tục hoãn áp thuế trả đũa Mỹ",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/trung-quoc-tiep-tuc-hoan-ap-thue-tra-dua-my-5142393.html",
+          "published_at": "2026-11-09T05:09:18+00:00",
+          "summary": "Trung Quốc thông báo gia hạn thêm 2 tháng việc hoãn áp thuế 24% trả đũa Mỹ, để thực hiện đồng thuận sau cuộc gặp thượng đỉnh tháng 9."
         },
         {
-          "title": "Doanh nghiệp về tay Tập đoàn Nhật Bản Kokuyo sẽ được phát triển thế nào?",
+          "title": "SSI: Chứng khoán có thể tạo đáy ngắn hạn trong tháng này",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/doanh-nghiep-ve-tay-tap-doan-nhat-ban-kokuyo-se-duoc-phat-trien-the-nao-5142076.html",
-          "published_at": "2026-11-08T02:47:27+00:00",
-          "summary": "Tập đoàn Nhật Bản (đơn vị sở hữu cổ phần Thiên Long) có tiền lệ duy trì thương hiệu của các doanh nghiệp mua lại, đồng thời tích hợp năng lực sản xuất, phân phối vào hệ thống."
+          "url": "https://vnexpress.net/ssi-chung-khoan-co-the-tao-day-ngan-han-trong-thang-nay-5142164.html",
+          "published_at": "2026-11-09T00:41:09+00:00",
+          "summary": "VN-Index được dự báo tạo đáy ngắn hạn trong tháng 11, nhờ định giá hấp dẫn, yếu tố mùa vụ và chuyển biến tích cực về lãi suất, tỷ giá."
         },
         {
-          "title": "Trung Quốc mua vàng 24 tháng liên tiếp",
+          "title": "Quan chức Fed cân nhắc tăng lãi sau báo cáo việc làm khả quan",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/trung-quoc-mua-vang-24-thang-lien-tiep-5142073.html",
-          "published_at": "2026-11-08T01:36:59+00:00",
-          "summary": "Ngân hàng Trung ương Trung Quốc (PBOC) tiếp tục mua vàng dự trữ trong tháng 10, khi thị trường có tháng giảm mạnh nhất 18 năm."
-        },
-        {
-          "title": "Từ củ khoai mì đến hãng bột bánh doanh thu gần nghìn tỷ đồng",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/tu-cu-khoai-mi-den-hang-bot-banh-doanh-thu-gan-nghin-ty-dong-5136047.html",
-          "published_at": "2026-11-07T22:00:00+00:00",
-          "summary": "Từ mẻ bột làm bằng khoai mì của mẹ năm 1976, bà Thúy Loan đưa cơ sở gia đình thành doanh nghiệp có doanh thu gần nghìn tỷ đồng mỗi năm."
+          "url": "https://vnexpress.net/quan-chuc-fed-can-nhac-tang-lai-sau-bao-cao-viec-lam-kha-quan-5141851.html",
+          "published_at": "2026-11-07T06:00:22+00:00",
+          "summary": "Báo cáo việc làm tháng 10 mạnh hơn dự kiến, nhưng lương không theo kịp lạm phát, càng khiến quan chức Fed có thêm dư địa tăng lãi suất."
         }
       ]
     }
@@ -421,23 +436,23 @@
     {
       "category": "ai",
       "domain": "AI & công nghệ",
-      "items": 19,
-      "usable": 19,
-      "sources": 5
+      "items": 40,
+      "usable": 40,
+      "sources": 6
     },
     {
       "category": "world",
       "domain": "Thế giới",
       "items": 65,
       "usable": 65,
-      "sources": 13
+      "sources": 11
     },
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 22,
-      "usable": 22,
-      "sources": 4
+      "items": 18,
+      "usable": 18,
+      "sources": 3
     },
     {
       "category": "water",
@@ -449,104 +464,104 @@
     {
       "category": "football",
       "domain": "Arsenal & Premier League",
-      "items": 30,
-      "usable": 30,
-      "sources": 5
+      "items": 13,
+      "usable": 13,
+      "sources": 2
     },
     {
       "category": "books",
       "domain": "Sách",
-      "items": 2,
-      "usable": 2,
-      "sources": 2
+      "items": 4,
+      "usable": 4,
+      "sources": 4
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
-      "items": 11,
-      "usable": 11,
+      "items": 10,
+      "usable": 10,
       "sources": 3
     },
     {
       "category": "trends",
       "domain": "Google Trends",
-      "items": 1,
+      "items": 0,
       "usable": 0,
       "sources": 0
     }
   ],
   "links": [
     {
-      "a": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
-      "b": "The US let Nvidia sell chips to an empty office in China",
+      "a": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation",
+      "b": "Generative Reconstruction of Full-Field Sensor States for Safety-Critical Digital Twins",
       "terms": [
-        "concerns",
-        "raised"
+        "state",
+        "three"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
-      "b": "Clean like your favorite creators with the Scrub Daddy Star Creator Cleaning Bundle. Get a BBQ Daddy steam cleaning grill scrubber for bristle-free grate cleaning, a pink Scrub Mommy dual-sided temperature-controlled sponge, the Damp Duster that collects - TikTok",
+      "a": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation",
+      "b": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
       "terms": [
-        "free",
-        "your"
+        "points",
+        "share",
+        "time"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
-      "b": "Maresca's dream start turns into nightmare as title hopes hit",
+      "a": "Generative Reconstruction of Full-Field Sensor States for Safety-Critical Digital Twins",
+      "b": "It would mean the world to me to win Tiktok Food Creator of the Year, so if you have a moment please go and vote for me ❤️ Type ‘TikTok awards’ into the search bar, and then click on the banner where it says ‘vote for your favourite creator’. I’m in the food cre - TikTok",
       "terms": [
-        "city",
-        "week"
+        "mean",
+        "type"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
+      "a": "Adaptive Depth Aggregation in Graph Transformers for Long-Range Graph Reasoning",
+      "b": "Brighton breeze past 10-man Brentford to move up to second",
+      "terms": [
+        "long",
+        "range"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
       "b": "Is There Anything Left in the Dream of Cold Fusion?",
       "terms": [
-        "crisis",
-        "find"
+        "energy",
+        "there"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
-      "b": "The US let Nvidia sell chips to an empty office in China",
+      "a": "Bộ trưởng Nội vụ: Đã bổ sung ngày nghỉ lễ 27/7 vào dự luật",
+      "b": "Ngân sách dự thu hơn 775.000 tỷ đồng từ nhà, đất năm sau",
       "terms": [
-        "being",
-        "york"
+        "2027",
+        "lương",
+        "sách"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
-      "b": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "a": "Bộ trưởng Nội vụ: Đã bổ sung ngày nghỉ lễ 27/7 vào dự luật",
+      "b": "Ông Trump thừa nhận chính sách siết nhập cư 'quá cứng rắn'",
       "terms": [
-        "down",
-        "powerful",
-        "week",
-        "year"
+        "sách",
+        "xuất"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "b": "Is There Anything Left in the Dream of Cold Fusion?",
+      "a": "Ngân sách dự thu hơn 775.000 tỷ đồng từ nhà, đất năm sau",
+      "b": "Khởi công cải tạo rạch Văn Thánh ở trung tâm TP HCM",
       "terms": [
-        "little",
-        "research"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Maresca's dream start turns into nightmare as title hopes hit",
-      "b": "Is There Anything Left in the Dream of Cold Fusion?",
-      "terms": [
-        "dream",
-        "left"
+        "chỉnh",
+        "đồng"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }

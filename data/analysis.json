@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T06:28:48.318507+00:00",
-  "input_generated_at": "2026-11-09T06:28:48.267460+00:00",
+  "generated_at": "2026-11-10T07:18:39.361979+00:00",
+  "input_generated_at": "2026-11-10T07:18:39.305004+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
-  "items_after_dedup": 150,
+  "items_after_dedup": 147,
   "signals": [
     {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation",
-      "summary": "Ben Carroll refuses to be drawn on latest opinion poll that puts Labor at all-time low of just 18%, behind One Nation on 21% and the Coalition on 33% Get our daily political email , free app or daily news podcast Victorian Labor MPs are both sceptical and seriously concerned about a new poll ahead of the state election showing the party trailing third behind One Nation, with its primary vote at an all-time low of just 18%. The DemosAU/PremierNational, first published by the Herald Sun on Monday, showed Labor’s primary vote share has crashed seven points to 18%, putting it in third place behind the Coalition’s 33% and One Nation’s 21%. At the same time, the Greens improved their primary vote to 17%, an increase of three points since September. Continue reading...",
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+      "summary": "Government flags criminal law changes to ensure companies can’t argue in future ‘that someone didn’t know the computer was loaded’ Get our daily political email , free app or daily news podcast OpenAI will not face criminal penalties over the Medicare data breach , but the prime minister has flagged changes to Australia’s criminal law to crack down on future breaches by artificial intelligence companies. Anthony Albanese on Tuesday released the recommendations of a “rapid review” into the June breach of a Medicare statistics reporting service portal administered by Services Australia, but not the findings or the report itself, which he committed to releasing in the future. Maintaining security controls across all stages of development and deployment. Identifying and managing serious risks associated with their models. Providing mandatory notification of incidents to the Australian government rapidly. Allowing independent evaluation of their models. Maintaining and publishing safety and security frameworks to ensure good governance, risk management and transparency. Responding to updated standards and rules as technologies change. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/09/victoria-election-2026-labor-mps-new-opinion-poll-one-nation-ntwnfb",
-      "published_at": "2026-11-09T04:55:15+00:00",
+      "url": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+      "published_at": "2026-11-10T06:00:52+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -24,41 +24,11 @@
     {
       "domain": "AI & công nghệ",
       "category": "ai",
-      "title": "Rethinking Data Selection as Distribution Matching on Semantic Manifolds",
-      "summary": "arXiv:2611.08495v1 Announce Type: new Abstract: Instruction tuning of large language models and large vision language models relies on massive training data, which incurs substantial computational and storage costs. Meanwhile, training data often contains redundancy, noise, and low quality samples. Existing data selection methods mostly rely on diversity, importance, or a combination of both, without explicitly constraining the distributional consistency between the selected subset and the full data in the embedding space. We propose QMAC, a quality aware multiband characteristic function matching method that formulates data selection as a joint optimization problem of distribution matching and quality filtering. QMAC matches the empirical characteristic functions of the selected subset and the full data across multiple frequency scales, capturing both global semantic coverage and local perturbations, while using task related quality scores to filter noisy and low quality samples. We systematically evaluate QMAC on 4 data types, 8 target models, and 44 benchmarks. Experimental results show that QMAC outperforms existing data selection baselines on standard image-text instruction da",
-      "source": "arXiv Machine Learning",
-      "url": "https://arxiv.org/abs/2611.08495",
-      "published_at": "2026-11-09T05:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Generative Reconstruction of Full-Field Sensor States for Safety-Critical Digital Twins",
-      "summary": "arXiv:2611.08499v1 Announce Type: new Abstract: Accurate reconstruction of incomplete sensor fields is critical for state awareness in safety-critical digital twins (DTs). Thermocouples in high-temperature and radiation environments may drift, fail, or become intermittently unavailable, causing partial observability. This study develops a sparse-sensor reconstruction framework for Oregon State University's High Temperature Test Facility (HTTF) and evaluates six methods under intra- and inter-experiment protocols: three conditional generative models (i.e., a diffusion model [DM], variational autoencoder [VAE], and generative adversarial network [GAN]), two deterministic recurrent neural-network models, and ridge regression. For intra-experiment reconstruction within the PG{-}29 depressurized conduction cooldown (DCC) test, the models combine graph-based spatial encoding with gated recurrent units. The graph neural network (GNN)--gated recurrent unit (GRU) VAE achieves the lowest error, with a mean absolute error (MAE) of $11.73,^\\circ$C, a root mean square error (RMSE) of $20.54,^\\circ$C, and an $R^2$ of 0.98. The deterministic GNN--GRU and plain GRU obtain RMSE values of $25.26,^\\c",
-      "source": "arXiv Machine Learning",
-      "url": "https://arxiv.org/abs/2611.08499",
-      "published_at": "2026-11-09T05:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Adaptive Depth Aggregation in Graph Transformers for Long-Range Graph Reasoning",
-      "summary": "arXiv:2611.08500v1 Announce Type: new Abstract: Graph Transformers improve long-range node-to-node communication through global or structure-aware interactions. However, improving cross-node communication does not determine how computations produced at different depths should be combined. Standard residual streams accumulate successive computations with fixed unit coefficients shared across nodes. This fixed aggregation is a residual-interface constraint: once intermediate contributions have been produced, the interface cannot explicitly reweight them by node. We hypothesize that this constraint can create a depth-wise aggregation mismatch when the relative utility of these intermediate contributions varies across nodes and structural contexts. To study this hypothesis, we formalize Graph Transformer residual computation as a causal node-wise history of graph-propagation and feed-forward network (FFN) contributions, making depth aggregation an explicit interface choice. We realize node-adaptive aggregation over this history with Attention Residuals (AttnRes) while preserving the backbone's graph-propagation and auxiliary-state machinery. Block AttnRes reduces the routing cost of lo",
-      "source": "arXiv Machine Learning",
-      "url": "https://arxiv.org/abs/2611.08500",
-      "published_at": "2026-11-09T05:00:00+00:00",
+      "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
+      "summary": "Only an email so far, nothing official I could find. I figure if you didn't get this email you are ok. --- We are writing to inform you of a security incident at one of our vendors, Fireworks AI, that may impact you. For the latest on the Fireworks AI incident, see their official updates here. Following an investigation by the Notion security team, we have determined that your workspace, [...], was among the This email explains what happened, what data of yours might be affected, what we’re doing to address this, and what we recommend to protect your data from this Fireworks AI incident. What is Fireworks AI and how we used them: Fireworks is one of the most used global AI infrastructure platforms powering tens of thousands of customers and used by hundreds of thousands of developers. We used Fireworks for classification jobs to help customers understand their own AI usage through a feature in Notion called Insights, and we used them as a general inference provider to serve open-weight models inside our product. The Insights feature has been disabled as we investigate this incident, and we are no longer serving open-weight models through Fireworks. What happened and how we addresse",
+      "source": "Hacker News AI Discussions",
+      "url": "https://news.ycombinator.com/item?id=50436636",
+      "published_at": "2026-11-10T06:00:48+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -79,31 +49,61 @@
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 36
+      "score": 33
     },
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
-      "summary": "‘It’s pretty obvious that there are all sorts of people making all sorts of comments,’ Murray Watt says after budget savings meeting Get our breaking news email , free app or daily news podcast The environment minister, Murray Watt , has urged ministers to stop undermining the treasurer, Jim Chalmers, as Labor struggles to sell its budget and looks to cut popular clean energy subsidies to help with the fight against inflation. Cabinet ministers met again on Monday to discuss potential budget savings to be included in next month’s mid-year update, part of efforts to reducing spending to ease pressure on the economy. Continue reading...",
+      "title": "Mortgage holders’ confidence crashes to lowest level since 1994 as year that ‘feels like a recession’ looms",
+      "summary": "Westpac survey results signal growing sense of ‘helplessness’ while Jim Chalmers faces growing pressure to rein in spending Confidence among mortgaged households has crashed to its lowest level in more than three decades amid a growing sense of “helplessness” about the economy, even as a dramatic shift in financial markets suggests there is now a strong chance of a Reserve Bank rate cut by this time next year. The latest Westpac survey showed its consumer sentiment index sinking again in November to reach a four-year low, amid deepening pessimism about the near-term prospects for the economy . Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues",
-      "published_at": "2026-11-09T05:47:49+00:00",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/10/mortgage-holders-confidence-crashes-to-lowest-level-since-1994-as-year-that-feels-like-a-recession-looms",
+      "published_at": "2026-11-10T05:17:31+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 33
+      "score": 32
     },
     {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "It would mean the world to me to win Tiktok Food Creator of the Year, so if you have a moment please go and vote for me ❤️ Type ‘TikTok awards’ into the search bar, and then click on the banner where it says ‘vote for your favourite creator’. I’m in the food cre - TikTok",
-      "summary": "It would mean the world to me to win Tiktok Food Creator of the Year, so if you have a moment please go and vote for me ❤️ Type ‘TikTok awards’ into the search bar, and then click on the banner where it says ‘vote for your favourite creator’. I’m in the food cre TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1Vmg4WVNUek9BdVp2Rk95SXR5SVNpUlQ5MzZWLXFhamJ6WVNHUGgwcnNDeklWV1c3UjR3TXRHOHgwdzRmck9aT040T3l1YnVXOVRMQXB1bjY0ZzFzd1JmRzFkYVNqaVVWOW9ySThKWk5VQjJ2?oc=5",
-      "published_at": "2026-11-08T19:27:18+00:00",
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "Beau Lamarre-Condon admits entering Jesse Baird’s house when he wasn’t home and eating Easter egg, murder trial hears",
+      "summary": "Former police officer tells jury he joked about being ‘white girl crazy’ with friends as lawyer questions him about start of relationship with TV presenter Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has denied misusing his authority as a police officer to access CCTV footage of Jesse Baird or stalking him after their breakup, a court has heard. But he admitted he entered Baird’s house while he wasn’t home to retrieve belongings, and ate an Easter egg he had bought for the television presenter. Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
+      "published_at": "2026-11-10T05:28:25+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 30
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "published_at": "2026-11-09T23:46:30+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 24
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "M John Harrison becomes oldest ever winner of the Booker prize for his satirical novel 'The End of Everything'",
+      "summary": "The judges of the prestigious English literary prize praised the novel for it's \"extraordinary expert writing and huge ambition\" - Harrison is the oldest ever recipient of the prize that is famed for kickstarting careers and says he feels like a proper writer at last.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/09/m-john-harrison-becomes-oldest-ever-winner-of-the-booker-prize-for-his-satirical-novel-the",
+      "published_at": "2026-11-09T22:43:57+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -114,71 +114,56 @@
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "Fun Fact: 'Dragon Ball' Creator Akira Toriyama Designed a REAL Electric Car. The one-seat QVOLT was released by CQ Motors in 2005, with only nine made. He spent over a year designing it, inspired by classic American cars. - X",
-      "summary": "Fun Fact: 'Dragon Ball' Creator Akira Toriyama Designed a REAL Electric Car. The one-seat QVOLT was released by CQ Motors in 2005, with only nine made. He spent over a year designing it, inspired by classic American cars. X",
+      "title": "Token creators who made huge profits appear to be selling $SOL! Wallet 2MdNva collected large amounts of $SOL from multiple token creator wallets and sent it to exchanges. Over the past 16 hours, it deposited a total of 299,838 $SOL ($26M) into #Binance - X",
+      "summary": "Token creators who made huge profits appear to be selling $SOL! Wallet 2MdNva collected large amounts of $SOL from multiple token creator wallets and sent it to exchanges. Over the past 16 hours, it deposited a total of 299,838 $SOL ($26M) into #Binance X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80TWZ6cV9PZnZEY0JjYmpYbFpnUTJIeXZvdlVobm5lM04xRVJkMHdaYWpfSzFKTDl1NDdvT3JoUVVySjl6NW1pYk5CUEpORWVUZl9UZUQ4ZG1KY3U2MWpCWg?oc=5",
-      "published_at": "2026-11-09T01:15:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96YzBXQzhIR1l2c3htM3pYSWxsZDhYbTZ4anlxUXcwV0tJcmh4a1NXX2dnNmFMekI2aklySUZmYVBfSndwNUZDUW4xMVBJRUZYaUFSWDI2VXZLV21oLUdJc3N3?oc=5",
+      "published_at": "2026-11-10T03:47:05+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 19
+      "score": 20
     },
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "The 44th Annual National Black Storytelling Festival and Conference wrapped up in Rhode Island this week, bringing storytellers together for performances, workshops and youth programming. https://t.co/89RKvndaOU - X",
-      "summary": "The 44th Annual National Black Storytelling Festival and Conference wrapped up in Rhode Island this week, bringing storytellers together for performances, workshops and youth programming. https://t.co/89RKvndaOU X",
+      "title": "@taylenbiggs asked me what I'd tell every young creator. And a few years later, my answer hasn't changed: know who you are, own your strengths, and run with everything you've got. Reposting because somebody's kid needs to hear this today. DJ - TikTok",
+      "summary": "@taylenbiggs asked me what I'd tell every young creator. And a few years later, my answer hasn't changed: know who you are, own your strengths, and run with everything you've got. Reposting because somebody's kid needs to hear this today. DJ TikTok",
+      "source": "Google News TikTok & Short-form Video",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqY2JSeW1EWkpIT2dQZ2Z0OGZpMmc0NDg2LWQ3LXBKMWhqRk56WHBTTmp5YlBHdHpzYjc0czFzNXozRmFlT1FTWHhEU2tOZ19vaDhtQnhRNUZvMTUtY1JLQ3Y3SU1lcUxGQXYySjQxNXZIQ0U?oc=5",
+      "published_at": "2026-11-10T00:06:01+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "During pre-release testing, Claude Fable 5.2 and Claude Mythos 5.2 worked on ambitious projects in many different fields. Here are a few. From a one-paragraph prompt, Fable 5.2 designed three working electronic devices, including this home voice assistant - X",
+      "summary": "During pre-release testing, Claude Fable 5.2 and Claude Mythos 5.2 worked on ambitious projects in many different fields. Here are a few. From a one-paragraph prompt, Fable 5.2 designed three working electronic devices, including this home voice assistant X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rdkhhUXVzWWZ0VGpjWkwxa1R3c25Rb3hFcDhBdGtrNmRnckYya1c4SHJJeWtyOVhacTIycWUtc0N5MEFCWkVQdlhUNVNUdzZXTFl5OXdlRE9xZw?oc=5",
-      "published_at": "2026-11-08T22:30:03+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ITVYyZnExU1AtbnVYcDBrUjJDS1c3d3A4MmpiMld1STNGcVJJN2RYWmcxRGUxdUluc0pJLW1UX0VKWkx5QnpqenBqamRPc2VhcXJqWVh3MU5LbnRQblE?oc=5",
+      "published_at": "2026-11-09T21:06:31+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 19
+      "score": 20
     },
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
-      "summary": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation zone.",
+      "title": "Wimborne to host Bradford in FA Cup second round - see the full draw",
+      "summary": "Seventh-tier side Wimborne Town will host League One Bradford City in the second round of the FA Cup, while former winners Leicester City will visit National League South side Dover Athletic.",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-08T20:01:16+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 19
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Manchester United - BBC",
-      "summary": "Manchester United BBC Manchester United 4-4 Aston Villa: Premier League – as it happened The Guardian Man Utd 4-4 Aston Villa: Patrick Dorgu levels in the 96th minute as United come from two down TWICE to earn incredible draw Sky Sports",
-      "source": "Google News Premier League",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YUUlYY2RNWUFhWXRCZndXclN0dEpnYWRITUFhRW9RTzlNQlh6aUc5WFFWaFJ6QTk3VDNSaTRMTHZJX2U2ejZ5WUhoNGsteW1IQlRVS0hoT0o0X1R0cEU1aXZkb2lGZw?oc=5",
-      "published_at": "2026-11-08T20:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 19
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Bộ trưởng Nội vụ: Đã bổ sung ngày nghỉ lễ 27/7 vào dự luật",
-      "summary": "Bộ trưởng Nội vụ Nguyễn Tiến Hải cho biết cơ quan soạn thảo tiếp thu đề xuất bổ sung Ngày Thương binh - Liệt sĩ 27/7 vào danh sách ngày nghỉ hưởng nguyên lương, dự kiến áp dụng từ năm 2027.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/bo-truong-noi-vu-da-bo-sung-ngay-nghi-le-27-7-vao-du-luat-5142361.html",
-      "published_at": "2026-11-09T03:47:38+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6wyrynd848jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-09T22:10:22+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -189,11 +174,26 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Brighton breeze past 10-man Brentford to move up to second",
-      "summary": "Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.",
+      "title": "People don't know full story behind England exile - White",
+      "summary": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again.",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-08T20:00:21+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-09T19:00:10+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Chelsea staff warned over Fantasy Premier League use",
+      "summary": "Chelsea warn staff to be careful about revealing team news through Fantasy Premier League after Joao Pedro's injury appeared to have been inadvertently disclosed through team selections.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c98rzr51rlvpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-09T12:41:23+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -204,26 +204,11 @@
     {
       "domain": "Sách",
       "category": "books",
-      "title": "Ngân sách dự thu hơn 775.000 tỷ đồng từ nhà, đất năm sau",
-      "summary": "Ngân sách dự thu hơn 3,33 triệu tỷ đồng năm 2027, trong đó thu từ nhà đất có thể chiếm gần một phần tư, và dùng nguồn tích lũy cải cách tiền lương để điều chỉnh lương hưu, phụ cấp.",
-      "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/ngan-sach-du-thu-hon-775-000-ty-dong-tu-nha-dat-nam-sau-5142350.html",
-      "published_at": "2026-11-09T04:01:46+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Đề xuất xây thêm nhà ga T3, đường băng thứ hai ở Phú Bài",
-      "summary": "Sân bay Phú Bài được đề xuất kéo dài đường cất hạ cánh lên 3.600 m, xây thêm đường băng thứ hai và nhà ga T3, nâng công suất lên 12 triệu khách mỗi năm.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/de-xuat-xay-them-nha-ga-t3-duong-bang-thu-hai-o-phu-bai-5142320.html",
-      "published_at": "2026-11-09T04:27:43+00:00",
+      "title": "M. John Harrison’s “The End of Everything,” a novel that imagines aliens overrunning Britain, has won the Booker Prize, the prestigious literary award. - Facebook",
+      "summary": "M. John Harrison’s “The End of Everything,” a novel that imagines aliens overrunning Britain, has won the Booker Prize, the prestigious literary award. Facebook",
+      "source": "Google News International Book Awards",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRV8zMWsyeWhoaURNSnFTdmNqWkhfRmRRNWxSVjBXQWcydWxuSThySVlxRDJJZ1lXaFFrbnlNcGpXajRLWmttNjhPUzAxRmVDWFkwWW1nQUNNYXFqOC1BTmNoLUd5WDJjdVpPM2VweXZRbU5tSVQxa3NvVmthUDV6QVJnaFBITk94OExnVWRsMWNFNzhGOFV3dE5LMDRLZjlhSnZ6QXItckxZcS1NME5uWXZWbDRLTURLakJHSG1FWHZUd0JPbEhsWm1ubFFZMGx6Zktz?oc=5",
+      "published_at": "2026-11-10T03:56:28+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -234,11 +219,41 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Khởi công cải tạo rạch Văn Thánh ở trung tâm TP HCM",
-      "summary": "Dự án cải tạo rạch Văn Thánh dài 2,2 km, tổng vốn hơn 8.500 tỷ đồng, khởi công gói thầu đầu tiên sáng 9/11 nhằm giảm ô nhiễm, chỉnh trang đô thị trung tâm TP HCM.",
+      "title": "Bảng hiệu đổ sập, đất đá vùi lấp đường ở miền Trung",
+      "summary": "Mưa lớn kéo dài khiến nhiều cây xanh, bảng hiệu ở Đà Nẵng, Quảng Ngãi ngã đổ; đường ở Quảng Trị bị đất đá vùi lấp, tàu thuyền tại Huế, Khánh Hòa bị sóng cuốn sáng 10/11.",
       "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/khoi-cong-cai-tao-rach-van-thanh-o-trung-tam-tp-hcm-5142379.html",
-      "published_at": "2026-11-09T04:11:14+00:00",
+      "url": "https://vnexpress.net/bang-hieu-do-sap-dat-da-vui-lap-duong-o-mien-trung-5142868.html",
+      "published_at": "2026-11-10T06:08:09+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Sắp công bố thứ hạng về năng lực cạnh tranh số và AI của Việt Nam",
+      "summary": "Bảng xếp hạng Năng lực cạnh tranh số và trí tuệ nhân tạo thế giới 2026 sẽ được công bố ngày 11/11, trong đó có kết quả đánh giá và thứ hạng của Việt Nam.",
+      "source": "VnExpress Khoa học công nghệ",
+      "url": "https://vnexpress.net/sap-cong-bo-thu-hang-ve-nang-luc-canh-tranh-so-va-ai-cua-viet-nam-5142860.html",
+      "published_at": "2026-11-10T05:53:47+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Đề xuất quy hoạch tổ hợp ga Ngọc Hồi 3 tầng, kết nối 5 tuyến metro",
+      "summary": "Tổ hợp ga Ngọc Hồi dự kiến rộng 267 ha, gồm khu ga 3 tầng và khu phát triển TOD, tích hợp đường sắt tốc độ cao Bắc Nam, đường sắt quốc gia và đường sắt đô thị.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/de-xuat-quy-hoach-to-hop-ga-ngoc-hoi-3-tang-ket-noi-5-tuyen-metro-5142881.html",
+      "published_at": "2026-11-10T05:06:05+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -249,75 +264,20 @@
     {
       "domain": "Sách",
       "category": "books",
-      "title": "Ông Trump thừa nhận chính sách siết nhập cư 'quá cứng rắn'",
-      "summary": "Tổng thống Trump cho rằng ông có thể đã chịu bất lợi vì chính sách trục xuất người nhập cư \"quá cứng rắn\", sau khi đảng Cộng hòa thất bại trong bầu cử giữa kỳ.",
-      "source": "VnExpress Thế giới",
-      "url": "https://vnexpress.net/ong-trump-thua-nhan-chinh-sach-siet-nhap-cu-qua-cung-ran-5142348.html",
-      "published_at": "2026-11-09T04:03:20+00:00",
+      "title": "British Author M. John Harrison Wins the 2026 Booker Prize for His Dystopian Novel 'The End of Everything' - Publishing Perspectives",
+      "summary": "British Author M. John Harrison Wins the 2026 Booker Prize for His Dystopian Novel 'The End of Everything' Publishing Perspectives",
+      "source": "Google News International Book Awards",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQVk3M3VLTkVxWWM0aTlwTVR2b25uVnJuN3RmOWtHazlpTXl0eklhTEhBTS1BTmcwb0JLVVltNm5VSzhLWl95NUpHTW05ZnpOTWRNRTN5R3V2bm9oY1FtcXNDdWl6ODNUUzNiZUtIVTNpRjRiRF93U1RfY2hrRHU1TWIwTndFeFcxeW1jb1F4NDBzU1AyMUc4U0g4TG56UUdScFhkd3Bfekg0ZW1fdkNsMGstc0RPUXptM1VWWWZ3eENMZ2hfRkY0TEVtWVFUbDZ4eUNBTDVuUFg2Nkw2eHhyMA?oc=5",
+      "published_at": "2026-11-10T06:59:40+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
-    },
-    {
-      "domain": "Sách",
-      "category": "books",
-      "title": "Is There Anything Left in the Dream of Cold Fusion?",
-      "summary": "Dig a little deeper and you’ll find a thriving research program with exotic atoms that won’t solve the energy crisis but stretches the boundaries of physics. The post Is There Anything Left in the Dream of Cold Fusion? first appeared on Quanta Magazine",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
-      "published_at": "2026-11-02T15:48:57+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 15
+      "score": 16
     }
   ],
   "themes": [
-    {
-      "id": "prices_energy",
-      "title": "Giá cả, lạm phát và năng lượng",
-      "status": "Mẫu hình cần kiểm chứng",
-      "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
-      "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
-      "evidence_count": 4,
-      "source_count": 4,
-      "source_note": "Có nhiều nguồn trong batch",
-      "evidence": [
-        {
-          "title": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues",
-          "published_at": "2026-11-09T05:47:49+00:00",
-          "summary": "‘It’s pretty obvious that there are all sorts of people making all sorts of comments,’ Murray Watt says after budget savings meeting Get our breaking news email , free app or daily news podcast The environment minister, Murray Watt , has urged ministers to stop undermining the treasurer, Jim Chalmers, as Labor struggles to sell its budget and looks to cut popular clean energy subsidies to help with the fight against inflation. Cabinet ministers met again on Monday to discuss potential budget sav"
-        },
-        {
-          "title": "SSI: Chứng khoán có thể tạo đáy ngắn hạn trong tháng này",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/ssi-chung-khoan-co-the-tao-day-ngan-han-trong-thang-nay-5142164.html",
-          "published_at": "2026-11-09T00:41:09+00:00",
-          "summary": "VN-Index được dự báo tạo đáy ngắn hạn trong tháng 11, nhờ định giá hấp dẫn, yếu tố mùa vụ và chuyển biến tích cực về lãi suất, tỷ giá."
-        },
-        {
-          "title": "Fuel price shock: Why developing economies are paying the most at the pump",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168738",
-          "published_at": "2026-11-04T12:00:00+00:00",
-          "summary": "When war shut the Strait of Hormuz in February, oil prices soared everywhere. But the pain at the pump has been far from equal, and the world’s developing economies are paying the heaviest price, according to a new report from UNCTAD, the UN trade and development agency."
-        },
-        {
-          "title": "Gold rises over 1% as softer oil prices ease inflation worries - Reuters",
-          "source": "Reuters via Google News",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5",
-          "published_at": "2026-11-09T03:01:00+00:00",
-          "summary": "Gold rises over 1% as softer oil prices ease inflation worries Reuters"
-        }
-      ]
-    },
     {
       "id": "ai_work",
       "title": "AI đi từ năng lực mô hình sang vận hành và công việc",
@@ -329,32 +289,32 @@
       "source_note": "Chỉ một nguồn xuất bản trong batch",
       "evidence": [
         {
-          "title": "Dual-Stream LLM-Guided Reward Design for Reject-Inference-Aware Reinforcement Learning in E-Commerce Payment Fraud Detection",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.08706",
-          "published_at": "2026-11-09T05:00:00+00:00",
-          "summary": "arXiv:2611.08706v1 Announce Type: new Abstract: Production fraud-detection models learn from a censored slice of their own traffic: transactions a legacy system blocked never receive fraud labels, so models train on a biased, approved-only distribution. We extend LLM-guided reward design, the framework of Qu et al. (2025) in which an LLM evolves the reward of a two-step REINFORCE fraud-blocking policy, to attack this reject-inference problem inside the reward. A single LLM designs a dual-stream "
+          "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
+          "source": "Hacker News AI Discussions",
+          "url": "https://news.ycombinator.com/item?id=50436636",
+          "published_at": "2026-11-10T06:00:48+00:00",
+          "summary": "Only an email so far, nothing official I could find. I figure if you didn't get this email you are ok. --- We are writing to inform you of a security incident at one of our vendors, Fireworks AI, that may impact you. For the latest on the Fireworks AI incident, see their official updates here. Following an investigation by the Notion security team, we have determined that your workspace, [...], was among the This email explains what happened, what data of yours might be affected, what we’re doin"
         },
         {
-          "title": "An Educated Guess: Deriving Statistically Aligned Gradient Estimates for Zeroth-Order Optimisation",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.08712",
-          "published_at": "2026-11-09T05:00:00+00:00",
-          "summary": "arXiv:2611.08712v1 Announce Type: new Abstract: As novel hardware architectures are explored for the purposes of machine learning, including neuromorphic chips, asynchronous systems, and ASICs, effective learning algorithms are highly desirable. While backpropagation is the standard for differentiation on standard hardware, its requirement for global synchrony and exact differentiability limits the exploration of exotic algorithms on non-traditional substrates and devices. Zeroth-order (ZO) opti"
+          "title": "Autonomous AI Agents Conduct End-to-End Research with Human Participants",
+          "source": "Hacker News AI Discussions",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76675",
+          "published_at": "2026-11-10T04:29:26+00:00",
+          "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76675 Comments URL: https://news.ycombinator.com/item?id=50436070 Points: 1 # Comments: 0"
         },
         {
-          "title": "Embedding Consistent Recurrent Neural Networks in Finite Element Simulations for Path-Dependent Damage Prediction",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.08494",
-          "published_at": "2026-11-09T05:00:00+00:00",
-          "summary": "arXiv:2611.08494v1 Announce Type: new Abstract: Capturing sheet-metal localisation physics with a trained surrogate inside a finite element (FEM) solver requires the surrogate to deliver consistent predictions irrespective of the solver's strain-increment count, which is difficult to control in non-linear explicit codes. We address this by re-implementing a trained recurrent neural network (RNN) damage criterion in Fortran and embed it as a live, increment-by-increment fracture criterion inside "
+          "title": "Hire AI Agents and Pay in Monero (XMR)",
+          "source": "Hacker News AI Discussions",
+          "url": "https://agents.monero.jobs",
+          "published_at": "2026-11-10T06:44:45+00:00",
+          "summary": "Article URL: https://agents.monero.jobs Comments URL: https://news.ycombinator.com/item?id=50436878 Points: 1 # Comments: 0"
         },
         {
-          "title": "Does Country Matter? Evaluating Geographic Sensitivity of Large Language Models in Zero-Shot Chronic Kidney Disease Screening",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.08507",
-          "published_at": "2026-11-09T05:00:00+00:00",
-          "summary": "arXiv:2611.08507v1 Announce Type: new Abstract: Large language models (LLMs) show strong zero-shot reasoning capabilities, yet their sensitivity to prompt context raises questions about reliability in deployment. This study investigates whether geographic context embedded in prompts influences LLM-based chronic kidney disease (CKD) screening, independent of any change in patient features. Using a community-based CKD dataset from Bangladesh (284 participants with 112 CKD and 172 non-CKD), we syst"
+          "title": "We're launching an in-game AI agent for WoW",
+          "source": "Hacker News AI Discussions",
+          "url": "https://willocompanion.com/",
+          "published_at": "2026-11-10T06:44:05+00:00",
+          "summary": "Article URL: https://willocompanion.com/ Comments URL: https://news.ycombinator.com/item?id=50436869 Points: 1 # Comments: 1"
         }
       ]
     },
@@ -365,36 +325,36 @@
       "reading": "Các diễn biến chính trị và thương mại có thể ảnh hưởng đến vận tải, giá đầu vào hoặc quyết định đầu tư. Chưa thể suy ra tác động tới Việt Nam nếu chưa biết tuyến hàng, mặt hàng và mức độ phơi nhiễm.",
       "falsifier": "Bác bỏ nếu chưa có thay đổi chính sách/luồng hàng thực tế hoặc mặt hàng liên quan không gắn với Việt Nam.",
       "evidence_count": 4,
-      "source_count": 2,
+      "source_count": 3,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Rethinking Data Selection as Distribution Matching on Semantic Manifolds",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.08495",
-          "published_at": "2026-11-09T05:00:00+00:00",
-          "summary": "arXiv:2611.08495v1 Announce Type: new Abstract: Instruction tuning of large language models and large vision language models relies on massive training data, which incurs substantial computational and storage costs. Meanwhile, training data often contains redundancy, noise, and low quality samples. Existing data selection methods mostly rely on diversity, importance, or a combination of both, without explicitly constraining the distributional consistency between the selected subset and the full "
+          "title": "One Nation dumps Victorian election candidate who praised Adolf Hitler as ‘GOAT’",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/10/one-nation-dumps-franco-guardiani-praised-hitler-victoria-elections-ntwnfb",
+          "published_at": "2026-11-10T04:44:32+00:00",
+          "summary": "Party disendorses Preston candidate Franco Guardiani after social media posts emerge Get our breaking news email , free app or daily news podcast One Nation Victoria has disendorsed a candidate whose private social media account described Adolf Hitler as the “GOAT” and claimed that “importing Islam is making pedophilia legal”. In a now-deleted social media post, the party’s candidate for Preston, Franco Guardiani, commented on a social media post on X asking people to: “Describe Hitler in one wo"
         },
         {
-          "title": "PINNeval: A Comprehensive Evaluation Standard for Physics-Informed Neural Networks",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.08559",
-          "published_at": "2026-11-09T05:00:00+00:00",
-          "summary": "arXiv:2611.08559v1 Announce Type: new Abstract: The Physics-Informed Neural Network (PINN) literature has produced a rapidly expanding catalogue of methods. We divide a PINN training pipeline systematically into four components and observe that many existing benchmarks study these components in isolation. These components are domain-importance adaptation, loss balancing, neural network architecture, and optimization scheme. Moreover, the studies set the surrounding and not considered components "
-        },
-        {
-          "title": "Erdoğan joins Aliyev for Azerbaijan’s Victory Day in Karabakh",
+          "title": "Republican lawmaker launches eight articles of impeachment against US Defence chief Hegseth",
           "source": "Euronews",
-          "url": "https://www.euronews.com/2026/11/08/erdogan-joins-aliyev-for-azerbaijans-victory-day-in-karabakh",
-          "published_at": "2026-11-08T17:11:05+00:00",
-          "summary": "Azerbaijan celebrated on Sunday its sixth Victory Day, marking the end of the Karabakh war. Turkey's Erdoğan joined the commemorations to underscore the strength of bilateral ties despite recent differences, with Aliyev declaring that \"this unity will last forever\"."
+          "url": "https://www.euronews.com/2026/11/10/republican-lawmaker-launched-eight-articles-of-impeachment-against-us-defence-chief-hegset",
+          "published_at": "2026-11-10T05:28:13+00:00",
+          "summary": "Republican Kentucky congressman Thomas Massie introduced eight articles of impeachment against US Defense Secretary Pete Hegseth, including alleged violations of the 1973 War Powers Resolution, as well as misconduct involving civilian casualties and operations in Yemen and Venezuela."
         },
         {
-          "title": "Netherlands: Sea of red fills Amsterdam streets in Gaza protest",
+          "title": "Latest news bulletin | November 10th, 2026 – Morning",
           "source": "Euronews",
-          "url": "https://www.euronews.com/video/2026/11/08/netherlands-sea-of-red-fills-amsterdam-streets-in-gaza-protest",
-          "published_at": "2026-11-08T22:18:56+00:00",
-          "summary": "Tens of thousands of people, many dressed in red, marched through Amsterdam in the Netherlands on Sunday 8 November, demanding that the Dutch government take stronger action against Israel over the war in Gaza."
+          "url": "https://www.euronews.com/video/2026/11/10/latest-news-bulletin-november-10th-2026-morning",
+          "published_at": "2026-11-10T06:00:32+00:00",
+          "summary": "Catch up with the most important stories from around Europe and beyond this November 10th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel."
+        },
+        {
+          "title": "Iran war oil shock drives dip in global emissions, study shows",
+          "source": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/iran-war-oil-shock-drives-dip-in-global-emissions-study-shows/a-79905937?maca=en-rss-en-all-1573-xml-mrss",
+          "published_at": "2026-11-10T03:58:00+00:00",
+          "summary": "Global carbon emissions are expected to fall slightly in 2026, but not because of major progress on climate action. Instead, it's high energy prices following the US attack on Iran that's driving the trend."
         }
       ]
     },
@@ -404,30 +364,23 @@
       "status": "Mẫu hình cần kiểm chứng",
       "reading": "Chỉ đáng nâng thành tín hiệu khi có văn bản hoặc số liệu gốc, phạm vi áp dụng và nhóm chịu tác động xác định được. Tin kinh doanh đơn lẻ chưa đủ để kết luận xu hướng kinh tế Việt Nam.",
       "falsifier": "Bác bỏ nếu không có văn bản/số liệu gốc hoặc nội dung không tạo thay đổi đáng kể với doanh nghiệp.",
-      "evidence_count": 3,
+      "evidence_count": 2,
       "source_count": 1,
       "source_note": "Chỉ một nguồn xuất bản trong batch",
       "evidence": [
         {
-          "title": "Trung Quốc tiếp tục hoãn áp thuế trả đũa Mỹ",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/trung-quoc-tiep-tuc-hoan-ap-thue-tra-dua-my-5142393.html",
-          "published_at": "2026-11-09T05:09:18+00:00",
-          "summary": "Trung Quốc thông báo gia hạn thêm 2 tháng việc hoãn áp thuế 24% trả đũa Mỹ, để thực hiện đồng thuận sau cuộc gặp thượng đỉnh tháng 9."
+          "title": "Đại biểu: Game, phim, nhạc phải là mũi nhọn công nghiệp văn hóa",
+          "source": "VnExpress Thời sự",
+          "url": "https://vnexpress.net/dai-bieu-game-phim-nhac-phai-la-mui-nhon-cong-nghiep-van-hoa-5142732.html",
+          "published_at": "2026-11-10T02:47:00+00:00",
+          "summary": "Đại biểu Lê Hoàng Anh đề xuất tập trung nguồn lực phát triển game, điện ảnh và âm nhạc thành ba mũi nhọn công nghiệp văn hóa, thay vì đầu tư dàn trải vào 10 nhóm ngành."
         },
         {
-          "title": "SSI: Chứng khoán có thể tạo đáy ngắn hạn trong tháng này",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/ssi-chung-khoan-co-the-tao-day-ngan-han-trong-thang-nay-5142164.html",
-          "published_at": "2026-11-09T00:41:09+00:00",
-          "summary": "VN-Index được dự báo tạo đáy ngắn hạn trong tháng 11, nhờ định giá hấp dẫn, yếu tố mùa vụ và chuyển biến tích cực về lãi suất, tỷ giá."
-        },
-        {
-          "title": "Quan chức Fed cân nhắc tăng lãi sau báo cáo việc làm khả quan",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/quan-chuc-fed-can-nhac-tang-lai-sau-bao-cao-viec-lam-kha-quan-5141851.html",
-          "published_at": "2026-11-07T06:00:22+00:00",
-          "summary": "Báo cáo việc làm tháng 10 mạnh hơn dự kiến, nhưng lương không theo kịp lạm phát, càng khiến quan chức Fed có thêm dư địa tăng lãi suất."
+          "title": "Cao tốc băng núi rừng kết nối Buôn Ma Thuột với Nha Trang",
+          "source": "VnExpress Thời sự",
+          "url": "https://vnexpress.net/cao-toc-bang-nui-rung-ket-noi-buon-ma-thuot-voi-nha-trang-5142237.html",
+          "published_at": "2026-11-09T23:00:00+00:00",
+          "summary": "Cao tốc Khánh Hòa - Buôn Ma Thuột dài hơn 117 km, vốn đầu tư 22.000 tỷ đồng, khi hoàn thành rút ngắn hành trình giữ thủ phủ cà phê với phố biển du lịch nổi tiếng miền Trung."
         }
       ]
     }
@@ -436,9 +389,9 @@
     {
       "category": "ai",
       "domain": "AI & công nghệ",
-      "items": 40,
-      "usable": 40,
-      "sources": 6
+      "items": 37,
+      "usable": 37,
+      "sources": 8
     },
     {
       "category": "world",
@@ -450,9 +403,9 @@
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 18,
-      "usable": 18,
-      "sources": 3
+      "items": 10,
+      "usable": 10,
+      "sources": 2
     },
     {
       "category": "water",
@@ -464,104 +417,108 @@
     {
       "category": "football",
       "domain": "Arsenal & Premier League",
-      "items": 13,
-      "usable": 13,
-      "sources": 2
+      "items": 17,
+      "usable": 17,
+      "sources": 3
     },
     {
       "category": "books",
       "domain": "Sách",
-      "items": 4,
-      "usable": 4,
-      "sources": 4
+      "items": 9,
+      "usable": 9,
+      "sources": 3
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
-      "items": 10,
-      "usable": 10,
-      "sources": 3
+      "items": 8,
+      "usable": 8,
+      "sources": 4
     },
     {
       "category": "trends",
       "domain": "Google Trends",
-      "items": 0,
+      "items": 1,
       "usable": 0,
       "sources": 0
     }
   ],
   "links": [
     {
-      "a": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation",
-      "b": "Generative Reconstruction of Full-Field Sensor States for Safety-Critical Digital Twins",
+      "a": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+      "b": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
       "terms": [
-        "state",
-        "three"
+        "continue",
+        "face",
+        "reading"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation",
-      "b": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
+      "a": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+      "b": "Mortgage holders’ confidence crashes to lowest level since 1994 as year that ‘feels like a recession’ looms",
       "terms": [
-        "points",
-        "share",
-        "time"
+        "continue",
+        "reading"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Generative Reconstruction of Full-Field Sensor States for Safety-Critical Digital Twins",
-      "b": "It would mean the world to me to win Tiktok Food Creator of the Year, so if you have a moment please go and vote for me ❤️ Type ‘TikTok awards’ into the search bar, and then click on the banner where it says ‘vote for your favourite creator’. I’m in the food cre - TikTok",
+      "a": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+      "b": "Beau Lamarre-Condon admits entering Jesse Baird’s house when he wasn’t home and eating Easter egg, murder trial hears",
       "terms": [
-        "mean",
-        "type"
+        "continue",
+        "daily",
+        "email",
+        "free",
+        "news",
+        "podcast"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Adaptive Depth Aggregation in Graph Transformers for Long-Range Graph Reasoning",
-      "b": "Brighton breeze past 10-man Brentford to move up to second",
+      "a": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
+      "b": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
       "terms": [
-        "long",
-        "range"
+        "help",
+        "impact"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
-      "b": "Is There Anything Left in the Dream of Cold Fusion?",
+      "a": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
+      "b": "Mortgage holders’ confidence crashes to lowest level since 1994 as year that ‘feels like a recession’ looms",
       "terms": [
-        "energy",
-        "there"
+        "among",
+        "latest"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Bộ trưởng Nội vụ: Đã bổ sung ngày nghỉ lễ 27/7 vào dự luật",
-      "b": "Ngân sách dự thu hơn 775.000 tỷ đồng từ nhà, đất năm sau",
+      "a": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
+      "b": "@taylenbiggs asked me what I'd tell every young creator. And a few years later, my answer hasn't changed: know who you are, own your strengths, and run with everything you've got. Reposting because somebody's kid needs to hear this today. DJ - TikTok",
       "terms": [
-        "2027",
-        "lương",
-        "sách"
+        "tell",
+        "your"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Bộ trưởng Nội vụ: Đã bổ sung ngày nghỉ lễ 27/7 vào dự luật",
-      "b": "Ông Trump thừa nhận chính sách siết nhập cư 'quá cứng rắn'",
+      "a": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
+      "b": "Chelsea staff warned over Fantasy Premier League use",
       "terms": [
-        "sách",
-        "xuất"
+        "been",
+        "team",
+        "through"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Ngân sách dự thu hơn 775.000 tỷ đồng từ nhà, đất năm sau",
-      "b": "Khởi công cải tạo rạch Văn Thánh ở trung tâm TP HCM",
+      "a": "Mortgage holders’ confidence crashes to lowest level since 1994 as year that ‘feels like a recession’ looms",
+      "b": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
       "terms": [
-        "chỉnh",
-        "đồng"
+        "since",
+        "year"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }

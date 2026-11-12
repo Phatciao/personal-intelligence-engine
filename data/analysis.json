@@ -1,34 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T06:20:05.591796+00:00",
-  "input_generated_at": "2026-11-11T06:20:05.534050+00:00",
+  "generated_at": "2026-11-12T07:11:00.126196+00:00",
+  "input_generated_at": "2026-11-12T07:11:00.070396+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
   "items_after_dedup": 150,
   "signals": [
     {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
-      "summary": "arXiv:2611.12940v1 Announce Type: new Abstract: Reinforcement Learning has achieved tremendous success in recent years. Extending its scope from the traditional complex games such as Atari, Go, Pokeman, and Chess, reinforcement learning has caught researchers' attention on modelling real-life scenarios. Personalized medicine and the dynamic treatment regimen are two such preliminary research fields; researchers are focusing their mindsets currently. Estimating the optimal dynamic treatment regimens from the observational real clinical data is being popularized among the researchers, widening its scope towards more advanced versions of reinforcement learning algorithms. This research is about a research study that focused on reinforcement learning techniques that have been approached in the context of cancer chemotherapy treatments. Primarily this thesis addresses the result of the study by means of the state-of-the-art on reinforcement learning techniques used in generating the optimal policy for sequential treatments, including the existing online reinforcement learning approaches. Thereby a simulation for cancer chemotherapy via traditional Q-learning would be presented. Secondly",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2611.12940",
-      "published_at": "2026-11-11T05:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
-      "summary": "arXiv:2611.12942v1 Announce Type: new Abstract: Tabular foundation models (TFMs) predict from a labelled context in a single forward pass. A recent benchmark reported that they decisively outperform tree ensembles for customer churn, but it compared them with untuned gradient-boosted trees (GBDTs) and scored only ranking metrics, while a retention campaign is judged in money. We re-evaluate TabPFN-2.5, TabPFN-3.5, TabPFN-3.5-Fast and TabICL v2 against Optuna-tuned GBDTs on five public telecom churn datasets over 10 seeded splits. We separate three questions: whether a model ranks churners well, whether that ranking earns more expected maximum profit (EMP), and whether its probabilities can drive a threshold policy. With a split-aware test and Holm correction over 20 pre-declared comparisons, TabPFN-3.5 earns significantly more EMP than the best tuned GBDT on Cell2Cell (1.9%) and Iranian (7.6%), and these two gains also hold against each of the three tuned GBDTs separately. On Orange it is ahead in all 10 splits (14.3%), but the gain is not significant after correction (Holm p = 0.155). The splits resample the same datasets, so these results do not stand for independent operators. T",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2611.12942",
-      "published_at": "2026-11-11T05:00:00+00:00",
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+      "summary": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang Good morning. Espionage is supposed to be a secretive business, and spies are supposed to be virtually invisible. That hasn’t been the case for Alice Huang, the mysterious Shanghai executive who formed a romantic relationship with Jensen Huang, the founder of Nvidia, one of America’s most powerful tech companies. Many questions have arisen since it emerged that US intelligence believes that Huang (no relation of Jensen’s) is an asset recruited by the Chinese intelligence services to spy on behalf of Beijing. This morning’s newsletter explains what we know about the story, and what it tells us about the effectiveness of Chinese espionage. That’s after the headlines. UK | Ministers are considering changing the law to force the entertainment industry to better protect women and children in the wake of the revelations over David Walliams and the conviction of Russell Brand. Climate | The UK government has appointed the world’s first special representative for climate sec",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
+      "published_at": "2026-11-12T06:43:31+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -39,11 +24,26 @@
     {
       "domain": "AI & công nghệ",
       "category": "ai",
-      "title": "Embodied Science Agents: Making Embodied Experimental Design Learnable",
-      "summary": "arXiv:2611.12958v1 Announce Type: new Abstract: Recent advances in large models have accelerated AI for Science toward agentic science, where AI agents autonomously conduct scientific discovery. Realising this vision requires closing the loop between computational reasoning and physical experimentation, positioning self-driving laboratories (SDLs) as critical enablers. However, existing SDLs exhibit a fundamental paradox: foundation model integration has increased linguistic sophistication while severing physical grounding. By treating models as disembodied planners that output symbolic workflows for separate robotic systems, current architectures inherently block the development of embodied experimental intuition. We argue that overcoming this paradox requires embedding \\emph{learnability} along three interdependent axes: cognitive learnability (learning what to investigate), experimental learnability (learning where to search), and embodied learnability (learning how to act). Building on this view, we introduce the Embodied Science Agent (ESA), which unifies digital intelligence with physical embodiment through three synergistic components: a Digital Agent that provides cognitive",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2611.12958",
-      "published_at": "2026-11-11T05:00:00+00:00",
+      "title": "Show HN: Lynx – open-source fully-customizable AI workspace",
+      "summary": "I was finding that managing multiple agent threads with walls of text was getting tiring and inefficient for me and that I wanted a more visual way to interact with my agents, so I built Lynx. Lynx lets you quickly build fully custom interfaces connected to your data sources (e.g. via MCP or API) and trigger agents running on your machine from them (e.g. with Claude Code or Codex). I built it as an experiment but have found myself doing 80-90% of my work from inside Lynx. I have my own Conductor-like workspace for coding, a Mail client, a workspace for my writing, and various others for dashboards and explorations. A few things are really cool about it: - Adding buttons to a UI that trigger a Claude Code agent running on my machine (e.g. to review a PR, get started on a task from Linear, or look for typos in my text) - Iterating on the interfaces is really easy, particularly because of a point tool that let's you select what you want changed and an agent will update it live - Switching between workspaces takes a fraction of a second (much faster than e.g. switching between websites) - It's all local :) Harnesses have been moving towards native support for artifacts and MCP-UI which",
+      "source": "Hacker News AI Discussions",
+      "url": "https://github.com/yakkomajuri/lynx",
+      "published_at": "2026-11-12T01:26:11+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Show HN: I built a AI acne coach that helps find root cause of your acne",
+      "summary": "I’ve had acne for 10 years and I'm so exhausted of dont know what happened. So, I'm building AcneAlly to learn you overtime to figure out what's causing your acne, and to give personalized support. Instead of tracking your skin or logging daily habits, you can just talk or interact with it like a companion. You can share about your acne, share your concerns, or ask anything you want. Based on what you share, it uses Al to reasoning to make guesses about what could be causing your acne. As you share more, it update it understanding abt you, its guesses abt the cause and it suggestions. This is an early version, and there's still a lot to improve. I'd love to hear your feedback! Thanks for checking it out! Comments URL: https://news.ycombinator.com/item?id=50460717 Points: 2 # Comments: 0",
+      "source": "Hacker News AI Discussions",
+      "url": "https://acneally.vercel.app",
+      "published_at": "2026-11-11T23:49:11+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -54,41 +54,11 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Youpla directors disqualified over collapsed funeral fund that targeted Aboriginal families",
-      "summary": "Three directors were fined a combined $90,000 in federal court judgment and disqualified from managing a corporation for between five and 10 years Get our breaking news email , free app or daily news podcast Three directors of a collapsed funeral fund that marketed insurance to Aboriginal families have been banned from managing corporations for at least five years and ordered to pay a combined $90,000 after being found to have breached their duties to clients. On Wednesday, federal court justice Geoffrey Kennett ordered the former director of the insurance company Youpla Group, previously the Aboriginal Community Benefit Fund (ACBF), Jonathan Law, to pay the commonwealth $50,000 and disqualified him from managing corporations for six years. Continue reading...",
+      "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
+      "summary": "Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cuts Entry-level jobs will be the first to be automated due to AI, but it could mean fewer hours and higher wages for ordinary workers – or make jobs tougher with more burnout and workplace surveillance - the government has warned employers. While major companies like Qantas and Canva slash their workforces in restructures spurred by AI changes, workplace relations minister Amanda Rishworth said employers must give workers “a clear plan” about how automation could affect their jobs, and the opportunity to move into new roles. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/11/youpla-directors-disqualified-over-collapsed-funeral-fund-that-targeted-aboriginal-families-ntwnfb",
-      "published_at": "2026-11-11T04:55:28+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "Underworld figure Mick Gatto gave CFMEU official gold bracelet after construction site assault, Big Build royal commission told",
-      "summary": "Former CFMEU official Paul Tzimas tells inquiry he suffered fractured ankle and a colleague was left with major injuries and severe PTSD Get our breaking news email , free app or daily news podcast A former CFMEU official has told a royal commission that underworld figure Mick Gatto attended a meeting that was called after the union official and a colleague were seriously assaulted at a construction site, claiming the underworld figure later offered him a gold bracelet. Paul Tzimas is the first witness associated with the Construction, Forestry and Maritime Employees Union to appear before the royal commission into the integrity of major public and civil infrastructure construction projects in Victoria. Continue reading...",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/11/mick-gatto-cfmeu-big-build-royal-commission-ntwnfb",
-      "published_at": "2026-11-11T03:07:14+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 36
-    },
-    {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "Labor won’t scrap ABC and SBS ombudsmen in favour of external body as suggested by antisemitism envoy",
-      "summary": "Exclusive : Jillian Segal suggested ‘transferring’ powers in updated report released a fortnight ago but government sources note media regulator already exists Get our breaking news email , free app or daily news podcast The Albanese government won’t follow a suggestion by the antisemitism envoy to scrap the ABC and SBS ombudsmen and replace them with an external oversight body. In a list of updated priorities released last month, Segal proposed an “external independent ombudsman” to monitor ABC and SBS coverage of the war in Gaza and to ensure publicly funded broadcasters were “held accountable to their own stated standards of accuracy and impartiality”. Continue reading...",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/media/2026/nov/11/labor-abc-sbs-ombudsmen-antisemitism-envoy-gaza-coverage-ntwnfb",
-      "published_at": "2026-11-11T03:10:37+00:00",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
+      "published_at": "2026-11-12T06:55:44+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -97,58 +67,43 @@
       "score": 34
     },
     {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "I think some of the most interesting storytelling in the MCU has come from projects that dared to do something completely different. WandaVision, Agatha All Along and VisionQuest are exactly why I’m still invested in this universe. As a filmmaker, seeing Marvel - TikTok",
-      "summary": "I think some of the most interesting storytelling in the MCU has come from projects that dared to do something completely different. WandaVision, Agatha All Along and VisionQuest are exactly why I’m still invested in this universe. As a filmmaker, seeing Marvel TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nMzNjQXd3dldnN1I5dk1LQ1hWcl9FeV9LeHp3c2R1ZVpDUXhGcjJ0QnNuaUlhcXlyZW42TE1iZTlXZ3BEVVdTMmp3ZVU5ZW9XeWRoMzZPenNlTm5vN3RUVXJReExWZzNyaUpV?oc=5",
-      "published_at": "2026-11-11T05:12:53+00:00",
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "Teenager in critical condition after likely ‘train surfing’ on Sydney Harbour Bridge, police say",
+      "summary": "‘You just don’t mess or play with a 400-tonne train’, Sydney Trains says as 17-year-old suffers multiple injuries to head, chest and pelvis Get our breaking news email , free app or daily news podcast A 17-year-old boy is in a critical condition after falling from the outside of a train on the Sydney Harbour Bridge while he was likely train surfing, NSW police say. Around 11.30am on Thursday, emergency services were called to the railway corridor between Wynyard and Milsons Point train stations following reports someone had fallen from a northbound Tangara train onto the tracks on the bridge. Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/12/teenager-in-critical-condition-after-likely-train-surfing-on-sydney-harbour-bridge-police-say",
+      "published_at": "2026-11-12T06:09:21+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
+      "score": 32
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "What benefit does a San Francisco HQ offer if you are not a frontier AI lab?",
+      "summary": "I am struggling to see the benefit of basing your startup in SF if you are not a frontier AI lab? It seems to me that the talent quality outside of these frontier labs and associated companies (companies founded by alumni) may fundamentally be no better than anywhere else in the world, but demand twice as much as the \"SF premium\" only to leave after 6 months for the next big startup. Because of this, I could probably get more bang for my buck starting my company in another tech hub, such as LA, London, Berlin or Tallinn? Comments URL: https://news.ycombinator.com/item?id=50463705 Points: 1 # Comments: 6",
+      "source": "Hacker News AI Discussions",
+      "url": "https://news.ycombinator.com/item?id=50463705",
+      "published_at": "2026-11-12T06:21:23+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 32
     },
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "What a day! I tested Gemini 4 Carbon on real work. 2 repos, 105 replanted bugs. Find and fix what you can. It scores just behind Fable 5.2. The results: - Fable 5.2 (max): 58 for $139.65 - Gemini 4 Carbon (high): 57.3 for $31.32 - Sonnet 5.5 (max): 51.3 for $154 - X",
-      "summary": "What a day! I tested Gemini 4 Carbon on real work. 2 repos, 105 replanted bugs. Find and fix what you can. It scores just behind Fable 5.2. The results: - Fable 5.2 (max): 58 for $139.65 - Gemini 4 Carbon (high): 57.3 for $31.32 - Sonnet 5.5 (max): 51.3 for $154 X",
+      "title": "🇰🇷 T1 HAVE OFFICIALLY ANNOUNCED THE BLOCKBUSTER SIGNING OF 🇨🇦 TENZ TO THEIR VALORANT ROSTER Having previously joined T1 as a content creator, TenZ is now coming out of retirement to make his competitive return for the VCT 2027 se - X",
+      "summary": "🇰🇷 T1 HAVE OFFICIALLY ANNOUNCED THE BLOCKBUSTER SIGNING OF 🇨🇦 TENZ TO THEIR VALORANT ROSTER Having previously joined T1 as a content creator, TenZ is now coming out of retirement to make his competitive return for the VCT 2027 se X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LWkZwREdGYjFiYTltTVpXY01NM29PbkIzd19kMjN6eHI1TkdUUFNwQUZRYzZwMnhTSnpQUVloWjFYa19INFcxMHhlWlZIS0tkNjdGZk9vZml1enozZ2NTYw?oc=5",
-      "published_at": "2026-11-10T22:31:45+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "The Catapult Film Room is great for for getting more access to coaches film for people, but if you are a content creator and already have a good source for college All-22 you probably are going to want to just stick with that. No Big 10 or Big 12 teams but the wor - X",
-      "summary": "The Catapult Film Room is great for for getting more access to coaches film for people, but if you are a content creator and already have a good source for college All-22 you probably are going to want to just stick with that. No Big 10 or Big 12 teams but the wor X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwRnM5Vl83Z1lyUEVuODdPZElvMGNWMy1xSmtrMG5OTGNDaEg1aDdkdWR4V1VjS25vcWVFVjVVX21PcGVLUGtuYzlMeW5rcnluSjhnUnN3UmhRU0ZiNnM4REdBeUE?oc=5",
-      "published_at": "2026-11-10T21:45:21+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
-      "summary": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus more.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T23:08:35+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WbEgyZ1hkbmRaOS0yeHRfb0h0dGVtdDJFbDlLajh3WUcycW43RjZpYW1JVjlTdUw4eGtvWmlWcFdYUlEzQWdZNmFYc1VCTXQzbFU3WF9wbUF1SXpJSTFj?oc=5",
+      "published_at": "2026-11-12T03:06:27+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -159,11 +114,11 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Pocognoli to lean on Scotland's 'captain group of five'",
-      "summary": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T20:49:11+00:00",
+      "title": "Wael Mohya could make German football history at 17",
+      "summary": "At just 17, Gladbach forward Wael Mohya has earned his first Germany call-up. The dual-national talent has chosen the DFB path for now — and could soon make modern national-team history.",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/wael-mohya-could-make-german-football-history-at-17/a-79919787?maca=en-rss-en-all-1573-xml-mrss",
+      "published_at": "2026-11-11T15:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -174,11 +129,56 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Đề xuất ưu đãi thuế với tàu thuyền không người lái",
-      "summary": "Chính phủ đề xuất ưu đãi thuế cho tổ chức, cá nhân đóng mới, hoán cải tàu không người lái; miễn thuế thu nhập doanh nghiệp 5 năm với các dự án chuyển đổi xanh trong lĩnh vực hàng hải, đường thủy.",
+      "title": "Bộ trưởng Khoa học và Công nghệ Vũ Hải Quân tiếp tục trả lời chất vấn",
+      "summary": "Từ 14h đến 15h20, Bộ trưởng Bộ Khoa học và Công nghệ Vũ Hải Quân tiếp tục trả lời chất vấn đại biểu Quốc hội về kết quả thực hiện Nghị quyết 57, chuyển đổi số và ứng dụng trí tuệ nhân tạo.",
       "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/de-xuat-uu-dai-thue-voi-tau-thuyen-khong-nguoi-lai-5143201.html",
-      "published_at": "2026-11-11T03:14:45+00:00",
+      "url": "https://vnexpress.net/bo-truong-khoa-hoc-va-cong-nghe-vu-hai-quan-tiep-tuc-tra-loi-chat-van-5143668.html",
+      "published_at": "2026-11-12T07:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "CEO Krungsri: Việt Nam thuộc nhóm nền kinh tế triển vọng nhất ASEAN",
+      "summary": "Tổng giám đốc Krungsri đánh giá Việt Nam là một trong những nền kinh tế năng động, nhiều triển vọng nhất ASEAN, đồng thời khẳng định cam kết đầu tư dài hạn tại Việt Nam thông qua SFinance.",
+      "source": "VnExpress Kinh doanh",
+      "url": "https://vnexpress.net/ceo-krungsri-viet-nam-thuoc-nhom-nen-kinh-te-trien-vong-nhat-asean-5143749.html",
+      "published_at": "2026-11-12T07:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Hà Nội dự kiến điều chuyển xe khách từ Nước Ngầm, Giáp Bát về bến xe Yên Sở",
+      "summary": "Hà Nội vừa thông báo đến Sở Xây dựng 17 tỉnh, thành phố phối hợp đề nghị doanh nghiệp nghiên cứu đăng ký chuyển một phần tuyến xe khách cố định từ bến xe Giáp Bát, Nước Ngầm về Yên Sở.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/ha-noi-du-kien-dieu-chuyen-xe-khach-tu-nuoc-ngam-giap-bat-ve-ben-xe-yen-so-5143664.html",
+      "published_at": "2026-11-12T02:38:41+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "Bộ trưởng Khoa học và Công nghệ: Từng đồng ngân sách phải được sử dụng hiệu quả",
+      "summary": "Bộ trưởng Vũ Hải Quân khẳng định quyết tâm tháo gỡ vướng mắc, đẩy nhanh phân bổ, giải ngân kinh phí khoa học công nghệ, đồng thời bảo đảm từng đồng ngân sách được sử dụng hiệu quả.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/bo-truong-vu-hai-quan-tra-loi-chat-van-5143663-tong-thuat.html",
+      "published_at": "2026-11-12T03:28:01+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -189,11 +189,11 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Chelsea play out goalless draw with Hacken",
-      "summary": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition.",
+      "title": "How 'Barca way' continues despite big-name exits",
+      "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T20:07:12+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T06:41:09+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -202,13 +202,13 @@
       "score": 17
     },
     {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Bộ trưởng Nội vụ: Nhiều xã chưa có công chức chuyên trách tiếp dân",
-      "summary": "Trong 22 địa phương báo cáo, gần 48% số xã chưa bố trí công chức chuyên trách tiếp dân, giải quyết khiếu nại, tố cáo, theo Bộ trưởng Nội vụ Nguyễn Tiến Hải.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/bo-truong-noi-vu-nhieu-xa-chua-co-cong-chuc-chuyen-trach-tiep-dan-5143330.html",
-      "published_at": "2026-11-11T05:34:45+00:00",
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Our producer Emma tracked down the mastermind behind Mississippi Senator-elect Scott Colom’s viral “Pick Another Protein” ad, content creator Ryan Sayles. - X",
+      "summary": "Our producer Emma tracked down the mastermind behind Mississippi Senator-elect Scott Colom’s viral “Pick Another Protein” ad, content creator Ryan Sayles. X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nU3B2cVR2dnFRbkVrZ1VqeEZiN1ZKcnY1ekhXMTdxZExrUXlHWHBZaHlJXzlubXU4OEt1UXRxdWluNmF5U0VqR2UyWG1FeU9aNmUzLVpJck5ZWXJ1bmRhNlpmdw?oc=5",
+      "published_at": "2026-11-11T23:59:36+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -217,13 +217,13 @@
       "score": 17
     },
     {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "'Phát triển du lịch không thể chỉ dựa vào các khu nghỉ dưỡng'",
-      "summary": "Đại biểu Đặng Ngọc Huy cho rằng du lịch không thể chỉ phát triển trong các khu nghỉ dưỡng mà phải tạo thêm việc làm, thu nhập và lợi ích thiết thực cho người dân địa phương.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/phat-trien-du-lich-khong-the-chi-dua-vao-cac-khu-nghi-duong-5143293.html",
-      "published_at": "2026-11-11T04:42:17+00:00",
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Why ‘patient influencers’ should come with a health warning",
+      "summary": "People who share their health experiences usually mean well. But their posts could be shaping your symptoms and identity - by Zoe Cunniffe Read on Psyche",
+      "source": "Psyche",
+      "url": "https://psyche.co/ideas/why-patient-influencers-should-come-with-a-health-warning",
+      "published_at": "2026-11-11T11:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -232,19 +232,19 @@
       "score": 17
     },
     {
-      "domain": "Sách",
-      "category": "books",
-      "title": "Booker Prize 2026: All 28 award winning books from the 2000s - including The End of Everything - The Scotsman",
-      "summary": "Booker Prize 2026: All 28 award winning books from the 2000s - including The End of Everything The Scotsman",
-      "source": "Google News International Book Awards",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQURnWFRHSUNlbUEtTkg0RVR1M2NaaDBfbVFrUUgtOHJyWnE1LXdPRW5xSVRDMzlmLXR5RVZTektTV3lseU0yQ040X2dLSlJKUEJSeHB5UWxuMUxhVG9RRVkzcElraElPZTI3UnhKUDRUa0hMWm03U1hxZHp1ZUw0c3dQYV9QOFZyYThqMFRid2UtZ3c?oc=5",
-      "published_at": "2026-11-10T16:45:00+00:00",
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Liverpool incorrectly denied penalty for Jurrien Timber pull on Alexander Isak vs Arsenal, rules independent panel - Sky Sports",
+      "summary": "Liverpool incorrectly denied penalty for Jurrien Timber pull on Alexander Isak vs Arsenal, rules independent panel Sky Sports",
+      "source": "Google News Premier League",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNX0owa3plNEpnU1Y1eWdqd2dyUTNseHIxb0FfUUlfYmQ5T2lTam9UbFFfQkdnRTRYOU5wcHZZOGo5NjVwa3FFV1JfcmRiS1dRelpyOTNXckhTU01DTTNQS195VGUyR0hjaWtxOWl5c1lRUHVrWG5Fc3pxNWJlcXhuX21GcU5UeEcyd0NKWkUwdTgwajE2WF9fQVhCaWItTlMzcldZMVVlb3I4MHlHemEyalFsWkxMLVFmNFpUdm9IbXY0bk4taXlOdnZ3Rllscll2eDdNNlJZMnU0Yzg0T3Z2M1BfR1RSc2VMY2NUZW93TTB2N3dl?oc=5",
+      "published_at": "2026-11-12T06:33:45+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 15
+      "score": 16
     },
     {
       "domain": "Sách",
@@ -264,82 +264,42 @@
   ],
   "themes": [
     {
-      "id": "prices_energy",
-      "title": "Giá cả, lạm phát và năng lượng",
-      "status": "Mẫu hình cần kiểm chứng",
-      "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
-      "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
-      "evidence_count": 4,
-      "source_count": 3,
-      "source_note": "Có nhiều nguồn trong batch",
-      "evidence": [
-        {
-          "title": "Markets fluctuate as US rate worries temper tech bounce",
-          "source": "Euronews",
-          "url": "https://www.euronews.com/2026/11/11/markets-fluctuate-as-us-rate-worries-temper-tech-bounce",
-          "published_at": "2026-11-11T06:15:02+00:00",
-          "summary": "Ahead of European markets opening on Wednesday, Asian stocks diverged as renewed optimism over the AI trade was offset by forecast-topping US inflation data and the prospect of a bumper interest rate hike next month."
-        },
-        {
-          "title": "Khí thải từ nhiên liệu hóa thạch giảm do xung đột Trung Đông",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/khi-thai-tu-nhien-lieu-hoa-thach-giam-do-xung-dot-trung-dong-5143196.html",
-          "published_at": "2026-11-11T02:35:48+00:00",
-          "summary": "Khí thải toàn cầu từ nhiên liệu hóa thạch dự kiến giảm 0,4%, còn 38,2 tỷ tấn CO2, do khủng hoảng năng lượng từ xung đột Trung Đông làm giảm lượng tiêu thụ."
-        },
-        {
-          "title": "Giá vàng thế giới giảm mạnh, về sát 4.000 USD",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/gia-vang-the-gioi-giam-manh-ve-sat-4-000-usd-5143168.html",
-          "published_at": "2026-11-11T00:59:04+00:00",
-          "summary": "Mỗi ounce vàng có thời điểm mất gần 130 USD, sau khi Mỹ công bố số liệu lạm phát cao hơn dự kiến."
-        },
-        {
-          "title": "US inflation higher than expected in October - here's what is happening with prices",
-          "source": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-10T14:45:46+00:00",
-          "summary": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs."
-        }
-      ]
-    },
-    {
       "id": "ai_work",
       "title": "AI đi từ năng lực mô hình sang vận hành và công việc",
       "status": "Mẫu hình cần kiểm chứng",
       "reading": "Các bài về mô hình, suy luận và công việc có thể cho thấy AI đang được đánh giá theo chi phí triển khai và kết quả vận hành, không chỉ theo khả năng trình diễn. Cần phân biệt nghiên cứu thử nghiệm với sản phẩm đã được triển khai.",
       "falsifier": "Bác bỏ nếu bài chỉ mô tả nghiên cứu hoặc tuyên bố của doanh nghiệp mà không có kết quả triển khai độc lập.",
       "evidence_count": 4,
-      "source_count": 2,
+      "source_count": 3,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Embodied Science Agents: Making Embodied Experimental Design Learnable",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.12958",
-          "published_at": "2026-11-11T05:00:00+00:00",
-          "summary": "arXiv:2611.12958v1 Announce Type: new Abstract: Recent advances in large models have accelerated AI for Science toward agentic science, where AI agents autonomously conduct scientific discovery. Realising this vision requires closing the loop between computational reasoning and physical experimentation, positioning self-driving laboratories (SDLs) as critical enablers. However, existing SDLs exhibit a fundamental paradox: foundation model integration has increased linguistic sophistication while"
+          "title": "Show HN: Lynx – open-source fully-customizable AI workspace",
+          "source": "Hacker News AI Discussions",
+          "url": "https://github.com/yakkomajuri/lynx",
+          "published_at": "2026-11-12T01:26:11+00:00",
+          "summary": "I was finding that managing multiple agent threads with walls of text was getting tiring and inefficient for me and that I wanted a more visual way to interact with my agents, so I built Lynx. Lynx lets you quickly build fully custom interfaces connected to your data sources (e.g. via MCP or API) and trigger agents running on your machine from them (e.g. with Claude Code or Codex). I built it as an experiment but have found myself doing 80-90% of my work from inside Lynx. I have my own Conductor"
         },
         {
-          "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.12941",
-          "published_at": "2026-11-11T05:00:00+00:00",
-          "summary": "arXiv:2611.12941v1 Announce Type: new Abstract: The rapid proliferation of autonomously acting AI agents makes the governance of agentic systems urgent. We propose the competence circuit, summarized as IKC + KC + C, that decomposes an agent's real-world impact into three pathways: intelligence-mediated discovery, procedural know-how, and direct control. Using the canonical fast-takeoff debate as a stress test, we formalize the conditions for intelligence-mediated fast takeoff as a conjunction jo"
+          "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
+          "published_at": "2026-11-12T06:55:44+00:00",
+          "summary": "Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cuts Entry-level jobs will be the first to be automated due to AI, but it could mean fewer hours and higher wages for ordinary workers – or make jobs tougher with more burnout and workplace surveillance - the government has warned employers. While major companies like Qantas and Canva slash their workforces in restructures spurred by AI changes, workplace relations minister Amanda"
         },
         {
-          "title": "Agent Architecture Cost-Success Trade-offs: A Controlled Evaluation across Enterprise-Style SOPs",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.12953",
-          "published_at": "2026-11-11T05:00:00+00:00",
-          "summary": "arXiv:2611.12953v1 Announce Type: new Abstract: Enterprises increasingly use large language model agents to execute standard operating procedures (SOPs): long, branching, tool-intensive workflows. Yet there is little controlled evidence for choosing among competing agentic architectures. Holding the model, tasks, and tools fixed and varying only the architecture, we compare four designs (a function-calling single agent, a skill-augmented agent, centralized multi-agent orchestration, and a triage"
+          "title": "United won’t let your AI agent book your flight",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+          "published_at": "2026-11-11T21:54:21+00:00",
+          "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]"
         },
         {
-          "title": "ADIndex: Layer-Adaptive Sparse Attention Indexing via Group-Level Distillation",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.12956",
-          "published_at": "2026-11-11T05:00:00+00:00",
-          "summary": "arXiv:2611.12956v1 Announce Type: new Abstract: DeepSeek Sparse Attention (DSA) reduces the computational cost of attention through token-level selection. However, its indexer still scores the entire causal prefix for each query, making indexing a dominant source of latency in long-context inference. Notably, the indexer alone can account for more than 50% of total prefill GPU time at long context lengths. To address this bottleneck, we propose ADIndex, an Adaptive and Distillation-driven Indexi"
+          "title": "ChatGPT is getting verified AI ‘Business Agents’",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+          "published_at": "2026-11-10T16:34:41+00:00",
+          "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]"
         }
       ]
     },
@@ -350,36 +310,36 @@
       "reading": "Các diễn biến chính trị và thương mại có thể ảnh hưởng đến vận tải, giá đầu vào hoặc quyết định đầu tư. Chưa thể suy ra tác động tới Việt Nam nếu chưa biết tuyến hàng, mặt hàng và mức độ phơi nhiễm.",
       "falsifier": "Bác bỏ nếu chưa có thay đổi chính sách/luồng hàng thực tế hoặc mặt hàng liên quan không gắn với Việt Nam.",
       "evidence_count": 4,
-      "source_count": 3,
+      "source_count": 4,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "IIT Patna at \"ICPR 2026 TVRID Competition on Privacy-Preserving Person Re-Identification from Top-View RGB-Depth Camera\"",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.12960",
-          "published_at": "2026-11-11T05:00:00+00:00",
-          "summary": "arXiv:2611.12960v1 Announce Type: new Abstract: Privacy-aware person re-identification (Re-ID) from top-view cameras replaces frontal appearance with anthropometric shape, while depth sensing further reduces color-based identity cues. The ICPR 2026 TVRID competition evaluates this setting using 86 identities captured by four synchronized Intel RealSense D455 cameras with RGB and Depth streams across flat, ascent, descent, and oblique viewpoints. Performance is measured using mAP and CMC@1 across"
-        },
-        {
-          "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.12936",
-          "published_at": "2026-11-11T05:00:00+00:00",
-          "summary": "arXiv:2611.12936v1 Announce Type: new Abstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and lack deep analytical and scene-understanding capabilities. To address these limitations, we propose LandslideFM, the first unified foundation model that connects visual perception tasks with contextual interpretation of landslides. Specifically, LandslideFM adapts to multiple vi"
-        },
-        {
-          "title": "Why are AI.Engineer talks/transcripts/presentations not available for attendes?",
-          "source": "Hacker News AI Discussions",
-          "url": "https://news.ycombinator.com/item?id=50449728",
-          "published_at": "2026-11-11T04:24:56+00:00",
-          "summary": "I am attending AI Engineer conference in SF , with roughly a 1000 attendees, these days. The ticket prices run into the ~1500 give or take 200 bucks depending on when you get them. Not petty change for everyone. I was surprised when i asked for the transcripts/recordings for some of these conferences so i could do a brain dump at teh end of the day. I learned to my surprise that these were not available even to the attendees. Why? I dunno. I asked the staff at the desk and they mentioned somethi"
-        },
-        {
-          "title": "Labor won’t scrap ABC and SBS ombudsmen in favour of external body as suggested by antisemitism envoy",
+          "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/media/2026/nov/11/labor-abc-sbs-ombudsmen-antisemitism-envoy-gaza-coverage-ntwnfb",
-          "published_at": "2026-11-11T03:10:37+00:00",
-          "summary": "Exclusive : Jillian Segal suggested ‘transferring’ powers in updated report released a fortnight ago but government sources note media regulator already exists Get our breaking news email , free app or daily news podcast The Albanese government won’t follow a suggestion by the antisemitism envoy to scrap the ABC and SBS ombudsmen and replace them with an external oversight body. In a list of updated priorities released last month, Segal proposed an “external independent ombudsman” to monitor ABC"
+          "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
+          "published_at": "2026-11-11T05:33:27+00:00",
+          "summary": "Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effort Ukraine says it has captured its first Indonesian prisoner of war, amid what it says is a spike in recruitment by Russia from the south-east Asian nation. The 49-year-old man from Java was taken to Ukraine’s Zaporizhzhia region to take part in a Russian assault, but managed to reach Ukrainian-held territory after the group came under drone attack, a"
+        },
+        {
+          "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+          "published_at": "2026-11-11T14:18:08+00:00",
+          "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor […]"
+        },
+        {
+          "title": "Where the US's war with Iran stands after the midterms",
+          "source": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/where-the-us-s-war-with-iran-stands-after-the-midterms/a-79918176?maca=en-rss-en-all-1573-xml-mrss",
+          "published_at": "2026-11-12T05:50:00+00:00",
+          "summary": "Almost nine months after it began, the war in Iran has calmed to the point where Donald Trump sees an end. But with the key issues of the conflict unresolved and political change in the US, what is the situation?"
+        },
+        {
+          "title": "Latest news bulletin | November 12th, 2026 – Morning",
+          "source": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/12/latest-news-bulletin-november-12th-2026-morning",
+          "published_at": "2026-11-12T06:00:32+00:00",
+          "summary": "Catch up with the most important stories from around Europe and beyond this November 12th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel."
         }
       ]
     },
@@ -389,30 +349,37 @@
       "status": "Mẫu hình cần kiểm chứng",
       "reading": "Chỉ đáng nâng thành tín hiệu khi có văn bản hoặc số liệu gốc, phạm vi áp dụng và nhóm chịu tác động xác định được. Tin kinh doanh đơn lẻ chưa đủ để kết luận xu hướng kinh tế Việt Nam.",
       "falsifier": "Bác bỏ nếu không có văn bản/số liệu gốc hoặc nội dung không tạo thay đổi đáng kể với doanh nghiệp.",
-      "evidence_count": 3,
+      "evidence_count": 4,
       "source_count": 2,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Đề xuất ưu đãi thuế với tàu thuyền không người lái",
+          "title": "CEO Krungsri: Việt Nam thuộc nhóm nền kinh tế triển vọng nhất ASEAN",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/ceo-krungsri-viet-nam-thuoc-nhom-nen-kinh-te-trien-vong-nhat-asean-5143749.html",
+          "published_at": "2026-11-12T07:00:00+00:00",
+          "summary": "Tổng giám đốc Krungsri đánh giá Việt Nam là một trong những nền kinh tế năng động, nhiều triển vọng nhất ASEAN, đồng thời khẳng định cam kết đầu tư dài hạn tại Việt Nam thông qua SFinance."
+        },
+        {
+          "title": "Hà Nội dự kiến điều chuyển xe khách từ Nước Ngầm, Giáp Bát về bến xe Yên Sở",
           "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/de-xuat-uu-dai-thue-voi-tau-thuyen-khong-nguoi-lai-5143201.html",
-          "published_at": "2026-11-11T03:14:45+00:00",
-          "summary": "Chính phủ đề xuất ưu đãi thuế cho tổ chức, cá nhân đóng mới, hoán cải tàu không người lái; miễn thuế thu nhập doanh nghiệp 5 năm với các dự án chuyển đổi xanh trong lĩnh vực hàng hải, đường thủy."
+          "url": "https://vnexpress.net/ha-noi-du-kien-dieu-chuyen-xe-khach-tu-nuoc-ngam-giap-bat-ve-ben-xe-yen-so-5143664.html",
+          "published_at": "2026-11-12T02:38:41+00:00",
+          "summary": "Hà Nội vừa thông báo đến Sở Xây dựng 17 tỉnh, thành phố phối hợp đề nghị doanh nghiệp nghiên cứu đăng ký chuyển một phần tuyến xe khách cố định từ bến xe Giáp Bát, Nước Ngầm về Yên Sở."
         },
         {
-          "title": "VN-Index tăng gần 30 điểm lên cao nhất nửa tháng",
+          "title": "Chuyển 600 hồ sơ mua bán hoá đơn, trốn thuế sang cơ quan công an",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/vn-index-tang-gan-30-diem-len-cao-nhat-nua-thang-5142982.html",
-          "published_at": "2026-11-10T08:23:20+00:00",
-          "summary": "VN-Index tăng vọt lên 1.743 điểm khi nhà đầu tư phản ứng tích cực với thông tin Ngân hàng Nhà nước bơm thanh khoản tiền đồng, góp phần giảm lãi suất."
+          "url": "https://vnexpress.net/bo-truong-tai-chinh-bat-dau-tra-loi-chat-van-5143644-tong-thuat.html",
+          "published_at": "2026-11-12T01:02:32+00:00",
+          "summary": "Bộ trưởng Tài chính Ngô Văn Tuấn thừa nhận tình trạng mua bán hóa đơn, trốn thuế vẫn xảy ra, và từ 2022 gần 600 hồ sơ doanh nghiệp có dấu hiệu trốn, gian lận thuế được chuyển sang cơ quan điều tra."
         },
         {
-          "title": "Giá trị Nvidia bốc hơi hơn 400 tỷ USD vì bê bối của Jensen Huang",
+          "title": "LPBank vào top 2 ngân hàng niêm yết hiệu quả 2026",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/gia-tri-nvidia-boc-hoi-hon-400-ty-usd-vi-be-boi-cua-jensen-huang-5143178.html",
-          "published_at": "2026-11-11T01:08:40+00:00",
-          "summary": "Nhà đầu tư bán tháo cổ phiếu Nvidia, khiến vốn hóa sụt hơn 400 tỷ USD, còn Huang mất khoảng 15 tỷ USD sau hai phiên."
+          "url": "https://vnexpress.net/lpbank-vao-top-2-ngan-hang-niem-yet-hieu-qua-2026-5143845.html",
+          "published_at": "2026-11-12T07:00:00+00:00",
+          "summary": "LPBank xếp thứ hai nhóm ngành ngân hàng trong Top 50 Công ty niêm yết kinh doanh hiệu quả nhất Việt Nam 2026, với lợi nhuận trước thuế năm 2025 đạt 14.269 tỷ đồng và ROE 25,2%."
         }
       ]
     }
@@ -421,9 +388,9 @@
     {
       "category": "ai",
       "domain": "AI & công nghệ",
-      "items": 40,
-      "usable": 40,
-      "sources": 9
+      "items": 37,
+      "usable": 36,
+      "sources": 7
     },
     {
       "category": "world",
@@ -435,9 +402,9 @@
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 19,
-      "usable": 19,
-      "sources": 3
+      "items": 30,
+      "usable": 30,
+      "sources": 2
     },
     {
       "category": "water",
@@ -449,23 +416,23 @@
     {
       "category": "football",
       "domain": "Arsenal & Premier League",
-      "items": 13,
-      "usable": 13,
-      "sources": 2
+      "items": 10,
+      "usable": 10,
+      "sources": 4
     },
     {
       "category": "books",
       "domain": "Sách",
       "items": 2,
       "usable": 2,
-      "sources": 1
+      "sources": 2
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
-      "items": 11,
-      "usable": 11,
-      "sources": 3
+      "items": 6,
+      "usable": 6,
+      "sources": 2
     },
     {
       "category": "trends",
@@ -477,76 +444,82 @@
   ],
   "links": [
     {
-      "a": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
-      "b": "Youpla directors disqualified over collapsed funeral fund that targeted Aboriginal families",
+      "a": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+      "b": "What benefit does a San Francisco HQ offer if you are not a frontier AI lab?",
       "terms": [
-        "been",
-        "being",
-        "years"
+        "better",
+        "companies",
+        "tech",
+        "world"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
-      "b": "Arsenal eye Real's Endrick - Wednesday's gossip",
+      "a": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+      "b": "How 'Barca way' continues despite big-name exits",
       "terms": [
-        "among",
-        "more",
-        "real"
+        "thursday",
+        "women"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
-      "b": "Youpla directors disqualified over collapsed funeral fund that targeted Aboriginal families",
+      "a": "Show HN: Lynx – open-source fully-customizable AI workspace",
+      "b": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
       "terms": [
-        "five",
-        "three"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
-      "b": "Labor won’t scrap ABC and SBS ombudsmen in favour of external body as suggested by antisemitism envoy",
-      "terms": [
-        "independent",
-        "them"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
-      "b": "Arsenal eye Real's Endrick - Wednesday's gossip",
-      "terms": [
-        "forward",
+        "like",
         "more"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Embodied Science Agents: Making Embodied Experimental Design Learnable",
-      "b": "Youpla directors disqualified over collapsed funeral fund that targeted Aboriginal families",
+      "a": "Show HN: Lynx – open-source fully-customizable AI workspace",
+      "b": "Teenager in critical condition after likely ‘train surfing’ on Sydney Harbour Bridge, police say",
       "terms": [
         "between",
-        "three"
+        "multiple",
+        "point"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Youpla directors disqualified over collapsed funeral fund that targeted Aboriginal families",
-      "b": "Pocognoli to lean on Scotland's 'captain group of five'",
+      "a": "Show HN: Lynx – open-source fully-customizable AI workspace",
+      "b": "How 'Barca way' continues despite big-name exits",
       "terms": [
-        "five",
-        "group"
+        "changed",
+        "much"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Youpla directors disqualified over collapsed funeral fund that targeted Aboriginal families",
-      "b": "Marlon James or Douglas Stuart could snag a Booker double when the fiction prize is awarded - ABC News - Breaking News, Latest News and Videos",
+      "a": "Show HN: I built a AI acne coach that helps find root cause of your acne",
+      "b": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
       "terms": [
-        "breaking",
+        "could",
+        "give",
+        "like",
+        "make",
+        "more"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Show HN: I built a AI acne coach that helps find root cause of your acne",
+      "b": "Teenager in critical condition after likely ‘train surfing’ on Sydney Harbour Bridge, police say",
+      "terms": [
+        "daily",
+        "just",
         "news"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Show HN: I built a AI acne coach that helps find root cause of your acne",
+      "b": "Wael Mohya could make German football history at 17",
+      "terms": [
+        "could",
+        "just",
+        "make"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }

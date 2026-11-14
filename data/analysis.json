@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T06:45:49.356817+00:00",
-  "input_generated_at": "2026-11-13T06:45:49.316802+00:00",
+  "generated_at": "2026-11-14T06:24:02.720243+00:00",
+  "input_generated_at": "2026-11-14T06:24:02.662720+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
   "items_after_dedup": 150,
@@ -9,17 +9,62 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "‘Looks like we’ll have to talk to people’: Australia sent back to time before email with major Microsoft outage",
-      "summary": "Government services and schools impacted by Outlook and Teams issue as company says fix not ‘taking as expected’ Microsoft outage – live updates Microsoft struggles to fix huge outage affecting Outlook and Teams Australian schools, courts and government services have been hurled back in time to how business used to be done after a global Microsoft outage caused emails and online meetings to go dark. Australians began reporting issues with Microsoft 365 – which includes Outlook and Teams – just before 5am AEST on Friday, according to Down Detector. The problem appeared to peak at 9.22am with more than 5,500 reports of problems, including trouble opening and sending emails, before reports began to dip. Continue reading...",
+      "title": "Storm Charles causes floods and flight cancellations across southern Europe",
+      "summary": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weather to the Iberian peninsula this week, particularly in Portugal and the far south of Spain. Heavy rain and strong south-westerly winds arrived first in the Portuguese island of Madeira, before the system headed towards the mainland on 11 November. A wind gust of 84.5mph (136 km/h) was recorded at Funchal airport, alongside rainfall totals reaching 355mm (13.97in) in 12 hours. In Lisbon, 183 flights were cancelled on Wednesday, about a third of its normal daily traffic, while Madrid Barajas airport had 155 cancellations. After causing widespread flooding in Spain and Portugal, the system moved on a north-easterly track through southern France and then towards northern Italy. This resulted in significant flooding in parts of Cannes, some of which caused rock falls and led to the closure of roads along the French Riviera. The Italian weather service issued a red rainfall warning, its highest level, for the area extending from Tuscany to Venezia. Further heavy rain is expected to fall in Italy and the Balkans over the next few days, with",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/major-microsoft-outage-impacts-australian-government-services-and-schools",
-      "published_at": "2026-11-13T04:40:14+00:00",
+      "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
+      "published_at": "2026-11-13T08:49:19+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 36
+      "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Together Compiler: Continual Compilation for AI Inference",
+      "summary": "arXiv:2611.14681v1 Announce Type: new Abstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimization for these changing workloads. Compiling a deployment into an optimized forward pass is a challenge that is well-suited for agent hill-climbing. Existing systems struggle with continual compilation due to a tradeoff between measurement throughput and fidelity. Many systems use agents to optimize individual kernels from the inference forward pass using offline benchmarks, but timings are low-fidelity because of data-dependent behavior in primitives like mixture-of-experts (MoE). On the other hand, systems use agents to directly optimize end-to-end engines but suffer from slow engine launch times. To address these challenges, we build Together Compiler (TKCC), the first truly continual agent loop designed for AI inference optimization. To address the throughput-fidelity tradeoff, we propose: (1) a Tiered Persistent Engine that decouples engine launch overheads from forward pass computation; (2) a cost model t",
+      "source": "arXiv AI",
+      "url": "https://arxiv.org/abs/2611.14681",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "AutoAssumption: Searching over Assumptions Discovers ML-Systems Algorithms",
+      "summary": "arXiv:2611.14844v1 Announce Type: new Abstract: Many advances in ML systems came from breaking an assumption that earlier methods took for granted: speculative decoding dropped the assumption that a model needs one forward pass per token. Yet algorithms rarely state their assumptions, so experts and discovery harnesses search over programs, where one edit changes several design choices and gains are difficult to attribute. Searching over the assumptions themselves remains largely unexplored. Writing algorithms as proofs makes their assumptions explicit and turns algorithm design into a search over a small, structured space that an LLM can explore and a proof checker can audit. We formalize 89 algorithms from KV-cache eviction, weight pruning and speculative decoding as proof graphs with explicit assumptions, checked in Lean. Our harness, AutoAssumption, relaxes one assumption of a published method, re-derives and re-proves it, and generates its code. In KV-cache eviction and weight pruning, this search improved on every published algorithm we ran and produced state-of-the-art algorithms. The eviction algorithm has the highest RULER-4K score of the published methods we ran, and the ",
+      "source": "arXiv AI",
+      "url": "https://arxiv.org/abs/2611.14844",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+      "summary": "arXiv:2611.14544v1 Announce Type: new Abstract: Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check that it is legal. This framing misses the errors that matter most. A misread that yields an illegal move is loud. One that yields a legal-but-wrong move is silent, because a legality-only pipeline accepts it and reads every later move against a wrong position. We therefore treat the task as game reconstruction and present Zugwise, which repurposes computer-chess machinery (quiescence search, static exchange evaluation, pin detection) to ask not \"what should be played?\" but \"could a human plausibly have written this?\" An absurdity detector makes silent errors loud at or near where they occur, and a backward search traces late symptoms to their cause. Candidate ranking excludes chess-quality signals. A Needleman-Wunsch merge adds the second player's sheet as evidence, and review stops send every disagreement between the sheets' legal readings to a human. In oracle replay of two tournament sections, a release adding them cuts silent errors from 16 to 1 and from 50 to 13. Two learned signals, CTC re-scoring a",
+      "source": "arXiv AI",
+      "url": "https://arxiv.org/abs/2611.14544",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
     },
     {
       "domain": "Thế giới",
@@ -39,86 +84,26 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Minister’s office said contractor should handle CFMEU or lose work in Victoria, Big Build inquiry hears",
-      "summary": "Royal commission also hears from construction company employee who says workers were ‘fearful’ of union Get our breaking news email , free app or daily news podcast A major contractor on a troubled Victorian rail project shut down by union officials was warned that the minister’s office felt it would not “have any more work” in the state if it did not resolve the industrial dispute, a royal commission has heard. The royal commission into the integrity of major public and civil infrastructure construction projects in Victoria heard from a Victorian Infrastructure Delivery Authority (Vida) official for the first time on Friday. Continue reading...",
+      "title": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
+      "summary": "Experts say outage exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email , free app or daily news podcast The Microsoft outage could be a disaster for the Australian economy that forces some small businesses to close, with costs expected to run into the billions of dollars, experts have warned. The US software company has said it is “deeply sorry” for a widespread outage that caused disruption to millions of users, organisations and businesses across the globe – and that it has “addressed the underlying issue”. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/13/big-build-royal-commission-vida-construction-workers-fearful-cfmeu-ntwnfb",
-      "published_at": "2026-11-13T04:51:17+00:00",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
+      "published_at": "2026-11-14T00:52:48+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 33
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that […]",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "published_at": "2026-11-13T00:45:25+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 24
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on…",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "published_at": "2026-11-12T20:16:24+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 24
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Show HN: Grow any hobby (skills for humans not AI)",
-      "summary": "\"Skills for humans\" is what originally sparked me to create this app. Everyone was so focused on AI skills that it was kinda sad. I wanted to create an app focused on people and to help people grow. Let me know what you think! Developing this helped me stay sane. Comments URL: https://news.ycombinator.com/item?id=50477418 Points: 3 # Comments: 2",
-      "source": "Hacker News AI Discussions",
-      "url": "https://grow-bonsai.app/",
-      "published_at": "2026-11-13T02:40:39+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 23
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Arsenal dig in for draw at Barcelona to extend unbeaten start",
-      "summary": "Arsenal extend their unbeaten start to four matches in the Uefa Women's Champions League, as they produce a dogged display to hold Barcelona to a 1-1 draw at the Camp Nou. The point moves Renee Slegers' side into the top four, putting them in a great position to automatically qualify for the knockout stages.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T20:09:07+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 22
+      "score": 32
     },
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "There’s a worrying new trend in the tattoo community that has Aussie artists and doctors concerned. Aussies are travelling overseas to places like Bali and Thailand to receive full-body tattoos whilst under a general anaesthetic, taking a piece that would previo - TikTok",
-      "summary": "There’s a worrying new trend in the tattoo community that has Aussie artists and doctors concerned. Aussies are travelling overseas to places like Bali and Thailand to receive full-body tattoos whilst under a general anaesthetic, taking a piece that would previo TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYQ25iZjdqZXRfcTBvZk1ZYk5FV1pkOG1GQkdDRWFuWU5SYUxzNTluWHRwUlVuMlpRNjBaU2YyZlRXTUQ5M2lMRTlFRVBEaWh4c1lrZFBiTUxTR2laWVRDTzk1SmVjTV85bzRpdjFNMzhJdw?oc=5",
-      "published_at": "2026-11-13T03:23:24+00:00",
+      "title": "Dream Con 2027 Creator and Industry applications are officially OPEN! Head over to our website and click \"Get Involved\" to apply and learn more about the creator & industry applications. https://t.co/1RyQp825vL Tag someone who should apply! 💙 #DreamCo - X",
+      "summary": "Dream Con 2027 Creator and Industry applications are officially OPEN! Head over to our website and click \"Get Involved\" to apply and learn more about the creator & industry applications. https://t.co/1RyQp825vL Tag someone who should apply! 💙 #DreamCo X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lcnVHZlRFSTh3S2ptTU14UVV1OGFnRFhqbXlJclhBM1k5bWdIYVpJWnA2VFVSNjg4dVBNVVBxYTdQNS1TQlhZTFRVWTdoZ3pwOU5faXZNMnRSZXZmTUF2LUx0Ul9ZVHM?oc=5",
+      "published_at": "2026-11-13T23:57:10+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -129,11 +114,11 @@
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "Your dot now has… ⚡️ Faster replies 💬 Less jargon 🫡 Better follow-through And, they can now follow your custom instructions. Tell your dot in the thread things like how to behave or which actions need your go-ahead. “always talk in lowercase.” “Show me a - X",
-      "summary": "Your dot now has… ⚡️ Faster replies 💬 Less jargon 🫡 Better follow-through And, they can now follow your custom instructions. Tell your dot in the thread things like how to behave or which actions need your go-ahead. “always talk in lowercase.” “Show me a X",
+      "title": "We've made some big updates to Projects in Claude Code! In a project, Claude coordinates your tasks across parallel threads. The coordinator is now much more proactive. It answers your questions in the project chat and gives you updates on the status of yo - X",
+      "summary": "We've made some big updates to Projects in Claude Code! In a project, Claude coordinates your tasks across parallel threads. The coordinator is now much more proactive. It answers your questions in the project chat and gives you updates on the status of yo X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLODFMTFFWT004OTRJUXZiMmV0RmdOQVBIVmJCZXVjdlRKRmI2WmlHMU9Nb0lJcWV5YWVDV2EwcnVSNlVuSTVwR2hCUjZ5TGNSSndRdnhvNV8tWUp1?oc=5",
-      "published_at": "2026-11-12T20:04:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01azI0Z1gwa1htaXhZczUtNVJaTnRabndoTEdSakZVQU91emNONF9icE5PYXF5dV9QWHB6Zjdwc1ZOVjlmTnRyUFdZMzduNGZWYUVnYlVWU1BfbEtzUFp0TA?oc=5",
+      "published_at": "2026-11-13T22:51:01+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -144,11 +129,11 @@
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "“Lanterns” creator Chris Mundy on his approach in bringing DC superheroes to television: “As long as we were telling an emotional story about people, then we would be doing something interesting and feel real.” | Variety A Night in the Writers’ Room: Awards - X",
-      "summary": "“Lanterns” creator Chris Mundy on his approach in bringing DC superheroes to television: “As long as we were telling an emotional story about people, then we would be doing something interesting and feel real.” | Variety A Night in the Writers’ Room: Awards X",
+      "title": "The Bitter Kitten Movie Club: PHANTOM THREAD (2017) Join us as we dive into director Paul Thomas Anderson's stylish portrait of codependency and love against the backdrop of the world of mid-century couture (and what it gets wrong about that world) http - X",
+      "summary": "The Bitter Kitten Movie Club: PHANTOM THREAD (2017) Join us as we dive into director Paul Thomas Anderson's stylish portrait of codependency and love against the backdrop of the world of mid-century couture (and what it gets wrong about that world) http X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yYS05RlFYYVRxWXpqcFhpcTJ6X19qaVpNMWl5N1VDdlNDc0xYdEtKdlVLTFQ0NG16ajBQbHJDdFZHaVpTMExlLVJXLWdqM3FCbExQVFVmaGpfVGVp?oc=5",
-      "published_at": "2026-11-12T19:47:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91Uk9pRHNrb0p0Q3M1dGkxTkR6QWpCcF9PSDdtNXpfclVPYUdmeFgyVUdfVnhUZl9NRE91ckh6aV9FVmZ2ZHJELU4tbkxMdmVpZlREMlZvZjFRU0FOdEVNOTRtQnc?oc=5",
+      "published_at": "2026-11-13T21:12:20+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -159,26 +144,11 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Bà Nguyễn Vân Linh: 'Thừa kế tài sản chưa đủ tiếp nối di sản'",
-      "summary": "Khác biệt giữa mong muốn của người thừa kế và kỳ vọng của thế hệ sáng lập đặt ra thách thức khi chuyển giao gia sản, theo bà Nguyễn Vân Linh, Giám đốc Khối ngân hàng cao cấp Techcombank (Chief Private Banking Officer).",
+      "title": "DNSE nhận 5 giải thưởng tại Best Retail Brokers 2026",
+      "summary": "DNSE xếp thứ hai trong bảng xếp hạng các công ty chứng khoán có dịch vụ bán lẻ tốt nhất năm 2026 (Best Retail Brokers 2026), đồng thời là doanh nghiệp duy nhất được vinh danh tại 5/6 hạng mục giải thưởng.",
       "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/ba-nguyen-van-linh-thua-ke-tai-san-chua-du-tiep-noi-di-san-5137371.html",
-      "published_at": "2026-11-13T01:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 19
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Bộ trưởng Vũ Hải Quân: Phải bảo vệ bí mật thông tin người dùng dịch vụ bưu chính",
-      "summary": "Bộ trưởng Khoa học và Công nghệ Vũ Hải Quân cho biết dự thảo Luật Bưu chính sửa đổi tăng cường bảo vệ bí mật thư tín, thông tin cá nhân và quyền lợi người dùng trong hoạt động giao nhận hàng hóa.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/bo-truong-vu-hai-quan-phai-bao-ve-bi-mat-thong-tin-nguoi-dung-dich-vu-buu-chinh-5144261.html",
-      "published_at": "2026-11-13T05:12:17+00:00",
+      "url": "https://vnexpress.net/dnse-nhan-5-giai-thuong-tai-best-retail-brokers-2026-5144447.html",
+      "published_at": "2026-11-14T02:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -189,11 +159,11 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Thu thừa tiền điện, nước do đồng hồ đo sai phải trả lại",
-      "summary": "Luật Đo lường sửa đổi quy định hoàn trả tiền thu không đúng do kết quả đo sai lệch, cho phép người tiêu dùng yêu cầu dữ liệu để khiếu nại, đồng thời tăng kiểm soát gian lận cân đo.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/thu-thua-tien-dien-nuoc-do-dong-ho-do-sai-phai-tra-lai-5144130.html",
-      "published_at": "2026-11-13T02:31:18+00:00",
+      "title": "Vì sao công ty đầu ngành chứng khoán từ chối nhiều thương vụ trái phiếu?",
+      "summary": "Dù chiếm 37% thị phần tư vấn trái phiếu, Chứng khoán Kỹ Thương (TCBS) vẫn từ chối nhiều thương vụ nếu không nắm rõ sức khỏe tài chính của doanh nghiệp, theo Chủ tịch Nguyễn Xuân Minh.",
+      "source": "VnExpress Kinh doanh",
+      "url": "https://vnexpress.net/vi-sao-cong-ty-dau-nganh-chung-khoan-tu-choi-nhieu-thuong-vu-trai-phieu-5144491.html",
+      "published_at": "2026-11-13T23:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -204,11 +174,11 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Owono undecided over future following De Miguel death",
-      "summary": "FC Andorra manager Carles Manso says goalkeeper Jesus Owono is yet to decide whether he will return to playing action following the death of Tenerife forward Jesus de Miguel.",
+      "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+      "summary": "What can Manchester United fans expect from their new manager Mauricio Pochettino? BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckedq01zve04o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T16:41:49+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T22:53:17+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -219,76 +189,50 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Malo Gusto: Man City and Man Utd set to battle it out for Chelsea right-back ahead of possible January move - Paper Talk | Football News - Sky Sports",
-      "summary": "Malo Gusto: Man City and Man Utd set to battle it out for Chelsea right-back ahead of possible January move - Paper Talk | Football News Sky Sports",
-      "source": "Google News Premier League",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZjNHZWI4TTQyTm0tRjBMWWNkTGVLd1JGRTRDX1Y1Qnlwc2FUUkZBNkVNdElOMlFfb0lVUDZldVgwS1NoR0lJbXZralpWSFUwQW1TckFEbnJNR3dSeXRSamFGbVVHUlM3Y1FzbEoyMmUxQVZqaUg4MjJUYjlpcERremZQN0paV2dqYl9TWGgxc2FGWDZ1UEhvRllWM2QtazlfR1dlNlJDb25KWWdHSE40MFo0eWdTV0ZIcmpYZHNOaXNMVG5xV1JaM1I0TDJsRXhqSXl6RA?oc=5",
-      "published_at": "2026-11-13T06:16:37+00:00",
+      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+      "summary": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T22:37:30+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 16
+      "score": 17
     },
     {
-      "domain": "Nước & năng lượng",
-      "category": "water",
-      "title": "Automatic Backwash Filters Market Forecast to 2035, Driven by Water Reuse Mandates and Industrial Efficiency Gains - IndexBox",
-      "summary": "Automatic Backwash Filters Market Forecast to 2035, Driven by Water Reuse Mandates and Industrial Efficiency Gains IndexBox",
-      "source": "Google News Water Technology",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb0wtbkJKUlI0dWdWZnh0R3N0eThwR0hFcjcwbVRWam96TFdhc2I5WW55bHhPcWRWYVJ5NUNQVGprUUZIQVlkUFhtNGNfYTY3UDZMQVl1aGZfbHRPZFdINmJtRnIwaXQ3TUJ1TTRYaDdmVTA5ODZ2OXFBQVN2WDBzd1J0c1BCemVsUExxOE95RGJkT01uVXdaeVI0R1Q1NDVrVks3dWg5bURiaDd0a1FSOUc5X0tIMmZsRzRwSXJBVkZlZ3RPY2tMekRIOEdHMVJDMDBQVU9FOXFhSHc?oc=5",
-      "published_at": "2026-11-12T20:11:04+00:00",
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
+      "summary": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T22:11:27+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 16
+      "score": 17
     },
     {
-      "domain": "Sách",
-      "category": "books",
-      "title": "Marlon James or Douglas Stuart could snag a Booker double when the fiction prize is awarded - Daily Sitka Sentinel",
-      "summary": "Marlon James or Douglas Stuart could snag a Booker double when the fiction prize is awarded Daily Sitka Sentinel",
-      "source": "Google News International Book Awards",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMFdXT3YxQVFSbGdJLWZlRG52WVkzUkdQZEE5dGRrRmFjaEp5aGlWUlVndHFtbWhwbzg1RHV0MjA3LU5zTlpSM2xLOTR2M0ltQ2xjb01GVGx5ckFvc1ZWaU1lczZveTdEdWxOOTZXTVJTQkM1VTVwbDNjTFBYbmI2RUhQelREU3BSdXRIZE5DbFFaZXI2U1NVSy1kLWV4czFITXVsQ3UzbnRGa3hsNFZkZ1EyaDRNNngwTHJfOWlLR0d4T0l6Nm9BbDdELTJUNklD?oc=5",
-      "published_at": "2026-11-10T00:25:40+00:00",
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Xe thiết giáp chìm khi huấn luyện, 6 quân nhân hy sinh",
+      "summary": "Sáu quân nhân thuộc Trung đoàn 102, Sư đoàn 308, Quân đoàn 12 hy sinh khi xe thiết giáp BMP-1 gặp sự cố, bị chìm trong lúc huấn luyện tại Trường bắn quốc gia TB1, Bắc Ninh.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/xe-thiet-giap-chim-khi-huan-luyen-6-quan-nhan-hy-sinh-5144654.html",
+      "published_at": "2026-11-14T05:20:04+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 10
+      "score": 17
     }
   ],
   "themes": [
-    {
-      "id": "prices_energy",
-      "title": "Giá cả, lạm phát và năng lượng",
-      "status": "Mẫu hình cần kiểm chứng",
-      "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
-      "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
-      "evidence_count": 2,
-      "source_count": 2,
-      "source_note": "Có nhiều nguồn trong batch",
-      "evidence": [
-        {
-          "title": "Loạt 'ông lớn' xây dựng Trung Quốc muốn tăng đầu tư tại Việt Nam",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/loat-ong-lon-xay-dung-trung-quoc-muon-tang-dau-tu-tai-viet-nam-5144057.html",
-          "published_at": "2026-11-12T20:49:00+00:00",
-          "summary": "Nhiều doanh nghiệp hàng đầu Trung Quốc muốn đẩy mạnh hợp tác đầu tư vào các lĩnh vực chiến lược của Việt Nam như đường sắt đô thị, năng lượng, khu công nghiệp."
-        },
-        {
-          "title": "US inflation higher than expected in October - here's what is happening with prices",
-          "source": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-10T14:45:46+00:00",
-          "summary": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs."
-        }
-      ]
-    },
     {
       "id": "ai_work",
       "title": "AI đi từ năng lực mô hình sang vận hành và công việc",
@@ -296,36 +240,36 @@
       "reading": "Các bài về mô hình, suy luận và công việc có thể cho thấy AI đang được đánh giá theo chi phí triển khai và kết quả vận hành, không chỉ theo khả năng trình diễn. Cần phân biệt nghiên cứu thử nghiệm với sản phẩm đã được triển khai.",
       "falsifier": "Bác bỏ nếu bài chỉ mô tả nghiên cứu hoặc tuyên bố của doanh nghiệp mà không có kết quả triển khai độc lập.",
       "evidence_count": 4,
-      "source_count": 2,
-      "source_note": "Có nhiều nguồn trong batch",
+      "source_count": 1,
+      "source_note": "Chỉ một nguồn xuất bản trong batch",
       "evidence": [
         {
-          "title": "No, AI agents did not discover a previously unknown Maya site",
-          "source": "The Verge AI",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-          "published_at": "2026-11-12T19:42:40+00:00",
-          "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a […]"
+          "title": "Together Compiler: Continual Compilation for AI Inference",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.14681",
+          "published_at": "2026-11-14T05:00:00+00:00",
+          "summary": "arXiv:2611.14681v1 Announce Type: new Abstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimization for these changing workloads. Compiling a deployment into an optimized forward pass is a challenge that is well-suited for agent hill-climbing. Existing systems struggle with continual compilation due to a tradeoff betw"
         },
         {
-          "title": "United Airlines blocks AI agents from booking flights",
-          "source": "Hacker News AI Discussions",
-          "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-          "published_at": "2026-11-13T06:34:41+00:00",
-          "summary": "Article URL: https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/ Comments URL: https://news.ycombinator.com/item?id=50479219 Points: 1 # Comments: 0"
+          "title": "AutoAssumption: Searching over Assumptions Discovers ML-Systems Algorithms",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.14844",
+          "published_at": "2026-11-14T05:00:00+00:00",
+          "summary": "arXiv:2611.14844v1 Announce Type: new Abstract: Many advances in ML systems came from breaking an assumption that earlier methods took for granted: speculative decoding dropped the assumption that a model needs one forward pass per token. Yet algorithms rarely state their assumptions, so experts and discovery harnesses search over programs, where one edit changes several design choices and gains are difficult to attribute. Searching over the assumptions themselves remains largely unexplored. Wri"
         },
         {
-          "title": "Schelling Atlas: AI agents know where to find each other on the web",
-          "source": "Hacker News AI Discussions",
-          "url": "https://schelling-atlas.com/",
-          "published_at": "2026-11-13T01:41:48+00:00",
-          "summary": "Article URL: https://schelling-atlas.com/ Comments URL: https://news.ycombinator.com/item?id=50477023 Points: 1 # Comments: 0"
+          "title": "Open Challenges and Opportunities in Human-Agent Systems",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.14846",
+          "published_at": "2026-11-14T05:00:00+00:00",
+          "summary": "arXiv:2611.14846v1 Announce Type: new Abstract: Agentic AI systems increasingly undertake extended tasks and act on people's behalf, making human-agent interaction central to their effectiveness. Successful interaction requires understanding human perspectives, coordinating complementary capabilities, and maintaining productive relationships within socio-technical environments. This paper examines how foundations developed by the Autonomous Agents and Multi-Agent Systems (AAMAS) community inform"
         },
         {
-          "title": "Daybranch – A visual workspace for organizing AI-assisted work",
-          "source": "Hacker News AI Discussions",
-          "url": "https://www.daybranch.com/",
-          "published_at": "2026-11-13T00:39:59+00:00",
-          "summary": "Article URL: https://www.daybranch.com/ Comments URL: https://news.ycombinator.com/item?id=50476594 Points: 2 # Comments: 0"
+          "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.14794",
+          "published_at": "2026-11-14T05:00:00+00:00",
+          "summary": "arXiv:2611.14794v1 Announce Type: new Abstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match precision by 31 percentage points on the strong GPQA configuration and 46 on AIME, while answering only 35% and 21% of attempts. On near-ceiling MATH-500, gains are at most 5 points at a loss of 13-27 points "
         }
       ]
     },
@@ -336,15 +280,15 @@
       "reading": "Các diễn biến chính trị và thương mại có thể ảnh hưởng đến vận tải, giá đầu vào hoặc quyết định đầu tư. Chưa thể suy ra tác động tới Việt Nam nếu chưa biết tuyến hàng, mặt hàng và mức độ phơi nhiễm.",
       "falsifier": "Bác bỏ nếu chưa có thay đổi chính sách/luồng hàng thực tế hoặc mặt hàng liên quan không gắn với Việt Nam.",
       "evidence_count": 4,
-      "source_count": 2,
+      "source_count": 3,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Victoria election 2026: Labor and Greens trade accusations of ‘dodgy deals’ as preferences squabble puts key seats on the line",
+          "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/13/victoria-state-election-2026-labor-greens-preference-deals-seats",
-          "published_at": "2026-11-13T06:16:06+00:00",
-          "summary": "Greens retaliate against Labor’s move to run an open ticket in Prahran by leaving the party off how-to-vote cards in 15 seats The Greens have retaliated against Labor’s decision to run an open ticket in a key inner-city seat by refusing to direct preferences to the party in 15 electorates across the state at this month’s Victorian election. The move has sparked a war of words between the two parties, with each accusing the other of striking a “dodgy deal” that could help the Liberals and One Nat"
+          "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+          "published_at": "2026-11-13T19:51:28+00:00",
+          "summary": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the Nvidia spying scandal as other Trump administration officials publicly raise questions over his decisions. Scott Bessent, the US treasury secretary, blamed Lutnick’s commerce department for the fact the US had not imposed e"
         },
         {
           "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
@@ -354,18 +298,18 @@
           "summary": "Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effort Ukraine says it has captured its first Indonesian prisoner of war, amid what it says is a spike in recruitment by Russia from the south-east Asian nation. The 49-year-old man from Java was taken to Ukraine’s Zaporizhzhia region to take part in a Russian assault, but managed to reach Ukrainian-held territory after the group came under drone attack, a"
         },
         {
-          "title": "Russia and Iran criticise US Caspian task force as study outlines joint sanction evasion",
-          "source": "Euronews",
-          "url": "https://www.euronews.com/2026/11/12/russia-and-iran-criticise-us-caspian-task-force-as-study-outlines-joint-sanction-evasion",
-          "published_at": "2026-11-12T18:53:36+00:00",
-          "summary": "After CENTCOM affirmed it would maintain the naval blockade of the Strait of Hormuz and block the IRGC’s land and Caspian routes, Russia called this special taskforce a 'clear violation of international law'. At the same time, the Institute for the Study of War devoted its latest assessment to Tehran-Moscow cooperation in circumventing US arms restrictions."
+          "title": "What’s really at stake in the Jensen Huang saga",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+          "published_at": "2026-11-13T19:17:15+00:00",
+          "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]"
         },
         {
-          "title": "Latest news bulletin | November 13th, 2026 – Morning",
-          "source": "Euronews",
-          "url": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-morning",
-          "published_at": "2026-11-13T06:00:32+00:00",
-          "summary": "Catch up with the most important stories from around Europe and beyond this November 13th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel."
+          "title": "Senegal Youth Olympics in Dakar end on high note",
+          "source": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/senegal-youth-olympics-in-dakar-end-on-high-note/a-79944820?maca=en-rss-en-all-1573-xml-mrss",
+          "published_at": "2026-11-14T04:25:00+00:00",
+          "summary": "Enthusiastic crowds attended the games in Senegal, with China taking home the most gold medals. It's the first Olympic Games since Russia's war on Ukraine where Russian athletes can compete under their own flag."
         }
       ]
     },
@@ -380,32 +324,32 @@
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "TS Cấn Văn Lực: 'Việc giảm lãi suất không dễ dàng'",
+          "title": "DNSE nhận 5 giải thưởng tại Best Retail Brokers 2026",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/ts-can-van-luc-viec-giam-lai-suat-khong-de-dang-5144018.html",
-          "published_at": "2026-11-12T13:32:44+00:00",
-          "summary": "Lãi suất điều hành đang ở mức thấp cùng với rủi ro thanh khoản hệ thống có thể khiến việc giảm lãi suất thực tế của các nhà băng trở nên khó khăn hơn, theo nhận định của TS Cấn Văn Lực."
+          "url": "https://vnexpress.net/dnse-nhan-5-giai-thuong-tai-best-retail-brokers-2026-5144447.html",
+          "published_at": "2026-11-14T02:00:00+00:00",
+          "summary": "DNSE xếp thứ hai trong bảng xếp hạng các công ty chứng khoán có dịch vụ bán lẻ tốt nhất năm 2026 (Best Retail Brokers 2026), đồng thời là doanh nghiệp duy nhất được vinh danh tại 5/6 hạng mục giải thưởng."
         },
         {
-          "title": "Nhà máy thay đổi cách làm việc đón công nhân khiếm thính từ ECCO",
+          "title": "Vì sao công ty đầu ngành chứng khoán từ chối nhiều thương vụ trái phiếu?",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/vi-sao-cong-ty-dau-nganh-chung-khoan-tu-choi-nhieu-thuong-vu-trai-phieu-5144491.html",
+          "published_at": "2026-11-13T23:00:00+00:00",
+          "summary": "Dù chiếm 37% thị phần tư vấn trái phiếu, Chứng khoán Kỹ Thương (TCBS) vẫn từ chối nhiều thương vụ nếu không nắm rõ sức khỏe tài chính của doanh nghiệp, theo Chủ tịch Nguyễn Xuân Minh."
+        },
+        {
+          "title": "Xây cầu vượt thép lớn nhất TP HCM chống ùn tắc cửa ngõ Cát Lái",
           "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/nha-may-thay-doi-cach-lam-viec-don-cong-nhan-khiem-thinh-tu-ecco-5143353.html",
-          "published_at": "2026-11-12T23:00:00+00:00",
-          "summary": "Nhà máy may TANS tuyển lao động từ ECCO Việt Nam sau khi doanh nghiệp này giải thể, đồng thời bổ sung đèn báo hiệu và phương án hỗ trợ giao tiếp cho công nhân khiếm thính."
+          "url": "https://vnexpress.net/xay-cau-vuot-thep-lon-nhat-tp-hcm-chong-un-tac-cua-ngo-cat-lai-5144635.html",
+          "published_at": "2026-11-14T04:48:20+00:00",
+          "summary": "Cầu thép quy mô, kinh phí đầu tư lớn nhất xây tại nút giao Mỹ Thủy góp phần hình thành nút giao 4 tầng, giảm ùn tắc ở cửa ngõ ra vào Cát Lái - cảng lớn nhất nước."
         },
         {
-          "title": "VCCI kiến nghị giảm tỷ lệ tái chế với điện thoại di động từ 15% xuống 3%",
+          "title": "Vacure:treat giới thiệu sản phẩm chăm sóc da tại triển lãm Trung Quốc",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/vcci-kien-nghi-giam-ty-le-tai-che-voi-dien-thoai-di-dong-tu-15-xuong-3-5144035.html",
-          "published_at": "2026-11-12T21:24:45+00:00",
-          "summary": "VCCI kiến nghị giảm tỷ lệ tái chế bắt buộc với điện thoại cũ trong 2026-2028, bởi người Việt quen cho tặng hoặc bán ra thị trường thiết bị cũ, thay vì thải bỏ."
-        },
-        {
-          "title": "Loạt 'ông lớn' xây dựng Trung Quốc muốn tăng đầu tư tại Việt Nam",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/loat-ong-lon-xay-dung-trung-quoc-muon-tang-dau-tu-tai-viet-nam-5144057.html",
-          "published_at": "2026-11-12T20:49:00+00:00",
-          "summary": "Nhiều doanh nghiệp hàng đầu Trung Quốc muốn đẩy mạnh hợp tác đầu tư vào các lĩnh vực chiến lược của Việt Nam như đường sắt đô thị, năng lượng, khu công nghiệp."
+          "url": "https://vnexpress.net/vacure-treat-gioi-thieu-san-pham-cham-soc-da-tai-trien-lam-trung-quoc-5144609.html",
+          "published_at": "2026-11-14T04:00:00+00:00",
+          "summary": "Tham dự Cosmoprof Asia Hong Kong 2026, Vacure:treat giới thiệu sản phẩm chăm sóc da Hàn Quốc, tìm kiếm đối tác quốc tế và cập nhật xu hướng làm đẹp cho thị trường Việt Nam."
         }
       ]
     }
@@ -415,50 +359,50 @@
       "category": "ai",
       "domain": "AI & công nghệ",
       "items": 40,
-      "usable": 39,
-      "sources": 7
+      "usable": 40,
+      "sources": 6
     },
     {
       "category": "world",
       "domain": "Thế giới",
       "items": 65,
       "usable": 65,
-      "sources": 12
+      "sources": 10
     },
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 22,
-      "usable": 22,
+      "items": 18,
+      "usable": 18,
       "sources": 2
     },
     {
       "category": "water",
       "domain": "Nước & năng lượng",
-      "items": 1,
-      "usable": 1,
-      "sources": 1
+      "items": 0,
+      "usable": 0,
+      "sources": 0
     },
     {
       "category": "football",
       "domain": "Arsenal & Premier League",
-      "items": 12,
-      "usable": 12,
-      "sources": 3
+      "items": 18,
+      "usable": 18,
+      "sources": 4
     },
     {
       "category": "books",
       "domain": "Sách",
-      "items": 1,
-      "usable": 1,
-      "sources": 1
+      "items": 0,
+      "usable": 0,
+      "sources": 0
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
       "items": 9,
       "usable": 9,
-      "sources": 4
+      "sources": 3
     },
     {
       "category": "trends",
@@ -470,81 +414,77 @@
   ],
   "links": [
     {
-      "a": "‘Looks like we’ll have to talk to people’: Australia sent back to time before email with major Microsoft outage",
-      "b": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+      "a": "Storm Charles causes floods and flight cancellations across southern Europe",
+      "b": "Together Compiler: Continual Compilation for AI Inference",
       "terms": [
-        "company",
-        "time"
+        "first",
+        "traffic"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "‘Looks like we’ll have to talk to people’: Australia sent back to time before email with major Microsoft outage",
-      "b": "There’s a worrying new trend in the tattoo community that has Aussie artists and doctors concerned. Aussies are travelling overseas to places like Bali and Thailand to receive full-body tattoos whilst under a general anaesthetic, taking a piece that would previo - TikTok",
+      "a": "Storm Charles causes floods and flight cancellations across southern Europe",
+      "b": "We've made some big updates to Projects in Claude Code! In a project, Claude coordinates your tasks across parallel threads. The coordinator is now much more proactive. It answers your questions in the project chat and gives you updates on the status of yo - X",
       "terms": [
-        "like",
-        "taking"
+        "across",
+        "some"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "‘Looks like we’ll have to talk to people’: Australia sent back to time before email with major Microsoft outage",
-      "b": "Your dot now has… ⚡️ Faster replies 💬 Less jargon 🫡 Better follow-through And, they can now follow your custom instructions. Tell your dot in the thread things like how to behave or which actions need your go-ahead. “always talk in lowercase.” “Show me a - X",
+      "a": "Storm Charles causes floods and flight cancellations across southern Europe",
+      "b": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
       "terms": [
-        "like",
-        "talk"
+        "reaching",
+        "while"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "‘Looks like we’ll have to talk to people’: Australia sent back to time before email with major Microsoft outage",
-      "b": "Malo Gusto: Man City and Man Utd set to battle it out for Chelsea right-back ahead of possible January move - Paper Talk | Football News - Sky Sports",
+      "a": "Together Compiler: Continual Compilation for AI Inference",
+      "b": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
       "terms": [
-        "back",
-        "talk"
+        "changing",
+        "first",
+        "many",
+        "today"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
-      "b": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+      "a": "AutoAssumption: Searching over Assumptions Discovers ML-Systems Algorithms",
+      "b": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
       "terms": [
-        "affair",
-        "alice",
-        "executive",
-        "founder",
-        "huang",
-        "jensen"
+        "breaking",
+        "experts",
+        "small"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
-      "b": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "a": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+      "b": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
       "terms": [
-        "industry",
-        "nvidia",
-        "representative",
-        "security",
-        "thursday"
+        "been",
+        "most"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Minister’s office said contractor should handle CFMEU or lose work in Victoria, Big Build inquiry hears",
-      "b": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+      "a": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+      "b": "The Bitter Kitten Movie Club: PHANTOM THREAD (2017) Join us as we dive into director Paul Thomas Anderson's stylish portrait of codependency and love against the backdrop of the world of mid-century couture (and what it gets wrong about that world) http - X",
       "terms": [
-        "company",
-        "time"
+        "against",
+        "wrong"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Your dot now has… ⚡️ Faster replies 💬 Less jargon 🫡 Better follow-through And, they can now follow your custom instructions. Tell your dot in the thread things like how to behave or which actions need your go-ahead. “always talk in lowercase.” “Show me a - X",
-      "b": "Malo Gusto: Man City and Man Utd set to battle it out for Chelsea right-back ahead of possible January move - Paper Talk | Football News - Sky Sports",
+      "a": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
+      "b": "We've made some big updates to Projects in Claude Code! In a project, Claude coordinates your tasks across parallel threads. The coordinator is now much more proactive. It answers your questions in the project chat and gives you updates on the status of yo - X",
       "terms": [
-        "ahead",
-        "talk"
+        "across",
+        "some"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }
@@ -553,12 +493,12 @@
     {
       "domain": "Nước & năng lượng",
       "status": "Thiếu dữ liệu",
-      "note": "Chỉ 1 mục có tóm tắt dùng được; không tạo kết luận mạnh."
+      "note": "Chỉ 0 mục có tóm tắt dùng được; không tạo kết luận mạnh."
     },
     {
       "domain": "Sách",
       "status": "Thiếu dữ liệu",
-      "note": "Chỉ 1 mục có tóm tắt dùng được; không tạo kết luận mạnh."
+      "note": "Chỉ 0 mục có tóm tắt dùng được; không tạo kết luận mạnh."
     },
     {
       "domain": "Google Trends",

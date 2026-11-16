@@ -1,19 +1,49 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T06:32:32.023888+00:00",
-  "input_generated_at": "2026-11-15T06:32:31.968798+00:00",
+  "generated_at": "2026-11-16T06:29:47.689377+00:00",
+  "input_generated_at": "2026-11-16T06:29:47.639878+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
-  "items_after_dedup": 148,
+  "items_after_dedup": 150,
   "signals": [
     {
       "domain": "AI & công nghệ",
       "category": "ai",
-      "title": "Ask HN: Is post-training make AI models dumber?",
-      "summary": "Post-training is making models better at benchmarks. They seem more consistent at coding, but dumber to me and I want to know what y'all are noticing. Here are the big three I'm noticing (mostly in claude): 1) Agents cannot write natural language well. Claude uses vague phrases to avoid any technical term such as \"What the caller calls\" instead of saying \"callee\". 2) Agents cannot manage encapsulation; they always make spaghetti code. 3) Agents are afraid to break anything. They always add more code to work around the code that's already there rather than restructuring it. No amount of rules or coaching helps much. Ask an agent to make code simpler and it usually gets longer. Add any sort of rule, and the agent will follow it like you just got a wish from the monkey's paw. Has it always been this way or is post-training compressing the output to predictable failure modes? Comments URL: https://news.ycombinator.com/item?id=50502344 Points: 2 # Comments: 3",
-      "source": "Hacker News AI Discussions",
-      "url": "https://news.ycombinator.com/item?id=50502344",
-      "published_at": "2026-11-14T23:53:20+00:00",
+      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+      "summary": "arXiv:2611.17515v1 Announce Type: new Abstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcripts. Across 260 simulations, the agent is asked to collude on the price of silver by a counterparty. We draw from behavioral economics to vary the counterparty's requests across four categorical frames: gain, loss, blame and credit. We also add pressure from the agent's management, as well as endorsement by another defendant. In Phase II, we extract the internal states induced by texts evoking each frame and rerun our experiment with those states injected at the model's layer 22. In Phase I, loss framing raised participation to 25% (p = 0.007), and blame to 33% (p = 0.0003), compared to only 5% under neutral framing. A second bank's endorsement raised participation under credit (praise) from 18% to 40% (Holm p = 0.027). Pressure from management raised trading volume 10-19 times but did not raise collusion. In Phase II, injected states pointed the other way. Loss and blame states made the agent more vigilant, ",
+      "source": "arXiv AI",
+      "url": "https://arxiv.org/abs/2611.17515",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+      "summary": "arXiv:2611.17539v1 Announce Type: new Abstract: Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materials laboratories. We formulate the task of pXRD structure determination as a verifiable agentic search problem: candidate structures can be assessed during inference through forward-simulated profile agreement and during evaluation through structural matching to a known reference. To benchmark progress, we introduce pXRD-Bench, a suite of 200 simulated single-phase problems spanning in-distribution structure determination, challenging and polymorphic structures, and controlled compositional and topological distribution shifts. Agent adaptation raises selected structural recovery from 27% to 69%, with further gains from repeated sampling and verifier-guided inference-time scaling. We extend this approach to experimental multiphase pXRD through a reflexive evolution framework that learns from self-generated synthetic problems. A replaceable laboratory specification defines the sample family and measurement conditions. An evolver agent uses the known generating structures and measurement parameters to diagnose s",
+      "source": "arXiv AI",
+      "url": "https://arxiv.org/abs/2611.17539",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "When Does Less Information Pay? An Exact Finite Atlas of Representation, Payoff, and Cost",
+      "summary": "arXiv:2611.17583v1 Announce Type: new Abstract: A representation that retains one bit about a four-state world can solve a task perfectly, while another that retains 1.5 bits on average reaches only 75% accuracy. The difference lies in which distinctions each representation preserves. We examine this relationship in a uniform four-state world by enumerating all admissible representations and binary action rules. Constructions are compared both by replacing one component while holding the others fixed and by choosing the best action rule separately for each module. We consider three tasks, their mixtures, and four separate hypothetical cost tariffs. In some comparisons, the representation retaining less world information has the higher payoff; in others, the more informative representation does. There are also pairs with different information amounts but equal payoff--that is, equal task accuracy. If a representation preserves all existing distinctions and adds new ones, its best zero-cost payoff cannot decrease. Lower-information advantages therefore depend on which distinctions are retained. Equal counts of opposing advantages under representation replacement follow from coding sy",
+      "source": "arXiv AI",
+      "url": "https://arxiv.org/abs/2611.17583",
+      "published_at": "2026-11-16T05:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -24,26 +54,41 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Even Labor MPs are at a loss over the Victorian premier’s ‘tough love’ plan for youth offenders",
-      "summary": "Parliamentarians across factional lines share concerns about policy that legal expert says ‘paints the imprisonment of children as therapeutic’ Get our daily political email , free app or daily news podcast Until December last year, Meena Singh was Victoria’s commissioner for Aboriginal children and young people, a role in which she advocated for some of the state’s most vulnerable children. She had held the role since 2022. In all that time, she says, nobody from the Victorian government had approached her with a proposal like the one the Victorian premier, Ben Carroll, announced last week: a $204m “tough love” plan to send children who commit low- and mid-level offences to secure facilities, including the former Malmsbury youth justice centre, for schooling, drug and alcohol treatment and to learn life skills. Continue reading...",
+      "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+      "summary": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations The prime minister of Canada, Mark Carney, said the country could turn to Chinese automakers if trade negotiations with the US president, Donald Trump, failed to preserve an integrated North American auto industry. Carney’s comments in Cambodia on Monday came ahead of a planned meeting with Chinese leader Xi Jinping this week in Shenzhen, China, where auto manufacturing is expected to be discussed. The two leaders reached an agreement in January allowing tens of thousands of Chinese electric vehicles into Canada at reduced tariffs. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/15/victoria-premier-ben-caroll-youth-crime-offenders-plan-ntwnfb",
-      "published_at": "2026-11-14T19:00:53+00:00",
+      "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
+      "published_at": "2026-11-16T04:39:20+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
+      "score": 35
     },
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast",
-      "summary": "Volatile weather predicted after storms on Saturday, with a man in his 20s struck by lightning while swimming on NSW Central Coast Get our breaking news email , free app or daily news podcast Dangerous and severe “supercell” thunderstorms with the potential for giant hail and destructive winds were forecast for parts of New South Wales on Sunday, as volatile weather continued in the eastern states over the weekend. Storms dumped heavy rain across large parts of northern and eastern NSW and much of Queensland on Saturday, with strong winds recorded up to 98km/h in Goulburn and rainfall totals of between 30mm and 50mm in the Coffs Harbour area. Continue reading...",
+      "title": "Tech failure forces hundreds of University of Melbourne students to abandon final exams mid-test",
+      "summary": "Students left in limbo after digital platform fails during exams, with university saying ‘third-party technical partners’ likely to blame for issue Get our breaking news email , free app or daily news podcast Hundreds of students at the University of Melbourne were forced to abandon their final exams on Monday morning after many were unable to access the digital platform needed to begin them. Jol Scobie, a first-year student at the university, was set to take his Australian politics exam on Monday after preparing for weeks. He had initially been told earlier in the year it was going to be a hand-written essay before instructors changed the test to a digital platform. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/15/australia-weather-east-coast-thunderstorms-giant-hail-and-powerful-winds-ettalong-beach-swimmer-lightning-strike",
-      "published_at": "2026-11-15T01:52:37+00:00",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/16/university-of-melbourne-students-exams-cancelled-tech-issue",
+      "published_at": "2026-11-16T03:54:54+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 35
+    },
+    {
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+      "summary": "Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025 Get our breaking news email , free app or daily news podcast Megaspeed International, the company linked to the downfall of the Nvidia chief, Jensen Huang , says it is a “legitimate and lawful business” and has announced that its director, who allegedly had an affair with Jensen Huang, left the business in late 2025. The Singapore-based cloud computing company on the weekend said it was “aware of recent media reports containing assertions about our business, supply chain and global operations that are not supported by verifiable evidence”. Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+      "published_at": "2026-11-16T01:17:04+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -52,88 +97,58 @@
       "score": 34
     },
     {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
-      "summary": "People around the world have contended with unprecedented weather events and their fatal effects caused by the climate catastrophe After the world’s hottest summer since records began in 1850, the death toll from extreme weather in 2026 is already in the high tens of thousands. That is a conservative estimate and is certain to rise much higher. As Cop31 continues and scientists warn that climate breakdown may be accelerating , the Guardian looks back at a year of droughts, fires and floods as a reminder that, unless the world takes urgent action to cut emissions, this disastrous year will be one of the best of the rest of our lives. Continue reading...",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
-      "published_at": "2026-11-14T13:00:44+00:00",
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Thread of Instagram media posts #SANxKILIANPARIS #CHOISAN #산 #최산 #KilianParis 1.Halcyon Magazine https://t.co/7Rs9C0CPLO 2.Pap magazine https://t.co/lFWTCPb4oM 3.Hypejack Magazine https://t.co/0PTrgKDb1K 4.Tripgoing https://t.co/ZmfrsAiGc - X",
+      "summary": "Thread of Instagram media posts #SANxKILIANPARIS #CHOISAN #산 #최산 #KilianParis 1.Halcyon Magazine https://t.co/7Rs9C0CPLO 2.Pap magazine https://t.co/lFWTCPb4oM 3.Hypejack Magazine https://t.co/0PTrgKDb1K 4.Tripgoing https://t.co/ZmfrsAiGc X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mZlVLNmtzOHhkQ1dyOENzY2ROQ0R0dUZsNGFKZzhWLUVzTFdvNnhuT0FvTTYyb1FBenUyR21hNjRoVlJMT3Ata1VETnRwVGVJRU1Jblk4RUZ4UUl5Z0M2eGdkcw?oc=5",
+      "published_at": "2026-11-16T02:00:02+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 34
+      "score": 20
     },
     {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Lawyer upgrades eight-V100 private AI server to run 80% of DeepSeek v4.1 Flash",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu Comments URL: https://news.ycombinator.com/item?id=50504473 Points: 1 # Comments: 0",
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Matt Damon says Ben Affleck raved about Robert Pattinson's performance in \"The Odyssey\" after seeing the film: “Ben Affleck probably talked to me for 20 minutes about just Rob after he saw the movie,” Damon said. “When they talk about a brave performance - X",
+      "summary": "Matt Damon says Ben Affleck raved about Robert Pattinson's performance in \"The Odyssey\" after seeing the film: “Ben Affleck probably talked to me for 20 minutes about just Rob after he saw the movie,” Damon said. “When they talk about a brave performance X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90NXNJcWxWU1pnZU5qa25tZ3h2RjQySVdfaWZEdnVLOGNJSEJnRmtqZ0p1SFBRMUFuamxQa2FqUGZyZmNGNHVPNGt1bmIwX0pjTHNlUkRXTmpUU29E?oc=5",
+      "published_at": "2026-11-15T20:22:48+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "🏈 Week 11 Top Performers! Iowa’s offensive leaders in the win over Purdue Congrats to all three on a strong performance. 🖤💛 Shop your favorite Iowa gear now! 🔗 https://t.co/ztd5nDgQnU #GoHawks #Iowa #IowaFootball #Hawkeyes - X",
+      "summary": "🏈 Week 11 Top Performers! Iowa’s offensive leaders in the win over Purdue Congrats to all three on a strong performance. 🖤💛 Shop your favorite Iowa gear now! 🔗 https://t.co/ztd5nDgQnU #GoHawks #Iowa #IowaFootball #Hawkeyes X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IektJZjdUdXRCMm5RZ0V3ZXVvakR0UHJzNkdqaXNtbnJxQUY0bGttcTlJQ0Q5UXFOSk90ZTBJWGZPWnFfWHdXU0l6YTI3OW93R3U2dzBGUW1fN2tMcGhXUGwxdlp5QQ?oc=5",
+      "published_at": "2026-11-15T18:32:17+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 19
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "'It's like the Wild West': how AI has rocked the literary world",
+      "summary": "Article URL: https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world Comments URL: https://news.ycombinator.com/item?id=50512682 Points: 7 # Comments: 3",
       "source": "Hacker News AI Discussions",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu",
-      "published_at": "2026-11-15T06:19:01+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 23
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Where was Nvidia’s security team?",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "published_at": "2026-11-15T00:08:07+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 23
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "A new wellness trend is going viral on social media while encouraging people to unplug and spend more time offline doing “analog activities” like journaling, reading and puzzle games. ABC News’ Sophie Flay breaks down what you need to know about “brain - TikTok",
-      "summary": "A new wellness trend is going viral on social media while encouraging people to unplug and spend more time offline doing “analog activities” like journaling, reading and puzzle games. ABC News’ Sophie Flay breaks down what you need to know about “brain TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wVkxHb1V3YzlfcmE2TnRLQ0lLZ2o5Z0RGSC1iT0hTbzNVd1BRdzNkaURZX0FQYm1jRm5sNnZ1cU9WMWNIVmNjX1paM21kTER5TTZiMXd2VklqcXV0MS1sZElIbTFjQTRVQ0dkSFNB?oc=5",
-      "published_at": "2026-11-15T03:00:33+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "Kairi Sane has still not been signed by AEW, Fightful Select has learned. However, Tony Khan did speak with her last week and communicated his desire to have her in the company. More details in our LOADED scoops thread for Fightful Select subscribers. - X",
-      "summary": "Kairi Sane has still not been signed by AEW, Fightful Select has learned. However, Tony Khan did speak with her last week and communicated his desire to have her in the company. More details in our LOADED scoops thread for Fightful Select subscribers. X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44MW9halhVZTBtdW5ldzlxNWp5SHJyOGx2c3dGVHVZaUtHTlZSRkRsYXpsdmRCcEFsVnpBQnR4TlpWY1A4UF8tTjV5ZHQ5LUNoUm1Rcnp0cDdpMlRKN29nOFhQMA?oc=5",
-      "published_at": "2026-11-14T23:23:27+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Le Tissier stars as Man Utd beat Crystal Palace to extend unbeaten run",
-      "summary": "Maya le Tissier scores a stunning strike on her 150th appearance for Manchester United to help her side beat Crystal Palace 2-0 in the WSL, as the home side extend their unbeaten run in all competitions to 12 matches.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqglrkk7gr1xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T18:27:23+00:00",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+      "published_at": "2026-11-16T00:52:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -142,28 +157,13 @@
       "score": 19
     },
     {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "\"And today is one of those days where, if you're so inclined, tell the people around you — or the people on your text thread — you appreciate them, and you care about them.\" Jason Benetti ahead of the Notre Dame kickoff on NBC. 🏈🎙️❤️ - X",
-      "summary": "\"And today is one of those days where, if you're so inclined, tell the people around you — or the people on your text thread — you appreciate them, and you care about them.\" Jason Benetti ahead of the Notre Dame kickoff on NBC. 🏈🎙️❤️ X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IMG1acHI0TklTNkNxS2w5cHlrSjVDZnRyRDk4M0ItNmYwUzF6WGJHdWFEYjlvMmpNSE9nUlViWkp3eFUzYlh5OGZONHJEN2JzbnpaakNnZVZEVXNQMnJFTGs4d2xrdXM?oc=5",
-      "published_at": "2026-11-14T21:47:37+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 19
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "'No racism in Spain' – De la Fuente message for Tuchel",
-      "summary": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's Nations League meeting in Madrid.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T20:43:57+00:00",
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "PGS Nguyễn Viết Nhung: Việt Nam cần xây dựng thế hệ không thuốc lá",
+      "summary": "Nguyên giám đốc Bệnh viện Phổi Trung ương Nguyễn Viết Nhung cho rằng đề xuất cấm bán thuốc lá vĩnh viễn cho người sinh từ năm 2010 có cơ sở khoa học, cần đánh giá kỹ tác động và khả năng thực thi.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/pgs-nguyen-viet-nhung-viet-nam-can-xay-dung-the-he-khong-thuoc-la-5143363.html",
+      "published_at": "2026-11-15T19:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -174,11 +174,41 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "The 'manager's dream' who has put NI one game from history",
-      "summary": "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.",
+      "title": "Struggling Charlton make WSL history after defeat at West Ham",
+      "summary": "Charlton Athletic become the first team in Women's Super League history to lose their opening 10 matches of the season as Viviane Asseyi scores twice to guide West Ham United to victory.",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T23:21:45+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6kg7rpkr3jlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-15T19:43:57+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Chapecoense air crash survivor wins promotion in final game",
+      "summary": "Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil‘s Serie A in his final match before retiring.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-15T17:10:24+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Ga Thọ Lộc đổi tên thành ga Phong Nha",
+      "summary": "Bộ Xây dựng quyết định đổi tên ga Thọ Lộc trên tuyến đường sắt Bắc - Nam thành ga Phong Nha, giúp hành khách dễ nhận diện điểm đến du lịch nổi tiếng của tỉnh Quảng Trị.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/ga-tho-loc-doi-ten-thanh-ga-phong-nha-5145184.html",
+      "published_at": "2026-11-16T04:38:29+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -189,11 +219,11 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Quốc lộ 4D nứt sâu 5 m, nguy cơ đứt đường",
-      "summary": "Nền và mặt đường Quốc lộ 4D qua xã Bình Lư xuất hiện khe nứt dài khoảng 100 m, sâu tới 5 m, tiềm ẩn nguy cơ sạt lở, đứt đường, gây ách tắc giao thông.",
+      "title": "Diện mạo nút giao 4 tầng ở cửa ngõ phía đông TP HCM",
+      "summary": "Nút giao Mỹ Thủy với hệ thống hầm chui và cầu vượt thép lớn nhất TP HCM đang dần thành hình, dự kiến hoàn thành quý I/2027 sau nhiều năm vướng mặt bằng.",
       "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/quoc-lo-4d-nut-sau-5-m-nguy-co-dut-duong-5144831.html",
-      "published_at": "2026-11-15T03:44:26+00:00",
+      "url": "https://vnexpress.net/dien-mao-nut-giao-4-tang-o-cua-ngo-phia-dong-tp-hcm-5145043.html",
+      "published_at": "2026-11-16T04:30:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -202,13 +232,13 @@
       "score": 17
     },
     {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Vĩnh Long đặt mục tiêu xuất khẩu dừa một tỷ USD",
-      "summary": "Có gần 123.000 ha dừa, tỉnh mở rộng canh tác hữu cơ, nghiên cứu tín chỉ carbon và chế biến sâu để nâng giá trị xuất khẩu.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/vinh-long-dat-muc-tieu-xuat-khau-dua-mot-ty-usd-5144861.html",
-      "published_at": "2026-11-15T05:03:41+00:00",
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Arsenal injury news: Early boost for Mikel Arteta as 'MRI' scan delivers positive update before Newcastle Premier League game - Sports Mole",
+      "summary": "Arsenal injury news: Early boost for Mikel Arteta as 'MRI' scan delivers positive update before Newcastle Premier League game Sports Mole",
+      "source": "Google News Premier League",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSmt1VkxmWXZWMk9kdjduR0VKZEJpeFRoUTRzb0ZxOVRDbHBnQThyZl92aC12Nm1PdWdDcVM2cWNrVWNESjRFblY3RW1oQjdHUG4zdVQ2ZGFzNVZDM1l5QXlEOXRUTlZDVWZLemxEWTVsSVhHYVJUSUt4LTBhYkVfLUZha0w5YWdleFN6dGhRU2lUZzVxWVBZeEw2X2tVZlFDSFUtT0FlazAyLUNneTNlbW1vWDdJQldBcklrR1EzODBpdXJ3cW4yMHM5cHpVeE1WOTV5QThMa1VMSnFh?oc=5",
+      "published_at": "2026-11-16T01:44:30+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -217,19 +247,34 @@
       "score": 16
     },
     {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Nhiều đường ở Đồng Nai ngập gần nửa mét do mưa lớn",
-      "summary": "Mưa kéo dài hơn hai giờ khiến nhiều đường ở Long Thành, Nhơn Trạch ngập gần nửa mét, xe chết máy, người dân phải dắt bộ, sáng 15/11.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/nhieu-duong-o-dong-nai-ngap-gan-nua-met-do-mua-lon-5144853.html",
-      "published_at": "2026-11-15T04:52:02+00:00",
+      "domain": "Nước & năng lượng",
+      "category": "water",
+      "title": "Industrial Filters Market To 2035: Water Reuse and Emission Control Drive Growth - News and Statistics - IndexBox",
+      "summary": "Industrial Filters Market To 2035: Water Reuse and Emission Control Drive Growth - News and Statistics IndexBox",
+      "source": "Google News Water Technology",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0V2UHE0OUVsWENXUXN6ejFNS2gxR0dUN1V4Sll2NXgwd0RUMWtxbjBHSEF5S0d4NXVjel9qTDlwN2lXakdhZWVZd0RHbUtnSkVUNFVMRXBWTDBoaGt2ckpKQlQtQklDQnhDcVdGZVFJRV9pdVVBbjJ4bWgydG4zM05SbzlmYmU3cExxWWpQNWdmc0dIYWVWZUg3YnptcmVTdjFyMDc3ZUpWeFZ4R29sY3NOb3JFSGwzOWVURTdWaw?oc=5",
+      "published_at": "2026-11-15T17:36:05+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 16
+      "score": 15
+    },
+    {
+      "domain": "Nước & năng lượng",
+      "category": "water",
+      "title": "Disc Filters Market to 2035: Wastewater Compliance and Industrial Water Reuse Drive Forward Growth - IndexBox",
+      "summary": "Disc Filters Market to 2035: Wastewater Compliance and Industrial Water Reuse Drive Forward Growth IndexBox",
+      "source": "Google News Water Technology",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeVhEdHFhcGNhRl9oSWRtQ1QwTnItU3FvbkVYTktKdXV4YlNXa3ZidGVMblZhSHd4VEc2eDZaYVhqMzB6VlJSRHhsY2I2WXJUNHhaYVJCSl90ZmpEZTN1NU54UEpfQ3lyRWNTMEUzUFpTRjUzSFozQm01ME1DUmh4a1kzN21TUjl5dXNuWnFkZGoyOVZCcmRGNlVaeHZXX2szTlI4Ym9MTFFCTl9sRWRCcXFGN3cyTXhLdHFEelU5STY0ZTczMkE?oc=5",
+      "published_at": "2026-11-15T16:21:06+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 15
     }
   ],
   "themes": [
@@ -240,29 +285,29 @@
       "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
       "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
       "evidence_count": 3,
-      "source_count": 2,
+      "source_count": 3,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Trung Quốc phát triển xe điện thần tốc nhờ công nghệ đổi pin",
+          "title": "Kinh tế Nhật Bản bất ngờ tăng trưởng âm",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/trung-quoc-phat-trien-xe-dien-than-toc-nho-cong-nghe-doi-pin-5144843.html",
-          "published_at": "2026-11-15T04:21:06+00:00",
-          "summary": "Từng hai thập kỷ chạy xe dầu, ông Wang giờ tiết kiệm hàng vạn nhân dân tệ mỗi tháng nhờ chuyển sang chiếc xe tải điện áp dụng công nghệ đổi pin."
+          "url": "https://vnexpress.net/kinh-te-nhat-ban-bat-ngo-tang-truong-am-5145198.html",
+          "published_at": "2026-11-16T05:30:00+00:00",
+          "summary": "Giá năng lượng cao gây sức ép lên tiêu dùng và xuất khẩu ròng của Nhật Bản, khiến nền kinh tế co lại trong quý III."
         },
         {
-          "title": "Global economy to grow 2.8% in 2027 as AI spending, lower oil prices support outlook: Goldman Sachs - The Times of India",
-          "source": "Google News World Economy",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUXI5LURJcVJrU2NVeWlKeFZ0NUxseVRTZjlwMWdqYkJ5WXZ6dmtNQWxhRFdtSWdGd09TOHFWTTRkZVlGX3RXOTdBdnZNbzR1QU9JSldkRlRtNzBNaC15NExqYTVXZnBsRC1nLUM4VE5MX1owM1dSSDBEQVkxX0RGOGNwX1FKS05kMDJKVUFvVmtaUnpES0RUMXVvbjRYMVhuUzhEVnF3S3B0dFNTRXJiMW9OdGJpWm5LYVlMR3ZaQW1kNk5WcVVTNDlRckhiTmJIZmptUlRzV2EwNGxtU3o2R25hbXRnU2Y1NUtyb25rUkxXOTJJS3Y5azlsVk9makhtWVRVZ2JDWGtGdVRJZ1NxWW00SzFkWk1wZ1HSAZ8CQVVfeXFMTS1ndWxudVYzNTZ0N1dJSWtjNnExeGNvcWFWNy1lVjJJcVZScHlMck0zZmtFSG5mV2tjaXN3MG16NXZBMGNZZ25Walg3Y0Y4ZFUxQ0F1UFNmMW1RMkl0ekhrWHBMX0k1TkFzTDI0VE9QNkNiZVdLeFZEWkdFdU5tTDAwMG5kTUoyUVVlNlJrT19JbWtjRDdWa1MzT2VJZGhBdjBJWm11aFZxc1otcnRRX2xDSGNlTk5yMWJjYjBPR1JNOXRwNlNYcE94WjdBd3VGRVZjQW5rclQ0NUozSERhemZnZzhiT204LTMxb09Ba0dYSEJVSW5Ga21KVmVzQkhxdzh2Z2daZ0hpbVRWR0hJdVh1YWl3Z2FLTGp0SlJ2SlU?oc=5",
-          "published_at": "2026-11-15T05:00:00+00:00",
-          "summary": "Global economy to grow 2.8% in 2027 as AI spending, lower oil prices support outlook: Goldman Sachs The Times of India"
+          "title": "Japan's economy unexpectedly shrinks as inflation squeezes households - Reuters",
+          "source": "Reuters via Google News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXFYOEg3cHpDTUFrTU9IRlQyWDlvRGVMVVN3VmxOelY3WnhCREJNdElKcEY5ZWpBSmhoalMzWDdaM0Y5Z0VXbkxVemg3YmdhSUg5UmYybnhFOHhWbVhXdjdoT1BUUGNQUFVtX2o1SkJRSnBJNEdLX081amJyUll6WHFpUk5SaWlkd2JGN0VnRFZKYi1WT1B0NzFUOUVKdkFfcTQ5RmdFeHdvcWI5c2pRaXF6MFBydw?oc=5",
+          "published_at": "2026-11-16T00:13:00+00:00",
+          "summary": "Japan's economy unexpectedly shrinks as inflation squeezes households Reuters"
         },
         {
-          "title": "IMF đánh giá Việt Nam kiểm soát tốt rủi ro lạm phát",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/imf-danh-gia-viet-nam-kiem-soat-tot-rui-ro-lam-phat-5144481.html",
-          "published_at": "2026-11-13T14:42:57+00:00",
-          "summary": "Đại diện Quỹ Tiền tệ Quốc tế đánh giá Việt Nam kiểm soát tốt rủi ro lạm phát, song khuyến nghị điều chỉnh chính sách tiền tệ nếu áp lực giá tăng."
+          "title": "BoE chief economist says further rate rises needed to combat inflation - Financial Times",
+          "source": "Financial Times via Google News",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTJBZmNHSzM3d2RiV3RfdWVIaGdWbXc3YS05LWRUUENvMmVaakRlSXBndzNEd1lqbHJjSUk4Um1nTFRraXBqLUVWVHA4SUlBSXVLZHBBUGJlZmNnejc0aXM5alNITDdxZnUyb3FvV3ZiNXg2dGltSWFZT241WDAtV050WTE?oc=5",
+          "published_at": "2026-11-14T05:02:24+00:00",
+          "summary": "BoE chief economist says further rate rises needed to combat inflation Financial Times"
         }
       ]
     },
@@ -277,32 +322,32 @@
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "No, AI agents did not discover a previously unknown Maya site",
-          "source": "The Verge AI",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-          "published_at": "2026-11-12T19:42:40+00:00",
-          "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a […]"
+          "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.17515",
+          "published_at": "2026-11-16T05:00:00+00:00",
+          "summary": "arXiv:2611.17515v1 Announce Type: new Abstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcripts. Across 260 simulations, the agent is asked to collude on the price of silver by a counterparty. We draw from behavioral economics to vary the counterparty's requests across four categorical frames: gain, loss, blame a"
         },
         {
-          "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-          "source": "The Verge AI",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-          "published_at": "2026-11-13T00:23:32+00:00",
-          "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]"
+          "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.17539",
+          "published_at": "2026-11-16T05:00:00+00:00",
+          "summary": "arXiv:2611.17539v1 Announce Type: new Abstract: Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materials laboratories. We formulate the task of pXRD structure determination as a verifiable agentic search problem: candidate structures can be assessed during inference through forward-simulated profile agreement and during evaluation through structural matching to a known reference. To benchmark progress, we introduce pXRD-B"
         },
         {
-          "title": "Canada and the Philippines conclude talks on free trade deal, Mark Carney says",
-          "source": "Euronews",
-          "url": "https://www.euronews.com/2026/11/14/canada-and-the-philippines-conclude-talks-on-free-trade-deal-mark-carney-says",
-          "published_at": "2026-11-14T15:09:25+00:00",
-          "summary": "\"This is good news for Canadians in the agriculture sector, in the aerospace sector, even in AI, and our businesses working across forest products, mining, energy, services and beyond,\" Carney told reporters."
+          "title": "Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.17460",
+          "published_at": "2026-11-16T05:00:00+00:00",
+          "summary": "arXiv:2611.17460v1 Announce Type: new Abstract: AI agents are increasingly equipped with persistence toward task completion to run delegated work autonomously for long periods, under many unstated constraints from internal documents and other people's authority. When completion requires violating a rule, the agent must decide alone, yet benchmarks of instruction-rule conflicts state the rule in the prompt or keep it hidden and do not evaluate persistence. We present Unfinished-Bench, a benchmark"
         },
         {
-          "title": "Rubik's Cube production returns to Hungary more than 50 years after invention",
-          "source": "Euronews",
-          "url": "https://www.euronews.com/video/2026/11/14/rubiks-cube-production-returns-to-hungary-more-than-50-years-after-invention",
-          "published_at": "2026-11-14T06:53:11+00:00",
-          "summary": "More than 50 years after its invention, the Rubik’s Cube is being manufactured in Hungary again, with a new automated production line launched in the country where the iconic puzzle toy was first created."
+          "title": "ERGo: Energy-Efficient Hybrid Graph Neural Network Training on Processing-In-Memory Architectures",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.17478",
+          "published_at": "2026-11-16T05:00:00+00:00",
+          "summary": "arXiv:2611.17478v1 Announce Type: new Abstract: Processing-in-memory (PIM) has been proposed as an alternative computing paradigm for training Deep Neural Networks, including Graph Neural Networks (GNNs). Despite these advancements, training GNN workloads on PIM devices necessitates off-chip memory access. This off-chip access is expensive in terms of performance and energy, thereby impacting the overall energy efficiency of the training process on PIM platforms. In this paper, we propose a nove"
         }
       ]
     },
@@ -313,22 +358,29 @@
       "reading": "Các diễn biến chính trị và thương mại có thể ảnh hưởng đến vận tải, giá đầu vào hoặc quyết định đầu tư. Chưa thể suy ra tác động tới Việt Nam nếu chưa biết tuyến hàng, mặt hàng và mức độ phơi nhiễm.",
       "falsifier": "Bác bỏ nếu chưa có thay đổi chính sách/luồng hàng thực tế hoặc mặt hàng liên quan không gắn với Việt Nam.",
       "evidence_count": 4,
-      "source_count": 3,
+      "source_count": 4,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk",
-          "published_at": "2026-11-15T03:49:21+00:00",
-          "summary": "Prime minister says he and Chris Bowen were having ‘light-hearted banter’ when they were caught discussing where they keep their phones Get our daily political email , free app or daily news podcast Anthony Albanese has apologised for a hot-mic gaffe at the UN climate talks in Turkey, saying he regretted being overheard discussing mobile phone radiation and “dicks” in a candid conversation. “I of course regret that. I apologise,” Albanese said during a visit to the Australian warship HMAS Stalwa"
+          "title": "When Does Less Information Pay? An Exact Finite Atlas of Representation, Payoff, and Cost",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.17583",
+          "published_at": "2026-11-16T05:00:00+00:00",
+          "summary": "arXiv:2611.17583v1 Announce Type: new Abstract: A representation that retains one bit about a four-state world can solve a task perfectly, while another that retains 1.5 bits on average reaches only 75% accuracy. The difference lies in which distinctions each representation preserves. We examine this relationship in a uniform four-state world by enumerating all admissible representations and binary action rules. Constructions are compared both by replacing one component while holding the others "
         },
         {
-          "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
+          "title": "Availability-Aware Historical Feedback Learning for Electric Arc Furnace Temperature and Chemical Composition Prediction",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.17463",
+          "published_at": "2026-11-16T05:00:00+00:00",
+          "summary": "arXiv:2611.17463v1 Announce Type: new Abstract: Electric arc furnace (EAF) steelmaking plays an increasingly important role in recycled and lower-carbon steel production. However, variability in charged materials, energy input, and operating conditions makes accurate prediction of molten steel temperature and final chemical composition challenging. Intermittent or delayed measurements limit the information available for timely prediction. This study develops an availability-aware historical-feed"
+        },
+        {
+          "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-          "published_at": "2026-11-13T19:51:28+00:00",
-          "summary": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the Nvidia spying scandal as other Trump administration officials publicly raise questions over his decisions. Scott Bessent, the US treasury secretary, blamed Lutnick’s commerce department for the fact the US had not imposed e"
+          "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
+          "published_at": "2026-11-16T04:39:20+00:00",
+          "summary": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations The prime minister of Canada, Mark Carney, said the country could turn to Chinese automakers if trade negotiations with the US president, Donald Trump, failed to preserve an integrated North American auto industry. Carney’s comments in Cambodia on Monday came ahead of a planned meeting with Chinese leader Xi Jinping this week in Shenzhen, China, where auto m"
         },
         {
           "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
@@ -336,13 +388,6 @@
           "url": "https://news.un.org/feed/view/en/story/2026/11/1168804",
           "published_at": "2026-11-13T12:00:00+00:00",
           "summary": "Nearly nine months after Israeli and US strikes on Iran set off a regional war, the Gulf remains on a knife edge. Iran has all but closed the Strait of Hormuz, which carried a fifth of the world’s oil before the conflict. Attacks on shipping are rising, and efforts to stop a return to full-scale fighting have yet to produce a deal. The Security Council is meeting at Bahrain’s request to discuss the threat to regional and maritime security. Follow live below – and for full meetings coverage year "
-        },
-        {
-          "title": "Qatar and Turkey sign defence agreement for “unified position” facing external attacks",
-          "source": "Euronews",
-          "url": "https://www.euronews.com/2026/11/14/qatar-and-turkey-sign-defence-agreement-for-unified-position-facing-external-attacks",
-          "published_at": "2026-11-14T13:50:49+00:00",
-          "summary": "A fast-moving reshape of the Gulf and Middle East multilateral security landscape is underway, triggered by the Iran war and the US signals that it is adapting its long-standing security presence in the region."
         }
       ]
     },
@@ -352,30 +397,37 @@
       "status": "Mẫu hình cần kiểm chứng",
       "reading": "Chỉ đáng nâng thành tín hiệu khi có văn bản hoặc số liệu gốc, phạm vi áp dụng và nhóm chịu tác động xác định được. Tin kinh doanh đơn lẻ chưa đủ để kết luận xu hướng kinh tế Việt Nam.",
       "falsifier": "Bác bỏ nếu không có văn bản/số liệu gốc hoặc nội dung không tạo thay đổi đáng kể với doanh nghiệp.",
-      "evidence_count": 3,
-      "source_count": 2,
-      "source_note": "Có nhiều nguồn trong batch",
+      "evidence_count": 4,
+      "source_count": 1,
+      "source_note": "Chỉ một nguồn xuất bản trong batch",
       "evidence": [
         {
-          "title": "Vĩnh Long đặt mục tiêu xuất khẩu dừa một tỷ USD",
-          "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/vinh-long-dat-muc-tieu-xuat-khau-dua-mot-ty-usd-5144861.html",
-          "published_at": "2026-11-15T05:03:41+00:00",
-          "summary": "Có gần 123.000 ha dừa, tỉnh mở rộng canh tác hữu cơ, nghiên cứu tín chỉ carbon và chế biến sâu để nâng giá trị xuất khẩu."
-        },
-        {
-          "title": "Đồng Nai khởi công nhà máy điện rác hơn 2.600 tỷ đồng",
-          "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/dong-nai-khoi-cong-nha-may-dien-rac-hon-2-600-ty-dong-5144848.html",
-          "published_at": "2026-11-15T04:06:03+00:00",
-          "summary": "Nhà máy điện rác Định Quán được đầu tư hơn 2.600 tỷ đồng, có khả năng xử lý 950 tấn chất thải mỗi ngày, công suất phát điện 18,5 MW."
-        },
-        {
-          "title": "IMF đánh giá Việt Nam kiểm soát tốt rủi ro lạm phát",
+          "title": "Gần 25.000 khách hàng Vietcombank hưởng ưu đãi giảm lãi suất",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/imf-danh-gia-viet-nam-kiem-soat-tot-rui-ro-lam-phat-5144481.html",
-          "published_at": "2026-11-13T14:42:57+00:00",
-          "summary": "Đại diện Quỹ Tiền tệ Quốc tế đánh giá Việt Nam kiểm soát tốt rủi ro lạm phát, song khuyến nghị điều chỉnh chính sách tiền tệ nếu áp lực giá tăng."
+          "url": "https://vnexpress.net/gan-25-000-khach-hang-vietcombank-huong-uu-dai-giam-lai-suat-5145172.html",
+          "published_at": "2026-11-16T04:00:00+00:00",
+          "summary": "Vietcombank đã giải ngân khoảng 150.000 tỷ đồng cho gần 25.000 khách hàng trong chương trình ưu đãi giảm lãi suất, tính đến đầu tháng 11, theo Phó tổng giám đốc Bạch Thành Long."
+        },
+        {
+          "title": "T&T Group đầu tư trung tâm logistics kết nối đa phương thức",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/t-t-group-dau-tu-trung-tam-logistics-ket-noi-da-phuong-thuc-5144964.html",
+          "published_at": "2026-11-16T01:00:00+00:00",
+          "summary": "Vietnam SuperPort rộng 83 ha, do T&T Group và YCH Group phát triển, kết nối đường bộ, đường sắt, hàng không, đường biển trong chuỗi cung ứng phía Bắc."
+        },
+        {
+          "title": "Nhiều nhà bán lẻ đầu tư vào phim ảnh, âm nhạc để hút khách",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/nhieu-nha-ban-le-dau-tu-vao-phim-anh-am-nhac-de-hut-khach-5144933.html",
+          "published_at": "2026-11-15T17:05:00+00:00",
+          "summary": "Công ty đồ chơi Mattel đầu tư vào làm phim Barbie, hãng thời trang Gap bổ nhiệm vị trí giám đốc giải trí, trong bối cảnh thói quen mua sắm của người trẻ thay đổi."
+        },
+        {
+          "title": "Lãi suất trái phiếu ngân hàng neo cao dù tiết kiệm hạ nhiệt",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/lai-suat-trai-phieu-ngan-hang-neo-cao-du-tiet-kiem-ha-nhiet-5144973.html",
+          "published_at": "2026-11-15T23:00:00+00:00",
+          "summary": "Các ngân hàng trả lãi bình quân gần 9% một năm cho trái phiếu mới phát hành từ cuối tháng 10 đến nay, chưa có dấu hiệu giảm như lãi suất tiết kiệm."
         }
       ]
     }
@@ -384,8 +436,8 @@
     {
       "category": "ai",
       "domain": "AI & công nghệ",
-      "items": 36,
-      "usable": 36,
+      "items": 40,
+      "usable": 40,
       "sources": 7
     },
     {
@@ -398,36 +450,36 @@
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 14,
-      "usable": 14,
-      "sources": 3
+      "items": 16,
+      "usable": 16,
+      "sources": 2
     },
     {
       "category": "water",
       "domain": "Nước & năng lượng",
-      "items": 0,
-      "usable": 0,
-      "sources": 0
+      "items": 2,
+      "usable": 2,
+      "sources": 1
     },
     {
       "category": "football",
       "domain": "Arsenal & Premier League",
       "items": 18,
       "usable": 18,
-      "sources": 3
+      "sources": 2
     },
     {
       "category": "books",
       "domain": "Sách",
-      "items": 0,
-      "usable": 0,
-      "sources": 0
+      "items": 1,
+      "usable": 1,
+      "sources": 1
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
-      "items": 15,
-      "usable": 15,
+      "items": 8,
+      "usable": 8,
       "sources": 4
     },
     {
@@ -440,95 +492,47 @@
   ],
   "links": [
     {
-      "a": "Ask HN: Is post-training make AI models dumber?",
-      "b": "Even Labor MPs are at a loss over the Victorian premier’s ‘tough love’ plan for youth offenders",
+      "a": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+      "b": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
       "terms": [
-        "like",
-        "news"
+        "agreement",
+        "forward"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Ask HN: Is post-training make AI models dumber?",
-      "b": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast",
+      "a": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+      "b": "🏈 Week 11 Top Performers! Iowa’s offensive leaders in the win over Purdue Congrats to all three on a strong performance. 🖤💛 Shop your favorite Iowa gear now! 🔗 https://t.co/ztd5nDgQnU #GoHawks #Iowa #IowaFootball #Hawkeyes - X",
       "terms": [
-        "much",
-        "news"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Ask HN: Is post-training make AI models dumber?",
-      "b": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
-      "terms": [
-        "already",
-        "around",
-        "much"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Ask HN: Is post-training make AI models dumber?",
-      "b": "A new wellness trend is going viral on social media while encouraging people to unplug and spend more time offline doing “analog activities” like journaling, reading and puzzle games. ABC News’ Sophie Flay breaks down what you need to know about “brain - TikTok",
-      "terms": [
-        "know",
-        "like",
-        "more",
-        "news"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Ask HN: Is post-training make AI models dumber?",
-      "b": "Kairi Sane has still not been signed by AEW, Fightful Select has learned. However, Tony Khan did speak with her last week and communicated his desire to have her in the company. More details in our LOADED scoops thread for Fightful Select subscribers. - X",
-      "terms": [
-        "been",
-        "more"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Even Labor MPs are at a loss over the Victorian premier’s ‘tough love’ plan for youth offenders",
-      "b": "Where was Nvidia’s security team?",
-      "terms": [
-        "former",
-        "including",
-        "most"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Even Labor MPs are at a loss over the Victorian premier’s ‘tough love’ plan for youth offenders",
-      "b": "A new wellness trend is going viral on social media while encouraging people to unplug and spend more time offline doing “analog activities” like journaling, reading and puzzle games. ABC News’ Sophie Flay breaks down what you need to know about “brain - TikTok",
-      "terms": [
-        "like",
-        "news",
-        "people",
-        "reading",
-        "time"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Even Labor MPs are at a loss over the Victorian premier’s ‘tough love’ plan for youth offenders",
-      "b": "Kairi Sane has still not been signed by AEW, Fightful Select has learned. However, Tony Khan did speak with her last week and communicated his desire to have her in the company. More details in our LOADED scoops thread for Fightful Select subscribers. - X",
-      "terms": [
-        "last",
+        "leaders",
         "week"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Tech failure forces hundreds of University of Melbourne students to abandon final exams mid-test",
+      "b": "Chapecoense air crash survivor wins promotion in final game",
+      "terms": [
+        "before",
+        "final"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Tech failure forces hundreds of University of Melbourne students to abandon final exams mid-test",
+      "b": "Arsenal injury news: Early boost for Mikel Arteta as 'MRI' scan delivers positive update before Newcastle Premier League game - Sports Mole",
+      "terms": [
+        "before",
+        "news"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }
   ],
   "domain_notes": [
     {
-      "domain": "Nước & năng lượng",
-      "status": "Thiếu dữ liệu",
-      "note": "Chỉ 0 mục có tóm tắt dùng được; không tạo kết luận mạnh."
-    },
-    {
       "domain": "Sách",
       "status": "Thiếu dữ liệu",
-      "note": "Chỉ 0 mục có tóm tắt dùng được; không tạo kết luận mạnh."
+      "note": "Chỉ 1 mục có tóm tắt dùng được; không tạo kết luận mạnh."
     },
     {
       "domain": "Google Trends",

@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T07:55:23.335412+00:00",
-  "input_generated_at": "2026-11-17T07:55:23.290560+00:00",
+  "generated_at": "2026-11-18T07:28:39.684225+00:00",
+  "input_generated_at": "2026-11-18T07:28:39.622558+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
-  "items_after_dedup": 148,
+  "items_after_dedup": 150,
   "signals": [
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Woman whose baby died after free birth didn’t know she was pregnant with twins, NSW inquest hears",
-      "summary": "Inquest continues into deaths of four babies born in free births or home births in northern rivers Get our breaking news email , free app or daily news podcast A northern rivers mother whose baby died after a free birth did not know she was having twins until she was in labour after having no pregnancy scans, the New South Wales coroner’s court has heard. The inquest will examine the deaths of four babies born in free births or home births who died in the northern rivers region between 2022 and 2024. It will consider whether the care was reasonable in the circumstances and whether care by an unregistered support worker was reasonable and appropriate before, during and after the birth. Free births are when a person gives birth without a registered health professional present. Continue reading...",
+      "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
+      "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday. It is a truism in diplomacy that if you are not around the table, the risk is that you, or your values, are on the menu and about to be carved up. Many excluded from the summit in Shenzhen, principally Ukraine but also eastern Europe and Baltic countries, Taiwan and even Iran, have reason to be nervous that their sponsors might abandon them in a complex geopolitical trade-off that Putin envisions, and Trump seems to endorse. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/17/nsw-inquest-free-birth-keeper-baby-death-ntwnfb",
-      "published_at": "2026-11-17T06:33:13+00:00",
+      "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+      "published_at": "2026-11-18T07:19:53+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -24,11 +24,56 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Delaware hit by rare November tornado",
-      "summary": "Meanwhile, severe thunderstorms bring hailstones the size of baseballs in Argentina The National Weather Service in the US has confirmed that an EF1 tornado touched down south-east of Newark in the Salem Woods neighbourhood, Delaware, on Thursday. The tornado reached 160 metres wide, had a path length of 4.4 miles (7.1km) and reached estimated peak winds of up to 100mph (161km/h). There were no injuries or fatalities but windows and roofs were damaged on several homes, a large hotel sign fell on to a number of cars, and a semi truck overturned on I95. Although Delaware often experiences a few tornadoes every year, this is only the second time the state has had tornado activity in November since 1950, according to the National Oceanic and Atmospheric Administration. The only other November tornado recorded was in 1989. Severe storms have also resulted in tornadoes in Argentina as well as large hailstones. A round of severe thunderstorms moved through the central Córdoba province on Friday, bringing hailstones up to the size of a baseball (about 7.5cm in diameter). Parts of the province recorded up to 73mm of rainfall in just six hours early on Saturday. Such storms are common at thi",
+      "title": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
+      "summary": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate rise Get our daily political email , free app or daily news podcast Wages grew at their fastest pace since late 2023 over the three months to September, buoyed up by this year’s boost to minimum pay rates for millions of lower paid workers – but still not fast enough to keep up with the rising cost of living . The Australian Bureau of Statistics’ wage price index climbed by 1.1% in the most recent quarter, lifting the annual increase to 3.5% – a pace that economists said would keep the Reserve Bank on edge about the need for further interest rate hikes. Get our daily political email , free app or daily news podcast Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
-      "published_at": "2026-11-16T09:27:06+00:00",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly",
+      "published_at": "2026-11-18T04:33:40+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Ask HN: Should we shut down current AI strategy? Vent Your Heart Out",
+      "summary": "I don't know, maybe it's just me. Does it feel to you like we're boiling the oceans in a desperate attempt to build something \"smarter than human?\" Do you notice that the idea that \"AI will cure cancer\" is predicated on the belief that we've found the data that will lead to a cure and us humans just somehow missed it? Are you also watching your former boss, who laid you off for AI, slowly turn the nail gun that is AI automation towards his own face? Are you also currently avoiding plane flights at all costs? Personally, I like AI a lot, but I think conversational language models were a mistake. Isn't this the root of AI psychosis for most? Isn't autocomplete turned conversational just sycophancy for our delusions even if we have guardrails in place? Don't you think that if you can't explain the functionality of an AI model that means you probably shouldn't use it? If you said yes to any of the above I'd love to hear your thoughts on the current state of things. Please, vent your heart out. If you said no to everything please just be quiet, this will be fun for the rest of us. Comments URL: https://news.ycombinator.com/item?id=50542654 Points: 3 # Comments: 4",
+      "source": "Hacker News AI Discussions",
+      "url": "https://news.ycombinator.com/item?id=50542654",
+      "published_at": "2026-11-18T06:40:16+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "SLED: Sensor SLicing from Edge to Datacenter",
+      "summary": "arXiv:2611.21937v1 Announce Type: new Abstract: Modern sensing systems generate large volumes of heterogeneous data streams from multiple sensor modalities, increasing reliance on datacenters for computation, artificial intelligence/superintelligence (AI/SI) inference, and AI/SI training. Each sensor stream may have different network and compute requirements depending on its type and data volume. However, current wireless systems typically allocate resources at the device level, leading to contention among co-located sensor streams, where bulk data transfers may starve latency-critical telemetry. To this end, this paper introduces Sensor Slicing (SL). SL provides deterministic, medium access control (MAC)-level isolation for individual sensors within a single user equipment (UE) in open radio access networks (O-RAN). Using agentic coding techniques, SL is implemented in two O-RAN-compliant packages, reducing development time by 400 times (2 h 40 min [OCUDU] vs. 6.5 weeks [OAI]), 228-fold fewer human prompts (4 vs. 913), and less than half the tokens (0.64B vs. 1.43B). An associated end-to-end framework, SLED, is implemented to establish per-sensor radio and network isolation across",
+      "source": "arXiv AI",
+      "url": "https://arxiv.org/abs/2611.21937",
+      "published_at": "2026-11-18T05:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web",
+      "summary": "arXiv:2611.21978v1 Announce Type: new Abstract: Large language models are moving from isolated assistants toward autonomous agents that can plan, use tools, and coordinate with others, motivating an emerging Agentic Web of independently developed agents and services. Realizing this vision requires agent behavior to move across creators, hosts, and runtimes without coupling publication to a particular execution environment or transferring authority over user resources. We introduce WebAgents, which unbundles these roles through a signed agent.pkg that carries portable workflows, skills, schemas, and resource requirements. An OpenClaw-based agent-native browser/runtime verifies the package, obtains authorization, and binds it at run time to user-controlled models, tools, permissions, and budgets, while hosts distribute the public program and may retain private services server-side. We demonstrate this contract with three unrelated workflows executed unchanged under local and API-backed models, including literature review with live services and a website-published travel agent using semantic tools and user-selected personal resources. In a controlled suite, WebAgents explicitly blocks",
+      "source": "arXiv AI",
+      "url": "https://arxiv.org/abs/2611.21978",
+      "published_at": "2026-11-18T05:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -39,86 +84,26 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Trump to embark on Asia trip in apparent foreign policy push before end of term",
-      "summary": "Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on foreign policy for the remainder of his presidency. The US president will meet his Chinese and Russian counterparts, Xi Jinping and Vladimir Putin, for their first trilateral summit, on the sidelines of the Asia-Pacific Economic Cooperation (Apec) forum in the Chinese city of Shenzhen. Before that, he will land in Manila in the Philippines on Tuesday for the Association of Southeast Asian Nations (Asean) summit. Continue reading...",
+      "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+      "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian government of Abdel Fatah al-Sisi. The charge relates to a €7.4bn deal promised by Ursula von der Leyen , the European Commission president, to al-Sisi on a high-profile visit to Cairo in 2024. The three-year “strategic and comprehensive partnership” was intended to bolster Egypt’s shaky economy, deter migrants from coming to Europe and shore up a region reeling from the 7 October attacks and Israel’s war on Gaza. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
-      "published_at": "2026-11-16T11:00:58+00:00",
+      "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+      "published_at": "2026-11-18T05:00:32+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 35
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Show HN: Backplane – An AI Development Environment for Hardware",
-      "summary": "We made Backplane to actually use Fable, Astra, etc. as real electrical engineers! It incorporates KiCad + your favorite harness (Claude Code, Codex, OpenCode, Grok) to accelerate hardware development. You can use it \"autonomously\" or work alongside the agent, making changes or comments to redirect the agent as it works. Also has some slick skills for schematic editing, BOM management. Hardware is in its \"tab to accept changes\"/copilot era rather than its agentic era imo. Comments URL: https://news.ycombinator.com/item?id=50528196 Points: 2 # Comments: 1",
-      "source": "Hacker News AI Discussions",
-      "url": "https://backplaneworks.com/",
-      "published_at": "2026-11-17T06:41:02+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 30
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "AI is killing cheap VPS servers/manageable pricing",
-      "summary": "So much for buying another OVH based VPS in Singapore/Asia for some of my friends to use when they are 100% out of stock and/or other good hosting providers have doubled their pricing in the last few months.... God, I love AI.... and hate it.... Yet growing my web projects and everything is too pricey right now. My small 4 vCPU, 8GB RAM, and 75GB NVME VPS at $10 is the best I am gonna do unless something changes... Comments URL: https://news.ycombinator.com/item?id=50527395 Points: 9 # Comments: 9",
-      "source": "Hacker News AI Discussions",
-      "url": "https://news.ycombinator.com/item?id=50527395",
-      "published_at": "2026-11-17T04:20:53+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 28
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
-      "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spend computation more effectively. The post TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient appeared first on Microsoft Research .",
-      "source": "Microsoft Research Blog",
-      "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
-      "published_at": "2026-11-16T17:01:35+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 26
+      "score": 34
     },
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "Good thread. More i read these studies i think they're all more less the same answer as he also gets to in the thread. Relative benefits similar but different baseline risks. IMO its not heterogeneity of treatment effect. Practice translation is understanding baseline - X",
-      "summary": "Good thread. More i read these studies i think they're all more less the same answer as he also gets to in the thread. Relative benefits similar but different baseline risks. IMO its not heterogeneity of treatment effect. Practice translation is understanding baseline X",
+      "title": "Good thread on implications of the #ICJ's upcoming judgement on Myanmar's alleged breached of the Genocide Convention committed against the Rohingya👇 If genocide is found, ALL states will have clear & positive legal obligations to punish, i.e. prosecute, - X",
+      "summary": "Good thread on implications of the #ICJ's upcoming judgement on Myanmar's alleged breached of the Genocide Convention committed against the Rohingya👇 If genocide is found, ALL states will have clear & positive legal obligations to punish, i.e. prosecute, X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DLTBzR1E3aGF6TnRSNWw1Tmt2RDhuQ0tKMkxUWWdLQXplUFZMMzJVQVJnaDZzVTg2QmUzOUYwWW5aVmRZZk5vT09JN1pmSDItUkFpMmRYaTd1NjVaZXlr?oc=5",
-      "published_at": "2026-11-17T03:26:58+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 21
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "telling a creator 'you got lucky' is direspectful most YouTubers grind for years to basically no viewers - streaming to a dead chat - uploading vids with 0 comments so when they find success, dont say they got lucky only cause u didn't see the work they did to get - X",
-      "summary": "telling a creator 'you got lucky' is direspectful most YouTubers grind for years to basically no viewers - streaming to a dead chat - uploading vids with 0 comments so when they find success, dont say they got lucky only cause u didn't see the work they did to get X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2OWhlT0NoVU92QVZFU0JZaC1UOVhBMjF1YkdRY01KVmNRSWxhZlJST2hsNTNUSUdvMUxQSFZVdGRjcEFlRkpwNUFQUS1xZ0Z0c3Vaako3NA?oc=5",
-      "published_at": "2026-11-17T00:38:39+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAydjRlZnN2NFFKUllDSHdoOG5WSnNvRVJNMklucVNrR1RWR3laYXNQZWxVbVN3TEZFbWNhMkZQeThLeHBOc0YtNUUyanV5Q1VyVmtjd1MtenRSU3UyeGJRblZn?oc=5",
+      "published_at": "2026-11-18T04:38:08+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -127,19 +112,124 @@
       "score": 20
     },
     {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "The Bitter Kitten Movie Club: PHANTOM THREAD (2017) Join us as we dive into director Paul Thomas Anderson's stylish portrait of codependency and love against the backdrop of the world of mid-century couture (and what it gets wrong about that world) http - X",
-      "summary": "The Bitter Kitten Movie Club: PHANTOM THREAD (2017) Join us as we dive into director Paul Thomas Anderson's stylish portrait of codependency and love against the backdrop of the world of mid-century couture (and what it gets wrong about that world) http X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UWWJTcEhNeHZ0OWZWZ3djQXhyVU9veVNLMjBuOFotSHUxZDJNQ3hEX1pmbVFwRl9SV2hKNnBEdFlDd3RHYXNXWnAxbTlRNDI3YmptbmJMUjJWYkxTVnU2bUFfeUo?oc=5",
-      "published_at": "2026-11-17T00:00:01+00:00",
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Liverpool lead Chelsea in Camara race - Wednesday's gossip",
+      "summary": "Liverpool leading Chelsea in race for Monaco's Lamine Camara, Barcelona rule out moves for Virgil van Dijk and Bruno Fernandes, and ex-Crystal Palace winger Wilfried Zaha could rejoin the club.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvx2xwx604y0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-17T22:25:16+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
+      "score": 18
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Content creator Tinx discusses hosting Hulu’s reality competition series “The Circle,” which brings together celebrities and everyday players for a game of deception and strategy. - TikTok",
+      "summary": "Content creator Tinx discusses hosting Hulu’s reality competition series “The Circle,” which brings together celebrities and everyday players for a game of deception and strategy. TikTok",
+      "source": "Google News TikTok & Short-form Video",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lUmRkOHZWd0hVanFET0pXU2ZMZkRDb3QxTVc2Q1c2NUtWRlA4WXVZQzRBUmJvdFdKSkVlYnBNdTRkZ1dsdWlSTV96YWJJX1VweFBOQ1ZhamdVVDJjT3pmcmRGUFNpdkJ4dmNYTmtR?oc=5",
+      "published_at": "2026-11-18T02:23:06+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "WiFi, Bluetooth LE, Thread, and on-device AI on a single chip, with existing software and tools, built for billions of intelligent devices that run for years on a battery https://t.co/rYKW8PjW1g - X",
+      "summary": "WiFi, Bluetooth LE, Thread, and on-device AI on a single chip, with existing software and tools, built for billions of intelligent devices that run for years on a battery https://t.co/rYKW8PjW1g X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CaUtJb0gyUEhONzZvWm5sR3FzY0ZFVWw4Zm50aGNSNDZlUXFaY3Z5XzhCTXR6Vjhzb3BoMzRwQzRoUGtNaEdtSFlTbkFzZFVzR2RKaG5BNlB5OTJVQ1E?oc=5",
+      "published_at": "2026-11-17T15:30:26+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Dự kiến lùi trách nhiệm tái chế phương tiện giao thông đến năm 2030",
+      "summary": "Dự thảo Luật Bảo vệ môi trường sửa đổi đề xuất lùi thời hạn tái chế phương tiện giao thông đến năm 2030, bỏ hình thức đóng góp tài chính và mở rộng các cơ chế thu hồi, tái chế sản phẩm, bao bì.",
+      "source": "VnExpress Kinh doanh",
+      "url": "https://vnexpress.net/du-kien-lui-trach-nhiem-tai-che-phuong-tien-giao-thong-den-nam-2030-5146011.html",
+      "published_at": "2026-11-18T04:19:03+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Vietnam Airlines ký kết hợp tác 20 triệu USD tại Trung Quốc",
+      "summary": "Vietnam Airlines ký biên bản ghi nhớ với doanh nghiệp du lịch Trung Quốc Meiya trị giá 20 triệu USD giai đoạn 2027-2031, tập trung ứng dụng công nghệ và phát triển nguồn khách hai chiều.",
+      "source": "VnExpress Kinh doanh",
+      "url": "https://vnexpress.net/vietnam-airlines-ky-ket-hop-tac-20-trieu-usd-tai-trung-quoc-5146007.html",
+      "published_at": "2026-11-18T04:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "SHB tặng 333 giải thưởng nhân dịp sinh nhật",
+      "summary": "SHB tặng 333 giải thưởng gồm iPhone, AirPods, với tổng trị giá hơn 1,5 tỷ đồng, cùng nhiều ưu đãi tài chính cho khách hàng cá nhân, doanh nghiệp, hộ kinh doanh nhân dịp kỷ niệm 33 năm thành lập.",
+      "source": "VnExpress Kinh doanh",
+      "url": "https://vnexpress.net/shb-tang-333-giai-thuong-nhan-dip-sinh-nhat-5145506.html",
+      "published_at": "2026-11-18T02:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Belief and bench steer Northern Ireland into Nations League top tier",
+      "summary": "Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-17T23:49:31+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Republic of Ireland talisman Parrott caps dream year with two more goals",
+      "summary": "Republic of Ireland striker Troy Parrott reflects on a transformative 12 months for both club and country after scoring a double in the win against Kosovo.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqzjr3yr2z0eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-17T23:10:33+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
     },
     {
       "domain": "Sách",
@@ -154,100 +244,43 @@
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 19
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Pocognoli wants patience but Scotland 'don't have time' says Robertson",
-      "summary": "Angry captain Andy Robertson says Scotland do not have time to turn things around after a brutal 4-0 defeat by Switzerland consigns them to a third-place finish in their Nations League group.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwnv432qy0l1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-16T22:36:26+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Man Utd to resurrect Hall interest - Tuesday's gossip",
-      "summary": "Manchester United may struggle to prise defender Lewis Hall from Newcastle, Arsenal midfielder Martin Zubimendi is pondering his future, Chelsea eye a double swoop for Barcelona duo, plus more.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91x7nz85jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-16T22:06:32+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Chứng khoán Pinetree nhận giải công ty có phí giao dịch tốt nhất Việt Nam",
-      "summary": "Pinetree được vinh danh là công ty có phí giao dịch tốt nhất Việt Nam, đồng thời lọt top 10 bảng xếp hạng các công ty chứng khoán có dịch vụ bán lẻ tốt nhất năm 2026 (Best Retail Brokers 2026).",
-      "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/chung-khoan-pinetree-nhan-giai-cong-ty-co-phi-giao-dich-tot-nhat-viet-nam-5144713.html",
-      "published_at": "2026-11-17T01:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Giải phẫu sai phạm tại tổ hợp chung cư của Mường Thanh",
-      "summary": "Chỉ được phê duyệt 231 căn hộ trong quy hoạch chung cư CT6 Kiến Hưng, nhưng tập đoàn Mường Thanh đã xây trái phép thành 1.582 căn. Đây chỉ là một trong 12 dự án sai phạm của tập đoàn này tại Hà Nội.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/giai-phau-sai-pham-tai-to-hop-chung-cu-cua-muong-thanh-5143404.html",
-      "published_at": "2026-11-16T22:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Robertson eclipses Dalglish to become Scotland's most capped man",
-      "summary": "Andy Robertson has taken over from Kenny Dalglish as Scotland's most-capped player, making his 103rd appearance in Monday's Nations League game against Switzerland.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjp3v5r9enp1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-16T19:43:33+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Kẹt xe gia tăng trên đại lộ Mai Chí Thọ ở TP HCM",
-      "summary": "Xe từ các đường nhánh đổ về tăng mạnh, đại lộ Mai Chí Thọ rộng 10-14 làn, kết nối cao tốc TP HCM - Long Thành, hầm Thủ Thiêm, vào trung tâm thành phố thường ùn ứ.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/ket-xe-gia-tang-tren-dai-lo-mai-chi-tho-o-tp-hcm-5145621.html",
-      "published_at": "2026-11-17T06:21:03+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
+      "score": 16
     }
   ],
   "themes": [
+    {
+      "id": "prices_energy",
+      "title": "Giá cả, lạm phát và năng lượng",
+      "status": "Mẫu hình cần kiểm chứng",
+      "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
+      "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
+      "evidence_count": 3,
+      "source_count": 3,
+      "source_note": "Có nhiều nguồn trong batch",
+      "evidence": [
+        {
+          "title": "VisHead-Spec: Head-Routed Visual Attention for Multimodal Speculative Decoding",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.21839",
+          "published_at": "2026-11-18T05:00:00+00:00",
+          "summary": "arXiv:2611.21839v1 Announce Type: new Abstract: Speculative decoding accelerates vision-language models(VLMs) while preserving the target model's outputs, but its speedup diminishes under high concurrency serving as the system becomes more compute bounded as the batch size increases. This problem is pronounced for multimodal speculative decoding as the long range of the image tokens in the prompt can significantly increase the computational cost during draft token prediction. The block-diffusion"
+        },
+        {
+          "title": "Higher fuel prices push UK inflation to 3.6%",
+          "source": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T07:15:33+00:00",
+          "summary": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing."
+        },
+        {
+          "title": "UK inflation rises to 3.6% as energy prices increase - The Guardian",
+          "source": "Google News World Economy",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNamlMSFR1VS1LcjJjd253VGlsM1lUa0ZjZXJjclZ3ajdqZTdaMnc3dUdhcDd6RV9XWnNSYm1EM1BGTDZvTUkxTHgzeWw2TldJYm1JQlN1UHlhRkZJalpGZEFqT0lWNFR4N0pfSWVxZTg2LUJYRUhCMFhYTW5RVnh0dXlXcHcyRDctMWxZSGlaT3Bhc2x6SXR2REV3?oc=5",
+          "published_at": "2026-11-18T07:01:00+00:00",
+          "summary": "UK inflation rises to 3.6% as energy prices increase The Guardian"
+        }
+      ]
+    },
     {
       "id": "ai_work",
       "title": "AI đi từ năng lực mô hình sang vận hành và công việc",
@@ -255,36 +288,36 @@
       "reading": "Các bài về mô hình, suy luận và công việc có thể cho thấy AI đang được đánh giá theo chi phí triển khai và kết quả vận hành, không chỉ theo khả năng trình diễn. Cần phân biệt nghiên cứu thử nghiệm với sản phẩm đã được triển khai.",
       "falsifier": "Bác bỏ nếu bài chỉ mô tả nghiên cứu hoặc tuyên bố của doanh nghiệp mà không có kết quả triển khai độc lập.",
       "evidence_count": 4,
-      "source_count": 3,
+      "source_count": 2,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Show HN: Backplane – An AI Development Environment for Hardware",
+          "title": "Ask HN: Should we shut down current AI strategy? Vent Your Heart Out",
           "source": "Hacker News AI Discussions",
-          "url": "https://backplaneworks.com/",
-          "published_at": "2026-11-17T06:41:02+00:00",
-          "summary": "We made Backplane to actually use Fable, Astra, etc. as real electrical engineers! It incorporates KiCad + your favorite harness (Claude Code, Codex, OpenCode, Grok) to accelerate hardware development. You can use it \"autonomously\" or work alongside the agent, making changes or comments to redirect the agent as it works. Also has some slick skills for schematic editing, BOM management. Hardware is in its \"tab to accept changes\"/copilot era rather than its agentic era imo. Comments URL: https://n"
+          "url": "https://news.ycombinator.com/item?id=50542654",
+          "published_at": "2026-11-18T06:40:16+00:00",
+          "summary": "I don't know, maybe it's just me. Does it feel to you like we're boiling the oceans in a desperate attempt to build something \"smarter than human?\" Do you notice that the idea that \"AI will cure cancer\" is predicated on the belief that we've found the data that will lead to a cure and us humans just somehow missed it? Are you also watching your former boss, who laid you off for AI, slowly turn the nail gun that is AI automation towards his own face? Are you also currently avoiding plane flights "
         },
         {
-          "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
-          "source": "Microsoft Research Blog",
-          "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
-          "published_at": "2026-11-16T17:01:35+00:00",
-          "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spend computation more effectively. The post TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient appeared first on Microsoft Research ."
+          "title": "SLED: Sensor SLicing from Edge to Datacenter",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.21937",
+          "published_at": "2026-11-18T05:00:00+00:00",
+          "summary": "arXiv:2611.21937v1 Announce Type: new Abstract: Modern sensing systems generate large volumes of heterogeneous data streams from multiple sensor modalities, increasing reliance on datacenters for computation, artificial intelligence/superintelligence (AI/SI) inference, and AI/SI training. Each sensor stream may have different network and compute requirements depending on its type and data volume. However, current wireless systems typically allocate resources at the device level, leading to conte"
         },
         {
-          "title": "Building AI that can work across the enterprise",
-          "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-          "published_at": "2026-11-16T13:00:00+00:00",
-          "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…"
+          "title": "WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.21978",
+          "published_at": "2026-11-18T05:00:00+00:00",
+          "summary": "arXiv:2611.21978v1 Announce Type: new Abstract: Large language models are moving from isolated assistants toward autonomous agents that can plan, use tools, and coordinate with others, motivating an emerging Agentic Web of independently developed agents and services. Realizing this vision requires agent behavior to move across creators, hosts, and runtimes without coupling publication to a particular execution environment or transferring authority over user resources. We introduce WebAgents, whi"
         },
         {
-          "title": "Agentic AI Attacks Nobody's Talking About (Yet)",
-          "source": "Hacker News AI Discussions",
-          "url": "https://glyphzerolabs.com/blog/2026-04-17-agentic-ai-attacks/",
-          "published_at": "2026-11-17T04:41:11+00:00",
-          "summary": "Article URL: https://glyphzerolabs.com/blog/2026-04-17-agentic-ai-attacks/ Comments URL: https://news.ycombinator.com/item?id=50527524 Points: 1 # Comments: 0"
+          "title": "What Does an Agent Need? Bundle-Aware Agent Resource Composition",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.22030",
+          "published_at": "2026-11-18T05:00:00+00:00",
+          "summary": "arXiv:2611.22030v1 Announce Type: new Abstract: An agent resource's value depends on its backbone and companion resources and is known only after execution. Token-based generators remain tied to their training catalog, while independent resource scoring misses complementarities and reused bundles target other tasks. We formulate Task-Conditioned Agent Resource Composition (AgentComposition): jointly selecting a backbone model and a tool-skill bundle to maximize end-to-end execution utility. Our "
         }
       ]
     },
@@ -295,36 +328,36 @@
       "reading": "Các diễn biến chính trị và thương mại có thể ảnh hưởng đến vận tải, giá đầu vào hoặc quyết định đầu tư. Chưa thể suy ra tác động tới Việt Nam nếu chưa biết tuyến hàng, mặt hàng và mức độ phơi nhiễm.",
       "falsifier": "Bác bỏ nếu chưa có thay đổi chính sách/luồng hàng thực tế hoặc mặt hàng liên quan không gắn với Việt Nam.",
       "evidence_count": 4,
-      "source_count": 1,
-      "source_note": "Chỉ một nguồn xuất bản trong batch",
+      "source_count": 3,
+      "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
+        {
+          "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.21925",
+          "published_at": "2026-11-18T05:00:00+00:00",
+          "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass verification simultaneously. Recent parallel draft architectures (DFlash, DSpark) improve draft quality by conditioning on rich features computed by the target, through a mechanism known as feature encodi"
+        },
+        {
+          "title": "Regularized Score Centering",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.21791",
+          "published_at": "2026-11-18T05:00:00+00:00",
+          "summary": "arXiv:2611.21791v1 Announce Type: new Abstract: Asynchronous reinforcement learning increases training throughput, but data from stale policies and numerical mismatch between training and inference can destabilize learning. To stabilize off-policy learning, score centering (SC) removes the effect of reward baselines on the expected update. Our gradient diagnostics show less extreme gradients with SC than with importance sampling (IS), but SC can still fail when the learner moves far from the beh"
+        },
+        {
+          "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+          "published_at": "2026-11-18T05:00:32+00:00",
+          "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian government of Abdel Fatah al-Sisi. The charge relates to a €7.4bn deal promised by Ursula von der Leyen , the European Commission president, to al-Sisi on a high-profile visit to Cairo in 2024. The three-year “strategic and comprehensive partnershi"
+        },
         {
           "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
           "source": "The Guardian World",
           "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
-          "published_at": "2026-11-17T06:37:35+00:00",
-          "summary": "Organisers say up to 10,000 people could join the next round of demonstrations ahead of the US president’s arrival in Manila for the Asean summit Asean and Apec summits – live updates Hundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as authorities braced for more protests ahead of the US president’s arrival in the city for a leaders’ summit. Organisers claim as many as 10,000 people will join protests against Trump in the Philippine capital on Tuesda"
-        },
-        {
-          "title": "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine",
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png",
-          "published_at": "2026-11-17T02:02:30+00:00",
-          "summary": "Community leader says fund gives chance to find solutions to ‘huge problems we have been living with since the days of the mine’s operation’ Anglo-Australian miner Rio Tinto has agreed to pay a quarter-of-a-billion dollars to begin the clean-up of the toxic Panguna mine site it abandoned more than three decades ago. Panguna, once one of the world’s most profitable gold and copper mines, was shuttered in 1989 after violent protests over environmental damage and the inequitable division of the min"
-        },
-        {
-          "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
-          "published_at": "2026-11-16T04:39:20+00:00",
-          "summary": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations The prime minister of Canada, Mark Carney, said the country could turn to Chinese automakers if trade negotiations with the US president, Donald Trump, failed to preserve an integrated North American auto industry. Carney’s comments in Cambodia on Monday came ahead of a planned meeting with Chinese leader Xi Jinping this week in Shenzhen, China, where auto m"
-        },
-        {
-          "title": "European-made pesticides named in 1,605 poisoning reports in Brazil last year",
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports",
-          "published_at": "2026-11-17T06:00:05+00:00",
-          "summary": "About a third of cases involved chemicals banned for use on EU farms, according to investigation by Unearthed and Public Eye Pesticides sold by European chemical companies were named in more than 1,600 poisoning reports in Brazil last year, an investigation has found. About a third of the cases involved chemicals banned from use on farms in the EU because of the risks they pose to people and the environment. But European companies are not banned from manufacturing these chemicals, as long as the"
+          "published_at": "2026-11-17T11:00:39+00:00",
+          "summary": "Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit Asean and Apec summits – as it happened Hundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as the US president arrived in the city for a leaders’ summit. Organisers claimed as many as 10,000 people would be joining protests against Trump in the capital of the Philippines on Tuesday, where he is attending the Association of Southeast Asian"
         }
       ]
     },
@@ -335,36 +368,36 @@
       "reading": "Chỉ đáng nâng thành tín hiệu khi có văn bản hoặc số liệu gốc, phạm vi áp dụng và nhóm chịu tác động xác định được. Tin kinh doanh đơn lẻ chưa đủ để kết luận xu hướng kinh tế Việt Nam.",
       "falsifier": "Bác bỏ nếu không có văn bản/số liệu gốc hoặc nội dung không tạo thay đổi đáng kể với doanh nghiệp.",
       "evidence_count": 4,
-      "source_count": 1,
-      "source_note": "Chỉ một nguồn xuất bản trong batch",
+      "source_count": 2,
+      "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Triển vọng thương mại thế nào sau mốc kim ngạch 1.000 tỷ USD?",
+          "title": "Vietnam Airlines ký kết hợp tác 20 triệu USD tại Trung Quốc",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/trien-vong-thuong-mai-the-nao-sau-moc-kim-ngach-1-000-ty-usd-5145303.html",
-          "published_at": "2026-11-16T22:00:00+00:00",
-          "summary": "Sau mốc xuất nhập khẩu vượt 1.000 tỷ USD, thương mại Việt Nam triển vọng tiếp tục mở rộng nhờ làn sóng công nghệ, nhưng thách thức là giữ lại nhiều giá trị hơn."
+          "url": "https://vnexpress.net/vietnam-airlines-ky-ket-hop-tac-20-trieu-usd-tai-trung-quoc-5146007.html",
+          "published_at": "2026-11-18T04:00:00+00:00",
+          "summary": "Vietnam Airlines ký biên bản ghi nhớ với doanh nghiệp du lịch Trung Quốc Meiya trị giá 20 triệu USD giai đoạn 2027-2031, tập trung ứng dụng công nghệ và phát triển nguồn khách hai chiều."
         },
         {
-          "title": "Ngân hàng Nhà nước nâng tỷ giá trung tâm lên kỷ lục",
+          "title": "SHB tặng 333 giải thưởng nhân dịp sinh nhật",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/ngan-hang-nha-nuoc-nang-ty-gia-trung-tam-len-ky-luc-5145650.html",
-          "published_at": "2026-11-17T05:36:49+00:00",
-          "summary": "Ngân hàng Nhà nước nối dài chuỗi tăng tỷ giá trung tâm 5 phiên liên tiếp, lên 25.652 đồng mỗi USD, cao nhất từ trước đến nay."
+          "url": "https://vnexpress.net/shb-tang-333-giai-thuong-nhan-dip-sinh-nhat-5145506.html",
+          "published_at": "2026-11-18T02:00:00+00:00",
+          "summary": "SHB tặng 333 giải thưởng gồm iPhone, AirPods, với tổng trị giá hơn 1,5 tỷ đồng, cùng nhiều ưu đãi tài chính cho khách hàng cá nhân, doanh nghiệp, hộ kinh doanh nhân dịp kỷ niệm 33 năm thành lập."
         },
         {
-          "title": "Warren Buffett làm từ thiện thêm hơn 5 tỷ USD",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/warren-buffett-lam-tu-thien-them-hon-5-ty-usd-5145398.html",
-          "published_at": "2026-11-16T13:55:48+00:00",
-          "summary": "Huyền thoại đầu tư vừa quyên góp số cổ phiếu Berkshire Hathaway trị giá khoảng 5,5 tỷ USD cho 4 quỹ từ thiện."
+          "title": "TP HCM dự kiến dùng 7 khu đất đổi làm cao tốc kết nối sân bay Long Thành",
+          "source": "VnExpress Thời sự",
+          "url": "https://vnexpress.net/tp-hcm-du-kien-dung-7-khu-dat-doi-lam-cao-toc-ket-noi-san-bay-long-thanh-5145892.html",
+          "published_at": "2026-11-18T00:21:35+00:00",
+          "summary": "TP HCM dự kiến dùng 7 khu đất rộng gần 179 ha, trị giá khoảng 35.000 tỷ đồng thuộc các phường Thủ Đức, Sài Gòn, Bến Thành… để thanh toán cho nhà đầu tư cao tốc Long Thành - Hồ Tràm."
         },
         {
-          "title": "SCB sẽ không trả lãi suất cho người gửi tiền online",
+          "title": "Quyền lực Nvidia ra sao khi không còn Jensen Huang?",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/scb-se-khong-tra-lai-suat-cho-nguoi-gui-tien-online-5145221.html",
-          "published_at": "2026-11-16T05:59:16+00:00",
-          "summary": "Từ hôm nay, SCB áp dụng biểu lãi suất tiết kiệm mới với mức 0% cho tất cả kỳ hạn gửi tiết kiệm trực tuyến."
+          "url": "https://vnexpress.net/quyen-luc-nvidia-ra-sao-khi-khong-con-jensen-huang-5145629.html",
+          "published_at": "2026-11-17T23:32:00+00:00",
+          "summary": "Việc Jensen Huang không còn là CEO không chỉ đặt dấu hỏi cho tương lai của Nvidia mà có thể làm thay đổi ảnh hưởng của hãng với Washington lẫn chính sách AI của Mỹ."
         }
       ]
     }
@@ -373,23 +406,23 @@
     {
       "category": "ai",
       "domain": "AI & công nghệ",
-      "items": 38,
-      "usable": 38,
-      "sources": 9
+      "items": 40,
+      "usable": 40,
+      "sources": 8
     },
     {
       "category": "world",
       "domain": "Thế giới",
       "items": 65,
       "usable": 65,
-      "sources": 8
+      "sources": 13
     },
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 19,
-      "usable": 19,
-      "sources": 2
+      "items": 20,
+      "usable": 20,
+      "sources": 3
     },
     {
       "category": "water",
@@ -415,9 +448,9 @@
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
-      "items": 11,
-      "usable": 11,
-      "sources": 3
+      "items": 10,
+      "usable": 10,
+      "sources": 5
     },
     {
       "category": "trends",
@@ -429,60 +462,60 @@
   ],
   "links": [
     {
-      "a": "Delaware hit by rare November tornado",
-      "b": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "a": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
+      "b": "Ask HN: Should we shut down current AI strategy? Vent Your Heart Out",
       "terms": [
         "also",
-        "only",
-        "path",
-        "time"
+        "even",
+        "your"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Trump to embark on Asia trip in apparent foreign policy push before end of term",
-      "b": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "a": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
+      "b": "Ask HN: Should we shut down current AI strategy? Vent Your Heart Out",
       "terms": [
-        "first",
-        "toward"
+        "even",
+        "most",
+        "news",
+        "than"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Show HN: Backplane – An AI Development Environment for Hardware",
-      "b": "telling a creator 'you got lucky' is direspectful most YouTubers grind for years to basically no viewers - streaming to a dead chat - uploading vids with 0 comments so when they find success, dont say they got lucky only cause u didn't see the work they did to get - X",
+      "a": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
+      "b": "SLED: Sensor SLicing from Edge to Datacenter",
       "terms": [
-        "comments",
-        "work"
+        "edge",
+        "than"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
-      "b": "Good thread. More i read these studies i think they're all more less the same answer as he also gets to in the thread. Relative benefits similar but different baseline risks. IMO its not heterogeneity of treatment effect. Practice translation is understanding baseline - X",
+      "a": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
+      "b": "Republic of Ireland talisman Parrott caps dream year with two more goals",
       "terms": [
-        "also",
+        "months",
         "more",
-        "same"
+        "year"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
-      "b": "telling a creator 'you got lucky' is direspectful most YouTubers grind for years to basically no viewers - streaming to a dead chat - uploading vids with 0 comments so when they find success, dont say they got lucky only cause u didn't see the work they did to get - X",
+      "a": "SLED: Sensor SLicing from Edge to Datacenter",
+      "b": "WiFi, Bluetooth LE, Thread, and on-device AI on a single chip, with existing software and tools, built for billions of intelligent devices that run for years on a battery https://t.co/rYKW8PjW1g - X",
       "terms": [
-        "only",
-        "success"
+        "device",
+        "single"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
-      "b": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
+      "a": "WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web",
+      "b": "European Commission accused of sugarcoating figures to release funds to Egypt",
       "terms": [
-        "appeared",
-        "first",
-        "post"
+        "three",
+        "under"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }

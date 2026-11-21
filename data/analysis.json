@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T07:16:17.508984+00:00",
-  "input_generated_at": "2026-11-20T07:16:17.457474+00:00",
+  "generated_at": "2026-11-21T07:08:20.815702+00:00",
+  "input_generated_at": "2026-11-21T07:08:20.760497+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
   "items_after_dedup": 150,
@@ -9,11 +9,11 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Race to be next UN secretary general exposes divisions among world powers",
-      "summary": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunner The race to become the next UN secretary general could reach a decisive moment on Friday when a UN security council vote is likely to reveal whether the Costa Rican frontrunner for the post would be blocked by the big powers. If so, the setback will reignite a debate about the dominance of the permanent five (P5) members at the United Nations. Rebeca Grynspan, an economist and UN insider who is from a family of Polish-Jewish wartime refugees to Costa Rica, has been in the lead in all but one of the eight straw polls of the 15 UN security council members since the first secret ballot was held on 30 July. Each member goes down the list of candidates, casting an “encourage”, “discourage” or “no opinion” vote for each candidate. Continue reading...",
+      "title": "California’s coastal communities on alert as biggest waves in years hit state",
+      "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities. Beaches and piers were closed last weekend as large waves crashed into California’s coastline. Offshore National Oceanic and Atmospheric Administration buoys recorded wave heights of greater than 30ft (9 metres) last Friday. The Monterey, California, buoy recorded a wave height of 34.1ft, which would make it the highest reading in 30 years. Coastal warnings extended from last weekend through this week, with alerts extending until Friday night. Waves of 10-18ft are expected, with local sets of 18-22ft for San Luis Obispo county beaches and Santa Barbara county central coast beaches. These Pacific storm systems are also bringing unsettled conditions across the western US, with heavy rain, mountain snow, and strong winds through the coming days. Already, record-breaking rainfall affected San Fransisco on Wednesday, with heavy rain also causing 32,000 customers to lose power in Sacramento. Into this week",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
-      "published_at": "2026-11-20T05:00:24+00:00",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
+      "published_at": "2026-11-20T09:03:20+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -24,11 +24,11 @@
     {
       "domain": "AI & công nghệ",
       "category": "ai",
-      "title": "Training Language Models for Introspective Oversight",
-      "summary": "arXiv:2611.23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy. Asking the assistant follow-up questions about its actions is unreliable, since models are generally not trained to report their own misbehavior. As a result, approaches to oversight typically involve querying external models. These face limitations: external transcript monitoring operates only on visible model outputs, and activation decoders lack full context and are prone to confabulation. We introduce introspective oversight, which trains a new role in the model to answer arbitrary questions about the assistant, rewarding answers that are verified against the assistant's actual behavior. We implement this by adding a separate, third-person observer role that answers these queries, which we can train solely for accuracy and separately from the assistant. On five held-out oversight evaluations, an observer trained on Qwen3.6-27B obtains a mean AUROC of 0.907, outperforming honesty training (0.864), transcript monitoring (0.828), and activation oracles (0.796). We further find that training an",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2611.23365",
-      "published_at": "2026-11-20T05:00:00+00:00",
+      "title": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
+      "summary": "I’m writing my first novel and could not find an app that fit my workflow: quiet like iA Writer, organized like Scrivener, and with AI so I can discuss my book while I write it. It allows me to feel less “alone” and have a sounding board while I write. - A book is a folder of plain Markdown files. Musset commits to a git repo, tracks versions and drafts without you having to know git. - Revisions are CriticMarkup inside the text. It manages docx revisions too, so your editor can edit a Word doc and you import their comments. - PDFs are typeset using Typst, embedded in the app, following each language’s typographic rules. - Spelling and grammar are checked using LanguageTool, also embedded. - Mac/Word, WordStar, vi and Emacs keyboard modes. The AI is optional and uses your Codex or Claude Code CLI. It comments, leaves margin notes, and checks continuity and your chapters against your style rules. It’s GPL-3.0 and free during the beta. When or if it reaches 1.0, if there is sufficient interest, the idea is to make it a small one-time payment ($9.90). There is a paid sync service (git hosting) that lets you share a book with beta readers and editors. Download: https://musset.app I’d l",
+      "source": "Hacker News AI Discussions",
+      "url": "https://github.com/Musset-App/musset",
+      "published_at": "2026-11-21T05:42:49+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -39,11 +39,11 @@
     {
       "domain": "AI & công nghệ",
       "category": "ai",
-      "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
-      "summary": "arXiv:2611.23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downtime of individual machines can cause outsized economic losses. Minimizing machine downtime, therefore, is more important than ever. To address this, we present Hardware Diagnoser (HardwareDx), an AI-driven hardware diagnosis system that applies a graph foundation model approach to automated datacenter maintenance. It allows a single model to diagnose many platforms and accelerate onboarding of new hardware products. Deployed at production scale at Google, HardwareDx yields substantial efficiency gains across diverse compute architectures. Real-world evaluations demonstrate that it reduces production downtime by 18.3% on GPU platforms and 16.1% on TPUs. Furthermore, it significantly accelerates hardware deployment, cutting quality assurance (QA) time by 28.3% for GPUs and 25.1% for TPUs. These results establish HardwareDx as a field-tested solution for maximizing the reliability and cost efficiency of next gener",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2611.23398",
-      "published_at": "2026-11-20T05:00:00+00:00",
+      "title": "Temporal Extrapolation of Elastic Seismic Wave Propagation in Layered Media Using Neural Operators",
+      "summary": "arXiv:2611.25130v1 Announce Type: new Abstract: Temporal prediction of seismic velocity fields beyond the time interval represented in training remains challenging for neural operator models. This study develops a coupled neural operator framework for stress-conditioned temporal prediction in layered elastic media. A time-integrator-embedded Deep Operator Network (TI-DeepONet) advances the velocity field through an embedded fourth-order Runge-Kutta (RK4) scheme, while a Fourier Neural Operator (FNO) learns a residual correction to the predicted spatial field. The two components are trained jointly in a predictor-corrector configuration. Prediction is initialized with reference velocity fields at the first two time levels and proceeds autoregressively, with reference stress fields and prescribed excitation supplied throughout rollout, including beyond the training interval. Four cases consider horizontally polarized shear (SH) waves in four-layer soil columns with fixed total depths of 50 and 280 m, excited by third-order Gaussian-derivative (DOG3) wavelets with central frequencies between 0.5 and 6 Hz. Layer thicknesses and shear-wave velocities vary across profiles. Evaluations on",
+      "source": "arXiv Machine Learning",
+      "url": "https://arxiv.org/abs/2611.25130",
+      "published_at": "2026-11-21T05:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -54,11 +54,11 @@
     {
       "domain": "AI & công nghệ",
       "category": "ai",
-      "title": "GRAFT: Execution-Guided Genetic Recombination for Agent Design",
-      "summary": "arXiv:2611.23509v1 Announce Type: new Abstract: Automated agent design searches for executable architectures that improve LLM-based agent performance, with evolutionary methods using language-model crossover to recombine promising mechanisms for task decomposition, model coordination, and verification. This search, however, is typically guided by aggregate fitness alone, which hides the instance-level successes and failures behind each score. We introduce Execution Guided Genetic Recombination for Agent Design (GRAFT), which uses aggregate fitness for selection and survival and parent-specific execution evidence to guide semantic crossover with integrated mutation. Its feedback harness reuses bounded samples of successful and failed runs from fitness evaluation, withholding reference answers and requiring no additional task executions. We evaluate GRAFT across six reasoning and programming settings using open-weight optimizer and executor models. It achieves a mean test accuracy of 82.0%, exceeding the strongest baseline by 9.8% points. Controlled ablations show that adding execution evidence improves test accuracy with initialization, search rules, repair policies, and evaluation ",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2611.23509",
-      "published_at": "2026-11-20T05:00:00+00:00",
+      "title": "A Model of Diverse Sampling from Language Models",
+      "summary": "arXiv:2611.25003v1 Announce Type: new Abstract: Language models often produce high-quality individual samples but poor sets, with repeated samples clustering around the same semantic modes. We formalize diverse generation as sampling a size-$K$ subset of complete strings from a determinantal point process (DPP), where the likelihood encodes item quality, and the embedding geometry encodes repulsion between similar outputs. Exact inference over all strings is intractable, so we propose PoolDPP: draw a finite candidate pool from a tractable proposal, importance-weight the candidates toward the target quality, and run a $K$-DPP sampler on the induced pool kernel; a greedy MAP variant provides deterministic selection. We prove a finite-sample bound with an explicit constant: the KL divergence between the sampler's output and the target $K$-DPP decays as O(1/N) in the pool size. Empirically, PoolDPP extends the quality--diversity frontier on open-ended generation and the precision--recall frontier on ambiguous text-to-SQL (Ambrosia), and on mathematical reasoning (GSM8K), it raises diversity at about the same pass@$K$.",
+      "source": "arXiv Machine Learning",
+      "url": "https://arxiv.org/abs/2611.25003",
+      "published_at": "2026-11-21T05:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -69,11 +69,26 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Kellie Sloane says she’s ‘pretty sure’ NSW Liberals exodus is over after Mark Speakman resigns",
-      "summary": "Former opposition leader warns party against being ‘One Nation lite’ as he becomes eighth out of 24 Liberal MPs not to recontest seat in March Get our daily political email , free app or daily news podcast The New South Wales opposition leader, Kellie Sloane, says she is “pretty sure” the exodus of Liberals before the March state election has finished, after Mark Speakman became the eighth MP to decide not to recontest their lower house seats. In a late-night speech on Thursday, the final sitting day of NSW’s legislative assembly before the vote, Speakman said he would not run again in his south Sydney seat of Cronulla, which he has held since 2011. Continue reading...",
+      "title": "NSW passes Mount Pleasant coalmine law as Greens claim change an attempt to head off One Nation",
+      "summary": "Labor says allowing mine to increase production reflects ‘gravity of situation facing hundreds of workers’ – but critics call it ‘unprecedented and dangerous’ Get our breaking news email , free app or daily news podcast The New South Wales government has passed special legislation to allow a coalmine in the Hunter Valley to increase production by 32% in its final act of parliament before the March state election, in which the region will be a key battleground for One Nation. After a marathon session in the legislative council on Friday, the Minns government and the Coalition voted at 1.36am on Saturday morning to allow the Mount Pleasant mine to increase its annual extraction rate from 12.5MT to 16.5MT until 2032. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
-      "published_at": "2026-11-20T05:02:16+00:00",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
+      "published_at": "2026-11-20T23:09:57+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 36
+    },
+    {
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+      "summary": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he had not yet informed his own officials about the plan. In a discursive press conference from the White House briefing room, Trump also said he would “look into” the report that Iran had been planning to possibly detonate a “dirty bomb” in Washington DC, and backed JD Vance over comments the vice-president made blaming Republican midterm losses on the Iran war. Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+      "published_at": "2026-11-20T21:47:41+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -82,28 +97,13 @@
       "score": 34
     },
     {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "Race to replant five South African baobabs after export blocked",
-      "summary": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits Environmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an exporter, who tried to ship them thousands of miles to Georgia. The baobabs arrived at a reserve in Timbavati, in north-eastern South Africa, on Wednesday, where they will be replanted and supported by cables to help them recover. The trees had been stranded at a warehouse in Durban since July, when they were intercepted by authorities who said they had been moved without the necessary permissions. Continue reading...",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
-      "published_at": "2026-11-19T11:03:24+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 33
-    },
-    {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "SIX Clio Creator Awards?! I'm still in shock 🏆🎉 🥈 Podcasting 🥈 Branded Creator Collaborations 🥈 Public Relations 🥈 Public Relations 🥈 Video 🥉 Video I walked in feeling like a bit of an underdog, so this feels incredible! Seeing disability-led content celebrated - TikTok",
-      "summary": "SIX Clio Creator Awards?! I'm still in shock 🏆🎉 🥈 Podcasting 🥈 Branded Creator Collaborations 🥈 Public Relations 🥈 Public Relations 🥈 Video 🥉 Video I walked in feeling like a bit of an underdog, so this feels incredible! Seeing disability-led content celebrated TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhRjVnbEgyVjhtX2d1UURacVR1VzBlczY1WVRkQjRSWEFuWmk3SzAwbFdjT2RtekJBVl80SDJHNjZlenQwa0d3N3FDb2RFZmtqeGhyWHM2WGNwcHJGblJpWV8wSjhMOE1hOUFoQ3Z4SkM4MHFHLU1Z?oc=5",
-      "published_at": "2026-11-19T20:39:19+00:00",
+      "title": "🧵THREAD Costa Rica’s Rebeca Grynspan leads the race to become the next UN secretary-general after receiving the most support in the Security Council ninth informal poll. She and Guyana’s Carolyn Rodrigues-Birkett are tied with three votes among perma - X",
+      "summary": "🧵THREAD Costa Rica’s Rebeca Grynspan leads the race to become the next UN secretary-general after receiving the most support in the Security Council ninth informal poll. She and Guyana’s Carolyn Rodrigues-Birkett are tied with three votes among perma X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WaVc1OS1xVXFMWjVBRlFYYUZtcnR6VjcxWktCOUcwUndOSWxiMXpjZGxXbDlkU0RiVWVVVkZpUTlfX3VST0w5bVliTkZ3U2gyUmlMMW90dFBaeU5FNG5J?oc=5",
+      "published_at": "2026-11-21T03:42:31+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -114,146 +114,146 @@
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "Incredibly honored to have hosted the Clio Creator Awards! Such a historic, iconic night for the creator economy and we spoke with some of the biggest names in the creator space on the red carpet— at the home of the OSCARS! Huge thank you to @clioaward - TikTok",
-      "summary": "Incredibly honored to have hosted the Clio Creator Awards! Such a historic, iconic night for the creator economy and we spoke with some of the biggest names in the creator space on the red carpet— at the home of the OSCARS! Huge thank you to @clioaward TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YQkRXYWM5YUszdm1leEFmaC16QVVySW8zSjlQNGZLRU5OT0ZsTjdlMmU1dFBWYktTaWxqbVZPcHhDeHB2SGd4ZzhFaEdsUG5xWXV0Q21WRFgyeGpaOHl2ekVRei1MXzhiQnV4eTRn?oc=5",
-      "published_at": "2026-11-19T20:02:21+00:00",
+      "title": "The GCX Creator Club is now open! 🥳 Perks + Rewards + Opportunities First Wave signups are open NOW and close December 14th. What’s new? ✨ Creator Club members automatically get a GCX 2027 Creator Pass, Lounge access and 1-on-1 meetings thr - X",
+      "summary": "The GCX Creator Club is now open! 🥳 Perks + Rewards + Opportunities First Wave signups are open NOW and close December 14th. What’s new? ✨ Creator Club members automatically get a GCX 2027 Creator Pass, Lounge access and 1-on-1 meetings thr X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zV3lFYzVmcWxFNXNOeVJxd3Z4R0tWUzRiVktvYjZqVXJ1N2tqWmtaMWpIV25OSjVmRGEzUEVjYTZvSUo3NVR5Z2lzTVQ3NUxqNGoyY0U4TWstMFlzdUE?oc=5",
+      "published_at": "2026-11-20T21:34:59+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
       "score": 20
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Ruby on Rails creator David Heinemeier Hansson says AI is giving small teams a chance to compete with software ecosystems built by thousands of developers. In his view, as building software gets faster and cheaper, taste and craft become more important. - X",
+      "summary": "Ruby on Rails creator David Heinemeier Hansson says AI is giving small teams a chance to compete with software ecosystems built by thousands of developers. In his view, as building software gets faster and cheaper, taste and craft become more important. X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2aE81TlZwV2dmZTRtRWFES2JKTEI0RGU3Wi1IMTV5bEhMUEM0dWpuWnFDWkg1MENWcUFQWGdaNnZqWTlBTUlWZklWN2ZucjJJbXQ2X1M5UzM?oc=5",
+      "published_at": "2026-11-20T16:18:25+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Kiểm soát xe chạy xăng, dầu tại vùng phát thải thấp",
+      "summary": "Luật Bảo vệ môi trường sửa đổi cho phép địa phương thiết lập vùng phát thải thấp, tập trung kiểm soát phương tiện gây ô nhiễm, sử dụng nhiên liệu hóa thạch và hỗ trợ người dân chuyển sang phương tiện sạch.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/kiem-soat-xe-chay-xang-dau-tai-vung-phat-thai-thap-5147337.html",
+      "published_at": "2026-11-21T03:21:19+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Bệnh viện xã hội chủ nghĩa tại Quảng Ninh khác gì bệnh viện công?",
+      "summary": "Từ năm 2027, Bệnh viện Việt Nam - Thụy Điển Uông Bí thí điểm mô hình xã hội chủ nghĩa, mở rộng hỗ trợ người bệnh khó khăn, nâng chất lượng điều trị và cải thiện chế độ đãi ngộ nhân viên y tế.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/benh-vien-xa-hoi-chu-nghia-tai-quang-ninh-khac-gi-benh-vien-cong-5147211.html",
+      "published_at": "2026-11-20T23:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "Ít nhất 15% ngân sách chi sự nghiệp khoa học dành cho công nghệ chiến lược",
+      "summary": "Quốc hội yêu cầu dành ít nhất 15% ngân sách nhà nước chi sự nghiệp khoa học cho nghiên cứu công nghệ chiến lược, đẩy mạnh khoán chi, đầu tư mạo hiểm và thương mại hóa kết quả nghiên cứu.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/it-nhat-15-ngan-sach-chi-su-nghiep-khoa-hoc-danh-cho-cong-nghe-chien-luoc-5147349.html",
+      "published_at": "2026-11-21T04:33:53+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
     },
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Loneliness & mood swings - what's it like to miss a season through injury?",
-      "summary": "Not pleasant to be around and staring at a wall for hours after being told you are not going to the World Cup - what's it like for footballers when they miss a season due to serious injury?",
+      "title": "Jeers, injuries and doubters - White's journey back to the top",
+      "summary": "When Ben White wheeled away after scoring England's third goal against world champions Spain, it was more than just a strike which ended up being the winner in a special win.",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-20T06:13:23+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T06:17:32+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
+      "score": 17
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Cost of Man Utd hiring and firing managers nears £100m",
+      "summary": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-20T23:18:16+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
     },
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Vacure:treat muốn kết nối làm đẹp với ngành du lịch",
-      "summary": "Thông qua việc đồng hành Travel Awards 2026, Vacure:treat kỳ vọng mở rộng kết nối với doanh nghiệp du lịch, đưa hoạt động chăm sóc sắc đẹp đến gần hơn với trải nghiệm của du khách.",
-      "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/vacure-treat-muon-ket-noi-lam-dep-voi-nganh-du-lich-5146794.html",
-      "published_at": "2026-11-20T02:00:00+00:00",
+      "title": "Hai trạm BOT Bến Thủy thu phí trở lại từ 25/11",
+      "summary": "Sau hơn một tháng tạm dừng do đường hư hỏng, hai trạm BOT Bến Thủy I và II sẽ thu phí trở lại từ 0h ngày 25/11, với mức 40.000-200.000 đồng mỗi lượt ôtô.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/hai-tram-bot-ben-thuy-thu-phi-tro-lai-tu-25-11-5147393.html",
+      "published_at": "2026-11-21T05:27:57+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
+      "score": 17
     },
     {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Nhiều nhà băng có quy mô tài sản vượt một triệu tỷ đồng",
-      "summary": "Một nửa ngân hàng niêm yết có quy mô tài sản trên 500.000 tỷ đồng, dự kiến thuộc nhóm quy mô lớn theo tiêu chí mới của Ngân hàng Nhà nước, trong đó có 9 nhà băng vượt mốc một triệu tỷ.",
-      "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/nhieu-nha-bang-co-quy-mo-tai-san-vuot-mot-trieu-ty-dong-5146562.html",
-      "published_at": "2026-11-19T21:00:00+00:00",
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Man Utd transfer news: Victor Osimhen ready to listen to offers as interest reignited - Paper Talk | Football News - Sky Sports",
+      "summary": "Man Utd transfer news: Victor Osimhen ready to listen to offers as interest reignited - Paper Talk | Football News Sky Sports",
+      "source": "Google News Premier League",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUTJkY0N0bkN2c09seUx5d1NlQTdYNGZIRWhtMXZKaDNsM050N2VwRm1FaDZhdGVsOXNvc0tpTzQxYjNzLW9VTmJ3d3dUV1JGSEpNMjFVVnk1YWFXa3BRTXhyaE9zalg5YVRacnhkcXhiY3N0U2pHVFFadjA5b3hMRC1R?oc=5",
+      "published_at": "2026-11-21T05:52:03+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
+      "score": 16
     },
     {
       "domain": "Nước & năng lượng",
       "category": "water",
-      "title": "Giảng viên biến gỉ sắt tàu biển thành vật liệu xử lý nước thải dệt nhuộm",
-      "summary": "Nhóm giảng viên, sinh viên Đại học Quản lý và Công nghệ Hải Phòng dùng gỉ sắt của nhà máy đóng tàu chế tạo vật liệu xử lý nước thải, giảm độ màu nước thải dệt nhuộm khoảng 94,69% trong thử nghiệm.",
-      "source": "VnExpress Khoa học công nghệ",
-      "url": "https://vnexpress.net/giang-vien-bien-gi-sat-tau-bien-thanh-vat-lieu-xu-ly-nuoc-thai-det-nhuom-5145484.html",
-      "published_at": "2026-11-20T03:01:27+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Lyon outclass Arsenal for Champions League win",
-      "summary": "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-19T22:56:07+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Lao động nước ngoài được trả thêm 1% tiền lương thay bảo hiểm thất nghiệp",
-      "summary": "Không thuộc diện tham gia bảo hiểm thất nghiệp, lao động nước ngoài làm việc tại Việt Nam được doanh nghiệp trả thêm 1% tiền đóng vào lương hàng tháng.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/lao-dong-nuoc-ngoai-duoc-tra-them-1-tien-luong-thay-bao-hiem-that-nghiep-5146982.html",
-      "published_at": "2026-11-20T05:16:59+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
-    },
-    {
-      "domain": "Sách",
-      "category": "books",
-      "title": "The Part About Machines (On AI Literary Scandals)",
-      "summary": "Article URL: https://thepointmag.com/examined-life/the-part-about-the-machines/ Comments URL: https://news.ycombinator.com/item?id=50568518 Points: 3 # Comments: 0",
-      "source": "Hacker News AI Discussions",
-      "url": "https://thepointmag.com/examined-life/the-part-about-the-machines/",
-      "published_at": "2026-11-20T00:22:46+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 17
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Too late for Jackson? - FPL gameweek 11 dilemmas",
-      "summary": "BBC Sport's Fantasy Premier League expert Gianni Buttice gives his answers to some of the biggest dilemmas facing managers in gameweek 11.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-20T07:08:51+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 16
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "ITS CHRISTMAS SHOW SZN our rendition of this trend!!! 🤭❤️🎅🏼 #dallascowboyscheerleaders #christmasshow #dccchristmas #dancetrend #gameday - TikTok",
-      "summary": "ITS CHRISTMAS SHOW SZN our rendition of this trend!!! 🤭❤️🎅🏼 #dallascowboyscheerleaders #christmasshow #dccchristmas #dancetrend #gameday TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2MThoUkY0MjhDNVRvM0o0aTVxR1ZxeEgyclVqQVFjNzNhMUVHU0o0OU5OX2pQVzVXaHFJMGJ4bzhkTW9lTTJPcjF0d2ZMQ28xZWl6WU9Vb1U3ejBSMEdxMlJPakhQNUtxSHp4bDRjZw?oc=5",
-      "published_at": "2026-11-19T22:59:34+00:00",
+      "title": "Europe braces for cold winter as polar vortex flips. Can heat pumps help lower energy bills?",
+      "summary": "An unusually early sudden stratospheric warming event has flipped the polar vortex, leaving analysts worried about rising energy prices.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/21/europe-braces-for-cold-winter-as-polar-vortex-flips-can-heat-pumps-help-lower-energy-bills",
+      "published_at": "2026-11-21T06:02:06+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -264,32 +264,32 @@
     {
       "domain": "Sách",
       "category": "books",
-      "title": "The National Book Award winners will be announced today. Here's how to watch - USA Today",
-      "summary": "The National Book Award winners will be announced today. Here's how to watch USA Today",
-      "source": "Google News International Book Awards",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQnhVem5MbkdYRV9qd3NCVGdlX3hBdDlIMUVZNnRMSUdSZ1BzZVJ4R3FMS0tiQi0tRTF5TEFiYk4zTjk0Q09lcTRBdnZEU3Jrbm5ZNFBFa3NWYmNuQ3l1MGVRS3RJa0FTQ1hFZ0dnUUxBb0NrRDVYaGtfTllVUHMtazZ2NVVMOGl6RmNyOUVvdEt0N29EUDl3NTZqWm5vOFdvSzlBWjN0SVBuRDVfMW1tYVkzalJneXozdVZqaUJsZlNJZU9aWVM0dHcwVjkxeWxLVk1ZeTFvYXNIUVNTOEVnTFRuQ0JXSUk0?oc=5",
-      "published_at": "2026-11-19T17:37:00+00:00",
+      "title": "Traces of home",
+      "summary": "When war cut the link to my family in Iran, the smallest glimmer of their life became dear to me - by Elaheh Shabani Afarani Read on Psyche",
+      "source": "Psyche",
+      "url": "https://psyche.co/turning-points/a-screenshot-is-precious-when-my-family-in-iran-is-out-of-reach",
+      "published_at": "2026-11-18T11:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 14
+      "score": 13
     },
     {
       "domain": "Sách",
       "category": "books",
-      "title": "Nero New Writers Award Crowns Winners At Celebratory Event - Brunel University",
-      "summary": "Nero New Writers Award Crowns Winners At Celebratory Event Brunel University",
-      "source": "Google News International Book Awards",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbEdnMnNVeFhDcURxejFENGJUaVJSZXBDX3l5b05QNjQ3NHRQT09wLW96bkttYVVBdzljSFU0U0tjclU4VmlSOGFrdFF1Zk9FbTVwSGZ1Wm50OHM4cHozVFJfZWlYZlFwRVdJN1RqMUpqSmdxRkFGNTB4V2FEa1FqMDZKb0hjeTlnajNRZkNjSDBVUVBLbnc?oc=5",
-      "published_at": "2026-11-19T09:09:35+00:00",
+      "title": "National Book Award for Nonfiction Goes to Writer Denied Visa to Attend - The New York Times",
+      "summary": "National Book Award for Nonfiction Goes to Writer Denied Visa to Attend The New York Times",
+      "source": "Google News Books & Publishing",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNnlvckdZMkEzcVpaTnRTLUEzTk5STzY0SGtCWUxYWXhFWFdtRHNramNqRVJ2TlNBN1dCMk1iMzFEXzJvbEwzOVBIbFg2SUhZb1pyYnllZzJHOG5mUXhwVEFoNGd4blVqTnBUYzBXcV9SU09yUzZCbjgtdUlJSFNmQnc2R1NDZFRnbDBGS0tCWnFTanhHZC1fSVdFVWtpaXE0WmdwVDR5VW5scDhpTlNPZDVpd05RY0Rv?oc=5",
+      "published_at": "2026-11-19T03:16:47+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 14
+      "score": 12
     }
   ],
   "themes": [
@@ -300,29 +300,29 @@
       "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
       "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
       "evidence_count": 3,
-      "source_count": 2,
+      "source_count": 3,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
+        {
+          "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+          "source": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T16:41:52+00:00",
+          "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements."
+        },
+        {
+          "title": "Japan’s core inflation accelerates in October, cementing rate hike expectations - The Straits Times",
+          "source": "The Straits Times via Google News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlljYjY5b01Bek12NnpQZXA4NF93RmJzZ1RjbmZMbFZUd19OeERqUkdLeHNZQlMwdWdjZVFwOFZLNmlNcG5Zd1NlMUNfYk03LXZBb0ZfVGpuRVdNYk5qcjlMMlJTaFpDSS1wRXhLZk1NWnBDMDRlQmNtNHZNMG5sOUU3SEg0b2JpTUk3WEVZWHg4TG9ld1dKQ0xZODlWME11VlpBUlZ1S3hkRlBwdTctRC1BSzFzZw?oc=5",
+          "published_at": "2026-11-20T01:15:00+00:00",
+          "summary": "Japan’s core inflation accelerates in October, cementing rate hike expectations The Straits Times"
+        },
         {
           "title": "Oil loses grip on bond markets as inflation ‘virus’ spreads - Financial Times",
           "source": "Financial Times via Google News",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkZnaUY5Ni1VV2RvQXB3YWdWTnByc0xNYUt0MW5yYUlZLThpWXpNTzJBSjBROF9CQV9hd1M0MVVCNnB4QW0zd1VIdVhjQ3ZScEZvQ01HblVPTFQ4emlReFRfVnlnOFV1emJvQWtZU3BYT2tOY1JWUThTcUZlMzkzZTlaMnY?oc=5",
           "published_at": "2026-11-20T05:01:49+00:00",
           "summary": "Oil loses grip on bond markets as inflation ‘virus’ spreads Financial Times"
-        },
-        {
-          "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-          "source": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-18T13:17:06+00:00",
-          "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year."
-        },
-        {
-          "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-          "source": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-18T13:10:01+00:00",
-          "summary": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way."
         }
       ]
     },
@@ -337,32 +337,32 @@
       "source_note": "Chỉ một nguồn xuất bản trong batch",
       "evidence": [
         {
-          "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.23398",
-          "published_at": "2026-11-20T05:00:00+00:00",
-          "summary": "arXiv:2611.23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downtime of individual machines can cause outsized economic losses. Minimizing machine downtime, therefore, is more important than ever. To address this, we present Hardware Diagnoser (HardwareDx), an AI-driven hardware diagnosis"
+          "title": "A Model of Diverse Sampling from Language Models",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.25003",
+          "published_at": "2026-11-21T05:00:00+00:00",
+          "summary": "arXiv:2611.25003v1 Announce Type: new Abstract: Language models often produce high-quality individual samples but poor sets, with repeated samples clustering around the same semantic modes. We formalize diverse generation as sampling a size-$K$ subset of complete strings from a determinantal point process (DPP), where the likelihood encodes item quality, and the embedding geometry encodes repulsion between similar outputs. Exact inference over all strings is intractable, so we propose PoolDPP: d"
         },
         {
-          "title": "GRAFT: Execution-Guided Genetic Recombination for Agent Design",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.23509",
-          "published_at": "2026-11-20T05:00:00+00:00",
-          "summary": "arXiv:2611.23509v1 Announce Type: new Abstract: Automated agent design searches for executable architectures that improve LLM-based agent performance, with evolutionary methods using language-model crossover to recombine promising mechanisms for task decomposition, model coordination, and verification. This search, however, is typically guided by aggregate fitness alone, which hides the instance-level successes and failures behind each score. We introduce Execution Guided Genetic Recombination f"
+          "title": "Separating Interpretability and Reconstruction in Sparse Autoencoders",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.25165",
+          "published_at": "2026-11-21T05:00:00+00:00",
+          "summary": "arXiv:2611.25165v1 Announce Type: new Abstract: Sparse Autoencoders (SAEs) are effective tools for mechanistic interpretability by decomposing neural representations into sparse and interpretable features. However, a single sparse representation in traditional SAEs is responsible for both reconstruction fidelity and interpretability, which are not guaranteed to align. To separate these objectives, we propose DualSAE, a modular framework that augments standard SAEs with a plug-in Residual Branch."
         },
         {
-          "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.23375",
-          "published_at": "2026-11-20T05:00:00+00:00",
-          "summary": "arXiv:2611.23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics. The theory draws analogues from classical and stochastic thermodynamics, extends them, and applies them to modern agentic coding. We count the tokens an agent generates as its cost and divide that cost into work and heat. The test suite acts as a software Maxwell's daemon that judges e"
+          "title": "Game-Theoretic Data Allocation for Expert Specialization and Routing",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.25167",
+          "published_at": "2026-11-21T05:00:00+00:00",
+          "summary": "arXiv:2611.25167v1 Announce Type: new Abstract: Can the allocation used to train experts also predict which expert will perform best on a prompt? Such a connection would make the intended division of labor inspectable before training and allow the allocation itself to guide inference. We introduce InflEns, a mixture of LoRA experts whose training weights and inference routes come from the same location game in a fixed prompt-trait space. Players choose positions to maximize their expected shares"
         },
         {
-          "title": "BOS Summary: The First Token Matters",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.23508",
-          "published_at": "2026-11-20T05:00:00+00:00",
-          "summary": "arXiv:2611.23508v1 Announce Type: new Abstract: Large vision-language models (LVLMs) and language models (LLMs) often exhibit attention sinks, whereby particular positions, such as the beginning-of-sequence (BOS) token, receive a disproportionate share of attention. Under standard causal masking, however, the BOS query attends only to itself, so the representation that later tokens repeatedly access carries no information about the input. We introduce BOS Summary, a training-free inference-time "
+          "title": "Moving Generality from Model to Modeler: LLM Agents for PHM on a Deployment-Style Benchmark",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.25252",
+          "published_at": "2026-11-21T05:00:00+00:00",
+          "summary": "arXiv:2611.25252v1 Announce Type: new Abstract: Coding agents built on large language models (LLMs) now help develop many models published as general solutions. Should generality instead reside in the agent that builds a model for each new task? We examine this question in prognostics and health management (PHM), where every model must work on unseen equipment. Our deployment-style benchmark, NextUnit-Bench, covers 24 public datasets split into 58 folds that hold out units or operating condition"
         }
       ]
     },
@@ -377,32 +377,32 @@
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.23398",
-          "published_at": "2026-11-20T05:00:00+00:00",
-          "summary": "arXiv:2611.23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downtime of individual machines can cause outsized economic losses. Minimizing machine downtime, therefore, is more important than ever. To address this, we present Hardware Diagnoser (HardwareDx), an AI-driven hardware diagnosis"
-        },
-        {
-          "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.23322",
-          "published_at": "2026-11-20T05:00:00+00:00",
-          "summary": "arXiv:2611.23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both. We argue that this hope fails as AI capability grows. Bargaining guarantees each side only what it would get if bargaining failed. For humans, this can be less than they had before AI. In a simple game-theoretic model, humans stay as well off as before AI without alignment only while th"
+          "title": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
+          "source": "Hacker News AI Discussions",
+          "url": "https://github.com/Musset-App/musset",
+          "published_at": "2026-11-21T05:42:49+00:00",
+          "summary": "I’m writing my first novel and could not find an app that fit my workflow: quiet like iA Writer, organized like Scrivener, and with AI so I can discuss my book while I write it. It allows me to feel less “alone” and have a sounding board while I write. - A book is a folder of plain Markdown files. Musset commits to a git repo, tracks versions and drafts without you having to know git. - Revisions are CriticMarkup inside the text. It manages docx revisions too, so your editor can edit a Word doc "
         },
         {
           "title": "A Model of Diverse Sampling from Language Models",
           "source": "arXiv Machine Learning",
           "url": "https://arxiv.org/abs/2611.25003",
-          "published_at": "2026-11-20T05:00:00+00:00",
+          "published_at": "2026-11-21T05:00:00+00:00",
           "summary": "arXiv:2611.25003v1 Announce Type: new Abstract: Language models often produce high-quality individual samples but poor sets, with repeated samples clustering around the same semantic modes. We formalize diverse generation as sampling a size-$K$ subset of complete strings from a determinantal point process (DPP), where the likelihood encodes item quality, and the embedding geometry encodes repulsion between similar outputs. Exact inference over all strings is intractable, so we propose PoolDPP: d"
         },
         {
           "title": "PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction",
           "source": "arXiv Machine Learning",
           "url": "https://arxiv.org/abs/2611.24999",
-          "published_at": "2026-11-20T05:00:00+00:00",
+          "published_at": "2026-11-21T05:00:00+00:00",
           "summary": "arXiv:2611.24999v1 Announce Type: new Abstract: Understanding how stable psychometric traits and time-varying states jointly inform behavior is an important problem in computational behavioral science. Existing personalized agents commonly condition actions directly on a static profile, leaving realized state transitions unused as an explicit source of supervision. We introduce a profile-conditioned state world model that uses observed environment--behavior state transitions to learn transition-"
+        },
+        {
+          "title": "On the Impact of Feature Reduction Techniques on Adversarial Attacks",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.25004",
+          "published_at": "2026-11-21T05:00:00+00:00",
+          "summary": "arXiv:2611.25004v1 Announce Type: new Abstract: Adversarial attacks have posed significant threats to machine learning models by exploiting their inherent vulnerabilities. Researchers have established an interdisciplinary field called adversarial machine learning to explore these vulnerabilities and develop corresponding defense strategies. Feature reduction strategies are used to decrease the dimensionality of the data in order to reduce training time, avoid the curse of dimensionality, prevent"
         }
       ]
     },
@@ -417,32 +417,32 @@
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Vacure:treat muốn kết nối làm đẹp với ngành du lịch",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/vacure-treat-muon-ket-noi-lam-dep-voi-nganh-du-lich-5146794.html",
-          "published_at": "2026-11-20T02:00:00+00:00",
-          "summary": "Thông qua việc đồng hành Travel Awards 2026, Vacure:treat kỳ vọng mở rộng kết nối với doanh nghiệp du lịch, đưa hoạt động chăm sóc sắc đẹp đến gần hơn với trải nghiệm của du khách."
-        },
-        {
-          "title": "Lao động nước ngoài được trả thêm 1% tiền lương thay bảo hiểm thất nghiệp",
+          "title": "Hơn 162.000 tỷ đồng xây ba tuyến cao tốc",
           "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/lao-dong-nuoc-ngoai-duoc-tra-them-1-tien-luong-thay-bao-hiem-that-nghiep-5146982.html",
-          "published_at": "2026-11-20T05:16:59+00:00",
-          "summary": "Không thuộc diện tham gia bảo hiểm thất nghiệp, lao động nước ngoài làm việc tại Việt Nam được doanh nghiệp trả thêm 1% tiền đóng vào lương hàng tháng."
+          "url": "https://vnexpress.net/hon-162-000-ty-dong-xay-ba-tuyen-cao-toc-5147392.html",
+          "published_at": "2026-11-21T05:24:15+00:00",
+          "summary": "Quốc hội thông qua chủ trương đầu tư ba tuyến cao tốc dài hơn 430 km, tổng vốn gần 162.400 tỷ đồng, kết nối các khu vực Tây Bắc, Trung Bộ và Tây Nguyên."
         },
         {
-          "title": "APEC mở cơ hội để Việt Nam đón vốn chất lượng cao",
+          "title": "Tài xế Green SM tăng thu nhập dịp cuối năm",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/apec-mo-co-hoi-de-viet-nam-don-von-chat-luong-cao-5146785.html",
-          "published_at": "2026-11-20T02:51:17+00:00",
-          "summary": "APEC 2026 tại Thâm Quyến có thể tạo cơ hội cho Việt Nam thu hút thêm vốn công nghệ cao, đồng thời giúp doanh nghiệp nội tái định vị, tiến sâu hơn vào chuỗi cung ứng toàn cầu."
+          "url": "https://vnexpress.net/tai-xe-green-sm-tang-thu-nhap-dip-cuoi-nam-5147346.html",
+          "published_at": "2026-11-21T03:00:00+00:00",
+          "summary": "Một số tài xế Green SM ghi nhận lượng khách tăng sau khi hãng tung ưu đãi giảm giá cước, có thêm nguồn thu nhờ chính sách miễn phí nền tảng và hỗ trợ sạc."
         },
         {
-          "title": "Lập Tổ công tác huy động vốn cho đường sắt tốc độ cao",
+          "title": "Thông qua Luật Đất đai sửa đổi, bổ sung quyền lợi người bị thu hồi đất",
           "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/lap-to-cong-tac-huy-dong-von-cho-duong-sat-toc-do-cao-5146887.html",
-          "published_at": "2026-11-20T02:36:23+00:00",
-          "summary": "Tổ công tác gồm đại diện bộ, ngành, địa phương và doanh nghiệp để xây dựng cơ chế, chính sách huy động vốn phát triển đường sắt tốc độ cao và đường sắt đô thị."
+          "url": "https://vnexpress.net/thong-qua-luat-dat-dai-sua-doi-bo-sung-quyen-loi-nguoi-bi-thu-hoi-dat-5147331.html",
+          "published_at": "2026-11-21T02:55:04+00:00",
+          "summary": "Người bị thu hồi đất ở được hoán đổi đất trong cùng xã, hỗ trợ phục hồi sinh kế và hưởng thêm chính sách bồi thường, tái định cư, theo Luật Đất đai vừa được Quốc hội thông qua."
+        },
+        {
+          "title": "Cấm thu tiền giữ chỗ mua nhà hình thành trong tương lai",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/cam-thu-tien-giu-cho-mua-nha-hinh-thanh-trong-tuong-lai-5147383.html",
+          "published_at": "2026-11-21T05:01:45+00:00",
+          "summary": "Theo luật mới vừa thông qua, chủ đầu tư không được thu tiền dưới mọi hình thức để bảo đảm việc ký hợp đồng mua trước khi dự án được phép kinh doanh."
         }
       ]
     }
@@ -460,14 +460,14 @@
       "domain": "Thế giới",
       "items": 65,
       "usable": 65,
-      "sources": 14
+      "sources": 12
     },
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 22,
-      "usable": 22,
-      "sources": 2
+      "items": 23,
+      "usable": 23,
+      "sources": 3
     },
     {
       "category": "water",
@@ -481,104 +481,104 @@
       "domain": "Arsenal & Premier League",
       "items": 10,
       "usable": 10,
-      "sources": 2
+      "sources": 4
     },
     {
       "category": "books",
       "domain": "Sách",
-      "items": 4,
-      "usable": 4,
-      "sources": 3
+      "items": 5,
+      "usable": 5,
+      "sources": 4
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
-      "items": 7,
-      "usable": 7,
-      "sources": 3
+      "items": 6,
+      "usable": 6,
+      "sources": 2
     },
     {
       "category": "trends",
       "domain": "Google Trends",
-      "items": 1,
+      "items": 0,
       "usable": 0,
       "sources": 0
     }
   ],
   "links": [
     {
-      "a": "Race to be next UN secretary general exposes divisions among world powers",
-      "b": "Training Language Models for Introspective Oversight",
+      "a": "California’s coastal communities on alert as biggest waves in years hit state",
+      "b": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
       "terms": [
-        "five",
-        "held",
-        "since"
+        "also",
+        "make"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Race to be next UN secretary general exposes divisions among world powers",
-      "b": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+      "a": "California’s coastal communities on alert as biggest waves in years hit state",
+      "b": "Temporal Extrapolation of Elastic Seismic Wave Propagation in Layered Media Using Neural Operators",
       "terms": [
-        "next",
-        "since",
-        "world"
+        "across",
+        "central",
+        "through",
+        "throughout",
+        "wave",
+        "waves"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Training Language Models for Introspective Oversight",
-      "b": "Kellie Sloane says she’s ‘pretty sure’ NSW Liberals exodus is over after Mark Speakman resigns",
+      "a": "California’s coastal communities on alert as biggest waves in years hit state",
+      "b": "Jeers, injuries and doubters - White's journey back to the top",
       "terms": [
-        "against",
-        "held",
-        "since"
+        "more",
+        "than"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Training Language Models for Introspective Oversight",
-      "b": "Race to replant five South African baobabs after export blocked",
+      "a": "California’s coastal communities on alert as biggest waves in years hit state",
+      "b": "Cost of Man Utd hiring and firing managers nears £100m",
       "terms": [
-        "five",
-        "since"
+        "days",
+        "would"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Kellie Sloane says she’s ‘pretty sure’ NSW Liberals exodus is over after Mark Speakman resigns",
-      "b": "Lyon outclass Arsenal for Champions League win",
+      "a": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
+      "b": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
       "terms": [
-        "against",
-        "final"
+        "also",
+        "comments"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Incredibly honored to have hosted the Clio Creator Awards! Such a historic, iconic night for the creator economy and we spoke with some of the biggest names in the creator space on the red carpet— at the home of the OSCARS! Huge thank you to @clioaward - TikTok",
-      "b": "Too late for Jackson? - FPL gameweek 11 dilemmas",
+      "a": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
+      "b": "The GCX Creator Club is now open! 🥳 Perks + Rewards + Opportunities First Wave signups are open NOW and close December 14th. What’s new? ✨ Creator Club members automatically get a GCX 2027 Creator Pass, Lounge access and 1-on-1 meetings thr - X",
       "terms": [
-        "biggest",
-        "some"
+        "first",
+        "open"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Nhiều nhà băng có quy mô tài sản vượt một triệu tỷ đồng",
-      "b": "Giảng viên biến gỉ sắt tàu biển thành vật liệu xử lý nước thải dệt nhuộm",
+      "a": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
+      "b": "National Book Award for Nonfiction Goes to Writer Denied Visa to Attend - The New York Times",
       "terms": [
-        "nhóm",
-        "nước",
-        "trong"
+        "book",
+        "writer"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Giảng viên biến gỉ sắt tàu biển thành vật liệu xử lý nước thải dệt nhuộm",
-      "b": "Lao động nước ngoài được trả thêm 1% tiền lương thay bảo hiểm thất nghiệp",
+      "a": "Temporal Extrapolation of Elastic Seismic Wave Propagation in Layered Media Using Neural Operators",
+      "b": "The GCX Creator Club is now open! 🥳 Perks + Rewards + Opportunities First Wave signups are open NOW and close December 14th. What’s new? ✨ Creator Club members automatically get a GCX 2027 Creator Pass, Lounge access and 1-on-1 meetings thr - X",
       "terms": [
-        "nước",
-        "đóng"
+        "first",
+        "wave"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }

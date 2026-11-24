@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T07:38:51.914845+00:00",
-  "input_generated_at": "2026-11-23T07:38:51.864932+00:00",
+  "generated_at": "2026-11-24T09:54:36.502122+00:00",
+  "input_generated_at": "2026-11-24T09:54:36.455158+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
   "items_after_dedup": 150,
@@ -9,11 +9,11 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community – as it happened",
-      "summary": "This blog is now closed ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
+      "title": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
+      "summary": "Hunter Valley Operations expansion in New South Wales would allow additional 430m tonnes of coal to be extracted and burned Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Climate campaigners are urging the Albanese government to heed a “line in the sand” warning on fossil fuels issued by dozens of countries at a UN climate summit and refuse a massive coalmine expansion planned in New South Wales. A proposed agreement at the Cop31 negotiations in Turkey failed after a list of nations – including European Union members, Panama, the Marshall Islands, Vanuatu, Norway and Belize – said they would not support it unless it included an explicit statement that the world needed to transition away from fossil fuels. Sign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-      "published_at": "2026-11-23T06:13:21+00:00",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
+      "published_at": "2026-11-24T07:42:57+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -24,11 +24,26 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Unemployment to surpass 5% and ‘things will get a bit harder’, treasurer Jim Chalmers warns",
-      "summary": "Economists flag rising recession risk as government forecasts economy will grow by less than 2% in 2027 and 2028 Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Jim Chalmers has warned Australians that “things will get a bit harder before they get easier”, revealing next month’s budget update will show unemployment climbing above 5% alongside slower economic growth for the next two years. As economists flagged rising recessionary risks, the treasurer used a ministerial statement during question time to reveal what he described as “concerning” economic numbers in the upcoming mid-year economic and fiscal outlook. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "title": "‘State-sanctioned theft’: Australian news outlets demand content is protected from AI scraping – as it happened",
+      "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo). There’s still a fair bit of work to do to finalise it all, but we’ve made enough progress to be confident that at this stage there will be a modest net save in the budget. We’re not going to slash and burn in the budget where that would impact the payments that people receive or where it would impact some of the more sensitive parts of the economy. But we haven’t focused the savings on just one portfolio. There will be a number of savings in the mid-year update. They will be substantial, as I said. These are serious times. You can see in the quite extraordinary reaction on the stock market just how volatile global markets are right now. I think it’s a bit of a symbol of the quite extraordinary volatility, unpredictability that we’re seeing play out in markets in the AI sector, but more broadly as well. Contin",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns",
-      "published_at": "2026-11-23T04:17:27+00:00",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+      "published_at": "2026-11-24T07:21:53+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 37
+    },
+    {
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "Sports whistleblowers protected under proposed laws amid Australian cricket ball tampering saga",
+      "summary": "Amendments to government bill by Coalition and Greens would establish protections for those reporting wrongdoing in sport Get our daily political email , free app or daily news podcast Whistleblowers reporting corruption or misconduct in sport would be protected under draft laws put forward by the Coalition and the Greens, in response to the Australian Test cricket ball-tampering scandal. The South Africa tour of 2018 is back in the national spotlight after the publication of Usman Khawaja’s autobiography earlier this month, in which he claimed players had used sandpaper to tamper with the ball before the third Test on the infamous tour, and that the entire squad knew about the practice. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/24/sports-whistleblowers-protected-proposed-laws-australian-cricket-ball-tampering-sandpapergate-ntwnfb",
+      "published_at": "2026-11-24T06:20:10+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -39,41 +54,11 @@
     {
       "domain": "AI & công nghệ",
       "category": "ai",
-      "title": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
-      "summary": "arXiv:2611.26903v1 Announce Type: new Abstract: Partial-edit deepfake localization aims to identify manipulated regions within otherwise authentic speech. Recent systems report strong overall results, but aggregate scores do not reveal whether this performance holds across different editing conditions. In this work, we present an edit- and generator-conditioned analysis of Segment-Aware Localization (SAL) using WavLM-Large and XLS-R representations on the VoiceCraft and SSR-Speech subsets of PartialEdit. We categorize edits along three transcript-derived axes, namely content, meaning change, and editing operation, and evaluate each generator separately. While both representations achieve strong overall performance, localization is noticeably weaker on SSR-Speech. From our experiments, we found that the deletion is the hardest operation, and deletions produced by SSR-Speech are the most challenging condition for both representations. In contrast, edit content, meaning change, and sentence novelty have smaller effects. These findings show that a single aggregate score can mask important weaknesses, and that partial-edit localization should be evaluated separately across generators an",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2611.26903",
-      "published_at": "2026-11-23T05:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents",
-      "summary": "arXiv:2611.26966v1 Announce Type: new Abstract: Tool-using AI agents propose actions whose authorization and external effects cannot be inferred from generated text alone. We study an execution boundary that separates agent proposals from business-controlled authority, context disclosure, and supplier selection. The Open Process Control Plane (OPCP) mediates capability calls and records uncertain outcomes when a supplier may have acted without returning an acceptable reply. We evaluate this runtime with scripted requests and synthetic suppliers: 2,400 fault episodes across four policies, 60 process-termination/restart episodes, 19,000 timed calls across 19 configurations, five targeted mutations over 43 fixtures, and 160 substitution records. No language model or autonomous agent is evaluated. OPCP and a conservative composition agree on all measured fault outcomes. Both recover after definite refusal without cross-supplier duplication; retry-all duplicates effects in every tested lost-reply-after-commit case. Persistent runtime state prevents cross-supplier replay in the restart experiments, while same-supplier duplicate prevention also requires supplier idempotency. At 128 suppli",
-      "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2611.26966",
-      "published_at": "2026-11-23T05:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "AI & công nghệ",
-      "category": "ai",
-      "title": "On the loss landscape of the linear neural network: beyond critical points",
-      "summary": "arXiv:2611.26671v1 Announce Type: new Abstract: While the critical points of the loss landscape in linear neural networks have been extensively studied since the seminal work of Baldi \\& Hornik in the late 1980s, a description of this landscape at an intermediate or global scale is still lacking. Such a characterization is crucial, particularly as a substantial body of literature indicates that gradient descent circumvents critical points. The present article introduces an intermediate structure, termed the critical thalweg, which encompasses all critical points and exhibits key geometric properties. Beyond providing a geometric proof of Baldi \\& Hornik's results using simpler assumptions than the existing literature, this framework offers a global view of the loss landscape that can be easily visualized in a two-dimensional plane. Empirical observations suggest that gradient descent is attracted toward the critical thalweg, along which the loss continues to decrease to its global minimum.",
+      "title": "Failure Modes and Data-Efficient Remedies for Transformer-Based Prediction of Viscoplastic Flows",
+      "summary": "arXiv:2611.28267v1 Announce Type: new Abstract: Fast and accurate prediction of viscoplastic flows remains a challenge in computational rheology due to yield surfaces, discontinuous gradients, and strongly nonlinear transitions between yielded and unyielded regions. Transformer-based neural operators such as RheOFormer have recently shown strong potential for surrogate modeling of non-Newtonian flows. However, their applicability to viscoplastic systems and their efficacy in recovering realistic flows remain poorly understood. In this work, we present the first systematic investigation of RheOFormer applied to steady Bingham channel flow. By isolating the problem to a simple geometry and constitutive model, we examine how dataset structure, numerical value range, and input representation govern the model's ability to interpolate and extrapolate within the parameter space. The data regimes in which RheOFormer remains accurate and those in which errors emerge are identified, particularly for plug-dominated flows and for conditions outside the velocity scales or flow structures represented during training. Upon identifying these failure modes, targeted enhancements to the input repres",
       "source": "arXiv Machine Learning",
-      "url": "https://arxiv.org/abs/2611.26671",
-      "published_at": "2026-11-23T05:00:00+00:00",
+      "url": "https://arxiv.org/abs/2611.28267",
+      "published_at": "2026-11-24T05:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -82,43 +67,58 @@
       "score": 37
     },
     {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "California’s coastal communities on alert as biggest waves in years hit state",
-      "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities. Beaches and piers were closed last weekend as large waves crashed into California’s coastline. Offshore National Oceanic and Atmospheric Administration buoys recorded wave heights of greater than 30ft (9 metres) last Friday. The Monterey, California, buoy recorded a wave height of 34.1ft, which would make it the highest reading in 30 years. Coastal warnings extended from last weekend through this week, with alerts extending until Friday night. Waves of 10-18ft are expected, with local sets of 18-22ft for San Luis Obispo county beaches and Santa Barbara county central coast beaches. These Pacific storm systems are also bringing unsettled conditions across the western US, with heavy rain, mountain snow, and strong winds through the coming days. Already, record-breaking rainfall affected San Fransisco on Wednesday, with heavy rain also causing 32,000 customers to lose power in Sacramento. Into this week",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
-      "published_at": "2026-11-20T09:03:20+00:00",
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "SONATI: Spatio-temporal ocean neighbourhood asymmetric transformer for imputation of sparse, tabular data with uncertainty",
+      "summary": "arXiv:2611.28270v1 Announce Type: new Abstract: Missing value imputation is often a prerequisite for downstream analyses. In oceanography, observational data are frequently structured in a tabular manner, highly sparse and exhibit spatio-temporal structures that classical imputers such as k-nearest neighbours or MissForest are not suited to exploit. We present the Spatio-temporal Ocean Neighbourhood Asymmetric Transformer for Imputation (SONATI), a masked, factorised time-space transformer operating on pre-computed, local time and space neighbourhoods, which reduces computational complexity compared to global attention. SONATI is designed to work with tabular data and is thus in principle able to work on both gridded and unstructured data, though evaluation here was performed on gridded North Atlantic data only. It provides aleatoric and epistemic uncertainties through a negative log-likelihood loss and multiple forward passes with Monte Carlo dropout. Systematic ablations on attention type and masking strategies guided the final architecture design. The results showed that SONATI outperformed classical and transformer-based methods by at least 12.5% in terms of root mean squared e",
+      "source": "arXiv Machine Learning",
+      "url": "https://arxiv.org/abs/2611.28270",
+      "published_at": "2026-11-24T05:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 34
+      "score": 37
     },
     {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Kinh tế bạc - cơ hội từ 16,5 triệu người cao tuổi",
-      "summary": "Với gần 16,5 triệu người từ 60 tuổi trở lên, Việt Nam định hướng phát triển kinh tế bạc trên nhiều lĩnh vực, vừa mở rộng thị trường sản phẩm, dịch vụ, vừa phát huy sức lao động, kinh nghiệm và trí tuệ của người cao tuổi để tạo động lực tăng trưởng.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/kinh-te-bac-co-hoi-tu-16-5-trieu-nguoi-cao-tuoi-5147144.html",
-      "published_at": "2026-11-23T02:00:08+00:00",
+      "domain": "AI & công nghệ",
+      "category": "ai",
+      "title": "Benchmarking EEG feature families for ADHD research in children and adolescents: performance and explainability across attention tasks",
+      "summary": "arXiv:2611.28299v1 Announce Type: new Abstract: Attention Deficit Hyperactivity Disorder varies in presentation. Diagnosis requires clinical and developmental assessment. Reproducible electroencephalography measures may complement clinical and behavioural characterisation, but differing feature definitions and evaluation methods hinder comparison. We compared seven feature families and four combinations across attention tasks and assessed the stability of held-out explanations. Two serious games yielded four overlapping attention-task cohorts of 123-140 participants each. Repeated nested participant-held-out evaluation assessed recruitment-group discrimination. Exploratory paired participant-cluster bootstrap tests corrected for multiplicity in two separate families: 72 individual-task contrasts and 18 fusion contrasts. For eight configurations selected after inspecting predictive results, we explained held-out native probabilities before calibration. In the strongest task context, the highest configuration mean AUROC over three repetitions was 0.773, with a fixed-prediction 95% interval of 0.692-0.854 unadjusted for selecting the maximum. Precision, sensitivity and specificity wer",
+      "source": "arXiv Machine Learning",
+      "url": "https://arxiv.org/abs/2611.28299",
+      "published_at": "2026-11-24T05:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
+      "score": 37
     },
     {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "'Vẽ lại' siêu đô thị TP HCM",
-      "summary": "Hơn 50 năm qua, TP HCM trải qua bốn lần lập và điều chỉnh quy hoạch chung vào năm 1993, 1998, 2010, 2025, nhưng đều chưa đạt được mục tiêu giãn dân và phát triển đô thị vệ tinh. Nhiệm vụ này một lần nữa được đặt ra trong bản quy hoạch 100 năm vừa được thông qua.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/ve-lai-sieu-do-thi-tp-hcm-5139592.html",
-      "published_at": "2026-11-22T22:00:00+00:00",
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Arsenal XI vs Borussia Dortmund: Predicted lineup, confirmed team news and injury latest for Champions League - London Evening Standard",
+      "summary": "Arsenal XI vs Borussia Dortmund: Predicted lineup, confirmed team news and injury latest for Champions League London Evening Standard Why isn’t Arsenal vs Borussia Dortmund on TNT Sports tonight? London Evening Standard Go Inside Training ahead of Dortmund clash Arsenal.com",
+      "source": "Google News Arsenal",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUGw2bElQdnpfQ1VLQU9kWHFHTHppU2h1YnhwNXRsYVlBa3R2OW5ZWkRXYVBWYWthZmYtR0RYaG85QTFrY19fTGUwNTlWV0UyRERZUTU1NTQxajhoTWJFMjBIeFM4R3pYUHU0cGRRSzh1aVFzZzNDTjNfVFhwLWlTUlV1a3NkN1dnTmllYlNlYVByT3d3QWVJM3pCTjFOLXNEeThUY0xJS1VVMnIxaHM2N1lXbWtvdjBTR0NkaEJNMHk3czRaTDNEODlPZmphU2xYWThZMG9yRGtVUmlsUi1WTDlYX2ZzRUFBZDFSYjkwNA?oc=5",
+      "published_at": "2026-11-24T08:11:05+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 21
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Infinity Nikki Version 3.0 Behind-the-Scenes Interview with Special Guest Artist John Howe: \"Between Fantasy and Wonder\" \"There is a question which intrigues me, which has to do with the use of fantasy, and why fantasy is so important to us.\" \"And I think it's r - X",
+      "summary": "Infinity Nikki Version 3.0 Behind-the-Scenes Interview with Special Guest Artist John Howe: \"Between Fantasy and Wonder\" \"There is a question which intrigues me, which has to do with the use of fantasy, and why fantasy is so important to us.\" \"And I think it's r X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PV1h1c3BtdEtIdGZCTmFlZ242ZWdlcnpzUmxUWU5lWER0YkF1Z3BpbGpFaUNENmtSODZfRGx4QVF5dUsxaDZtWkdhblpYbEFkN3dHTWRxdE1hT1dRR19kczM1MjFZZzQ?oc=5",
+      "published_at": "2026-11-24T06:00:05+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -129,11 +129,11 @@
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "Some fun numbers first: - we landed 500+ perf-related PRs across the desktop app and the CLI - navigating between open threads is now 30% faster - opening a cold thread is 80% faster (!!!) - the app launches 10% faster - the app download size is 35% small - X",
-      "summary": "Some fun numbers first: - we landed 500+ perf-related PRs across the desktop app and the CLI - navigating between open threads is now 30% faster - opening a cold thread is 80% faster (!!!) - the app launches 10% faster - the app download size is 35% small X",
+      "title": "Last week, we launched a promo for a free trial of Vibe Pro for builders in Europe. We ran out of capacity in less than an hour. Today, we’re fixing that for good. No more capped drops. If you’re in Europe, you get a month of Vibe Pro for free. European product, - X",
+      "summary": "Last week, we launched a promo for a free trial of Vibe Pro for builders in Europe. We ran out of capacity in less than an hour. Today, we’re fixing that for good. No more capped drops. If you’re in Europe, you get a month of Vibe Pro for free. European product, X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QcnZYQ0lpaEZQWEhzN2dkRUNiVHBxN0k1cHdGS0JXeFp1bjJvR2NDUE5wRGN0TFRVOFJEZ0puekJUakRtR0JPVHJ0X3JqNkJnd2xYQWxlV1lSZHYyVnFHVQ?oc=5",
-      "published_at": "2026-11-22T20:39:47+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EMFJCWGRkX05oWkdyVEJZWGpGbGU2QUhUYVkxTGE0alNMSm1GWGNHZVZaZ0dqWFVtODMwcUd4M3hDRDlZc2hHSU9XS0J3dF9nT055SlFOS041ZHpodVFN?oc=5",
+      "published_at": "2026-11-23T16:39:11+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -142,28 +142,13 @@
       "score": 20
     },
     {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "Updated /btw in Google Antigravity. It used to answer a side question while your main agent was busy. Now you can fork a side thread, explore it, and promote it back. Without ever losing your place. Try it out with Gemini 4 Neon :) - X",
-      "summary": "Updated /btw in Google Antigravity. It used to answer a side question while your main agent was busy. Now you can fork a side thread, explore it, and promote it back. Without ever losing your place. Try it out with Gemini 4 Neon :) X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vd2FXN01fWEFKVFRiZmQtN0xMT0Z6aVlra2N5NzZOaUVRUVRWUWV1QnVzZ3FSZzZHdWpCenJmUXpmMVBsUnNiTW5ubU1PaEwwaFFBVkl1c01IengtSHNfbklSZ1ZHZw?oc=5",
-      "published_at": "2026-11-22T23:23:16+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 19
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Văn hóa đổi mới giúp Unilever nhận cú đúp giải thưởng xanh",
-      "summary": "Unilever Việt Nam được vinh danh tại AmCham Awards và DBAV Business Awards 2026 nhờ văn hóa đổi mới, các sáng kiến kinh tế tuần hoàn, giảm phát thải và hợp tác phát triển bền vững.",
-      "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/van-hoa-doi-moi-giup-unilever-nhan-cu-dup-giai-thuong-xanh-5147756.html",
-      "published_at": "2026-11-23T02:00:00+00:00",
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "The youngest Premier League goalscorers this season",
+      "summary": "After the stellar performances of Liverpool's Rio Ngumoha and Tottenham's Luca Williams-Barnett, BBC Sport looks at the youngest players to score in the Premier League this season.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-24T09:10:34+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -174,56 +159,11 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "How 'outstanding' Tzolakis kept Brighton at bay",
-      "summary": "Match of the Day pundit Danny Murphy looks at how Hull goalkeeper Konstantinos Tzolakis was able to thwart high-flying Brighton in their 2-0 win over the Seagulls at the MKM Stadium.",
+      "title": "MLS side to honour deceased hippo with tifo",
+      "summary": "Major League Soccer side FC Cincinnati will honour Fiona, a hippo that recently died at the city's zoo, with a tifo display at their match with Nashville SC on Saturday.",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-22T23:59:57+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
-      "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-22T21:36:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "EXCLUSIVE: #VisionQuest creator Terry Matalas has confirmed that there were never any plans for Chris Pratt’s Star-Lord to appear in the series. (Full interview: https://t.co/NbN9gYRE8K) - X",
-      "summary": "EXCLUSIVE: #VisionQuest creator Terry Matalas has confirmed that there were never any plans for Chris Pratt’s Star-Lord to appear in the series. (Full interview: https://t.co/NbN9gYRE8K) X",
-      "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sTEt5Sm0wNkRaYXpYRHpYYTAzeFEyejMtUEs3NUJ4cnFLWjBUb0lySk81N2xfbjRtQ3o0bXFkM3dEQkJFdzY0QTYtekUtWF9UUDhwMnBqUEYxN04tZzdBSg?oc=5",
-      "published_at": "2026-11-22T19:30:17+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Did Liverpool 'get lucky' with red card decision?",
-      "summary": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-22T23:59:59+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n90jrvxrzpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-24T09:43:38+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -234,17 +174,92 @@
     {
       "domain": "Sách",
       "category": "books",
-      "title": "National Book Award Finalist May Be Ineligible for the Prize - The New York Times",
-      "summary": "National Book Award Finalist May Be Ineligible for the Prize The New York Times",
-      "source": "Google News Books & Publishing",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQmw1WUZQZlljNG8tUlRQOTVFYklyOTVxdGlRX1FyRGc1SE44WEhveDltanlCOFVxcWo1TjY5RTl3RTBvMi1JNERZek9LMXVLUTdhaW5Oa0psS0lBXy1feTlXQnlZS2MwbUl3Q2pZQnB2VDJWRHRNU014Z284UTRxbE02ajktODRJMUVINXlwNWVYSFNKUVpYLXhXVDg?oc=5",
-      "published_at": "2026-11-21T08:00:00+00:00",
+      "title": "French publisher accused of sending journalists intimate images of Gisèle Pelicot",
+      "summary": "Publishing house Tinbad is accused of having used intimate images of Gisèle Pelicot to promote a book, three years after the start of her legal fight against sexual violence.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/24/french-publisher-accused-of-sending-journalists-intimate-images-of-gisele-pelicot",
+      "published_at": "2026-11-24T09:19:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 11
+      "score": 17
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Vụ nổ khí gas ở Hà Nội: Nạn nhân cạy cửa cuốn, bò ra ngoài",
+      "summary": "Sau tiếng nổ, căn hộ tầng 1 tập thể E4 rung lắc dữ dội, vữa trần rơi ào ào, vợ chồng chị Tươi cố sức kéo cửa cuốn, tạo khe hở để các thành viên lần lượt chui ra ngoài.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/vu-no-khi-gas-o-ha-noi-nan-nhan-cay-cua-cuon-bo-ra-ngoai-5148362.html",
+      "published_at": "2026-11-24T08:57:07+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Di dời hơn 100 hộ dân khỏi nhà tập thể cũ sau vụ nổ ở Hà Nội",
+      "summary": "Quán lẩu nằm ở mặt tiền nhà tập thể E4 phát nổ khiến tòa nhà 5 tầng rung lắc, cửa kính vỡ toác, cư dân phải di dời do công trình không bảo đảm an toàn, trưa 24/11.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/di-doi-hon-100-ho-dan-khoi-nha-tap-the-cu-sau-vu-no-o-ha-noi-5148377.html",
+      "published_at": "2026-11-24T07:14:19+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "Dãy nhà đổ nát sau vụ nổ ở khu tập thể Hà Nội",
+      "summary": "Dãy 10 căn nhà hư hỏng, cửa cuốn bung khỏi khung, mái tôn đổ sập, mảnh vỡ văng khắp mặt đường sau vụ nổ quán lẩu làm 6 người chết trên phố Nguyễn Văn Tuyết, phường Đống Đa.",
+      "source": "VnExpress Thời sự",
+      "url": "https://vnexpress.net/day-nha-do-nat-sau-vu-no-o-khu-tap-the-ha-noi-5148321.html",
+      "published_at": "2026-11-24T03:36:27+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "Kenya’s eCitizen platform has been named in an alleged cyberattack, with hackers claiming to have stolen about 740GB of government data. Here is a thread on what happened. - X",
+      "summary": "Kenya’s eCitizen platform has been named in an alleged cyberattack, with hackers claiming to have stolen about 740GB of government data. Here is a thread on what happened. X",
+      "source": "Google News X Threads & Creator Discussions",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEQXpTMUUwcENqUWltT3VkOUZsbUdESnNJZE5rcks3R2VoYTJZNGNWQTg2bHhfWi1ZU2g4cjRFUXJkZkVScTRGSXFvS1lxZy0ydGU4dDFJTGNYX0lacThmRU1CejBQdw?oc=5",
+      "published_at": "2026-11-24T03:33:27+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "Shortlist ‘full of surprises’ announced for inaugural Children’s Booker Prize - The Romania Journal",
+      "summary": "Shortlist ‘full of surprises’ announced for inaugural Children’s Booker Prize The Romania Journal",
+      "source": "Google News International Book Awards",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONkMtQ2ZQNF8xOVg2Wkh3OW1ZS2FSM1RhaTF5VnpCWnF6VlRCMngzSHFWRzVYZWQ5SEtLQWxPOW5pVG5CalV1ZWNCUnZfbDNGYzd5Z3VsRl80QzI4dXk5M3M3VzlyWXJMallKQl9oZUxVVVRXRTZ1b0lHeld1RDkyN0IzZXkwbjE2Tmp4bmNmMU54a0pmdl9HNU9pMzZqLUptVk5fZXh6QWlsNHlnUzZmUF9pVE1YQURzOTZ2Nkc1SXpPRlpG0gHEAUFVX3lxTE42Qy1DZlA0XzE5WDZaSHc5bVlLYVIzVGFpMXlWekJacXpWVEIyeDNIcVZHNVhlZDlIS0tBbE85bmlUbkJqVXVlY0JSdl9sM0ZjN3lndWxGXzRDMjh1eTkzczdXOXJZckxqWUpCX2hlTFVVVFdFNnVvSUd6V3VEOTI3QjNleTBuMTZOanhuY2YxTnhrSmZ2X0c1T2kzNmotSm1WTl9leHpBaWw0eWdTNmZQX2lUTVhBRHM5NnY2RzVJek9GWkY?oc=5",
+      "published_at": "2026-11-24T08:08:39+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 15
     },
     {
       "domain": "Sách",
@@ -260,21 +275,6 @@
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
       "score": 11
-    },
-    {
-      "domain": "Sách",
-      "category": "books",
-      "title": "A Big Night for PRH: 3 National Book Awards Winners and a Distinguished Honoree - Penguin Random House",
-      "summary": "A Big Night for PRH: 3 National Book Awards Winners and a Distinguished Honoree Penguin Random House",
-      "source": "Google News International Book Awards",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON1lOOUNfRElhcVQzUjhmSjhVYVlmdU9Fdk9xWjVNN1ZGYWpEbWszR0ZqQk5VVlAya21LS3k3U0JIcEg2WklpTUk5S1RweG1vT3Z5eVRrQURROTlmRGFUNFFCbVR1UHQtNXByZDh1Vm5xeEsxMC1oa3M2RDVqbmMyREJEZURxdm1Jd2poTE1kYzhpU1BTblZfX0tLUzRIWk1yVXFhQVpQM2llS3k1WThUcmE3OHI0VlU5U25WVFZnMHN6SUJsYjNjS21henNrZFk?oc=5",
-      "published_at": "2026-11-19T19:11:05+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 10
     }
   ],
   "themes": [
@@ -284,23 +284,16 @@
       "status": "Mẫu hình cần kiểm chứng",
       "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
       "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
-      "evidence_count": 3,
+      "evidence_count": 2,
       "source_count": 2,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Tỷ giá trung tâm lập kỷ lục mới",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/ty-gia-trung-tam-lap-ky-luc-moi-5148005.html",
-          "published_at": "2026-11-23T06:08:24+00:00",
-          "summary": "Tỷ giá trung tâm hôm nay tăng 9 đồng, lên mức kỷ lục mới, trong khi giá USD tại các ngân hàng thương mại tăng hơn 300 đồng sau hai tuần, vượt 26.000 đồng."
-        },
-        {
-          "title": "Giá vàng có thể giảm tiếp",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/gia-vang-co-the-giam-tiep-5147695.html",
-          "published_at": "2026-11-22T21:02:28+00:00",
-          "summary": "Kỳ vọng lạm phát giảm, đà bán tháo cổ phiếu Mỹ tiếp tục lan rộng cùng lãi suất neo cao có thể là những rủi ro của vàng tuần này, theo các chuyên gia."
+          "title": "Chinese official gets death sentence in spy case, report says",
+          "source": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/chinese-official-gets-death-sentence-in-spy-case-report-says/a-80028393?maca=en-rss-en-all-1573-xml-mrss",
+          "published_at": "2026-11-24T08:41:00+00:00",
+          "summary": "A Chinese official recruited while working abroad was paid more than a million yuan to leak secrets, state-affiliated media reported."
         },
         {
           "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
@@ -322,32 +315,32 @@
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.26966",
-          "published_at": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.26966v1 Announce Type: new Abstract: Tool-using AI agents propose actions whose authorization and external effects cannot be inferred from generated text alone. We study an execution boundary that separates agent proposals from business-controlled authority, context disclosure, and supplier selection. The Open Process Control Plane (OPCP) mediates capability calls and records uncertain outcomes when a supplier may have acted without returning an acceptable reply. We evaluate this runt"
+          "title": "‘State-sanctioned theft’: Australian news outlets demand content is protected from AI scraping – as it happened",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+          "published_at": "2026-11-24T07:21:53+00:00",
+          "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo). There’s still a fair bit of work to do to finalise it all, but we’ve made enough progress to be confident that at this s"
         },
         {
-          "title": "Depth-Linked Residual Tokens for Multimodal Retrieval and Generation",
+          "title": "Failure Modes and Data-Efficient Remedies for Transformer-Based Prediction of Viscoplastic Flows",
           "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.26752",
-          "published_at": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.26752v1 Announce Type: new Abstract: Iterative architectures such as looped language models improve parameter efficiency and reasoning capacity of transformers, yet their sequential backbone iterations introduce substantial computational latency. Conversely, parallelizable learnable special tokens (such as the register tokens in Vision Transformer) enable efficient single-pass inference, but often suffer from the absence of sequential refinement and exhibit redundant representations a"
+          "url": "https://arxiv.org/abs/2611.28267",
+          "published_at": "2026-11-24T05:00:00+00:00",
+          "summary": "arXiv:2611.28267v1 Announce Type: new Abstract: Fast and accurate prediction of viscoplastic flows remains a challenge in computational rheology due to yield surfaces, discontinuous gradients, and strongly nonlinear transitions between yielded and unyielded regions. Transformer-based neural operators such as RheOFormer have recently shown strong potential for surrogate modeling of non-Newtonian flows. However, their applicability to viscoplastic systems and their efficacy in recovering realistic"
         },
         {
-          "title": "A Sparsity Analysis of Traffic Forecasting Architectures: How Much Missing Data is Too Much?",
+          "title": "TabK: Amortized Bayesian Estimation of the Number of Clusters in Tabular Data",
           "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.26847",
-          "published_at": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.26847v1 Announce Type: new Abstract: Traffic forecasting models are typically evaluated under ideal conditions with complete data. This evaluation does not reflect the frequent sensor failures and communication outages common in real-world deployments. This paper presents a comprehensive analysis of multivariate traffic prediction models to evaluate their performance under varying levels of sensor data loss during inference. We benchmark several architectural paradigms, including grap"
+          "url": "https://arxiv.org/abs/2611.28335",
+          "published_at": "2026-11-24T05:00:00+00:00",
+          "summary": "arXiv:2611.28335v1 Announce Type: new Abstract: Estimating the number of clusters, $k$, is a fundamental prerequisite for most clustering algorithms. Traditionally, this estimation has relied on computationally expensive grid searches over internal cluster validity indices (CVIs) or adaptive clustering algorithms, both constrained by specific statistical assumptions. We introduce TabK, a zero-shot, permutation-invariant transformer architecture that frames the estimation of $k$ as an amortized B"
         },
         {
-          "title": "CENTRY: A Probabilistic Latent-State Model for Continual AI Risk Estimation, Monitoring, and Regulation",
+          "title": "Toward Adversarially Robust World Models",
           "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.26940",
-          "published_at": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.26940v1 Announce Type: new Abstract: Artificial Intelligence (AI) systems are increasingly deployed in safety-critical applications, yet existing AI safety frameworks primarily define, categorize, or govern AI risk rather than proposing implementable models and methods for continually estimating, monitoring, and regulating risk throughout an AI system's operational lifetime. This paper proposes CENTRY, a probabilistic framework that enables continual risk estimation, monitoring, and r"
+          "url": "https://arxiv.org/abs/2611.28345",
+          "published_at": "2026-11-24T05:00:00+00:00",
+          "summary": "arXiv:2611.28345v1 Announce Type: new Abstract: Latent dynamic world models have proven to be highly versatile tools for embodied artificial intelligence systems, enabling online action planning, safe policy evaluation, and scalable policy learning. However, this versatility makes world models a vulnerable and centralized point of failure as a compromised model can impact planning, evaluation, and training at once. Therefore it is critical that the security and robustness properties of world mod"
         }
       ]
     },
@@ -358,36 +351,36 @@
       "reading": "Các diễn biến chính trị và thương mại có thể ảnh hưởng đến vận tải, giá đầu vào hoặc quyết định đầu tư. Chưa thể suy ra tác động tới Việt Nam nếu chưa biết tuyến hàng, mặt hàng và mức độ phơi nhiễm.",
       "falsifier": "Bác bỏ nếu chưa có thay đổi chính sách/luồng hàng thực tế hoặc mặt hàng liên quan không gắn với Việt Nam.",
       "evidence_count": 4,
-      "source_count": 3,
+      "source_count": 2,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.26903",
-          "published_at": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.26903v1 Announce Type: new Abstract: Partial-edit deepfake localization aims to identify manipulated regions within otherwise authentic speech. Recent systems report strong overall results, but aggregate scores do not reveal whether this performance holds across different editing conditions. In this work, we present an edit- and generator-conditioned analysis of Segment-Aware Localization (SAL) using WavLM-Large and XLS-R representations on the VoiceCraft and SSR-Speech subsets of Par"
-        },
-        {
-          "title": "A Sparsity Analysis of Traffic Forecasting Architectures: How Much Missing Data is Too Much?",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.26847",
-          "published_at": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.26847v1 Announce Type: new Abstract: Traffic forecasting models are typically evaluated under ideal conditions with complete data. This evaluation does not reflect the frequent sensor failures and communication outages common in real-world deployments. This paper presents a comprehensive analysis of multivariate traffic prediction models to evaluate their performance under varying levels of sensor data loss during inference. We benchmark several architectural paradigms, including grap"
-        },
-        {
-          "title": "Parasite Features: Causal Abstraction Through Spurious Pathways",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.26711",
-          "published_at": "2026-11-23T05:00:00+00:00",
-          "summary": "arXiv:2611.26711v1 Announce Type: new Abstract: Causal Abstraction defines a notion of \\emph{equivalence} between a neural network and an algorithm, thus serving as a powerful framework for mechanistic interpretability. In this paper, however, we show the existence of a class of \\emph{spurious features} which straightforwardly pass such equivalence tests. Suppose there are two directions in a model's representation space where: (i) one discriminates the input based on some feature, and (ii) the "
-        },
-        {
-          "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+          "title": "‘State-sanctioned theft’: Australian news outlets demand content is protected from AI scraping – as it happened",
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
-          "published_at": "2026-11-20T21:47:41+00:00",
-          "summary": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he had not yet informed his own officials about the plan. In a discursive press conference from the White House briefing room, Trump also said he would “look into” the report that Iran had been planning t"
+          "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+          "published_at": "2026-11-24T07:21:53+00:00",
+          "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo). There’s still a fair bit of work to do to finalise it all, but we’ve made enough progress to be confident that at this s"
+        },
+        {
+          "title": "Failure Modes and Data-Efficient Remedies for Transformer-Based Prediction of Viscoplastic Flows",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.28267",
+          "published_at": "2026-11-24T05:00:00+00:00",
+          "summary": "arXiv:2611.28267v1 Announce Type: new Abstract: Fast and accurate prediction of viscoplastic flows remains a challenge in computational rheology due to yield surfaces, discontinuous gradients, and strongly nonlinear transitions between yielded and unyielded regions. Transformer-based neural operators such as RheOFormer have recently shown strong potential for surrogate modeling of non-Newtonian flows. However, their applicability to viscoplastic systems and their efficacy in recovering realistic"
+        },
+        {
+          "title": "RefineKV: Query-Adaptive KV Cache Compression via Attention-Error Bounds",
+          "source": "arXiv Machine Learning",
+          "url": "https://arxiv.org/abs/2611.28171",
+          "published_at": "2026-11-24T05:00:00+00:00",
+          "summary": "arXiv:2611.28171v1 Announce Type: new Abstract: Repeatedly accessing the full key--value (KV) cache is a major bottleneck in long-context language model decoding. We find that small query-specific subsets can accurately approximate full attention, yet their union covers nearly the entire cache, motivating query-adaptive access for the KV cache. A natural approach is to split the KV cache into clusters, using compact representatives for clusters that incur negligible error while expanding the res"
+        },
+        {
+          "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+          "published_at": "2026-11-23T22:41:48+00:00",
+          "summary": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator who mocked the US president to raucous laughter from a crowd of politicians and journalists at a parliamentary press gallery dinner on Saturday. With coiffed hair and an ill-fitting suit, comedian Mark Critch – who portrays the president on the sketch show This Hour Has 22 Minutes – "
         }
       ]
     },
@@ -402,32 +395,32 @@
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Kinh tế bạc - cơ hội từ 16,5 triệu người cao tuổi",
+          "title": "Thông xe cầu vòm thép cao nhất Quảng Trị",
           "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/kinh-te-bac-co-hoi-tu-16-5-trieu-nguoi-cao-tuoi-5147144.html",
-          "published_at": "2026-11-23T02:00:08+00:00",
-          "summary": "Với gần 16,5 triệu người từ 60 tuổi trở lên, Việt Nam định hướng phát triển kinh tế bạc trên nhiều lĩnh vực, vừa mở rộng thị trường sản phẩm, dịch vụ, vừa phát huy sức lao động, kinh nghiệm và trí tuệ của người cao tuổi để tạo động lực tăng trưởng."
+          "url": "https://vnexpress.net/thong-xe-cau-vom-thep-cao-nhat-quang-tri-5148315.html",
+          "published_at": "2026-11-24T07:05:33+00:00",
+          "summary": "Cầu Nhật Lệ 3 dài hơn 2,8 km, vốn đầu tư 1.325 tỷ đồng, nối quốc lộ 1 với đường Võ Nguyên Giáp, được thông xe kỹ thuật sáng 24/11."
         },
         {
-          "title": "Tỷ giá trung tâm lập kỷ lục mới",
+          "title": "Jensen Huang tái xuất cho thấy tầm ảnh hưởng khó thay thế",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/ty-gia-trung-tam-lap-ky-luc-moi-5148005.html",
-          "published_at": "2026-11-23T06:08:24+00:00",
-          "summary": "Tỷ giá trung tâm hôm nay tăng 9 đồng, lên mức kỷ lục mới, trong khi giá USD tại các ngân hàng thương mại tăng hơn 300 đồng sau hai tuần, vượt 26.000 đồng."
+          "url": "https://vnexpress.net/jensen-huang-tai-xuat-cho-thay-tam-anh-huong-kho-thay-the-5148332.html",
+          "published_at": "2026-11-24T07:00:00+00:00",
+          "summary": "CEO vừa trở lại Nvidia - Jensen Huang được cho là có ảnh hưởng quan trọng đối với cả lĩnh vực AI, Washington, thị trường tài chính hay địa chính trị."
         },
         {
-          "title": "7 thành viên mới của Trung tâm tài chính quốc tế TP HCM dự kiến huy động 5 tỷ USD",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/7-thanh-vien-moi-cua-trung-tam-tai-chinh-quoc-te-tp-hcm-du-kien-huy-dong-5-ty-usd-5147995.html",
-          "published_at": "2026-11-23T06:01:18+00:00",
-          "summary": "Dragon Capital, Mekong Capital, quỹ đầu tư Singapore CMIA Capital Partners là ba trong 7 thành viên mới của VIFC-HCMC, dự kiến huy động 5 tỷ USD giai đoạn 2027-2030."
+          "title": "Cháy quán bún bò, một phụ nữ tử vong",
+          "source": "VnExpress Thời sự",
+          "url": "https://vnexpress.net/chay-quan-bun-bo-mot-phu-nu-tu-vong-5148352.html",
+          "published_at": "2026-11-24T06:48:34+00:00",
+          "summary": "Đám cháy bùng phát tại ngôi nhà ở kết hợp kinh doanh bún bò Huế trên đường Nguyễn Du, khiến nữ gia chủ 55 tuổi tử vong, rạng sáng 24/11."
         },
         {
-          "title": "DNSE: AI định hình phương thức đầu tư mới",
+          "title": "Chứng khoán châu Á tăng vọt khi Jensen Huang trở lại Nvidia",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/dnse-ai-dinh-hinh-phuong-thuc-dau-tu-moi-5147442.html",
-          "published_at": "2026-11-23T02:00:00+00:00",
-          "summary": "AI giúp các cá nhân tiếp cận các công cụ phân tích chuyên sâu, xây dựng chiến lược phù hợp, từng bước thu hẹp khoảng cách với nhà đầu tư tổ chức, theo Chủ tịch DNSE."
+          "url": "https://vnexpress.net/chung-khoan-chau-a-tang-vot-khi-jensen-huang-tro-lai-nvidia-5148343.html",
+          "published_at": "2026-11-24T04:49:27+00:00",
+          "summary": "Nhiều chỉ số chứng khoán châu Á sáng nay tăng hơn 4% theo đà hưng phấn của thị trường Mỹ khi Jensen Huang được phục chức CEO Nvidia."
         }
       ]
     }
@@ -438,20 +431,20 @@
       "domain": "AI & công nghệ",
       "items": 40,
       "usable": 40,
-      "sources": 9
+      "sources": 6
     },
     {
       "category": "world",
       "domain": "Thế giới",
       "items": 65,
       "usable": 65,
-      "sources": 11
+      "sources": 14
     },
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 20,
-      "usable": 20,
+      "items": 14,
+      "usable": 14,
       "sources": 3
     },
     {
@@ -464,23 +457,23 @@
     {
       "category": "football",
       "domain": "Arsenal & Premier League",
-      "items": 13,
-      "usable": 13,
-      "sources": 3
+      "items": 17,
+      "usable": 17,
+      "sources": 4
     },
     {
       "category": "books",
       "domain": "Sách",
-      "items": 4,
-      "usable": 4,
+      "items": 5,
+      "usable": 5,
       "sources": 3
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
-      "items": 8,
-      "usable": 8,
-      "sources": 2
+      "items": 9,
+      "usable": 9,
+      "sources": 3
     },
     {
       "category": "trends",
@@ -492,84 +485,76 @@
   ],
   "links": [
     {
-      "a": "NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community – as it happened",
-      "b": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
+      "a": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
+      "b": "Last week, we launched a promo for a free trial of Vibe Pro for builders in Europe. We ran out of capacity in less than an hour. Today, we’re fixing that for good. No more capped drops. If you’re in Europe, you get a month of Vibe Pro for free. European product, - X",
       "terms": [
-        "across",
-        "challenging",
-        "change",
-        "overall",
-        "score"
+        "european",
+        "free"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community – as it happened",
-      "b": "Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents",
+      "a": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
+      "b": "Kenya’s eCitizen platform has been named in an alleged cyberattack, with hackers claiming to have stolen about 740GB of government data. Here is a thread on what happened. - X",
       "terms": [
-        "across",
-        "change",
-        "state"
+        "government",
+        "here"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community – as it happened",
-      "b": "Some fun numbers first: - we landed 500+ perf-related PRs across the desktop app and the CLI - navigating between open threads is now 30% faster - opening a cold thread is 80% faster (!!!) - the app launches 10% faster - the app download size is 35% small - X",
+      "a": "‘State-sanctioned theft’: Australian news outlets demand content is protected from AI scraping – as it happened",
+      "b": "Failure Modes and Data-Efficient Remedies for Transformer-Based Prediction of Viscoplastic Flows",
       "terms": [
-        "across",
-        "between"
+        "these",
+        "work"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Unemployment to surpass 5% and ‘things will get a bit harder’, treasurer Jim Chalmers warns",
-      "b": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
+      "a": "‘State-sanctioned theft’: Australian news outlets demand content is protected from AI scraping – as it happened",
+      "b": "SONATI: Spatio-temporal ocean neighbourhood asymmetric transformer for imputation of sparse, tabular data with uncertainty",
       "terms": [
-        "reveal",
-        "show"
+        "global",
+        "only",
+        "work"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Unemployment to surpass 5% and ‘things will get a bit harder’, treasurer Jim Chalmers warns",
-      "b": "Updated /btw in Google Antigravity. It used to answer a side question while your main agent was busy. Now you can fork a side thread, explore it, and promote it back. Without ever losing your place. Try it out with Gemini 4 Neon :) - X",
+      "a": "‘State-sanctioned theft’: Australian news outlets demand content is protected from AI scraping – as it happened",
+      "b": "Infinity Nikki Version 3.0 Behind-the-Scenes Interview with Special Guest Artist John Howe: \"Between Fantasy and Wonder\" \"There is a question which intrigues me, which has to do with the use of fantasy, and why fantasy is so important to us.\" \"And I think it's r - X",
       "terms": [
-        "question",
-        "used"
+        "there",
+        "think"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
-      "b": "California’s coastal communities on alert as biggest waves in years hit state",
+      "a": "‘State-sanctioned theft’: Australian news outlets demand content is protected from AI scraping – as it happened",
+      "b": "Last week, we launched a promo for a free trial of Vibe Pro for builders in Europe. We ran out of capacity in less than an hour. Today, we’re fixing that for good. No more capped drops. If you’re in Europe, you get a month of Vibe Pro for free. European product, - X",
       "terms": [
-        "across",
-        "conditions",
-        "large",
-        "strong",
-        "systems",
-        "these"
+        "free",
+        "more",
+        "than"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents",
-      "b": "California’s coastal communities on alert as biggest waves in years hit state",
+      "a": "‘State-sanctioned theft’: Australian news outlets demand content is protected from AI scraping – as it happened",
+      "b": "Kenya’s eCitizen platform has been named in an alleged cyberattack, with hackers claiming to have stolen about 740GB of government data. Here is a thread on what happened. - X",
       "terms": [
-        "across",
-        "also",
-        "generated",
-        "state"
+        "government",
+        "happened"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents",
-      "b": "Some fun numbers first: - we landed 500+ perf-related PRs across the desktop app and the CLI - navigating between open threads is now 30% faster - opening a cold thread is 80% faster (!!!) - the app launches 10% faster - the app download size is 35% small - X",
+      "a": "Sports whistleblowers protected under proposed laws amid Australian cricket ball tampering saga",
+      "b": "SONATI: Spatio-temporal ocean neighbourhood asymmetric transformer for imputation of sparse, tabular data with uncertainty",
       "terms": [
-        "across",
-        "open"
+        "forward",
+        "here"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }

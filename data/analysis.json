@@ -1,34 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T08:33:54.775308+00:00",
-  "input_generated_at": "2026-11-25T08:33:54.733604+00:00",
+  "generated_at": "2026-11-26T08:17:39.106385+00:00",
+  "input_generated_at": "2026-11-26T08:17:39.056257+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
   "items_after_dedup": 150,
   "signals": [
     {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-      "summary": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa When the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard. Within the first hour, checkpoints on the outskirts of the remote desert city nestled among the rocky hills of northern Mali had fallen to the insurgents, who pushed towards the police station where fierce fighting erupted. “Everything was happening at once. Explosions were going off all around us, people were shouting,” recalled a former member of Russia’s Africa Corps who was stationed in Mali at the time and spoke on condition of anonymity. “Nobody knew where the enemy was coming from.” Continue reading...",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
-      "published_at": "2026-11-24T16:00:50+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
       "domain": "AI & công nghệ",
       "category": "ai",
-      "title": "Show HN: Lightscale AI – A language for LLMs to write business software",
-      "summary": "I am Luc, one of the co-founders of Lightscale AI. I have background in programming languages (ETH Zurich) and we are small team in Zug, Switzerland. As more and more code is now written by LLMs and few people have time to review the generated code, we came up with the idea to revise the actual stack below the LLMs: The programming language with its compiler and runtime system, all designed from scratch for AI authorship, not for humans. We have three goals: 1. Security and stability by language design: Some classes of errors are removed by abstraction as the AI never writes that code, but the compiler and runtime implement it fully. Others are reduced by rigid compiler checks and very strict language rules (no fun for humans to code). 2. Speed. We designed the language to reduce tokens, by throwing out a lot of complexity and legacy of classical languages. Our target is about a minute from prompt to deployment on average. 3. AI cost. The language is designed for mid-tier LLMs, with little or no reasoning effort. This is why we can offer prompting for free (no credit, but account sign-up is needed). We charge for longer hosting or source export. For now, we focus on business applic",
+      "title": "I Learned to Stop Worrying and Love the AI",
+      "summary": "A few years ago talking heads and AM radio personalities went cookoo over AI. The warnings were replete with assertations of total destruction. I blew them off as doomsdayesque viewer/listener headline/listener bastards that saw dollar signs in words. Assuredly, they completely misunderstood the technology and the intricacies of how AI functions and what it was capable of. They read enough science fiction to regurgitate what sounded like knowledge of the future. Interestingly, they were largely right in the end. The tech has evolved fantastically quick. The wildest scenarios preposed from previous predicions is becoming realistic. I do not worry about those scenarios. I do not fear the wildest predictions. Throughout history humans have developed weapons, ideas, technologies, and systems that detractors predicted would kill us all or would lead to insurmountable changes to society. Electricity is not the devil. The printing press was not a detriment to society. AI will fundamentally change many things. That is a good thing. Humanity will forever be preserved. What is Humanity? We will perpetually find out. Happy Thanksgiving to everyone. Comments URL: https://news.ycombinator.com/i",
       "source": "Hacker News AI Discussions",
-      "url": "https://lightscale.ai/",
-      "published_at": "2026-11-25T07:36:21+00:00",
+      "url": "https://news.ycombinator.com/item?id=50651635",
+      "published_at": "2026-11-26T05:01:25+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -39,11 +24,11 @@
     {
       "domain": "AI & công nghệ",
       "category": "ai",
-      "title": "Flagging Batch Shift in Flow Cytometry using Jeffreys Divergence between Gaussian Mixtures",
-      "summary": "arXiv:2611.31321v1 Announce Type: new Abstract: Machine learning models for clinical flow cytometry are usually evaluated on data drawn from their training distribution. In routine practice, however, acquisition conditions and reagents may change, potentially making predictions unreliable without warning. We propose a model agnostic criterion for prediction reliability based on a notion of distance from the training distribution: each patient sample is represented by a Gaussian mixture model, and its Jeffreys divergence to a reference fitted on the training data is estimated using Monte Carlo integration. We illustrate our approach on real-life shifted cohorts of acute myeloid leukaemia patients, using a classifier trained to predict NPM1 mutation status. First, we show graphically and statistically that pairwise divergences capture acquisition cohort structure. We then calibrate a rejection threshold on a subset of shifted cohort samples and evaluate it on held-out subjects. Across 20 runs, the misclassification rate of rejected samples was 2.5 times larger than for retained samples. These results suggest that input divergence can help identify unreliable predictions, providing a ",
-      "source": "arXiv Machine Learning",
-      "url": "https://arxiv.org/abs/2611.31321",
-      "published_at": "2026-11-25T05:00:00+00:00",
+      "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+      "summary": "arXiv:2611.31345v1 Announce Type: new Abstract: In recent years, multimodal large language models (MLLMs) have achieved significant progress in chart-to-code generation. However, existing benchmarks mainly focus on static charts, overlooking interactive charts that enable richer and more expressive data exploration. Unlike static chart-to-code generation, which emphasizes visual consistency, interactive chart-to-code evaluation targets behavioral consistency, requiring chart states to evolve correctly under sequences of user interactions, thereby rendering traditional one-step evaluation paradigms ineffective. To address this gap, we introduce ChartInt, the first benchmark specifically designed for interactive chart-to-code generation. ChartInt consists of 2,779 carefully annotated examples covering common interaction patterns such as hover, highlight, and tooltips. Additionally, ChartInt incorporates editing tasks such as data updates, style adjustments, and cross-chart style transfer to expand real-world application scenarios. To enable reliable evaluation of interaction behavior, we propose a preset state snapshot protocol that predefines target interaction states and determinis",
+      "source": "arXiv AI",
+      "url": "https://arxiv.org/abs/2611.31345",
+      "published_at": "2026-11-26T05:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -54,26 +39,11 @@
     {
       "domain": "AI & công nghệ",
       "category": "ai",
-      "title": "CHORD: Learning Latent Spaces for Constrained Stellarator Design",
-      "summary": "arXiv:2611.31486v1 Announce Type: new Abstract: In high-dimensional, PDE-constrained design, interpolating between known feasible solutions can reveal trade-offs without repeating expensive optimization campaigns. In stellarator design for fusion energy, direct interpolation of plasma boundary parameters can violate physical constraints even when both endpoints are feasible. Learned latent representations can capture nonlinear relationships among design variables, but latent interpolation can still cross infeasible regions, and conditioning on target metrics can become inconsistent with the decoded design. We introduce CHORD, a conditional variational autoencoder that penalizes predicted constraint violations along decoded latent interpolants during training, paired with self-consistent inference that aligns conditioning with the decoded design's predicted metrics. Geometric benchmarks show the benefit of regularizing latent interpolants. In stellarator interpolation between distinct geometry families, CHORD reaches up to 81% simulator-validated mid-segment feasibility, compared with 50% for an unregularized conditional VAE and 28% for direct interpolation of boundary parameters. A",
-      "source": "arXiv Machine Learning",
-      "url": "https://arxiv.org/abs/2611.31486",
-      "published_at": "2026-11-25T05:00:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Arsenal vs Borussia Dortmund LIVE! Champions League lineups, match updates, news, score and analysis - Sky Sports",
-      "summary": "Arsenal vs Borussia Dortmund LIVE! Champions League lineups, match updates, news, score and analysis Sky Sports Arsenal vs Borussia Dortmund LIVE: Latest score and updates Champions League London Evening Standard Arsenal have 30 shots and still manage to mess it up The Telegraph Every word from Arteta’s post-Dortmund presser Arsenal.com Arsenal player ratings vs Borussia Dortmund with Viktor Gyokeres mixed bag and five 6/10s struggle Football London Mikel Arteta loved what £55m Arsenal player did against Dortmund Arsenal Insider Erling Haaland MVP: Arsenal vs Borussia Dortmund all-time most valuable combined XI Transfermarkt 3 non-negotiable starters for Arsenal as 2 drop to the bench against Borussia Dortmund Pain in the Arsenal ‘Mismatch’: Jobe Bellingham reveals Arsenal weakness that Borussia Dortmund exploited London Evening Standard",
-      "source": "Google News Arsenal",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWWxBTnc2dl9LRm9pS1hMLUR4RXZOTGdVMzFfQk9DU3R5QUhlMTRvLWp6UUFKaVkwazFZcGlOdk5ucDFacUdYV01aLUtKRC1kVHRrUGMxbXprTmVvdWc2VjVESHVkZnEzQkxTSi1MM0MwWm05bW5Iak95djZBWlBURlhYZWZhZk43cUlzSTZueHUzcEQyZ0ZUZlcyZW5yRWVRS0ZlVXZ0bFFsR1Y4emh2ZUFFaUFGeWZLSEFnYzh1dGt2OExjWTVZejcySXFkUW1oaF92eG83MVhFQ3hzQThKQmpuRWU?oc=5",
-      "published_at": "2026-11-25T02:50:45+00:00",
+      "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
+      "summary": "arXiv:2611.31424v1 Announce Type: new Abstract: As LLMs become more capable, agents can perform more complex tasks with tools and maintain longer interactions with users. These benign conversations contain evidence on task results, user concerns, and operational constraints. The risk is that attackers who can observe benign conversations (evidence) may construct stronger indirect prompt injections without increasing the attackers' control over prior turns or the later injection. However, we still lack a clear study of how effectively attackers can select and use this evidence. To address this gap, we introduce ContextLure, a red-teaming framework in which an attacker silently observes an existing benign conversation, extracts evidence, and constructs an injection. The challenges are twofold: (a) selecting useful evidence and (b) presenting it as reasons for an unauthorized action, without changing the prior benign conversation. To efficiently exploit (a) the effect of evidence on attack success, our framework selects evidence across 2 dimensions: User/System Preferences with 3 selection policies. And to enhance (b) the process of turning the selected information into the malicious ",
+      "source": "arXiv AI",
+      "url": "https://arxiv.org/abs/2611.31424",
+      "published_at": "2026-11-26T05:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -84,71 +54,56 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
-      "summary": "Trump’s reaction to sensitive information that contradicts his worldview mirrors his conduct towards war with Iran Donald Trump’s unwillingness to heed warnings of suspected Chinese penetration of the tech giant Nvidia follows a pattern of the US president ignoring sensitive intelligence that contradicts his world view. Trump disregarded repeated information that the company’s co-founder, Jensen Huang, was having an extramarital affair with an alleged Chinese spy that threatened to undermine Washington’s geo-strategically vital goal of pipping China for global supremacy in the artificial intelligence race. Continue reading...",
+      "title": "Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’ – as it happened",
+      "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor . Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence",
-      "published_at": "2026-11-24T14:00:48+00:00",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+      "published_at": "2026-11-26T06:36:53+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 33
+      "score": 37
     },
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "IVF, elective abortion, gender-affirming care and VAD to cease under Catholic ownership of private hospitals",
-      "summary": "ACCC approves Calvary’s takeover of 14 hospitals around Australia, with critics concerned move will add to pressures on public health system Advocates say access to voluntary assisted dying, IVF, elective abortions and gender-affirming care is under threat after the competition watchdog approved the takeover of 14 private hospitals by a Catholic healthcare provider. The Australian Competition and Consumer Commission (ACCC) announced on Wednesday it had approved the takeover of the private hospitals by not-for-profit Catholic healthcare operator Calvary from collapsed provider Healthscope. Continue reading...",
+      "title": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
+      "summary": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies Get our daily political email , free app or daily news podcast A Victorian Coalition government would privatise two sewage plants and sell off state-owned land, renewable energy assets and the “air rights” between Richmond train station and the Melbourne Cricket Ground if elected. The opposition leader, Jess Wilson, released the Liberal and Nationals’ pre-election policy costings on Thursday, just two days before the state election and after more than 1.5 million Victorians have already cast their vote. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/25/ivf-elective-abortion-assisted-dying-calvary-catholic-ownership-private-hospitals-ntwnfb",
-      "published_at": "2026-11-25T08:05:27+00:00",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+      "published_at": "2026-11-26T05:30:32+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 32
+      "score": 37
     },
     {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds",
-      "summary": "Clubs fail to sign up for 2027 season as disquiet over governing body’s executive grips football community Get our breaking news email , free app or daily news podcast About 100 football clubs, representing hundreds of thousands of players, have deliberately missed the deadline to sign up for next season amid a dispute with Football Queensland. The disagreement has forced Football Australia to intervene, after a breakaway group threatened earlier this week to form its own competition. Continue reading...",
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+      "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said it will not bend to the new US tariff “threat” and China accused Washington of “political manipulation” in the wake of Donald Trump’s latest economic salvo against 14 major trading partners. Brazil’s government said on Wednesday: “Brazil will not yield to this type of threat”, adding in its statement that the “unilateral decision constitutes an unacceptable action within the framework of the ongoing bilateral negotiating process”. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute",
-      "published_at": "2026-11-25T04:29:29+00:00",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+      "published_at": "2026-11-26T06:10:56+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 28
+      "score": 34
     },
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "Coupons and creator commissions both affect what it costs to generate a TikTok Shop sale. GMV Max Pro gives you controls for coupon spending and lets you factor creator commissions into decisions about which videos to promote. Here’s how to set those up - TikTok",
-      "summary": "Coupons and creator commissions both affect what it costs to generate a TikTok Shop sale. GMV Max Pro gives you controls for coupon spending and lets you factor creator commissions into decisions about which videos to promote. Here’s how to set those up TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PblJwWDl1clJYMTEwOFprRENxaVowSTNvekg5dDNxMFVtdHd2bVFaTFFjazgwTGJNZmZSd2lVcmM3cklFcl9MdVNvT09wRmlUdzZVUmlMRmdvd1VzRklQTTZQQXFqS1FfQVFYNi1pUGk?oc=5",
-      "published_at": "2026-11-25T03:35:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "Now that official results are out, we see that AMD’s Venice competes very well with NVIDIA’s Vera CPU in per-thread performance in SPEC CPU 2026 intrate. The flagship 256-core EPYC 9996 comes close despite running at less than half the power per core, - X",
-      "summary": "Now that official results are out, we see that AMD’s Venice competes very well with NVIDIA’s Vera CPU in per-thread performance in SPEC CPU 2026 intrate. The flagship 256-core EPYC 9996 comes close despite running at less than half the power per core, X",
+      "title": "Pump fun Targets Token Launch Manipulation With New Fee, Earmarks 50% for PUMP Buybacks Pump fun co-founder Alon announced that the Solana-based memecoin launchpad will introduce a \"Block0 fee\" on December 4 for trades made by non-creator - X",
+      "summary": "Pump fun Targets Token Launch Manipulation With New Fee, Earmarks 50% for PUMP Buybacks Pump fun co-founder Alon announced that the Solana-based memecoin launchpad will introduce a \"Block0 fee\" on December 4 for trades made by non-creator X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IVXVrM05qdkl6dWJUU2R0WlZWVV9WQmVqbk02ZnMwdndSNjZKNU5NTTFKNHZrbTlZVE1KSEIwSkJ4bEk4QmpZWmNud3JTeUNjMVFlVklSSW9LS2tjam96bHIxZUc?oc=5",
-      "published_at": "2026-11-24T16:42:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jWGZzamZubVJmMDVNblN3TG1mMWJkdTcyQXRmTW5vZTgwaEo5Y3VrNWZmaW5Hei16eGhnRmpLQlNfSTBhb1FzNU8yOWtoa2lxTV9VWHI4ODNPbk1yQ2EyR2ZDaw?oc=5",
+      "published_at": "2026-11-26T01:54:56+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -159,11 +114,41 @@
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "Kenyan content creator and fashion influencer Beatrice Waithira opens up about undergoing gastric sleeve surgery to aid her weight-loss journey. \"I'm happier, I'm healthier, I'm loving my life right now.\" #YourWorldNTV #TikTokKenya - TikTok",
-      "summary": "Kenyan content creator and fashion influencer Beatrice Waithira opens up about undergoing gastric sleeve surgery to aid her weight-loss journey. \"I'm happier, I'm healthier, I'm loving my life right now.\" #YourWorldNTV #TikTokKenya TikTok",
+      "title": "Who’s been here since my teaching days!? 🥹 This trend makes me so emotional. To think I started this page as a joke back in 2016, posting throughout so many different eras in my life and throughout all the jobs I worked. 5 years of university, 3 years of teachi - TikTok",
+      "summary": "Who’s been here since my teaching days!? 🥹 This trend makes me so emotional. To think I started this page as a joke back in 2016, posting throughout so many different eras in my life and throughout all the jobs I worked. 5 years of university, 3 years of teachi TikTok",
       "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81ZzdsZzJOQkdkTHI1V0x5RVJxdkFJWXp5U1U0b1llZHA3N0tuSXd0WmNVOFRLQ0d6dS1lZzNVSlBPamtWVjI0a3U4VS1DSFJIQXg1TzVJWUYxOHpGbzBBUkY1LXdLa2YxbGc?oc=5",
-      "published_at": "2026-11-25T08:24:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xTXZYRVJpTGNkU25fT1JIdlUxaTBETVdjaDJ3aUpGYndRRm5TYUdOS3FmU2kzd2JFVUlYMTkzZ2ItcG9jSWQxc0lIWE1fTTg4V2RuQTNDekd6N2hFN1piaUM1X0lCRGNWbTdINmdKQVdDcDdS?oc=5",
+      "published_at": "2026-11-26T00:45:57+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
+      "summary": "Bayern Munich suffer their first defeat of the Champions League campaign as Lille find the net twice in three minutes in the second half, including a comical Aleksander Pavlovic own goal, to inflict a huge upset.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-25T22:24:57+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 19
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "‼️ 6 Baby Trend favorites NOW up to 30% OFF at @target 🧡 From first rides, to the big family adventures (and the so many Target runs!), here's the gear that makes it easier. Sale ends 11/30. Link in bio to shop at Target. - TikTok",
+      "summary": "‼️ 6 Baby Trend favorites NOW up to 30% OFF at @target 🧡 From first rides, to the big family adventures (and the so many Target runs!), here's the gear that makes it easier. Sale ends 11/30. Link in bio to shop at Target. TikTok",
+      "source": "Google News TikTok & Short-form Video",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QakYtam4zSmtYVXZtMUF2aDRRb2V2bkw2eVJOZTFLNVpEQjBvTG1TQlRoNFozREVtaXlsLWdXbUd0VTBYdk42QlJkTGZnd0NXX2NSSzdNaUp0cmFwTGNqZDBCRkl6U0RVS0s0MG1jNA?oc=5",
+      "published_at": "2026-11-26T01:13:47+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -174,11 +159,11 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "Bí thư Đà Nẵng: Không để dân nhường đất dự án nhưng thiếu tiền làm nhà",
-      "summary": "Bí thư Thành ủy Đà Nẵng Lê Ngọc Quang yêu cầu bảo đảm người dân nhường đất cho các dự án có cuộc sống ít nhất bằng hoặc tốt hơn nơi ở cũ, không phải vay mượn tiền làm nhà tái định cư.",
+      "title": "Trực thăng, UAV hợp luyện trước triển lãm quốc phòng",
+      "summary": "Biên đội trực thăng mang cờ Tổ quốc, cờ triển lãm Quốc phòng quốc tế 2026 bay qua lễ đài trên sân bay Gia Lâm; dưới đất đặc công trình diễn quyền thuật trong lễ hợp luyện lần đầu, sáng 26/11.",
       "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/bi-thu-da-nang-khong-de-dan-nhuong-dat-du-an-nhung-thieu-tien-lam-nha-5148668.html",
-      "published_at": "2026-11-25T05:32:51+00:00",
+      "url": "https://vnexpress.net/truc-thang-uav-hop-luyen-truoc-trien-lam-quoc-phong-5149054.html",
+      "published_at": "2026-11-26T03:52:26+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -189,26 +174,11 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "SSI nêu 4 động lực dẫn dắt thị trường chứng khoán Việt Nam 2027",
-      "summary": "Dòng vốn từ các quỹ theo chỉ số FTSE gia tăng, triển vọng nâng hạng theo MSCI, đầu tư vào AI có thể hạ nhiệt, lãi suất tiền gửi, là những yếu tố có thể tác động thị trường 2027, theo Giám đốc SSI.",
-      "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/chuyen-gia-ban-co-hoi-hut-dong-von-toan-cau-tai-hdbank-global-capital-summit-2026-5148466.html",
-      "published_at": "2026-11-25T02:30:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "TS Hoàng Minh Hiếu: Phạt lao động công ích vừa răn đe, vừa giáo dục",
-      "summary": "Ủy viên chuyên trách Ủy ban Pháp luật và Tư pháp của Quốc hội Hoàng Minh Hiếu cho rằng lao động công ích thay tiền phạt vừa bảo đảm tính răn đe, vừa tăng tính giáo dục và trách nhiệm xã hội.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/ts-hoang-minh-hieu-phat-lao-dong-cong-ich-vua-ran-de-vua-giao-duc-5147696.html",
-      "published_at": "2026-11-25T00:30:00+00:00",
+      "title": "'Việt Nam từng bước tham gia vào chuỗi cung ứng năng lượng hạt nhân'",
+      "summary": "Theo Thứ trưởng Lê Xuân Định, Việt Nam sẽ xây dựng nền tảng khoa học công nghệ và từng bước tham gia vào chuỗi cung ứng, mục tiêu bảo đảm tính bền vững của chương trình điện hạt nhân.",
+      "source": "VnExpress Khoa học công nghệ",
+      "url": "https://vnexpress.net/viet-nam-tung-buoc-tham-gia-vao-chuoi-cung-ung-nang-luong-hat-nhan-5148939.html",
+      "published_at": "2026-11-26T01:58:24+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -219,11 +189,41 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Man Utd target Collins - Wednesday's gossip",
-      "summary": "Manchester United target Brentford defender Nathan Collins, Bournemouth price forward Eli Junior Kroupi at £100m and Liverpool close in on new Rio Ngumoha contract.",
+      "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
+      "summary": "Match of the Day's Stephen Warnock and Nedum Onuoha analyse the recent resurgence of Alexander Isak and Florian Wirtz for as they led Liverpool to victory against Club Brugge.debut seasons last year.",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm15en5je9eko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T20:51:44+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmqx527v3x19o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-25T23:38:42+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "'Sàn carbon Việt Nam gần như không có giao dịch'",
+      "summary": "Sau phiên khai trương với giá 136.000 đồng mỗi tấn, sàn carbon Việt Nam gần như không phát sinh giao dịch mới, do thiếu cung cầu và chưa có đầy đủ công cụ vận hành.",
+      "source": "VnExpress Kinh doanh",
+      "url": "https://vnexpress.net/san-carbon-viet-nam-gan-nhu-khong-co-giao-dich-5149207.html",
+      "published_at": "2026-11-26T07:24:53+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "'All coming together' - Isak repaying Liverpool faith",
+      "summary": "Alexander Isak's two goals against Club Brugge take his tally for the season to 10 as the striker continues to show why Liverpool last year paid £125m to bring him to the club.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-25T23:25:30+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -234,47 +234,47 @@
     {
       "domain": "Sách",
       "category": "books",
-      "title": "Inaugural Children’s Booker prize reveals ‘great eight’ shortlist | The Guardian - newspaper - Magzter",
-      "summary": "Inaugural Children’s Booker prize reveals ‘great eight’ shortlist | The Guardian - newspaper Magzter",
+      "title": "The 2027 Children’s Booker Award Shortlist: Meet The New Literary Award - Book Riot",
+      "summary": "The 2027 Children’s Booker Award Shortlist: Meet The New Literary Award Book Riot",
       "source": "Google News International Book Awards",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTHN5VV96QURCQ3ItQ3h1a1VCSnNITmFxV1ZvQXRacElENkdRRWtaRnZnQ1Fmd1F3ck5MQ0IzZTJFbW9IU1hFRnZQbHctZE4xTEFpZHlmOWV1aVhINUo0MWhoallFc19UQ242ZVJtWlRjSlI4cnVyZGpTUkZ4RlAxV2ltZzNXamhSX3c5Y3lJSEtPcUJ2VzhvRkxnOVBhcHNxbWkwV0p5MkRXZEtqUEJLUEZzdUtYRkxC?oc=5",
-      "published_at": "2026-11-25T03:27:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15dzhoTFViYzRUN0c0bUZudUs5ZDNTeWc4NjhLSHdTTmg0d0VsYU5ZN2RqNExPRVRBRjUwbGI4M0JPTTlKMUY3eGptWEpmOTlZVUxna3pPMW5uVlFwbnFMRXJ6VG4wODZxY1RDQ0lpVXQ?oc=5",
+      "published_at": "2026-11-24T11:22:34+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 15
+      "score": 11
     },
     {
       "domain": "Sách",
       "category": "books",
-      "title": "Inaugural Children’s Booker Prize announces 8-book shortlist for 2027 award - The Lagos Review",
-      "summary": "Inaugural Children’s Booker Prize announces 8-book shortlist for 2027 award The Lagos Review",
+      "title": "A Big Night for PRH: 3 National Book Awards Winners and a Distinguished Honoree - Penguin Random House",
+      "summary": "A Big Night for PRH: 3 National Book Awards Winners and a Distinguished Honoree Penguin Random House",
       "source": "Google News International Book Awards",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2ZhQjF4a2Fxb3RUOEpRNEMza1BYV3ZWRUdtdndwWTlnYmxyMXdWV2dwNjFDcmJNUGRfMGstMTJWVjVKb2RIOGJNOFdNR0l2S3Fod3RJa0ZabGk5M21IZ01URHVlcU9xTjRkeVd6Nmo5LXNNcEJweTd3cm8xQTNaaVZsUWljTlg4YmlYM1QtbXQ1T0dWX0pPVHNHZGtvSnJuNENj?oc=5",
-      "published_at": "2026-11-25T02:26:02+00:00",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON1lOOUNfRElhcVQzUjhmSjhVYVlmdU9Fdk9xWjVNN1ZGYWpEbWszR0ZqQk5VVlAya21LS3k3U0JIcEg2WklpTUk5S1RweG1vT3Z5eVRrQURROTlmRGFUNFFCbVR1UHQtNXByZDh1Vm5xeEsxMC1oa3M2RDVqbmMyREJEZURxdm1Jd2poTE1kYzhpU1BTblZfX0tLUzRIWk1yVXFhQVpQM2llS3k1WThUcmE3OHI0VlU5U25WVFZnMHN6SUJsYjNjS21henNrZFk?oc=5",
+      "published_at": "2026-11-19T19:11:05+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 15
+      "score": 10
     },
     {
       "domain": "Sách",
       "category": "books",
-      "title": "NEWS: Shortlist Announced for The Children’s Booker Prize - Love London Love Culture",
-      "summary": "NEWS: Shortlist Announced for The Children’s Booker Prize Love London Love Culture",
+      "title": "The National Book Award winners will be announced today. Here's how to watch - USA Today",
+      "summary": "The National Book Award winners will be announced today. Here's how to watch USA Today",
       "source": "Google News International Book Awards",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYnVyWEVjbHdMNlg1cEh1cWZONVVlUXpYM1NLVVUyaHFzMEtLMlRMd3lua3lPNDdKRGo1cTZXNERnUXEtUUgyTXh3cElpa2lMMGFVdkhER1gwM1pUZXBLX1lvd1ZnRHd2cmhzR3RqbnA2RlZYSWpJN0tZUFBBM2Y2UnF0OXBrRDlmRG9SQkU2c0JvSEdPRVRrTWFkY01LYzhfVTNr0gGoAUFVX3lxTFBGRDVoVWUwWE1RYmNKWlFjREQ2dEI1SzZ1cGxrVmV0eW5jZVQ4c19PN29BN0FXT2xQcndvU1Nna3ItRl9iUU1KN0RpLXpPWlFaNjJuR0Z2V0NxcGR1c0ppZFg5dE9UcnRzMzVRRlBWRVlKNHdxSDJvZWxrZG1HNVp4X01uQTdsLWlycGpLRHAyaWZSMG9LTU9yQjVSQ3FVQzhHaEFEb2lhTQ?oc=5",
-      "published_at": "2026-11-24T21:30:34+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQnhVem5MbkdYRV9qd3NCVGdlX3hBdDlIMUVZNnRMSUdSZ1BzZVJ4R3FMS0tiQi0tRTF5TEFiYk4zTjk0Q09lcTRBdnZEU3Jrbm5ZNFBFa3NWYmNuQ3l1MGVRS3RJa0FTQ1hFZ0dnUUxBb0NrRDVYaGtfTllVUHMtazZ2NVVMOGl6RmNyOUVvdEt0N29EUDl3NTZqWm5vOFdvSzlBWjN0SVBuRDVfMW1tYVkzalJneXozdVZqaUJsZlNJZU9aWVM0dHcwVjkxeWxLVk1ZeTFvYXNIUVNTOEVnTFRuQ0JXSUk0?oc=5",
+      "published_at": "2026-11-19T17:37:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 14
+      "score": 9
     }
   ],
   "themes": [
@@ -284,23 +284,37 @@
       "status": "Mẫu hình cần kiểm chứng",
       "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
       "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
-      "evidence_count": 2,
+      "evidence_count": 4,
       "source_count": 2,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Quyền lực của 'petrodollar' liệu có bị xói mòn?",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/quyen-luc-cua-petrodollar-lieu-co-bi-xoi-mon-5148123.html",
-          "published_at": "2026-11-25T04:11:55+00:00",
-          "summary": "Sau 50 năm, petrodollar, hệ thống giao dịch dầu mỏ bằng USD, giảm độc tôn bởi biến động địa chính trị và vai trò của nhân dân tệ."
+          "title": "'Việt Nam từng bước tham gia vào chuỗi cung ứng năng lượng hạt nhân'",
+          "source": "VnExpress Khoa học công nghệ",
+          "url": "https://vnexpress.net/viet-nam-tung-buoc-tham-gia-vao-chuoi-cung-ung-nang-luong-hat-nhan-5148939.html",
+          "published_at": "2026-11-26T01:58:24+00:00",
+          "summary": "Theo Thứ trưởng Lê Xuân Định, Việt Nam sẽ xây dựng nền tảng khoa học công nghệ và từng bước tham gia vào chuỗi cung ứng, mục tiêu bảo đảm tính bền vững của chương trình điện hạt nhân."
         },
         {
-          "title": "The rising cost of putting food on the table in India",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-25T01:02:13+00:00",
-          "summary": "India's food inflation is broadening, squeezing household budgets."
+          "title": "Giá xăng, dầu cùng giảm",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-26-11-5149212.html",
+          "published_at": "2026-11-26T07:44:06+00:00",
+          "summary": "Từ 15h hôm nay, giá xăng dầu các loại cùng giảm 50-1.380 đồng một lít, theo đà diễn biến thị trường năng lượng thế giới."
+        },
+        {
+          "title": "Vì sao ông Trump áp thêm thuế nhập khẩu, bất chấp lạm phát?",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/vi-sao-ong-trump-ap-them-thue-nhap-khau-bat-chap-lam-phat-5149098.html",
+          "published_at": "2026-11-26T04:58:21+00:00",
+          "summary": "Thuế nhập khẩu là công cụ hữu hiệu giúp Tổng thống Mỹ thể hiện quyền lực kinh tế khi đảng Cộng hòa không còn kiểm soát Quốc hội."
+        },
+        {
+          "title": "Giá vàng thế giới tăng trở lại sau khi mất mốc 3.500 USD",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/gia-vang-the-gioi-tang-tro-lai-sau-khi-mat-moc-3-500-usd-5148917.html",
+          "published_at": "2026-11-25T14:50:35+00:00",
+          "summary": "Mỗi ounce vàng đảo chiều tăng hơn 30 USD, ngay sau khi xuống sát 3.420 USD vì báo cáo lạm phát Mỹ."
         }
       ]
     },
@@ -311,36 +325,36 @@
       "reading": "Các bài về mô hình, suy luận và công việc có thể cho thấy AI đang được đánh giá theo chi phí triển khai và kết quả vận hành, không chỉ theo khả năng trình diễn. Cần phân biệt nghiên cứu thử nghiệm với sản phẩm đã được triển khai.",
       "falsifier": "Bác bỏ nếu bài chỉ mô tả nghiên cứu hoặc tuyên bố của doanh nghiệp mà không có kết quả triển khai độc lập.",
       "evidence_count": 4,
-      "source_count": 1,
-      "source_note": "Chỉ một nguồn xuất bản trong batch",
+      "source_count": 2,
+      "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "CHORD: Learning Latent Spaces for Constrained Stellarator Design",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.31486",
-          "published_at": "2026-11-25T05:00:00+00:00",
-          "summary": "arXiv:2611.31486v1 Announce Type: new Abstract: In high-dimensional, PDE-constrained design, interpolating between known feasible solutions can reveal trade-offs without repeating expensive optimization campaigns. In stellarator design for fusion energy, direct interpolation of plasma boundary parameters can violate physical constraints even when both endpoints are feasible. Learned latent representations can capture nonlinear relationships among design variables, but latent interpolation can st"
+          "title": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.31347",
+          "published_at": "2026-11-26T05:00:00+00:00",
+          "summary": "arXiv:2611.31347v1 Announce Type: new Abstract: Laya is an open decision model: given a text, a question and K named options with descriptions, it returns one probability per option in a single pass, and software may act on the answer unseen. We attack six Laya models with 81 programmatic edits of 566 synthetic items (injected sentences, label leaks, edited descriptions, decoy options, invisible and look-alike characters, floods) and report the share of correctly answered items hijacked or lost,"
         },
         {
-          "title": "Conformalized Tree-Based Gradient Ensembles for Out-of-Distribution Detection and Plausible Recourse",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.31319",
-          "published_at": "2026-11-25T05:00:00+00:00",
-          "summary": "arXiv:2611.31319v1 Announce Type: new Abstract: Counterfactual recourse provides actionable feature adjustments that reverse unfavourable predictions made by automated decision models. However, when recourse search optimizes purely against classifier confidence or narrow proxy scores over gradient-boosted decision trees (GBDT), search procedures can exploit boundary artifacts and low-density regions---an instance of Goodhart's law---yielding out-of-distribution (OOD) recommendations that appear "
+          "title": "COGENT: A Modular Cognitive Architecture for Agentic User Simulation",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.31559",
+          "published_at": "2026-11-26T05:00:00+00:00",
+          "summary": "arXiv:2611.31559v1 Announce Type: new Abstract: LLM-based user simulation can support interface design, accessibility research, and interactive-agent evaluation, but standard computer-use agents are optimized for task completion rather than reproducing how people perceive, reason, and act. We introduce COGENT (COGnitive agENT), a modular cognitive architecture for simulating user interaction with desktop interfaces. COGENT draws on established cognitive theories, such as Norman's action cycle an"
         },
         {
-          "title": "Transformers with Signatures: Towards Universal In-Context Learning in Path Space",
+          "title": "Geophysics-informed invertible operator network for Bayesian geophysical inversion",
           "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.31439",
-          "published_at": "2026-11-25T05:00:00+00:00",
-          "summary": "arXiv:2611.31439v1 Announce Type: new Abstract: In-context learning (ICL) enables transformers to adapt to new tasks from demonstrations without updating their parameters. However, theoretical guarantees for transformers remain limited in general, and elusive in particular when target responses depend nonlinearly on the evolution of observed paths. We establish an ICL framework for path space, using path signature features. Building on the universal linear approximation property of signatures, w"
+          "url": "https://arxiv.org/abs/2611.33178",
+          "published_at": "2026-11-26T05:00:00+00:00",
+          "summary": "arXiv:2611.33178v1 Announce Type: new Abstract: Geophysical inverse problems are inherently ill-posed because of sparse observations and measurement noise. Classical sampling-based Bayesian inference methods, such as Markov chain Monte Carlo (MCMC), are computationally prohibitive because they require many forward simulations. Data-driven machine-learning methods often struggle to produce physically consistent solutions when training data are limited. To address these issues, we propose a geophy"
         },
         {
-          "title": "Local subspace encoding for spectral prediction: from TabPFN to operator-adaptive calibration",
+          "title": "REI: Learning Ideation from Repository Evolution",
           "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.31245",
-          "published_at": "2026-11-25T05:00:00+00:00",
-          "summary": "arXiv:2611.31245v1 Announce Type: new Abstract: TabPFN has already shown useful predictive performance on near-infrared spectra. RamanPFN subsequently proposed two spectral representations for tabular inference: Global Compositional Unmixing (GCU) and Local Vibrational Subspace Encoding (LVSE). We assess whether these representations also help on datasets assembled through the nirs4all ecosystem, and whether their value extends to classical calibration. We reanalyse completed experiments from a "
+          "url": "https://arxiv.org/abs/2611.33183",
+          "published_at": "2026-11-26T05:00:00+00:00",
+          "summary": "arXiv:2611.33183v1 Announce Type: new Abstract: As AI systems become increasingly capable of executing and evaluating experiments, ideation is emerging as a bottleneck in automated scientific and engineering iteration. In many real-world domains, useful ideas are sparse and their validation is costly, making direct online exploration inefficient. We observe that repository evolution provides a scalable source of reusable technical experience: code changes record concrete technical hypotheses, wh"
         }
       ]
     },
@@ -355,32 +369,32 @@
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Show HN: Lightscale AI – A language for LLMs to write business software",
-          "source": "Hacker News AI Discussions",
-          "url": "https://lightscale.ai/",
-          "published_at": "2026-11-25T07:36:21+00:00",
-          "summary": "I am Luc, one of the co-founders of Lightscale AI. I have background in programming languages (ETH Zurich) and we are small team in Zug, Switzerland. As more and more code is now written by LLMs and few people have time to review the generated code, we came up with the idea to revise the actual stack below the LLMs: The programming language with its compiler and runtime system, all designed from scratch for AI authorship, not for humans. We have three goals: 1. Security and stability by language"
+          "title": "XRL4T1D: A Post-hoc Explainability Framework for Reinforcement Learning in Type 1 Diabetes Management",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.31498",
+          "published_at": "2026-11-26T05:00:00+00:00",
+          "summary": "arXiv:2611.31498v1 Announce Type: new Abstract: Type 1 diabetes (T1D) requires lifelong insulin therapy, and reinforcement learning (RL) has shown promise for automated dosing in the UVA/Padova simulator. However, the decisions of RL controllers remain difficult to interpret. We present XRL4T1D, a post-hoc explainability framework for evaluating pretrained insulin-dosing policies without retraining. Each policy uses 60 minutes of continuous glucose monitor (CGM) and administered-insulin history,"
         },
         {
-          "title": "Detecting Harmful Short Videos in Toxic Diet Culture: A Governance-Ready Evidence Framework with Sparse Autoencoders",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.31354",
-          "published_at": "2026-11-25T05:00:00+00:00",
-          "summary": "arXiv:2611.31354v1 Announce Type: new Abstract: Algorithmic content moderation is increasingly important for governing short-form video content, yet harmful-content detection research focuses primarily on prediction or limited explanations. This leaves a governance challenge underexplored: producing decision-linked evidence that supports the review and justification of moderation decisions. Using toxic diet culture as an empirical case, we conceptualize governance-ready evidence as computational"
-        },
-        {
-          "title": "Trust-Region Optimization for Performative Prediction without Response Modeling",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.31492",
-          "published_at": "2026-11-25T05:00:00+00:00",
-          "summary": "arXiv:2611.31492v1 Announce Type: new Abstract: Performative prediction studies learning problems in which deployed decisions change the distribution of future data. Existing methods often impose structure on the population response, which limits their applicability when a fixed model class poorly captures that response. Generic black-box optimization avoids response modeling but does not exploit the known loss function. We introduce Performative Trust-Region Optimization (PTRO), which bridges t"
-        },
-        {
-          "title": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
+          "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
           "source": "The Guardian World",
-          "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence",
-          "published_at": "2026-11-24T14:00:48+00:00",
-          "summary": "Trump’s reaction to sensitive information that contradicts his worldview mirrors his conduct towards war with Iran Donald Trump’s unwillingness to heed warnings of suspected Chinese penetration of the tech giant Nvidia follows a pattern of the US president ignoring sensitive intelligence that contradicts his world view. Trump disregarded repeated information that the company’s co-founder, Jensen Huang, was having an extramarital affair with an alleged Chinese spy that threatened to undermine Was"
+          "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+          "published_at": "2026-11-26T06:10:56+00:00",
+          "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said it will not bend to the new US tariff “threat” and China accused Washington of “political manipulation” in the wake of Donald Trump’s latest economic salvo against 14 major trading partners. Brazil’s government said on Wednesday: “Brazil will not yield to this type of threat”, adding in it"
+        },
+        {
+          "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+          "published_at": "2026-11-23T11:42:51+00:00",
+          "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest vessels. Ukraine’s security service, the SBU, said seven domestically made naval drones were launched from a mothership in the operation, which Volodymyr Zelenskyy described as “exemplary”. Continue reading..."
+        },
+        {
+          "title": "How Chinese companies circumvent chips sanctions in Southeast Asia",
+          "source": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/how-chinese-companies-circumvent-chips-sanctions-in-southeast-asia/a-80041002?maca=en-rss-en-all-1573-xml-mrss",
+          "published_at": "2026-11-26T06:11:00+00:00",
+          "summary": "High-tech AI chips are hard to get in China because of US restrictions. To get around this, Chinese companies often use offshore computing capacity, particularly in Southeast Asia. The US is also trying to stop it."
         }
       ]
     },
@@ -391,36 +405,36 @@
       "reading": "Chỉ đáng nâng thành tín hiệu khi có văn bản hoặc số liệu gốc, phạm vi áp dụng và nhóm chịu tác động xác định được. Tin kinh doanh đơn lẻ chưa đủ để kết luận xu hướng kinh tế Việt Nam.",
       "falsifier": "Bác bỏ nếu không có văn bản/số liệu gốc hoặc nội dung không tạo thay đổi đáng kể với doanh nghiệp.",
       "evidence_count": 4,
-      "source_count": 1,
-      "source_note": "Chỉ một nguồn xuất bản trong batch",
+      "source_count": 2,
+      "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "SSI nêu 4 động lực dẫn dắt thị trường chứng khoán Việt Nam 2027",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/chuyen-gia-ban-co-hoi-hut-dong-von-toan-cau-tai-hdbank-global-capital-summit-2026-5148466.html",
-          "published_at": "2026-11-25T02:30:00+00:00",
-          "summary": "Dòng vốn từ các quỹ theo chỉ số FTSE gia tăng, triển vọng nâng hạng theo MSCI, đầu tư vào AI có thể hạ nhiệt, lãi suất tiền gửi, là những yếu tố có thể tác động thị trường 2027, theo Giám đốc SSI."
+          "title": "Hơn 1.400 tỷ đồng cải tạo đường băng sân bay Đà Nẵng",
+          "source": "VnExpress Thời sự",
+          "url": "https://vnexpress.net/hon-1-400-ty-dong-cai-tao-duong-bang-san-bay-da-nang-5148984.html",
+          "published_at": "2026-11-26T02:07:55+00:00",
+          "summary": "Đường băng phía Tây sân bay Đà Nẵng dài hơn 3 km sẽ được cải tạo, xây thêm các đường lăn với tổng vốn đầu tư 1.427 tỷ đồng, dự kiến hoàn thành năm 2028."
         },
         {
-          "title": "Các hãng bán lẻ Mỹ dùng AI để tính ưu đãi Black Friday",
+          "title": "Hành trình nâng chuẩn sữa bột trẻ em của Vinamilk",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/cac-hang-ban-le-my-dung-ai-de-tinh-uu-dai-black-friday-5148597.html",
-          "published_at": "2026-11-25T07:00:20+00:00",
-          "summary": "Người tiêu dùng có thể sẽ được giảm giá ít hơn vào Black Friday năm nay, khi AI ngày càng được doanh nghiệp dùng để hỗ trợ định giá."
+          "url": "https://vnexpress.net/hanh-trinh-nang-chuan-sua-bot-tre-em-cua-vinamilk-5148842.html",
+          "published_at": "2026-11-26T01:00:00+00:00",
+          "summary": "Từ khôi phục dây chuyền sản xuất Dielac đến đầu tư nhà máy nghìn tỷ đồng, Vinamilk không ngừng nâng chuẩn sữa bột, đáp ứng 400 tiêu chí an toàn quốc tế và xuất khẩu."
         },
         {
-          "title": "EU siết trần nhập khẩu xe hybrid Trung Quốc",
+          "title": "Giá xăng, dầu cùng giảm",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/eu-siet-tran-nhap-khau-xe-hybrid-trung-quoc-5148517.html",
-          "published_at": "2026-11-25T05:04:43+00:00",
-          "summary": "EU áp hạn ngạch nhập khẩu 350.000 xe hybrid với Trung Quốc từ ngày 1/12, nhằm bảo vệ ngành công nghiệp ôtô trước lượng nhập khẩu tăng đột biến."
+          "url": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-26-11-5149212.html",
+          "published_at": "2026-11-26T07:44:06+00:00",
+          "summary": "Từ 15h hôm nay, giá xăng dầu các loại cùng giảm 50-1.380 đồng một lít, theo đà diễn biến thị trường năng lượng thế giới."
         },
         {
-          "title": "Doanh nghiệp tư nhân Việt Nam đầu tiên ký thỏa thuận tài chính với Chính phủ Anh",
+          "title": "Vì sao ông Trump áp thêm thuế nhập khẩu, bất chấp lạm phát?",
           "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/doanh-nghiep-tu-nhan-viet-nam-dau-tien-ky-thoa-thuan-tai-chinh-voi-chinh-phu-anh-5148679.html",
-          "published_at": "2026-11-25T05:00:00+00:00",
-          "summary": "Tâm Anh - VNVC ký biên bản ghi nhớ hợp tác về bảo lãnh tài chính với UKEF (thuộc Chính phủ Anh), trên nền tảng hợp tác thương mại gần một tỷ USD."
+          "url": "https://vnexpress.net/vi-sao-ong-trump-ap-them-thue-nhap-khau-bat-chap-lam-phat-5149098.html",
+          "published_at": "2026-11-26T04:58:21+00:00",
+          "summary": "Thuế nhập khẩu là công cụ hữu hiệu giúp Tổng thống Mỹ thể hiện quyền lực kinh tế khi đảng Cộng hòa không còn kiểm soát Quốc hội."
         }
       ]
     }
@@ -431,20 +445,20 @@
       "domain": "AI & công nghệ",
       "items": 40,
       "usable": 40,
-      "sources": 6
+      "sources": 7
     },
     {
       "category": "world",
       "domain": "Thế giới",
       "items": 65,
       "usable": 65,
-      "sources": 14
+      "sources": 13
     },
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 18,
-      "usable": 18,
+      "items": 20,
+      "usable": 20,
       "sources": 3
     },
     {
@@ -457,23 +471,23 @@
     {
       "category": "football",
       "domain": "Arsenal & Premier League",
-      "items": 12,
-      "usable": 12,
-      "sources": 4
+      "items": 17,
+      "usable": 17,
+      "sources": 3
     },
     {
       "category": "books",
       "domain": "Sách",
-      "items": 8,
-      "usable": 8,
-      "sources": 2
+      "items": 3,
+      "usable": 3,
+      "sources": 1
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
-      "items": 7,
-      "usable": 7,
-      "sources": 3
+      "items": 5,
+      "usable": 5,
+      "sources": 2
     },
     {
       "category": "trends",
@@ -485,78 +499,78 @@
   ],
   "links": [
     {
-      "a": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-      "b": "Show HN: Lightscale AI – A language for LLMs to write business software",
+      "a": "I Learned to Stop Worrying and Love the AI",
+      "b": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
+      "terms": [
+        "news",
+        "would"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "I Learned to Stop Worrying and Love the AI",
+      "b": "Who’s been here since my teaching days!? 🥹 This trend makes me so emotional. To think I started this page as a joke back in 2016, posting throughout so many different eras in my life and throughout all the jobs I worked. 5 years of university, 3 years of teachi - TikTok",
+      "terms": [
+        "many",
+        "throughout",
+        "years"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+      "b": "Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’ – as it happened",
+      "terms": [
+        "first",
+        "more",
+        "state",
+        "under"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+      "b": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
       "terms": [
         "more",
-        "people",
-        "three",
-        "time"
+        "state",
+        "updates"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-      "b": "Flagging Batch Shift in Flow Cytometry using Jeffreys Divergence between Gaussian Mixtures",
+      "a": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+      "b": "Pump fun Targets Token Launch Manipulation With New Fee, Earmarks 50% for PUMP Buybacks Pump fun co-founder Alon announced that the Solana-based memecoin launchpad will introduce a \"Block0 fee\" on December 4 for trades made by non-creator - X",
       "terms": [
-        "data",
+        "introduce",
+        "targets"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+      "b": "‼️ 6 Baby Trend favorites NOW up to 30% OFF at @target 🧡 From first rides, to the big family adventures (and the so many Target runs!), here's the gear that makes it easier. Sale ends 11/30. Link in bio to shop at Target. - TikTok",
+      "terms": [
         "first",
-        "than"
+        "target"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-      "b": "Arsenal vs Borussia Dortmund LIVE! Champions League lineups, match updates, news, score and analysis - Sky Sports",
+      "a": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
+      "b": "Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’ – as it happened",
       "terms": [
-        "reveals",
-        "time"
+        "more",
+        "these"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-      "b": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds",
+      "a": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
+      "b": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
       "terms": [
-        "continue",
-        "reading"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Show HN: Lightscale AI – A language for LLMs to write business software",
-      "b": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds",
-      "terms": [
-        "free",
-        "sign"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Flagging Batch Shift in Flow Cytometry using Jeffreys Divergence between Gaussian Mixtures",
-      "b": "Now that official results are out, we see that AMD’s Venice competes very well with NVIDIA’s Vera CPU in per-thread performance in SPEC CPU 2026 intrate. The flagship 256-core EPYC 9996 comes close despite running at less than half the power per core, - X",
-      "terms": [
-        "results",
-        "than"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Arsenal vs Borussia Dortmund LIVE! Champions League lineups, match updates, news, score and analysis - Sky Sports",
-      "b": "NEWS: Shortlist Announced for The Children’s Booker Prize - Love London Love Culture",
-      "terms": [
-        "london",
-        "news"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
-      "b": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds",
-      "terms": [
-        "continue",
-        "reading",
-        "threatened"
+        "more",
+        "policies"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }

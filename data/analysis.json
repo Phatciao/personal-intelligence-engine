@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T08:17:39.106385+00:00",
-  "input_generated_at": "2026-11-26T08:17:39.056257+00:00",
+  "generated_at": "2026-11-27T08:33:18.795843+00:00",
+  "input_generated_at": "2026-11-27T08:33:18.748691+00:00",
   "method": "Quy tắc miễn phí: loại trùng URL/tiêu đề, ưu tiên mục có tóm tắt và link nguồn. Không dùng LLM; diễn giải chỉ là khung kiểm chứng, không phải phân tích chuyên gia.",
   "items_in": 150,
-  "items_after_dedup": 150,
+  "items_after_dedup": 149,
   "signals": [
     {
       "domain": "AI & công nghệ",
       "category": "ai",
-      "title": "I Learned to Stop Worrying and Love the AI",
-      "summary": "A few years ago talking heads and AM radio personalities went cookoo over AI. The warnings were replete with assertations of total destruction. I blew them off as doomsdayesque viewer/listener headline/listener bastards that saw dollar signs in words. Assuredly, they completely misunderstood the technology and the intricacies of how AI functions and what it was capable of. They read enough science fiction to regurgitate what sounded like knowledge of the future. Interestingly, they were largely right in the end. The tech has evolved fantastically quick. The wildest scenarios preposed from previous predicions is becoming realistic. I do not worry about those scenarios. I do not fear the wildest predictions. Throughout history humans have developed weapons, ideas, technologies, and systems that detractors predicted would kill us all or would lead to insurmountable changes to society. Electricity is not the devil. The printing press was not a detriment to society. AI will fundamentally change many things. That is a good thing. Humanity will forever be preserved. What is Humanity? We will perpetually find out. Happy Thanksgiving to everyone. Comments URL: https://news.ycombinator.com/i",
+      "title": "Why Stripe is not what you need to charge for your AI product (kind of)",
+      "summary": "Like everyone else, you build a product and need to charge your customers. Your first instinct is to go to Stripe. Stripe is the GOAT, so of course you'll use it. This is true and untrue, let's say you're building an AI product. You probably won't charge your customers a flat monthly fee that covers all usage as they have a really different cost for your business depending on how they use your product. Instead, you might want to have pricing based on usage. Sounds good. Stripe covers that, case closed... Well, yes and no. There are two types of usage-based billing. One lets customers use the product and pay later, which exposes your business to unpaid bills, and we don't want that... The other uses credits purchased up front. Credits are what most businesses are moving toward nowadays. They give security on both sides, for the business and the customer. They also show you not only how your customers use your product but more importantly how they spend in your product. So you're sold on credits, great, let's set them up in Stripe. This is where things start to get complicated. There's a new account system to figure out, confusion between usage-based billing and credits, meters to se",
       "source": "Hacker News AI Discussions",
-      "url": "https://news.ycombinator.com/item?id=50651635",
-      "published_at": "2026-11-26T05:01:25+00:00",
+      "url": "https://news.ycombinator.com/item?id=50664246",
+      "published_at": "2026-11-27T08:18:39+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -24,11 +24,11 @@
     {
       "domain": "AI & công nghệ",
       "category": "ai",
-      "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
-      "summary": "arXiv:2611.31345v1 Announce Type: new Abstract: In recent years, multimodal large language models (MLLMs) have achieved significant progress in chart-to-code generation. However, existing benchmarks mainly focus on static charts, overlooking interactive charts that enable richer and more expressive data exploration. Unlike static chart-to-code generation, which emphasizes visual consistency, interactive chart-to-code evaluation targets behavioral consistency, requiring chart states to evolve correctly under sequences of user interactions, thereby rendering traditional one-step evaluation paradigms ineffective. To address this gap, we introduce ChartInt, the first benchmark specifically designed for interactive chart-to-code generation. ChartInt consists of 2,779 carefully annotated examples covering common interaction patterns such as hover, highlight, and tooltips. Additionally, ChartInt incorporates editing tasks such as data updates, style adjustments, and cross-chart style transfer to expand real-world application scenarios. To enable reliable evaluation of interaction behavior, we propose a preset state snapshot protocol that predefines target interaction states and determinis",
+      "title": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
+      "summary": "arXiv:2611.33497v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) typically optimises evidence selection for semantic relevance, whereas compliance-sensitive long-form generation also requires evidence supporting explicit structural obligations. Semantically relevant retrieval may therefore omit information needed for mandatory downstream clauses. We propose Constraint-Aligned RAG (CA-RAG), a retrieval-conditioning framework that augments section-specific queries with ontology-derived structural constraints and policy-grounded knowledge-graph relations before evidence selection. Retrieval-only evaluation with manually annotated evidence shows consistent improvements across retrieval budgets. At $k=6$, CA-RAG increases Precision@$k$ from $0.5268$ to $0.5692$, pooled Recall@$k$ from $0.5402$ to $0.5950$, and F1@$k$ from $0.5389$ to $0.5672$ over standard RAG. Generation experiments further show improvements in compliance and reliability in several model--domain settings, while generation-only constraints achieve higher clause coverage but lower overall compliance and reliability. These results indicate that structurally aligned retrieval can improve evidence suffic",
       "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2611.31345",
-      "published_at": "2026-11-26T05:00:00+00:00",
+      "url": "https://arxiv.org/abs/2611.33497",
+      "published_at": "2026-11-27T05:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -39,11 +39,11 @@
     {
       "domain": "AI & công nghệ",
       "category": "ai",
-      "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
-      "summary": "arXiv:2611.31424v1 Announce Type: new Abstract: As LLMs become more capable, agents can perform more complex tasks with tools and maintain longer interactions with users. These benign conversations contain evidence on task results, user concerns, and operational constraints. The risk is that attackers who can observe benign conversations (evidence) may construct stronger indirect prompt injections without increasing the attackers' control over prior turns or the later injection. However, we still lack a clear study of how effectively attackers can select and use this evidence. To address this gap, we introduce ContextLure, a red-teaming framework in which an attacker silently observes an existing benign conversation, extracts evidence, and constructs an injection. The challenges are twofold: (a) selecting useful evidence and (b) presenting it as reasons for an unauthorized action, without changing the prior benign conversation. To efficiently exploit (a) the effect of evidence on attack success, our framework selects evidence across 2 dimensions: User/System Preferences with 3 selection policies. And to enhance (b) the process of turning the selected information into the malicious ",
+      "title": "Learning to Reason in Real-Time",
+      "summary": "arXiv:2611.33513v1 Announce Type: new Abstract: AI agents that operate in the real world must reason correctly and on-time, yet they currently do not account for how time should alter their reasoning. Modern agents learn to do tasks in environments that are entirely synchronous: where the world waits for the agent to act before changing. A real-time environment, by contrast, changes independent of the agent. Existing approaches try to bridge this gap by imposing a ratio of thinking to acting. However, for an agent to succeed in real-time it must learn to act quickly when delay is costly and to reason longer when the benefit outweighs the missed opportunities. To this end, we introduce real-time reasoning training (RRT) as the class of training techniques for real-time reasoning agents. We develop three standard RRT techniques: (1) using real-time data, (2) decoupling acting and observing, and (3) curriculum learning in time. Together, these simple techniques substantially outperform strong baselines. Across time pressures, we outperform the strongest non-RRT baseline by an average of 33% reward on in-distribution and 55% reward on out-of-distribution tasks in two real-time environm",
       "source": "arXiv AI",
-      "url": "https://arxiv.org/abs/2611.31424",
-      "published_at": "2026-11-26T05:00:00+00:00",
+      "url": "https://arxiv.org/abs/2611.33513",
+      "published_at": "2026-11-27T05:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -54,41 +54,26 @@
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’ – as it happened",
-      "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor . Continue reading...",
+      "title": "Threat from China looms large over Taiwan’s local elections",
+      "summary": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party Taiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive party (DPP) as it navigates an increasingly precarious set of relationships on the global stage. Saturday’s vote will choose mayors, council members and other local leaders across 22 districts. Unlike the presidential elections, in which foreign policy is often a key issue, the local elections, held every four years , are largely focused on bread-and-butter issues such as housing affordability and wealth distribution. Continue reading...",
       "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-      "published_at": "2026-11-26T06:36:53+00:00",
+      "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+      "published_at": "2026-11-27T01:00:49+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
+      "score": 35
     },
     {
       "domain": "Thế giới",
       "category": "world",
-      "title": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
-      "summary": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies Get our daily political email , free app or daily news podcast A Victorian Coalition government would privatise two sewage plants and sell off state-owned land, renewable energy assets and the “air rights” between Richmond train station and the Melbourne Cricket Ground if elected. The opposition leader, Jess Wilson, released the Liberal and Nationals’ pre-election policy costings on Thursday, just two days before the state election and after more than 1.5 million Victorians have already cast their vote. Continue reading...",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
-      "published_at": "2026-11-26T05:30:32+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 37
-    },
-    {
-      "domain": "Thế giới",
-      "category": "world",
-      "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
-      "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said it will not bend to the new US tariff “threat” and China accused Washington of “political manipulation” in the wake of Donald Trump’s latest economic salvo against 14 major trading partners. Brazil’s government said on Wednesday: “Brazil will not yield to this type of threat”, adding in its statement that the “unilateral decision constitutes an unacceptable action within the framework of the ongoing bilateral negotiating process”. Continue reading...",
+      "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+      "summary": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves the right to take “necessary measures” after Donald Trump’s administration proposed new tariffs on goods from China and other major trading partners, triggering a global backlash. Among the suggested levies on 14 major trading partners announced on Wednesday, China is potentially facing one of the biggest hits. It would face the highest capped rate of 20%, which in some cases will be stacked on top of other import taxes for a total rate of 45%. Continue reading...",
       "source": "The Guardian World",
       "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
-      "published_at": "2026-11-26T06:10:56+00:00",
+      "published_at": "2026-11-26T12:00:22+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -97,28 +82,43 @@
       "score": 34
     },
     {
+      "domain": "Thế giới",
+      "category": "world",
+      "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
+      "summary": "Incumbent prime minister Christopher Luxon loses majority and needs support of Opportunity party to remain in power, or country faces another election The final results of New Zealand’s general election show the incumbent rightwing coalition will need the support of a centrist newcomer party to form a government, and to avoid sending the country back to the polls. Preliminary results on 7 November handed the National party and its two coalition partners, the populist New Zealand First and libertarian Act parties, a slim two-seat majority, making the election too close to call until final votes were tallied. Continue reading...",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
+      "published_at": "2026-11-27T02:38:15+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 33
+    },
+    {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "Pump fun Targets Token Launch Manipulation With New Fee, Earmarks 50% for PUMP Buybacks Pump fun co-founder Alon announced that the Solana-based memecoin launchpad will introduce a \"Block0 fee\" on December 4 for trades made by non-creator - X",
-      "summary": "Pump fun Targets Token Launch Manipulation With New Fee, Earmarks 50% for PUMP Buybacks Pump fun co-founder Alon announced that the Solana-based memecoin launchpad will introduce a \"Block0 fee\" on December 4 for trades made by non-creator X",
+      "title": "Not every trend is worth following. What’s popular online isn’t always safe offline. Before joining a viral challenge, remember to CHECK. Taking a moment to think can help keep you and others safe online. #ThinkTwice #StandWithGirls #PlanInternationalPilipi - TikTok",
+      "summary": "Not every trend is worth following. What’s popular online isn’t always safe offline. Before joining a viral challenge, remember to CHECK. Taking a moment to think can help keep you and others safe online. #ThinkTwice #StandWithGirls #PlanInternationalPilipi TikTok",
+      "source": "Google News TikTok & Short-form Video",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OUjdEM1Z0QWpxdWtDY085R2gyd3B3V2tyWXVfbmhTbVVsaVpycWp5YkVxRlZfd1FkOGVhSnBoVlB2Q3lLZ2Y0YVItVG1hUGg5TzlfZ2t3OXZNNko5SzRrRDdOLTdTSU81eHd0NmJaY0plalU?oc=5",
+      "published_at": "2026-11-27T04:00:27+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 20
+    },
+    {
+      "domain": "Sáng tạo nội dung",
+      "category": "creator",
+      "title": "“Mr. Peter Obi is a content creator as far as I’m concerned. He creates a lot of content. He is the president of social media.” — Daniel Bwala, Special Adviser to the President, comments on Peter Obi’s political prospects ahead of the 2027 presidential election. - X",
+      "summary": "“Mr. Peter Obi is a content creator as far as I’m concerned. He creates a lot of content. He is the president of social media.” — Daniel Bwala, Special Adviser to the President, comments on Peter Obi’s political prospects ahead of the 2027 presidential election. X",
       "source": "Google News X Threads & Creator Discussions",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jWGZzamZubVJmMDVNblN3TG1mMWJkdTcyQXRmTW5vZTgwaEo5Y3VrNWZmaW5Hei16eGhnRmpLQlNfSTBhb1FzNU8yOWtoa2lxTV9VWHI4ODNPbk1yQ2EyR2ZDaw?oc=5",
-      "published_at": "2026-11-26T01:54:56+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 20
-    },
-    {
-      "domain": "Sáng tạo nội dung",
-      "category": "creator",
-      "title": "Who’s been here since my teaching days!? 🥹 This trend makes me so emotional. To think I started this page as a joke back in 2016, posting throughout so many different eras in my life and throughout all the jobs I worked. 5 years of university, 3 years of teachi - TikTok",
-      "summary": "Who’s been here since my teaching days!? 🥹 This trend makes me so emotional. To think I started this page as a joke back in 2016, posting throughout so many different eras in my life and throughout all the jobs I worked. 5 years of university, 3 years of teachi TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xTXZYRVJpTGNkU25fT1JIdlUxaTBETVdjaDJ3aUpGYndRRm5TYUdOS3FmU2kzd2JFVUlYMTkzZ2ItcG9jSWQxc0lIWE1fTTg4V2RuQTNDekd6N2hFN1piaUM1X0lCRGNWbTdINmdKQVdDcDdS?oc=5",
-      "published_at": "2026-11-26T00:45:57+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1memFhRURJY0luUGo5S0RfY1EzQm84SXFtSmt4SDRKajZEcXNpVXdSbzJkeHpQdFAyTE9FMXhpb1JoTklFSVdhaGdjXzlTdmJENEJsbDg2X2g5R3dwdnc?oc=5",
+      "published_at": "2026-11-26T19:25:56+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -129,11 +129,11 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
-      "summary": "Bayern Munich suffer their first defeat of the Champions League campaign as Lille find the net twice in three minutes in the second half, including a comical Aleksander Pavlovic own goal, to inflict a huge upset.",
+      "title": "What makes or breaks a high press?",
+      "summary": "A good high press has been the basis for some of the most successful sides in modern football, but what determines whether a press works or fails? And how are the always-adapting Premier League teams exploiting high presses this season?",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-25T22:24:57+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgqxn1k283zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T07:17:13+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -144,26 +144,11 @@
     {
       "domain": "Sáng tạo nội dung",
       "category": "creator",
-      "title": "‼️ 6 Baby Trend favorites NOW up to 30% OFF at @target 🧡 From first rides, to the big family adventures (and the so many Target runs!), here's the gear that makes it easier. Sale ends 11/30. Link in bio to shop at Target. - TikTok",
-      "summary": "‼️ 6 Baby Trend favorites NOW up to 30% OFF at @target 🧡 From first rides, to the big family adventures (and the so many Target runs!), here's the gear that makes it easier. Sale ends 11/30. Link in bio to shop at Target. TikTok",
-      "source": "Google News TikTok & Short-form Video",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QakYtam4zSmtYVXZtMUF2aDRRb2V2bkw2eVJOZTFLNVpEQjBvTG1TQlRoNFozREVtaXlsLWdXbUd0VTBYdk42QlJkTGZnd0NXX2NSSzdNaUp0cmFwTGNqZDBCRkl6U0RVS0s0MG1jNA?oc=5",
-      "published_at": "2026-11-26T01:13:47+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 19
-    },
-    {
-      "domain": "Việt Nam",
-      "category": "vietnam",
-      "title": "Trực thăng, UAV hợp luyện trước triển lãm quốc phòng",
-      "summary": "Biên đội trực thăng mang cờ Tổ quốc, cờ triển lãm Quốc phòng quốc tế 2026 bay qua lễ đài trên sân bay Gia Lâm; dưới đất đặc công trình diễn quyền thuật trong lễ hợp luyện lần đầu, sáng 26/11.",
-      "source": "VnExpress Thời sự",
-      "url": "https://vnexpress.net/truc-thang-uav-hop-luyen-truoc-trien-lam-quoc-phong-5149054.html",
-      "published_at": "2026-11-26T03:52:26+00:00",
+      "title": "Germany and Austria push for European ownership of TikTok",
+      "summary": "The two countries want TikTok’s European business and key technology, including its recommendation algorithm, to come under European control, arguing that regulation alone cannot address security concerns.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/27/germany-and-austria-push-for-european-ownership-of-tiktok",
+      "published_at": "2026-11-27T08:25:33+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -174,26 +159,11 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "'Việt Nam từng bước tham gia vào chuỗi cung ứng năng lượng hạt nhân'",
-      "summary": "Theo Thứ trưởng Lê Xuân Định, Việt Nam sẽ xây dựng nền tảng khoa học công nghệ và từng bước tham gia vào chuỗi cung ứng, mục tiêu bảo đảm tính bền vững của chương trình điện hạt nhân.",
+      "title": "Mô hình lò phản ứng hạt nhân, máy đào hầm tại Geotech Hanoi 2026",
+      "summary": "Mô hình lò phản ứng hạt nhân cùng nhiều công nghệ sẵn sàng chuyển giao đưa vào ứng dụng, được giới thiệu tại Hội nghị quốc tế lần thứ 6 về Địa kỹ thuật vì sự phát triển hạ tầng bền vững (Geotec Hanoi 2026).",
       "source": "VnExpress Khoa học công nghệ",
-      "url": "https://vnexpress.net/viet-nam-tung-buoc-tham-gia-vao-chuoi-cung-ung-nang-luong-hat-nhan-5148939.html",
-      "published_at": "2026-11-26T01:58:24+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 18
-    },
-    {
-      "domain": "Arsenal & Premier League",
-      "category": "football",
-      "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
-      "summary": "Match of the Day's Stephen Warnock and Nedum Onuoha analyse the recent resurgence of Alexander Isak and Florian Wirtz for as they led Liverpool to victory against Club Brugge.debut seasons last year.",
-      "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmqx527v3x19o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-25T23:38:42+00:00",
+      "url": "https://vnexpress.net/mo-hinh-lo-phan-ung-hat-nhan-may-dao-ham-tai-geotech-hanoi-2026-5149384.html",
+      "published_at": "2026-11-27T03:41:34+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -204,11 +174,26 @@
     {
       "domain": "Việt Nam",
       "category": "vietnam",
-      "title": "'Sàn carbon Việt Nam gần như không có giao dịch'",
-      "summary": "Sau phiên khai trương với giá 136.000 đồng mỗi tấn, sàn carbon Việt Nam gần như không phát sinh giao dịch mới, do thiếu cung cầu và chưa có đầy đủ công cụ vận hành.",
+      "title": "FPT Telecom tham gia đầu tư tuyến cáp biển 2.500 km Việt Nam - Singapore",
+      "summary": "FPT Telecom cùng nhiều đơn vị tham gia đầu tư tuyến cáp biển Vietnam -Thailand -Singapore (VTS) dài khoảng 2.500 km, dung lượng thiết kế 600 Tbps, dự kiến hoàn thành vào quý IV/2030.",
+      "source": "VnExpress Khoa học công nghệ",
+      "url": "https://vnexpress.net/fpt-telecom-tham-gia-dau-tu-tuyen-cap-bien-2-500-km-viet-nam-singapore-5149431.html",
+      "published_at": "2026-11-27T03:00:00+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 18
+    },
+    {
+      "domain": "Việt Nam",
+      "category": "vietnam",
+      "title": "TP HCM đông đúc, Hà Nội trầm lắng ngày Black Friday",
+      "summary": "Trong khi các trung tâm thương mại tại TP HCM đông đúc khách mua sắm dịp Black Friday, nhiều gian hàng ở Hà Nội khá vắng vẻ dù tung ra mức giảm giá đến 70%.",
       "source": "VnExpress Kinh doanh",
-      "url": "https://vnexpress.net/san-carbon-viet-nam-gan-nhu-khong-co-giao-dich-5149207.html",
-      "published_at": "2026-11-26T07:24:53+00:00",
+      "url": "https://vnexpress.net/tp-hcm-dong-duc-ha-noi-tram-lang-ngay-black-friday-5149598.html",
+      "published_at": "2026-11-27T08:20:42+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -219,11 +204,41 @@
     {
       "domain": "Arsenal & Premier League",
       "category": "football",
-      "title": "'All coming together' - Isak repaying Liverpool faith",
-      "summary": "Alexander Isak's two goals against Club Brugge take his tally for the season to 10 as the striker continues to show why Liverpool last year paid £125m to bring him to the club.",
+      "title": "What happens now for Bayern Munich and Musiala?",
+      "summary": "Bayern Munich's Jamal Musiala might never return to his previous level and will deal with a medical condition for the rest of his life. What happens next?",
       "source": "BBC Sport Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-25T23:25:30+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T06:54:36+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Arsenal & Premier League",
+      "category": "football",
+      "title": "Man City owners should be forced to sell, say rival club chiefs",
+      "summary": "Manchester City's owners must be forced to sell the club as punishment for breaking financial rules, senior figures at some Premier League clubs tell BBC Sport.",
+      "source": "BBC Sport Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T06:38:14+00:00",
+      "confidence": "Thấp–trung bình",
+      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
+      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
+      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
+      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
+      "score": 17
+    },
+    {
+      "domain": "Sách",
+      "category": "books",
+      "title": "The pretendian wars",
+      "summary": "To falsely claim Indigenous identity is not a frivolous mistake. It’s a grave theft, and the stakes are getting higher - by Dina Gilio-Whitaker Read on Aeon",
+      "source": "Aeon Essays",
+      "url": "https://aeon.co/essays/falsely-claiming-indigenous-identity-is-a-grave-form-of-theft",
+      "published_at": "2026-11-26T11:00:00+00:00",
       "confidence": "Thấp–trung bình",
       "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
       "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
@@ -245,36 +260,6 @@
       "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
       "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
       "score": 11
-    },
-    {
-      "domain": "Sách",
-      "category": "books",
-      "title": "A Big Night for PRH: 3 National Book Awards Winners and a Distinguished Honoree - Penguin Random House",
-      "summary": "A Big Night for PRH: 3 National Book Awards Winners and a Distinguished Honoree Penguin Random House",
-      "source": "Google News International Book Awards",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON1lOOUNfRElhcVQzUjhmSjhVYVlmdU9Fdk9xWjVNN1ZGYWpEbWszR0ZqQk5VVlAya21LS3k3U0JIcEg2WklpTUk5S1RweG1vT3Z5eVRrQURROTlmRGFUNFFCbVR1UHQtNXByZDh1Vm5xeEsxMC1oa3M2RDVqbmMyREJEZURxdm1Jd2poTE1kYzhpU1BTblZfX0tLUzRIWk1yVXFhQVpQM2llS3k1WThUcmE3OHI0VlU5U25WVFZnMHN6SUJsYjNjS21henNrZFk?oc=5",
-      "published_at": "2026-11-19T19:11:05+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 10
-    },
-    {
-      "domain": "Sách",
-      "category": "books",
-      "title": "The National Book Award winners will be announced today. Here's how to watch - USA Today",
-      "summary": "The National Book Award winners will be announced today. Here's how to watch USA Today",
-      "source": "Google News International Book Awards",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQnhVem5MbkdYRV9qd3NCVGdlX3hBdDlIMUVZNnRMSUdSZ1BzZVJ4R3FMS0tiQi0tRTF5TEFiYk4zTjk0Q09lcTRBdnZEU3Jrbm5ZNFBFa3NWYmNuQ3l1MGVRS3RJa0FTQ1hFZ0dnUUxBb0NrRDVYaGtfTllVUHMtazZ2NVVMOGl6RmNyOUVvdEt0N29EUDl3NTZqWm5vOFdvSzlBWjN0SVBuRDVfMW1tYVkzalJneXozdVZqaUJsZlNJZU9aWVM0dHcwVjkxeWxLVk1ZeTFvYXNIUVNTOEVnTFRuQ0JXSUk0?oc=5",
-      "published_at": "2026-11-19T17:37:00+00:00",
-      "confidence": "Thấp–trung bình",
-      "facts": "Tóm tắt do feed cung cấp; cần đối chiếu với bài gốc.",
-      "interpretation": "Chưa đủ cơ sở để kết luận mức độ tác động chỉ từ một mục RSS.",
-      "why": "Được đưa vào danh sách kiểm tra vì có tóm tắt và đường dẫn nguồn.",
-      "next": "Mở bài gốc, kiểm tra số liệu/ngày/phạm vi và tìm nguồn độc lập trước khi nâng mức ưu tiên.",
-      "score": 9
     }
   ],
   "themes": [
@@ -285,22 +270,22 @@
       "reading": "Nhiều tin về giá, tiền tệ hoặc nguồn cung có thể cùng phản ánh áp lực chi phí. Cần kiểm tra chỉ số gốc, mốc thời gian và xem các bài có thực sự nói về cùng một cơ chế hay không.",
       "falsifier": "Bác bỏ giả thuyết nếu dữ liệu gốc không xác nhận diễn biến giá/nguồn cung hoặc các bài nói về thị trường và thời kỳ không liên quan.",
       "evidence_count": 4,
-      "source_count": 2,
+      "source_count": 3,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "'Việt Nam từng bước tham gia vào chuỗi cung ứng năng lượng hạt nhân'",
-          "source": "VnExpress Khoa học công nghệ",
-          "url": "https://vnexpress.net/viet-nam-tung-buoc-tham-gia-vao-chuoi-cung-ung-nang-luong-hat-nhan-5148939.html",
-          "published_at": "2026-11-26T01:58:24+00:00",
-          "summary": "Theo Thứ trưởng Lê Xuân Định, Việt Nam sẽ xây dựng nền tảng khoa học công nghệ và từng bước tham gia vào chuỗi cung ứng, mục tiêu bảo đảm tính bền vững của chương trình điện hạt nhân."
+          "title": "VinEnergo khởi công dự án điện mặt trời tại Philippines",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/vinenergo-khoi-cong-du-an-dien-mat-troi-tai-philippines-5149650.html",
+          "published_at": "2026-11-27T08:00:00+00:00",
+          "summary": "Nhà máy điện mặt trời có công suất 126 MWp là bước đi cụ thể của VinEnergo trong kế hoạch phát triển năng lượng sạch ra thị trường nước ngoài."
         },
         {
-          "title": "Giá xăng, dầu cùng giảm",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-26-11-5149212.html",
-          "published_at": "2026-11-26T07:44:06+00:00",
-          "summary": "Từ 15h hôm nay, giá xăng dầu các loại cùng giảm 50-1.380 đồng một lít, theo đà diễn biến thị trường năng lượng thế giới."
+          "title": "Tokyo core inflation at 16-month high, bolsters case for BOJ hike - Reuters",
+          "source": "Reuters via Google News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUU2UTdMSzhabVJEYUYzN1Y1SGk3MWdLeVo4cV9iWDVCd3RZWDVDR2lFZ0dtUTRlUUxxbExIRlJDeGx3dEVVLVBuRU1qaDlrXzd6aHpwUHVWTEhMemE2ZzdaSjROTy1HQUF2dkdDcFhNYWtnMU51a2dsSURKSmlfdjlkTnMzeDdySmZLbWotTnR2clUxR0hrQ255ekNnM3dR?oc=5",
+          "published_at": "2026-11-26T23:42:00+00:00",
+          "summary": "Tokyo core inflation at 16-month high, bolsters case for BOJ hike Reuters"
         },
         {
           "title": "Vì sao ông Trump áp thêm thuế nhập khẩu, bất chấp lạm phát?",
@@ -310,11 +295,11 @@
           "summary": "Thuế nhập khẩu là công cụ hữu hiệu giúp Tổng thống Mỹ thể hiện quyền lực kinh tế khi đảng Cộng hòa không còn kiểm soát Quốc hội."
         },
         {
-          "title": "Giá vàng thế giới tăng trở lại sau khi mất mốc 3.500 USD",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/gia-vang-the-gioi-tang-tro-lai-sau-khi-mat-moc-3-500-usd-5148917.html",
-          "published_at": "2026-11-25T14:50:35+00:00",
-          "summary": "Mỗi ounce vàng đảo chiều tăng hơn 30 USD, ngay sau khi xuống sát 3.420 USD vì báo cáo lạm phát Mỹ."
+          "title": "Global risk-off mood lifts dollar ahead of inflation data - CNA",
+          "source": "CNA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDcwZk9fbEJvSDZFTVdidGluTVlDV0tzVi1zWEFEX0FObG8wc1AyTjJUT3p0aXFvdXByVWxnektNX2Jab0Z1bEtLaFBaNllPcUtWbVE0S29Oa1VLUVNyMzNaS1lOS2loSFZQS3NHc1Y2ZWFDWUY0TWN1WmVod25KRjFtaFp5aDJHUjhLRmVwaklTeVgwa1RjSWlaTHdhelJQ?oc=5",
+          "published_at": "2026-11-25T01:19:16+00:00",
+          "summary": "Global risk-off mood lifts dollar ahead of inflation data CNA"
         }
       ]
     },
@@ -325,36 +310,36 @@
       "reading": "Các bài về mô hình, suy luận và công việc có thể cho thấy AI đang được đánh giá theo chi phí triển khai và kết quả vận hành, không chỉ theo khả năng trình diễn. Cần phân biệt nghiên cứu thử nghiệm với sản phẩm đã được triển khai.",
       "falsifier": "Bác bỏ nếu bài chỉ mô tả nghiên cứu hoặc tuyên bố của doanh nghiệp mà không có kết quả triển khai độc lập.",
       "evidence_count": 4,
-      "source_count": 2,
-      "source_note": "Có nhiều nguồn trong batch",
+      "source_count": 1,
+      "source_note": "Chỉ một nguồn xuất bản trong batch",
       "evidence": [
         {
-          "title": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
+          "title": "Learning to Reason in Real-Time",
           "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.31347",
-          "published_at": "2026-11-26T05:00:00+00:00",
-          "summary": "arXiv:2611.31347v1 Announce Type: new Abstract: Laya is an open decision model: given a text, a question and K named options with descriptions, it returns one probability per option in a single pass, and software may act on the answer unseen. We attack six Laya models with 81 programmatic edits of 566 synthetic items (injected sentences, label leaks, edited descriptions, decoy options, invisible and look-alike characters, floods) and report the share of correctly answered items hijacked or lost,"
+          "url": "https://arxiv.org/abs/2611.33513",
+          "published_at": "2026-11-27T05:00:00+00:00",
+          "summary": "arXiv:2611.33513v1 Announce Type: new Abstract: AI agents that operate in the real world must reason correctly and on-time, yet they currently do not account for how time should alter their reasoning. Modern agents learn to do tasks in environments that are entirely synchronous: where the world waits for the agent to act before changing. A real-time environment, by contrast, changes independent of the agent. Existing approaches try to bridge this gap by imposing a ratio of thinking to acting. Ho"
         },
         {
-          "title": "COGENT: A Modular Cognitive Architecture for Agentic User Simulation",
+          "title": "Context Scaling: A New Frontier of AI Scaling",
           "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.31559",
-          "published_at": "2026-11-26T05:00:00+00:00",
-          "summary": "arXiv:2611.31559v1 Announce Type: new Abstract: LLM-based user simulation can support interface design, accessibility research, and interactive-agent evaluation, but standard computer-use agents are optimized for task completion rather than reproducing how people perceive, reason, and act. We introduce COGENT (COGnitive agENT), a modular cognitive architecture for simulating user interaction with desktop interfaces. COGENT draws on established cognitive theories, such as Norman's action cycle an"
+          "url": "https://arxiv.org/abs/2611.33160",
+          "published_at": "2026-11-27T05:00:00+00:00",
+          "summary": "arXiv:2611.33160v1 Announce Type: new Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor readings, or environment changes may be unavailable, distorted, or poorly selected. We call the effort to reduce this bottleneck context scaling. We frame a model as $P_\\theta(d\\mid c)$ within a system governed by three budget"
         },
         {
-          "title": "Geophysics-informed invertible operator network for Bayesian geophysical inversion",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.33178",
-          "published_at": "2026-11-26T05:00:00+00:00",
-          "summary": "arXiv:2611.33178v1 Announce Type: new Abstract: Geophysical inverse problems are inherently ill-posed because of sparse observations and measurement noise. Classical sampling-based Bayesian inference methods, such as Markov chain Monte Carlo (MCMC), are computationally prohibitive because they require many forward simulations. Data-driven machine-learning methods often struggle to produce physically consistent solutions when training data are limited. To address these issues, we propose a geophy"
+          "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.33161",
+          "published_at": "2026-11-27T05:00:00+00:00",
+          "summary": "arXiv:2611.33161v1 Announce Type: new Abstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a learned judge model, or a domain check. Each has a known weakness: an answer can be fluent but insecure, mathematically plausible but physically infeasible, or rated highly by a judge while quietly breaking a task requirement. We propose a scoring framework that combines a small set of hard checks every answer must pass with a"
         },
         {
-          "title": "REI: Learning Ideation from Repository Evolution",
-          "source": "arXiv Machine Learning",
-          "url": "https://arxiv.org/abs/2611.33183",
-          "published_at": "2026-11-26T05:00:00+00:00",
-          "summary": "arXiv:2611.33183v1 Announce Type: new Abstract: As AI systems become increasingly capable of executing and evaluating experiments, ideation is emerging as a bottleneck in automated scientific and engineering iteration. In many real-world domains, useful ideas are sparse and their validation is costly, making direct online exploration inefficient. We observe that repository evolution provides a scalable source of reusable technical experience: code changes record concrete technical hypotheses, wh"
+          "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.33303",
+          "published_at": "2026-11-27T05:00:00+00:00",
+          "summary": "arXiv:2611.33303v1 Announce Type: new Abstract: Procedurally generated logic problems are used to both evaluate and train reasoning in language models. Their difficulty is usually set by planting a proof, that is, by sampling a proof of the desired depth and stating its premises as the problem. However, a planted proof is only one possible proof. A problem can also have shorter proofs, or several unrelated ones, and its stated depth then overstates what solving it requires. We measure what a pro"
         }
       ]
     },
@@ -369,32 +354,32 @@
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "XRL4T1D: A Post-hoc Explainability Framework for Reinforcement Learning in Type 1 Diabetes Management",
-          "source": "arXiv AI",
-          "url": "https://arxiv.org/abs/2611.31498",
-          "published_at": "2026-11-26T05:00:00+00:00",
-          "summary": "arXiv:2611.31498v1 Announce Type: new Abstract: Type 1 diabetes (T1D) requires lifelong insulin therapy, and reinforcement learning (RL) has shown promise for automated dosing in the UVA/Padova simulator. However, the decisions of RL controllers remain difficult to interpret. We present XRL4T1D, a post-hoc explainability framework for evaluating pretrained insulin-dosing policies without retraining. Each policy uses 60 minutes of continuous glucose monitor (CGM) and administered-insulin history,"
+          "title": "Why Stripe is not what you need to charge for your AI product (kind of)",
+          "source": "Hacker News AI Discussions",
+          "url": "https://news.ycombinator.com/item?id=50664246",
+          "published_at": "2026-11-27T08:18:39+00:00",
+          "summary": "Like everyone else, you build a product and need to charge your customers. Your first instinct is to go to Stripe. Stripe is the GOAT, so of course you'll use it. This is true and untrue, let's say you're building an AI product. You probably won't charge your customers a flat monthly fee that covers all usage as they have a really different cost for your business depending on how they use your product. Instead, you might want to have pricing based on usage. Sounds good. Stripe covers that, case "
         },
         {
-          "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+          "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.33303",
+          "published_at": "2026-11-27T05:00:00+00:00",
+          "summary": "arXiv:2611.33303v1 Announce Type: new Abstract: Procedurally generated logic problems are used to both evaluate and train reasoning in language models. Their difficulty is usually set by planting a proof, that is, by sampling a proof of the desired depth and stating its premises as the problem. However, a planted proof is only one possible proof. A problem can also have shorter proofs, or several unrelated ones, and its stated depth then overstates what solving it requires. We measure what a pro"
+        },
+        {
+          "title": "Collaborative Language Models for Semantic IoT Data Processing: Validation through Zero-Shot Human Activity Recognition",
+          "source": "arXiv AI",
+          "url": "https://arxiv.org/abs/2611.33411",
+          "published_at": "2026-11-27T05:00:00+00:00",
+          "summary": "arXiv:2611.33411v1 Announce Type: new Abstract: Internet of Things (IoT) systems generate low-level sensor observations that are not directly suitable for process analysis and must first be transformed into semantically meaningful events. This paper investigates collaborative language models as a zero-shot semantic abstraction layer for converting such observations into higher-level event and activity labels. We propose a five-stage workflow comprising semantic mapping, semantic aggregation, tem"
+        },
+        {
+          "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
           "source": "The Guardian World",
           "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
-          "published_at": "2026-11-26T06:10:56+00:00",
-          "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said it will not bend to the new US tariff “threat” and China accused Washington of “political manipulation” in the wake of Donald Trump’s latest economic salvo against 14 major trading partners. Brazil’s government said on Wednesday: “Brazil will not yield to this type of threat”, adding in it"
-        },
-        {
-          "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
-          "published_at": "2026-11-23T11:42:51+00:00",
-          "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest vessels. Ukraine’s security service, the SBU, said seven domestically made naval drones were launched from a mothership in the operation, which Volodymyr Zelenskyy described as “exemplary”. Continue reading..."
-        },
-        {
-          "title": "How Chinese companies circumvent chips sanctions in Southeast Asia",
-          "source": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/how-chinese-companies-circumvent-chips-sanctions-in-southeast-asia/a-80041002?maca=en-rss-en-all-1573-xml-mrss",
-          "published_at": "2026-11-26T06:11:00+00:00",
-          "summary": "High-tech AI chips are hard to get in China because of US restrictions. To get around this, Chinese companies often use offshore computing capacity, particularly in Southeast Asia. The US is also trying to stop it."
+          "published_at": "2026-11-26T12:00:22+00:00",
+          "summary": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves the right to take “necessary measures” after Donald Trump’s administration proposed new tariffs on goods from China and other major trading partners, triggering a global backlash. Among the suggested levies on 14 major trading partners announced on Wednesday, China is potentially facing one "
         }
       ]
     },
@@ -405,36 +390,36 @@
       "reading": "Chỉ đáng nâng thành tín hiệu khi có văn bản hoặc số liệu gốc, phạm vi áp dụng và nhóm chịu tác động xác định được. Tin kinh doanh đơn lẻ chưa đủ để kết luận xu hướng kinh tế Việt Nam.",
       "falsifier": "Bác bỏ nếu không có văn bản/số liệu gốc hoặc nội dung không tạo thay đổi đáng kể với doanh nghiệp.",
       "evidence_count": 4,
-      "source_count": 2,
+      "source_count": 3,
       "source_note": "Có nhiều nguồn trong batch",
       "evidence": [
         {
-          "title": "Hơn 1.400 tỷ đồng cải tạo đường băng sân bay Đà Nẵng",
+          "title": "FPT Telecom tham gia đầu tư tuyến cáp biển 2.500 km Việt Nam - Singapore",
+          "source": "VnExpress Khoa học công nghệ",
+          "url": "https://vnexpress.net/fpt-telecom-tham-gia-dau-tu-tuyen-cap-bien-2-500-km-viet-nam-singapore-5149431.html",
+          "published_at": "2026-11-27T03:00:00+00:00",
+          "summary": "FPT Telecom cùng nhiều đơn vị tham gia đầu tư tuyến cáp biển Vietnam -Thailand -Singapore (VTS) dài khoảng 2.500 km, dung lượng thiết kế 600 Tbps, dự kiến hoàn thành vào quý IV/2030."
+        },
+        {
+          "title": "Thủ tướng: Thuế Mỹ áp với Việt Nam sẽ thấp hơn nhiều mức 35%",
+          "source": "VnExpress Kinh doanh",
+          "url": "https://vnexpress.net/thu-tuong-thue-my-ap-voi-viet-nam-se-thap-hon-nhieu-muc-35-5149602.html",
+          "published_at": "2026-11-27T06:03:04+00:00",
+          "summary": "Việt Nam và Mỹ đang hoàn tất các vấn đề kỹ thuật để ký kết hiệp định thương mại đối ứng, và mức thuế áp dụng sẽ thấp hơn nhiều ngưỡng tối đa 35% phía Mỹ đề xuất, theo Thủ tướng."
+        },
+        {
+          "title": "Đề xuất đầu tư tập trung vào 3-5 đại học tinh hoa",
           "source": "VnExpress Thời sự",
-          "url": "https://vnexpress.net/hon-1-400-ty-dong-cai-tao-duong-bang-san-bay-da-nang-5148984.html",
-          "published_at": "2026-11-26T02:07:55+00:00",
-          "summary": "Đường băng phía Tây sân bay Đà Nẵng dài hơn 3 km sẽ được cải tạo, xây thêm các đường lăn với tổng vốn đầu tư 1.427 tỷ đồng, dự kiến hoàn thành năm 2028."
+          "url": "https://vnexpress.net/de-xuat-dau-tu-tap-trung-vao-3-5-dai-hoc-tinh-hoa-5149435.html",
+          "published_at": "2026-11-27T02:30:11+00:00",
+          "summary": "Việt Nam cần tập trung nguồn lực cho 3-5 đại học tinh hoa để tạo môi trường nghiên cứu, thu hút nhân tài và phát triển đội ngũ chuyên gia làm chủ công nghệ chiến lược."
         },
         {
-          "title": "Hành trình nâng chuẩn sữa bột trẻ em của Vinamilk",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/hanh-trinh-nang-chuan-sua-bot-tre-em-cua-vinamilk-5148842.html",
-          "published_at": "2026-11-26T01:00:00+00:00",
-          "summary": "Từ khôi phục dây chuyền sản xuất Dielac đến đầu tư nhà máy nghìn tỷ đồng, Vinamilk không ngừng nâng chuẩn sữa bột, đáp ứng 400 tiêu chí an toàn quốc tế và xuất khẩu."
-        },
-        {
-          "title": "Giá xăng, dầu cùng giảm",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-26-11-5149212.html",
-          "published_at": "2026-11-26T07:44:06+00:00",
-          "summary": "Từ 15h hôm nay, giá xăng dầu các loại cùng giảm 50-1.380 đồng một lít, theo đà diễn biến thị trường năng lượng thế giới."
-        },
-        {
-          "title": "Vì sao ông Trump áp thêm thuế nhập khẩu, bất chấp lạm phát?",
-          "source": "VnExpress Kinh doanh",
-          "url": "https://vnexpress.net/vi-sao-ong-trump-ap-them-thue-nhap-khau-bat-chap-lam-phat-5149098.html",
-          "published_at": "2026-11-26T04:58:21+00:00",
-          "summary": "Thuế nhập khẩu là công cụ hữu hiệu giúp Tổng thống Mỹ thể hiện quyền lực kinh tế khi đảng Cộng hòa không còn kiểm soát Quốc hội."
+          "title": "Bí thư xã livestream bán sầu riêng",
+          "source": "VnExpress Thời sự",
+          "url": "https://vnexpress.net/bi-thu-xa-livestream-ban-sau-rieng-5129301.html",
+          "published_at": "2026-11-26T22:30:00+00:00",
+          "summary": "Từ những phiên livestream thu hút hàng trăm nghìn lượt xem, Bí thư Đảng ủy xã Ea Knuếc Ngô Thị Minh Trinh tìm cách đưa nông sản địa phương đến những thị trường rộng lớn hơn."
         }
       ]
     }
@@ -443,8 +428,8 @@
     {
       "category": "ai",
       "domain": "AI & công nghệ",
-      "items": 40,
-      "usable": 40,
+      "items": 39,
+      "usable": 38,
       "sources": 7
     },
     {
@@ -457,8 +442,8 @@
     {
       "category": "vietnam",
       "domain": "Việt Nam",
-      "items": 20,
-      "usable": 20,
+      "items": 21,
+      "usable": 21,
       "sources": 3
     },
     {
@@ -478,16 +463,16 @@
     {
       "category": "books",
       "domain": "Sách",
-      "items": 3,
-      "usable": 3,
-      "sources": 1
+      "items": 2,
+      "usable": 2,
+      "sources": 2
     },
     {
       "category": "creator",
       "domain": "Sáng tạo nội dung",
       "items": 5,
       "usable": 5,
-      "sources": 2
+      "sources": 3
     },
     {
       "category": "trends",
@@ -499,78 +484,78 @@
   ],
   "links": [
     {
-      "a": "I Learned to Stop Worrying and Love the AI",
-      "b": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
-      "terms": [
-        "news",
-        "would"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "I Learned to Stop Worrying and Love the AI",
-      "b": "Who’s been here since my teaching days!? 🥹 This trend makes me so emotional. To think I started this page as a joke back in 2016, posting throughout so many different eras in my life and throughout all the jobs I worked. 5 years of university, 3 years of teachi - TikTok",
-      "terms": [
-        "many",
-        "throughout",
-        "years"
-      ],
-      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
-    },
-    {
-      "a": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
-      "b": "Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’ – as it happened",
+      "a": "Why Stripe is not what you need to charge for your AI product (kind of)",
+      "b": "New Zealand election: final results show ruling coalition needs minor party to govern",
       "terms": [
         "first",
-        "more",
-        "state",
-        "under"
+        "need",
+        "show"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
-      "b": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
+      "a": "Why Stripe is not what you need to charge for your AI product (kind of)",
+      "b": "What makes or breaks a high press?",
       "terms": [
-        "more",
-        "state",
-        "updates"
+        "good",
+        "most",
+        "sides"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
-      "b": "Pump fun Targets Token Launch Manipulation With New Fee, Earmarks 50% for PUMP Buybacks Pump fun co-founder Alon announced that the Solana-based memecoin launchpad will introduce a \"Block0 fee\" on December 4 for trades made by non-creator - X",
+      "a": "Why Stripe is not what you need to charge for your AI product (kind of)",
+      "b": "Germany and Austria push for European ownership of TikTok",
       "terms": [
-        "introduce",
-        "targets"
+        "business",
+        "security",
+        "want"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
-      "b": "‼️ 6 Baby Trend favorites NOW up to 30% OFF at @target 🧡 From first rides, to the big family adventures (and the so many Target runs!), here's the gear that makes it easier. Sale ends 11/30. Link in bio to shop at Target. - TikTok",
+      "a": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
+      "b": "Threat from China looms large over Taiwan’s local elections",
       "terms": [
-        "first",
-        "target"
+        "across",
+        "policy"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
-      "b": "Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’ – as it happened",
+      "a": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
+      "b": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
       "terms": [
-        "more",
-        "these"
+        "type",
+        "while"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     },
     {
-      "a": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
-      "b": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
+      "a": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
+      "b": "New Zealand election: final results show ruling coalition needs minor party to govern",
       "terms": [
-        "more",
-        "policies"
+        "form",
+        "results",
+        "show"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Learning to Reason in Real-Time",
+      "b": "Threat from China looms large over Taiwan’s local elections",
+      "terms": [
+        "across",
+        "distribution"
+      ],
+      "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
+    },
+    {
+      "a": "Learning to Reason in Real-Time",
+      "b": "Man City owners should be forced to sell, say rival club chiefs",
+      "terms": [
+        "must",
+        "should"
       ],
       "note": "Trùng từ khóa là mối liên hệ cần kiểm chứng, không chứng minh quan hệ nhân quả."
     }
